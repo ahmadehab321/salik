@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Salik - سالك</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700;800&family=Cairo:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            /* لوحة ألوان هادئة تدل على النقاء والأمان (أزرق-أخضر) */
+            --primary: #1e6fd9;
+            --primary-hover: #175bb3;
+            --primary-soft: #eaf3ff;
+            --accent-green: #14b8a6;
+            --bg-main: #f5f9fb;
+            --text-dark: #1e293b;
+            --text-muted: #64748b;
+            --border-color: #e3edf3;
+            --success: #10b981;
+            --danger: #ef4444;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Tajawal', 'Cairo', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        html, body {
+            direction: rtl;
+        }
+
+        body {
+            width: 350px;
+            background-color: var(--bg-main);
+            color: var(--text-dark);
+            font-size: 14px;
+            line-height: 1.5;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        /* 🧭 شريط التنقل العلوي (Tabs) */
+        .tabs-header {
+            display: flex;
+            background: white;
+            border-bottom: 1px solid var(--border-color);
+            position: sticky;
+            top: 0;
+            z-index: 10;
+        }
+
+        /* 🔐 أزرار تسجيل الدخول (مباشرة جوه الـ popup بدل ما تفتح تاب/صفحة منفصلة) */
+        .gate-provider-btn {
+            display: flex; align-items: center; justify-content: center; gap: 8px;
+            width: 100%; padding: 10px 12px; border-radius: 8px; border: 1px solid var(--border-color);
+            background: #fff; font-size: 0.85rem; font-weight: 600; cursor: pointer; color: var(--text-dark);
+            transition: background 0.15s, border-color 0.15s;
+        }
+        .gate-provider-btn:hover { background: #f8fafc; border-color: #cbd5e1; }
+        .gate-provider-btn:disabled { opacity: 0.6; cursor: not-allowed; }
+        .gate-provider-btn.gate-apple { background: #000; color: #fff; border-color: #000; }
+        .gate-provider-btn.gate-apple:hover { background: #1a1a1a; }
+        .gate-provider-btn.gate-facebook { background: #1877f2; color: #fff; border-color: #1877f2; }
+        .gate-provider-btn.gate-facebook:hover { background: #1565d8; }
+        .gate-icon { width: 16px; height: 16px; flex-shrink: 0; }
+        .gate-terms-row {
+            margin-bottom: 14px; display: flex; align-items: flex-start; gap: 8px;
+            font-size: 0.76rem; color: var(--text-muted); line-height: 1.5; text-align: right;
+        }
+        .gate-terms-row input { margin-top: 3px; flex-shrink: 0; width: 15px; height: 15px; cursor: pointer; }
+        .gate-terms-row a { color: var(--primary); text-decoration: none; font-weight: 600; }
+        .gate-status-msg { margin-top: 10px; font-size: 0.78rem; text-align: center; min-height: 16px; }
+        .gate-status-msg.error { color: var(--danger); }
+        .gate-status-msg.success { color: var(--success); }
+
+        .tab-btn {
+            flex: 1;
+            padding: 12px 6px;
+            text-align: center;
+            background: none;
+            border: none;
+            font-size: 0.85rem;
+            font-weight: 600;
+            color: var(--text-muted);
+            cursor: pointer;
+            transition: all 0.2s ease;
+            border-bottom: 3px solid transparent;
+        }
+
+        .tab-btn:hover {
+            color: var(--primary);
+            background-color: #f1f5f9;
+        }
+
+        .tab-btn.active {
+            color: var(--primary);
+            border-bottom-color: var(--primary);
+        }
+
+        /* 📦 الحاويات والمحتوى */
+        .tab-content {
+            display: none;
+            padding: 12px;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        /* 🗂️ نظام الكروت والـ Dropdowns */
+        .card {
+            background: white;
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            margin-bottom: 10px;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+
+        .card-header {
+            padding: 12px;
+            background: #ffffff;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            cursor: pointer;
+            font-weight: 600;
+            font-size: 0.9rem;
+            border-bottom: 1px solid transparent;
+            transition: background 0.2s;
+        }
+
+        .card-header:hover {
+            background: #f8fafc;
+        }
+
+        .platform-btn:hover {
+    background-color: var(--primary) !important;
+    color: white !important;
+    transition: background-color 0.2s;
+}
+        .dropdown-content {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.25s ease-out;
+            background: #fafafa;
+        }
+
+        .dropdown-content.open {
+            max-height: 300px;
+            overflow-y: auto;
+            border-top: 1px solid var(--border-color);
+        }
+
+        /* عداد ثابت تحت عنوان كل فئة، ظاهر حتى لو الأكورديون مقفول */
+        .category-count {
+            padding: 0 12px 10px;
+            font-size: 0.78rem;
+            font-weight: 600;
+            color: var(--primary);
+            display: none;
+        }
+        .category-count.visible { display: block; }
+
+        /* 🏷️ شريط عنوان الإضافة أعلى الـ popup */
+        .app-titlebar {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 10px 12px;
+            background: #fff;
+            border-bottom: 1px solid var(--border-color);
+        }
+        .app-titlebar-logo { width: 24px; height: 24px; border-radius: 6px; flex-shrink: 0; }
+        .app-titlebar-text { font-weight: 700; font-size: 0.95rem; color: var(--text-dark); }
+
+        /* 🚪 زرار تسجيل الخروج — مثبّت أعلى يسار الـ popup دايماً (مش بيتحرك مع التابات) */
+        .logout-pin-btn {
+            position: fixed; top: 8px; left: 8px; z-index: 1000;
+            display: flex; align-items: center; gap: 4px;
+            background: #fff; color: var(--danger); border: 1px solid var(--border-color);
+            border-radius: 999px; padding: 5px 10px; font-size: 0.72rem; font-weight: 700;
+            cursor: pointer; box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+        }
+        .logout-pin-btn:hover { background: #fef2f2; border-color: #fecaca; }
+
+        /* 🛠️ عناصر التحكم والـ Toggles */
+        .description-item {
+            padding: 10px 12px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid #f1f5f9;
+            font-size: 0.85rem;
+            color: #334155;
+        }
+
+        .description-item:last-child {
+            border-bottom: none;
+        }
+
+        .toggle-container {
+            position: relative;
+            display: inline-block;
+            width: 36px;
+            height: 20px;
+        }
+
+        .toggle-input {
+            opacity: 0;
+            width: 0;
+            height: 0;
+        }
+
+        .toggle-slider {
+            position: absolute;
+            cursor: pointer;
+            top: 0; left: 0; right: 0; bottom: 0;
+            background-color: #cbd5e1;
+            transition: .3s;
+            border-radius: 20px;
+        }
+
+        .toggle-slider:before {
+            position: absolute;
+            content: "";
+            height: 14px; width: 14px;
+            left: 3px; bottom: 3px;
+            background-color: white;
+            transition: .3s;
+            border-radius: 50%;
+        }
+
+        .toggle-input:checked + .toggle-slider {
+            background-color: var(--success);
+        }
+
+        .toggle-input:checked + .toggle-slider:before {
+            transform: translateX(16px);
+        }
+
+        /* 🌐 صفوف المنصات والأفلام الذكية */
+        .platform-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 12px;
+            background: white;
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            margin-bottom: 8px;
+            font-size: 0.85rem;
+        }
+
+        .platform-info {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-weight: 500;
+        }
+
+        .profile-status {
+            padding: 4px 8px;
+            border-radius: 12px;
+            font-size: 0.75rem;
+            font-weight: bold;
+        }
+
+        .status-active {
+            background-color: #d1fae5;
+            color: #065f46;
+        }
+
+        /* 📊 التقييم والإحصائيات */
+        /* 🎬 كارت "يتم فحصه الآن" — يظهر بس بعد ما الفلاتر تتجاب فعلياً من فايربيس للعمل المفتوح */
+        .now-playing-card {
+            display: none;
+            align-items: stretch;
+            background: #fff;
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            margin-bottom: 10px;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+        .now-playing-card.visible { display: flex; }
+        .now-playing-poster {
+            width: 100px;
+            align-self: stretch;
+            object-fit: cover;
+            flex-shrink: 0;
+            background: #f1f5f9;
+        }
+        .now-playing-info {
+            padding: 10px;
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+            justify-content: center;
+            min-width: 0;
+        }
+        .now-playing-title {
+            font-size: 0.92rem;
+            font-weight: 700;
+            color: var(--text-dark);
+        }
+        .now-playing-meta {
+            font-size: 0.76rem;
+            color: var(--primary);
+            font-weight: 600;
+        }
+        .now-playing-desc {
+            font-size: 0.76rem;
+            color: var(--text-muted);
+            line-height: 1.4;
+        }
+
+        .rating-box {
+            background: #edf2f7;
+            padding: 10px;
+            border-radius: 6px;
+            font-size: 0.8rem;
+            color: #4a5568;
+            margin-top: 8px;
+            line-height: 1.4;
+        }
+
+        /* شريط الحالة العلوي */
+        .info-bar {
+            text-align: center;
+            padding: 8px;
+            background: #eff6ff;
+            color: #1e40af;
+            font-size: 0.8rem;
+            font-weight: 500;
+            border-bottom: 1px solid #dbeafe;
+        }
+
+        /* 🔍 تصفية المنصات وشريط البحث الجديد */
+        .search-container {
+            margin: 10px 4px;
+        }
+
+        #searchBar {
+            width: 100%;
+            padding: 10px 12px;
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            font-size: 0.85rem;
+            outline: none;
+            transition: border-color 0.2s;
+        }
+
+        #searchBar:focus {
+            border-color: var(--primary);
+            box-shadow: 0 0 0 2px #dbeafe;
+        }
+
+        .platform-chips-container {
+            display: flex;
+            gap: 6px;
+            margin: 10px 4px 4px 4px;
+            overflow-x: auto;
+            padding-bottom: 6px;
+        }
+
+        /* إخفاء شريط التمرير الافتراضي لشيبس المنصات للحفاظ على المظهر */
+        .platform-chips-container::-webkit-scrollbar {
+            height: 4px;
+        }
+        .platform-chips-container::-webkit-scrollbar-thumb {
+            background: #cbd5e1;
+            border-radius: 4px;
+        }
+
+        .platform-chip {
+            padding: 6px 12px;
+            border: 1px solid var(--border-color);
+            border-radius: 16px;
+            background: white;
+            color: var(--text-dark);
+            font-size: 0.75rem;
+            font-weight: 600;
+            cursor: pointer;
+            white-space: nowrap;
+            transition: all 0.2s ease;
+        }
+
+        .platform-chip:hover {
+            background: #f1f5f9;
+            border-color: #cbd5e1;
+        }
+
+        /* الكلاس النشط للمنصة المحددة تلقائياً أو يدوياً */
+        .platform-chip.active {
+            background-color: var(--success) !important;
+            color: white !important;
+            border-color: var(--success) !important;
+        }
+
+        /* 🎬 تنسيق شبكة الأفلام المطور كبوسترات طولية */
+        #available-movies-list {
+            display: grid !important;
+            grid-template-columns: repeat(2, 1fr) !important; /* قطعتين في كل صف */
+            gap: 12px !important;
+            padding: 10px 4px !important;
+        }
+
+        /* تصميم كارت الفيلم كبوستر كامل وضمان عدم خروج محتوى المتعدد */
+        .movie-card-link {
+            display: flex !important;
+            flex-direction: column !important;
+            background: #ffffff !important;
+            border: 1px solid #e2e8f0 !important;
+            border-radius: 10px !important;
+            overflow: hidden !important;
+            text-decoration: none !important;
+            transition: transform 0.2s ease, box-shadow 0.2s ease !important;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05) !important;
+        }
+
+        .movie-card-link:hover {
+            transform: translateY(-4px) !important;
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1) !important;
+        }
+
+        /* البوستر الطولي تماماً */
+        .movie-poster {
+            width: 100% !important;
+            height: 210px !important; /* ارتفاع مثالي للبوسترات الطولية */
+            object-fit: cover !important; /* يملأ المساحة بدون تمطيط الصورة */
+            border-bottom: 1px solid #f1f5f9 !important;
+        }
+
+        /* تفاصيل الفيلم أسفل البوستر */
+        .movie-details {
+            padding: 8px !important;
+            display: flex !important;
+            flex-direction: column !important;
+            gap: 4px !important;
+            background: #fafafa !important;
+        }
+
+        .movie-name {
+            font-size: 14px !important;
+            font-weight: bold !important;
+            color: #1e293b !important;
+            text-align: center !important;
+            white-space: normal !important; /* الاسم الطويل ينزل سطر تاني بدل ما يتقص بـ ... */
+            display: block !important;
+            line-height: 1.3 !important;
+        }
+
+        /* سنة إصدار العمل، بجانب الاسم مباشرة بخط أخف ولون أهدى */
+        .movie-year {
+            font-size: 12px !important;
+            font-weight: normal !important;
+            color: #64748b !important;
+        }
+
+        .movie-platform-tag {
+            font-size: 11px !important;
+            color: #64748b !important;
+            text-align: center !important;
+        }
+
+
+        /* قائمة المنصات المنسدلة للبطاقات المشتركة */
+        .platforms-menu {
+            display: none;
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: rgba(0, 0, 0, 0.9);
+            padding: 10px;
+            border-radius: 0 0 8px 8px;
+            text-align: center;
+            z-index: 100; /* لضمان ظهور القائمة فوق البوسترات الأخرى */
+        }
+
+        .movie-card-link:hover .platforms-menu {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <!-- 🧩 الواجهة كلها بقت React/Preact components (شوف app/popup-app.js) —
+         العنصر ده هو الـ mount point الوحيد اللي بيتحط جواه كل حاجة ديناميكياً -->
+    <div id="app-root"></div>
+
+    <script src="firebase-config.js"></script>
+    <script src="app-config.js"></script>
+    <script type="module" src="app/popup-app.js"></script>
+</body>
+</html>
