@@ -1,0 +1,211 @@
+{
+  "episode": 4,
+  "filters": [
+    {
+      "action_type": "blur",
+      "category": "nudity",
+      "end": 10.84043,
+      "id": 1,
+      "original_description": "بنات تلبسن البكيني",
+      "start": 9.449333
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 10.77,
+      "id": 2,
+      "original_description": "stupid",
+      "start": 9.99
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 18.08,
+      "id": 3,
+      "original_description": "stupid",
+      "start": 17.68
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 51.33,
+      "id": 4,
+      "original_description": "damn",
+      "start": 51.02
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 53.44,
+      "id": 5,
+      "original_description": "stupid",
+      "start": 52.97
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 326.37,
+      "id": 6,
+      "original_description": "idiot",
+      "start": 326.01
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 328.67,
+      "id": 7,
+      "original_description": "idiot",
+      "start": 328.38
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 329.9,
+      "id": 8,
+      "original_description": "idiot",
+      "start": 329.55
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 331.76,
+      "id": 9,
+      "original_description": "idiot",
+      "start": 331.58
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 333.37,
+      "id": 10,
+      "original_description": "idiot",
+      "start": 333.09
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 354.32,
+      "id": 11,
+      "original_description": "ass",
+      "start": 354.16
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 451,
+      "id": 12,
+      "original_description": "god",
+      "start": 450.82
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 454.15,
+      "id": 13,
+      "original_description": "god",
+      "start": 454.01
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 465.52,
+      "id": 14,
+      "original_description": "god",
+      "start": 465.33
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 491.58,
+      "id": 15,
+      "original_description": "moron",
+      "start": 490.52
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 676.67,
+      "id": 16,
+      "original_description": "god",
+      "start": 676.48
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1118.77,
+      "id": 17,
+      "original_description": "idiot",
+      "start": 1118.43
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1121.65,
+      "id": 18,
+      "original_description": "idiot",
+      "start": 1121.24
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1128.94,
+      "id": 19,
+      "original_description": "stupid",
+      "start": 1128.47
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1132.38,
+      "id": 20,
+      "original_description": "idiot",
+      "start": 1132.14
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1136.27,
+      "id": 21,
+      "original_description": "idiot",
+      "start": 1135.94
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1139.33,
+      "id": 22,
+      "original_description": "idiot",
+      "start": 1138.95
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1162.17,
+      "id": 23,
+      "original_description": "idiot",
+      "start": 1161.98
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1163.09,
+      "id": 24,
+      "original_description": "idiot",
+      "start": 1162.87
+    }
+  ],
+  "parent_series_id": "the-middle",
+  "platforms": {
+    "netflix": {
+      "id": 82170859,
+      "url": "https://www.netflix.com/watch/82170859"
+    },
+    "osnplus": {
+      "id": 68507,
+      "url": "https://osnplus.com/en-eg/episode/the-quarry-68507/watch?contentStreamingDeeplinkQueryParam=false&skipRecap=true"
+    }
+  },
+  "season": 2,
+  "title": "The Middle - S2E4",
+  "type": "episode"
+}

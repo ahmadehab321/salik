@@ -1,0 +1,43 @@
+{
+  "episode": 19,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 709.48,
+      "id": 1,
+      "original_description": "hell",
+      "start": 709.32
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 954.04,
+      "id": 2,
+      "original_description": "beer",
+      "start": 953.79
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1216.96,
+      "id": 3,
+      "original_description": "hell",
+      "start": 1216.71
+    }
+  ],
+  "parent_series_id": "the-middle",
+  "platforms": {
+    "netflix": {
+      "id": "82170850",
+      "url": "https://www.netflix.com/watch/82170850"
+    },
+    "osnplus": {
+      "id": 68994,
+      "url": "https://osnplus.com/en-eg/episode/the-final-four-68994/watch?contentStreamingDeeplinkQueryParam=false"
+    }
+  },
+  "season": 1,
+  "title": "The Middle - S1E19",
+  "type": "episode"
+}

@@ -1,0 +1,122 @@
+{
+  "category": "Action, Kids, Animation",
+  "description": "فيلم \"حكاية لعبة 2\" (Toy Story 2) هو فيلم رسوم متحركة شهير أنتجته شركة بيكسار وعرضته والت ديزني في عام 1999، تدور أحداثه حول اختطاف وودي وانطلاق باز يطير وبقية الألعاب لإنقاذه واكتشاف وودي لماضيه.",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 413.41,
+      "id": 1,
+      "original_description": "امرأة تتودد إلى رجل ايحائيا",
+      "start": 403.76
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 561.24,
+      "id": 2,
+      "original_description": "طفل يجعل دميتان تقبل بعضها",
+      "start": 559.76
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1511.17,
+      "id": 3,
+      "original_description": "امرأة تقبل رجل ويلقي تعليق ايحائي",
+      "start": 1500.35
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2080.03,
+      "id": 4,
+      "original_description": "شخص يتكرع",
+      "start": 2069.9
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2708.45,
+      "id": 5,
+      "original_description": "فتيات يرقصن بالبكيني",
+      "start": 2687.28
+    },
+    {
+      "action_type": "blur",
+      "category": "nudity",
+      "end": 2722.07,
+      "id": 6,
+      "original_description": "فتيات يرقصن بالبكيني",
+      "start": 2720.61
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2737.99,
+      "id": 7,
+      "original_description": "جحشاصور",
+      "start": 2737.25
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3493.11,
+      "id": 8,
+      "original_description": "يا معتوه",
+      "start": 3492.48
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3722.61,
+      "id": 9,
+      "original_description": "حصان يتصرف كأنه عاري",
+      "start": 3719.59
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 4564.04,
+      "id": 10,
+      "original_description": "كلمة \"butte\" ",
+      "start": 4529.43
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4762.2,
+      "id": 11,
+      "original_description": "حضن بين رجل وامرأة أجنبية",
+      "start": 4758.75
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5053.28,
+      "id": 12,
+      "original_description": "رجل يقبل خد امرأة",
+      "start": 5049
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 5407.76,
+      "id": 13,
+      "original_description": "ضراط شخص",
+      "start": 5386.88
+    }
+  ],
+  "genre": "Action, Kids, Animation, Adventure",
+  "pg": "G",
+  "platforms": {
+    "disney": {
+      "id": "55bb8618-baac-449e-9f63-f402f41371a2",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-55bb8618-baac-449e-9f63-f402f41371a2"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/eGWUhABoftpRmcSo2PJUSRWo50c.jpg",
+  "title": "حكاية لعبة 2",
+  "type": "movie",
+  "year": 1999
+}

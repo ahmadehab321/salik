@@ -1,0 +1,139 @@
+{
+  "episode": 2,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 17.22,
+      "id": 1,
+      "original_description": "hell",
+      "start": 16.98
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 66.1,
+      "id": 2,
+      "original_description": "damn",
+      "start": 65.72
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 435.61,
+      "id": 3,
+      "original_description": "queer",
+      "start": 434.77
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 441.3,
+      "id": 4,
+      "original_description": "hell",
+      "start": 441.04
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 495.69,
+      "id": 5,
+      "original_description": "suck",
+      "start": 495.27
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 596.44,
+      "id": 6,
+      "original_description": "damn",
+      "start": 596.2
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1008.3,
+      "id": 7,
+      "original_description": "whored",
+      "start": 1008.02
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1039.197979,
+      "id": 8,
+      "original_description": "ولد يقبل بنت",
+      "start": 1021.039228
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1072.141828,
+      "id": 9,
+      "original_description": "ولد يقبل بنت",
+      "start": 1067.149412
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1098.017218,
+      "id": 10,
+      "original_description": "بنت تجلس على حجر ولد",
+      "start": 1095.172367
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1118.25,
+      "id": 11,
+      "original_description": "suck",
+      "start": 1117.89
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1151.63,
+      "id": 12,
+      "original_description": "screwed",
+      "start": 1151.23
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1209.1,
+      "id": 13,
+      "original_description": "crap",
+      "start": 1208.64
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1230.53,
+      "id": 14,
+      "original_description": "stupid",
+      "start": 1230.21
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1261.93,
+      "id": 15,
+      "original_description": "damn",
+      "start": 1261.61
+    }
+  ],
+  "parent_series_id": "the-middle",
+  "platforms": {
+    "netflix": {
+      "id": "82170832",
+      "url": "https://www.netflix.com/watch/82170832"
+    },
+    "osnplus": {
+      "id": "68985",
+      "url": "https://osnplus.com/en-eg/series/the-middle-68502"
+    }
+  },
+  "season": 1,
+  "title": "The Middle - S1E2",
+  "type": "episode"
+}

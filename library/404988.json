@@ -1,0 +1,298 @@
+{
+  "category": "Action, Thriller",
+  "description": "تحفة خيال علمي وإثارة من إخراج كريستوفر نولان. تدور القصة حول \"كوب\" (ليوناردو دي كابريو)، وهو لص محترف يسرق الأسرار التجارية بالتسلل إلى العقل الباطن لأهدافه أثناء نومهم. يُعرض عليه محو سجله الإجرامي مقابل مهمة مستحيلة: زرع فكرة في عقل شخصية هامة",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 414.72,
+      "id": 1,
+      "original_description": "goddamn",
+      "start": 413.29
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 884.84,
+      "id": 2,
+      "original_description": "asshole",
+      "start": 884.35
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 894.49,
+      "id": 3,
+      "original_description": "hell",
+      "start": 894.24
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1704.52,
+      "id": 4,
+      "original_description": "hell",
+      "start": 1704.29
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2131.84,
+      "id": 5,
+      "original_description": "piss",
+      "start": 2131.56
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2145.52,
+      "id": 6,
+      "original_description": "bloody",
+      "start": 2145.09
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2566.5,
+      "id": 7,
+      "original_description": "bloody",
+      "start": 2566
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2566.83,
+      "id": 8,
+      "original_description": "hell",
+      "start": 2566.5
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2796.89,
+      "id": 9,
+      "original_description": "damn",
+      "start": 2796.44
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3865.97,
+      "id": 10,
+      "original_description": "bloody",
+      "start": 3865.42
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3881.78,
+      "id": 11,
+      "original_description": "asshole",
+      "start": 3880.97
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3958.16,
+      "id": 12,
+      "original_description": "hell",
+      "start": 3957.84
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4058.14,
+      "id": 13,
+      "original_description": "hell",
+      "start": 4057.91
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4062.01,
+      "id": 14,
+      "original_description": "jesus",
+      "start": 4061.68
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4062.39,
+      "id": 15,
+      "original_description": "christ",
+      "start": 4062.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4069.76,
+      "id": 16,
+      "original_description": "hell",
+      "start": 4069.48
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4084.22,
+      "id": 17,
+      "original_description": "hell",
+      "start": 4083.98
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4088.14,
+      "id": 18,
+      "original_description": "goddamn",
+      "start": 4087.71
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4124.63,
+      "id": 19,
+      "original_description": "hell",
+      "start": 4124.41
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4336.49,
+      "id": 20,
+      "original_description": "bastards",
+      "start": 4335.62
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4612.68,
+      "id": 21,
+      "original_description": "jesus",
+      "start": 4611.51
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4852,
+      "id": 22,
+      "original_description": "goddamn",
+      "start": 4851.51
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4864.25,
+      "id": 23,
+      "original_description": "goddamn",
+      "start": 4863.78
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4871.61,
+      "id": 24,
+      "original_description": "jesus",
+      "start": 4870.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4872.4,
+      "id": 25,
+      "original_description": "christ",
+      "start": 4871.61
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5043.27,
+      "id": 26,
+      "original_description": "damn",
+      "start": 5042.58
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5107.29,
+      "id": 27,
+      "original_description": "hell",
+      "start": 5107.06
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5129.373476,
+      "id": 28,
+      "original_description": "فتاة تقبل رجل",
+      "start": 5123.207067
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5177.19,
+      "id": 29,
+      "original_description": "goddamn",
+      "start": 5176.78
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5460.89,
+      "id": 30,
+      "original_description": "jesus",
+      "start": 5460.54
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5461.31,
+      "id": 31,
+      "original_description": "christ",
+      "start": 5460.89
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6061.251542,
+      "id": 32,
+      "original_description": "شخص يقوم بإشارة جنسية",
+      "start": 6058.148037
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6395.18,
+      "id": 33,
+      "original_description": "goddamn",
+      "start": 6394.48
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6399.8,
+      "id": 34,
+      "original_description": "hell",
+      "start": 6399.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7521.19,
+      "id": 35,
+      "original_description": "jesus",
+      "start": 7519.86
+    }
+  ],
+  "genre": "Action",
+  "pg": "pg-13",
+  "platforms": {
+    "shahid": {
+      "id": 404988,
+      "url": "https://shahid.mbc.net/ar/movies/Inception/movie-404988"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/okXrvv9kCNrYTpjMQTpmzXV9JCi.jpg",
+  "title": "Inception",
+  "type": "movie",
+  "year": 2010
+}

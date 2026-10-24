@@ -1,0 +1,79 @@
+{
+  "episode": 8,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 425.16,
+      "id": 1,
+      "original_description": "shit",
+      "start": 424.85
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 483.37,
+      "id": 2,
+      "original_description": "stupid",
+      "start": 482.89
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 603.252686,
+      "id": 3,
+      "original_description": "حضن بين رجل وامرأة ",
+      "start": 594.800486
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 729.75,
+      "id": 4,
+      "original_description": "damn",
+      "start": 729.44
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 731.94,
+      "id": 5,
+      "original_description": "damn",
+      "start": 731.62
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 955.953506,
+      "id": 6,
+      "original_description": "رجل يقبل امرآة",
+      "start": 944.178334
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1058.12,
+      "id": 7,
+      "original_description": "shit",
+      "start": 1057.88
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1544.72,
+      "id": 8,
+      "original_description": "stupid",
+      "start": 1544.32
+    }
+  ],
+  "parent_series_id": "i-will-find-you",
+  "platforms": {
+    "netflix": {
+      "id": "81785938",
+      "url": "https://www.netflix.com/watch/81785938"
+    }
+  },
+  "season": 1,
+  "title": "I will Find You - S1E8",
+  "type": "episode"
+}

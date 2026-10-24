@@ -1,0 +1,99 @@
+{
+  "addedAt": 1789249428078,
+  "category": "Cartoon",
+  "description": "تطمح المهرة الصغيرة \"طعمة\" للتحول إلى نجمة غناء شهيرة رغم إحباط الجميع من حلمها البسيط.\nتتحول بالصدفة بفضل حادث طلاء وردي ومسحوق برّاق إلى كائن \"يونيكورن\" أسطوري لتخطف الأضواء وتحقق الشهرة السريعة.\nتخوض طعمة رحلة مليئة بالصعوبات والمواقف الكوميدية لتكتشف أن الثمن الباهظ للشهرة لا يقارن بصدق مشاعرها مع أصدقائها.",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 58.22,
+      "id": 1,
+      "original_description": "حمار",
+      "start": 58.01
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 137.83,
+      "id": 2,
+      "original_description": "شخص خالع بنطاله",
+      "start": 135.14
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1234.28,
+      "id": 3,
+      "original_description": "رجال يرقصون بمؤخراتهم",
+      "start": 1207.04
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1903.75,
+      "id": 4,
+      "original_description": "حمار",
+      "start": 1903.67
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1954.09,
+      "id": 5,
+      "original_description": "صورة لرجال مكشوفة عوراتهم",
+      "start": 1947.06
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2857.71,
+      "id": 6,
+      "original_description": "حصان يجتر",
+      "start": 2853.18
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3276.42,
+      "id": 7,
+      "original_description": "الهبلة",
+      "start": 3275.84
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3842.02,
+      "id": 8,
+      "original_description": "حصان يبين مؤخرته",
+      "start": 3839.69
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4152.09,
+      "id": 9,
+      "original_description": "جزرة تدخل في مؤخرة شخص",
+      "start": 4149.94
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4495.68,
+      "id": 10,
+      "original_description": "شخص يتكرع",
+      "start": 4494.37
+    }
+  ],
+  "genre": "رسوم متحركة، كوميديا، موسيقي، عائلي",
+  "pg": "+7",
+  "platforms": {
+    "netflix": {
+      "id": "81110501",
+      "url": "https://www.netflix.com/title/81110501"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/pSfCWFi9QIpqlerkitAw2cF3ZZW.jpg",
+  "title": "طعمة: اليونيكورن",
+  "type": "movie",
+  "year": 2024
+}

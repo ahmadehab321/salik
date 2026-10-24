@@ -1,0 +1,838 @@
+{
+  "episode": 6,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 152.56,
+      "id": 1,
+      "original_description": "hell",
+      "start": 151.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 168.49,
+      "id": 2,
+      "original_description": "fuckin'",
+      "start": 167.1
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 311.81,
+      "id": 3,
+      "original_description": "fucking",
+      "start": 310.74
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 321.56,
+      "id": 4,
+      "original_description": "fucking",
+      "start": 320.8
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 323.03,
+      "id": 5,
+      "original_description": "fucking",
+      "start": 322.23
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 327.27,
+      "id": 6,
+      "original_description": "fuck",
+      "start": 326.76
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 330.12,
+      "id": 7,
+      "original_description": "hell",
+      "start": 329.72
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 342.48,
+      "id": 8,
+      "original_description": "fucking",
+      "start": 341.65
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 373.62,
+      "id": 9,
+      "original_description": "fuckin'",
+      "start": 372.64
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 401.02,
+      "id": 10,
+      "original_description": "fucking",
+      "start": 400.26
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 432.98,
+      "id": 11,
+      "original_description": "shit",
+      "start": 432.07
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 441.23,
+      "id": 12,
+      "original_description": "hell",
+      "start": 440.8
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 456.15,
+      "id": 13,
+      "original_description": "fuckin'",
+      "start": 455.06
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 463.12,
+      "id": 14,
+      "original_description": "shit",
+      "start": 462.49
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 486.72,
+      "id": 15,
+      "original_description": "fuck",
+      "start": 486
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 540.23,
+      "id": 16,
+      "original_description": "jesus",
+      "start": 539.28
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 612.51,
+      "id": 17,
+      "original_description": "جوردان مقتول بطلقة في الرأس",
+      "start": 609.23
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 643.35,
+      "id": 18,
+      "original_description": "goddamn",
+      "start": 642.45
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 704.85,
+      "id": 19,
+      "original_description": "dumb",
+      "start": 704.06
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 715.29,
+      "id": 20,
+      "original_description": "fuck",
+      "start": 714.66
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 735.93,
+      "id": 21,
+      "original_description": "fuck",
+      "start": 735.22
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 747.15,
+      "id": 22,
+      "original_description": "stupid",
+      "start": 746.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 865.77,
+      "id": 23,
+      "original_description": "jesus",
+      "start": 865
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 939.94,
+      "id": 24,
+      "original_description": "fuck",
+      "start": 939.31
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 949.39,
+      "id": 25,
+      "original_description": "hell",
+      "start": 948.73
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 954.8,
+      "id": 26,
+      "original_description": "fuck",
+      "start": 954.13
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 957.39,
+      "id": 27,
+      "original_description": "shit",
+      "start": 956.73
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1130.44,
+      "id": 28,
+      "original_description": "fucking",
+      "start": 1129.58
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1134.2,
+      "id": 29,
+      "original_description": "shit",
+      "start": 1133.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1139.8,
+      "id": 30,
+      "original_description": "shit",
+      "start": 1139.06
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1141.76,
+      "id": 31,
+      "original_description": "shit",
+      "start": 1141.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1200.8,
+      "id": 32,
+      "original_description": "fuck",
+      "start": 1200.18
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1274.66,
+      "id": 33,
+      "original_description": "hell",
+      "start": 1274.05
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1302.72,
+      "id": 34,
+      "original_description": "fuck",
+      "start": 1301.32
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1342.67,
+      "id": 35,
+      "original_description": "fucking",
+      "start": 1341.84
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1381.84,
+      "id": 36,
+      "original_description": "shit",
+      "start": 1381.07
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1403.59,
+      "id": 37,
+      "original_description": "shit",
+      "start": 1402.97
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1411,
+      "id": 38,
+      "original_description": "beer",
+      "start": 1409.98
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1433.92,
+      "id": 39,
+      "original_description": "fucking",
+      "start": 1433.02
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1463.2,
+      "id": 40,
+      "original_description": "beer",
+      "start": 1462.04
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1501.22,
+      "id": 41,
+      "original_description": "fuck",
+      "start": 1500.7
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1539.57,
+      "id": 42,
+      "original_description": "رسمة قضيب",
+      "start": 1530.92
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1550.49,
+      "id": 43,
+      "original_description": "fuck",
+      "start": 1549.53
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1556.02,
+      "id": 44,
+      "original_description": "asshole",
+      "start": 1555.29
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1556.36,
+      "id": 45,
+      "original_description": "fuck",
+      "start": 1555.77
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1558.74,
+      "id": 46,
+      "original_description": "bullshit",
+      "start": 1557.89
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1563.34,
+      "id": 47,
+      "original_description": "fucking",
+      "start": 1562.6
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1567.58,
+      "id": 48,
+      "original_description": "fucking",
+      "start": 1566.85
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1578,
+      "id": 49,
+      "original_description": "shit",
+      "start": 1577
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1596.47,
+      "id": 50,
+      "original_description": "fucking",
+      "start": 1595.68
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1606.3,
+      "id": 51,
+      "original_description": "goddamn",
+      "start": 1605.37
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1618.24,
+      "id": 52,
+      "original_description": "fucking",
+      "start": 1617.33
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1641.57,
+      "id": 53,
+      "original_description": "شخص يضرب شخص",
+      "start": 1627.61
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1762.77,
+      "id": 54,
+      "original_description": "goddamn",
+      "start": 1762.3
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1762.83,
+      "id": 55,
+      "original_description": "idiot",
+      "start": 1762.37
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1776.12,
+      "id": 56,
+      "original_description": "fuck",
+      "start": 1775.63
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1780.16,
+      "id": 57,
+      "original_description": "beer",
+      "start": 1779.7
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1783.12,
+      "id": 58,
+      "original_description": "beer",
+      "start": 1782.65
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1799.71,
+      "id": 59,
+      "original_description": "fucking",
+      "start": 1799.05
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1824.72,
+      "id": 60,
+      "original_description": "shit",
+      "start": 1824.33
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1868.55,
+      "id": 61,
+      "original_description": "fuck",
+      "start": 1868.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1876.02,
+      "id": 62,
+      "original_description": "ass",
+      "start": 1875.46
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1876.37,
+      "id": 63,
+      "original_description": "fuck",
+      "start": 1875.77
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1902.84,
+      "id": 64,
+      "original_description": "shit",
+      "start": 1902.21
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1909.14,
+      "id": 65,
+      "original_description": "fucking",
+      "start": 1908.27
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1926.59,
+      "id": 66,
+      "original_description": "fucking",
+      "start": 1925.62
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1927.23,
+      "id": 67,
+      "original_description": "shitshow",
+      "start": 1926.19
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1960.25,
+      "id": 68,
+      "original_description": "jesus",
+      "start": 1959.2
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1997.16,
+      "id": 69,
+      "original_description": "shit",
+      "start": 1996.64
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2001,
+      "id": 70,
+      "original_description": "fuck",
+      "start": 2000.36
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2006.7,
+      "id": 71,
+      "original_description": "shit",
+      "start": 2006.08
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2016.35,
+      "id": 72,
+      "original_description": "fuck",
+      "start": 2015.88
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2017.36,
+      "id": 73,
+      "original_description": "motherfucker",
+      "start": 2016.15
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2043.6,
+      "id": 74,
+      "original_description": "fuck",
+      "start": 2043
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2049.41,
+      "id": 75,
+      "original_description": "fucks",
+      "start": 2048.68
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2054.56,
+      "id": 76,
+      "original_description": "shit",
+      "start": 2053.52
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2082.36,
+      "id": 77,
+      "original_description": "motherfucker",
+      "start": 2080.88
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2197.28,
+      "id": 78,
+      "original_description": "fuck",
+      "start": 2196.7
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2201.78,
+      "id": 79,
+      "original_description": "fucking",
+      "start": 2201.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2219.42,
+      "id": 80,
+      "original_description": "fucking",
+      "start": 2218.63
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.539,
+        "width": 0.294,
+        "x": 0.183,
+        "y": 0.267
+      },
+      "category": "substance abuse",
+      "end": 2231.33,
+      "id": 81,
+      "original_description": "امرأة تشرب السجائر",
+      "start": 2226.62
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2278.01,
+      "id": 82,
+      "original_description": "fucking",
+      "start": 2277.1
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2279.45,
+      "id": 83,
+      "original_description": "jesus",
+      "start": 2278.88
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2320.3,
+      "id": 84,
+      "original_description": "shitty",
+      "start": 2319.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2320.64,
+      "id": 85,
+      "original_description": "fucking",
+      "start": 2319.9
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2331.5,
+      "id": 86,
+      "original_description": "hell",
+      "start": 2330.58
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2454.09,
+      "id": 87,
+      "original_description": "shit",
+      "start": 2453.5
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2456.23,
+      "id": 88,
+      "original_description": "shit",
+      "start": 2455.64
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2462.68,
+      "id": 89,
+      "original_description": "fuck",
+      "start": 2462.06
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2464.59,
+      "id": 90,
+      "original_description": "fuck",
+      "start": 2463.94
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2466.28,
+      "id": 91,
+      "original_description": "fuck",
+      "start": 2465.83
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2486.68,
+      "id": 92,
+      "original_description": "asshole",
+      "start": 2485.36
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2503.73,
+      "id": 93,
+      "original_description": "shit",
+      "start": 2503.18
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2517.44,
+      "id": 94,
+      "original_description": "ass",
+      "start": 2517.05
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2547.06,
+      "id": 95,
+      "original_description": "fuck",
+      "start": 2546.45
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2555.85,
+      "id": 96,
+      "original_description": "fuck",
+      "start": 2554.93
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2581.82,
+      "id": 97,
+      "original_description": "fucking",
+      "start": 2580.98
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2618.12,
+      "id": 98,
+      "original_description": "shit",
+      "start": 2617.4
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2622.14,
+      "id": 99,
+      "original_description": "bitch",
+      "start": 2621.35
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2820.36,
+      "id": 100,
+      "original_description": "shit",
+      "start": 2819.04
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2859.81,
+      "id": 101,
+      "original_description": "hell",
+      "start": 2859.17
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2949.68,
+      "id": 102,
+      "original_description": "goddammit",
+      "start": 2948
+    }
+  ],
+  "parent_series_id": "lanterns",
+  "platforms": {
+    "osnplus": {
+      "id": "bad-optics-77087",
+      "offset_seconds": 0,
+      "url": "https://osnplus.com/en-eg/episode/bad-optics-77087/watch"
+    }
+  },
+  "season": 1,
+  "title": "Lanterns - S1E6",
+  "type": "episode"
+}

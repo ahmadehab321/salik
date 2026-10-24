@@ -1,0 +1,298 @@
+{
+  "category": "Comedy",
+  "description": "مأخوذ من فيلم parasite ، عمل كوميدي مصري تدور أحداثه حول عائلة فقيرة تكافح للبقاء عبر السرقات الصغيرة. يقرر الأب التوقف عن الجريمة بعد حادثة كادت أن تزج به في السجن، لكنه يبتكر خطة جديدة: أن يحصل كل فرد من أفراد العائلة على وظيفة داخل قصر عائلة ثرية، دون أن يكشفوا لأصحاب العمل أنهم أقارب",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 79.77629,
+      "id": 1,
+      "original_description": "شخص يشرب سجائر",
+      "start": 77.307658
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 197.778044,
+      "id": 2,
+      "original_description": "أغاني مهرجانات مع خمور ",
+      "start": 131.473348
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 225.130516,
+      "id": 3,
+      "original_description": "أغاني مهرجانات مع خمور ",
+      "start": 198.989077
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 302.216591,
+      "id": 4,
+      "original_description": "أغاني مهرجانات مع خمور ",
+      "start": 255.197841
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 382.964773,
+      "id": 5,
+      "original_description": "تعري بعض الصعايدة",
+      "start": 376.639608
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 460.450571,
+      "id": 6,
+      "original_description": "قول والنبي مع جلد بالسوط",
+      "start": 456.700679
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 468.383785,
+      "id": 7,
+      "original_description": "يا ولاد الكلب",
+      "start": 467.416633
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 487.14367,
+      "id": 8,
+      "original_description": "شتائم",
+      "start": 484.802817
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 548.829089,
+      "id": 9,
+      "original_description": "والنبي",
+      "start": 548.284273
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 555.753313,
+      "id": 10,
+      "original_description": "وغلاوتك عندي",
+      "start": 554.457273
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 569.429949,
+      "id": 11,
+      "original_description": "والنبي",
+      "start": 569.08099
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 624.123218,
+      "id": 12,
+      "original_description": "ضرب ومشهد ايحائي",
+      "start": 583.136457
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 639.174016,
+      "id": 13,
+      "original_description": "شرب سجائر",
+      "start": 633.309039
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 711.340944,
+      "id": 14,
+      "original_description": "شخص يقول تعليق جنسي ",
+      "start": 708.880509
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1221.13373,
+      "id": 15,
+      "original_description": "شرب سجائر",
+      "start": 1216.23919
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1342.14221,
+      "id": 16,
+      "original_description": "بنت تلبس النقاب وتسرق شخص",
+      "start": 1337.871114
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1369.926689,
+      "id": 17,
+      "original_description": "بنت تلبس النقاب وتسرق شخص",
+      "start": 1343.751594
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1731.029452,
+      "id": 18,
+      "original_description": "وحيات امك",
+      "start": 1730.53012
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1827.639572,
+      "id": 19,
+      "original_description": "ابن المقفع",
+      "start": 1826.750114
+    },
+    {
+      "action_type": "mute",
+      "category": "violence",
+      "end": 3186.192561,
+      "id": 20,
+      "original_description": "صوت  ضراط",
+      "start": 3181.812433
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 3341.877514,
+      "id": 21,
+      "original_description": "تعاطي حشيش",
+      "start": 3234.421768
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 3580.781618,
+      "id": 22,
+      "original_description": "شرب سجائر",
+      "start": 3576.423684
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 4069.711609,
+      "id": 23,
+      "original_description": "كلام عن تعاطي حشيش",
+      "start": 4042.869275
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 4178.666489,
+      "id": 24,
+      "original_description": "تعاطي الشيشة",
+      "start": 4169.00211
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 4265.93293,
+      "id": 25,
+      "original_description": "تعاطي الشيشة مع كلام ايحائي",
+      "start": 4213.757125
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4449.173415,
+      "id": 26,
+      "original_description": "عوالم ",
+      "start": 4448.985653
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4459.425301,
+      "id": 27,
+      "original_description": "العالمة",
+      "start": 4459.187757
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4477.575117,
+      "id": 28,
+      "original_description": "بودرجي",
+      "start": 4477.468646
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4513.523,
+      "id": 29,
+      "original_description": "سكران",
+      "start": 4513.27078
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4668.684945,
+      "id": 30,
+      "original_description": "طعن شخص بسكين",
+      "start": 4661.612553
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4813.287759,
+      "id": 31,
+      "original_description": "طعن شخص بسكين",
+      "start": 4813.057273
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 5503.163928,
+      "id": 32,
+      "original_description": "تعذيب جسدي لشخص",
+      "start": 5499.02011
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 5626.728071,
+      "id": 33,
+      "original_description": "مضاربة بالسنج ",
+      "start": 5578.310038
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 5645.821261,
+      "id": 34,
+      "original_description": "مضاربة بالسنج ",
+      "start": 5634.082441
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 6035.146772,
+      "id": 35,
+      "original_description": "كلام عن تعاطي حشيش",
+      "start": 6003.966548
+    }
+  ],
+  "genre": "Action, Comedy",
+  "pg": "PG-13",
+  "platforms": {
+    "netflix": {
+      "id": "82759094",
+      "url": "https://www.netflix.com/title/82759094"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/w600_and_h900_face/cEIPRBe6THaUNXWYUBSW2dtqlC4.jpg",
+  "title": "فاميلي بيزنس",
+  "type": "movie",
+  "year": 2026
+}

@@ -1,0 +1,322 @@
+{
+  "category": "Drama, History",
+  "description": " عمل درامي تاريخي مصري صدر عام 2019، يكمل حكايات الجزء الأول عبر السرد المتوازي لأزمنة مختلفة",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 258.99,
+      "id": 1,
+      "original_description": "شخص يشرب السجائر",
+      "start": 256.85
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 648.94,
+      "id": 2,
+      "original_description": "طلقة في الساق",
+      "start": 647.63
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 798.92,
+      "id": 3,
+      "original_description": "كذاب ، حقير",
+      "start": 796.86
+    },
+    {
+      "action_type": "blur",
+      "category": "substance abuse",
+      "end": 1021.92,
+      "id": 4,
+      "original_description": "\"مصطفى\" يشرب السجائر",
+      "start": 1013.6
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1165.03,
+      "id": 5,
+      "original_description": "رجل يقبل يد امرأة أجنبية",
+      "start": 1161.25
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1664.96,
+      "id": 6,
+      "original_description": "شخص يشرب السجائر",
+      "start": 1662.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1741.22,
+      "id": 7,
+      "original_description": "عبيط",
+      "start": 1740.75
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1756.14,
+      "id": 8,
+      "original_description": "شخص يلقي تعليق ايحائي",
+      "start": 1753.03
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1785.78,
+      "id": 9,
+      "original_description": "كلام عن مواصفات جارية",
+      "start": 1779.11
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1852.69,
+      "id": 10,
+      "original_description": "شخص يقول تعليق مقرف",
+      "start": 1851.35
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1957.18,
+      "id": 11,
+      "original_description": "يا غبي",
+      "start": 1957.03
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1967.87,
+      "id": 12,
+      "original_description": "شخص يلقي تعليق ايحائي",
+      "start": 1966.97
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1972.1,
+      "id": 13,
+      "original_description": "يا غبي",
+      "start": 1971.62
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1981.35,
+      "id": 14,
+      "original_description": "شخص يلقي تعليق ايحائي",
+      "start": 1976.58
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1996.37,
+      "id": 15,
+      "original_description": "كلب",
+      "start": 1995.89
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2026.17,
+      "id": 16,
+      "original_description": "شخص يشرب سجارة",
+      "start": 2018.73
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2090.97,
+      "id": 17,
+      "original_description": "غبي",
+      "start": 2090.66
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2166.52,
+      "id": 18,
+      "original_description": "راقصة ترقص",
+      "start": 2090.97
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2254.08,
+      "id": 19,
+      "original_description": "شخص يلقي تعليق ايحائي",
+      "start": 2250.27
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2317.69,
+      "id": 20,
+      "original_description": "ايحاءات جنسية وراء الشجرة",
+      "start": 2290.79
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2733.55,
+      "id": 21,
+      "original_description": "شخص يشرب السجائر",
+      "start": 2730.98
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2761.14,
+      "id": 22,
+      "original_description": "شخص يشرب السجائر",
+      "start": 2746.25
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2958.77,
+      "id": 23,
+      "original_description": "ابن هرمة",
+      "start": 2957.9
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2960.21,
+      "id": 24,
+      "original_description": "ابن الهرمة",
+      "start": 2959.78
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 3146,
+      "id": 25,
+      "original_description": "راقصة تعرض نفسها على شخص",
+      "start": 3139.01
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3227.66,
+      "id": 26,
+      "original_description": "اغراء لشخص",
+      "start": 3216.17
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3443.07,
+      "id": 27,
+      "original_description": "مشهد الراقصة",
+      "start": 3416.92
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 3898.91,
+      "id": 28,
+      "original_description": "جروح على \"رجل الفيل\"",
+      "start": 3892.29
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 3925.24,
+      "id": 29,
+      "original_description": "جثة \"رجل الفيل\" دامية",
+      "start": 3914.2
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3929.35,
+      "id": 30,
+      "original_description": "الكلاب",
+      "start": 3928.8
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 4154.02,
+      "id": 31,
+      "original_description": "قتل \"الخط\"",
+      "start": 4150.83
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 4164.94,
+      "id": 32,
+      "original_description": "\"الخُط\" مصاب",
+      "start": 4162.7
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 4244.45,
+      "id": 33,
+      "original_description": "جثة \"الخٌط\" الميتة",
+      "start": 4242.71
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 5371.98,
+      "id": 34,
+      "original_description": "شخص يشرب السجائر",
+      "start": 5362.91
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 5420.31,
+      "id": 35,
+      "original_description": "سقت عليك النبي",
+      "start": 5418.84
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6408.69,
+      "id": 36,
+      "original_description": "رجل يقبل رأس امرأة أجنبية",
+      "start": 6404.006404
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 6489.1,
+      "id": 37,
+      "original_description": "غبية زي أبوها",
+      "start": 6487.52
+    }
+  ],
+  "genre": "Drama",
+  "pg": "G",
+  "platforms": {
+    "amazon": {
+      "id": "0ISHJSZHY1JL6UQI5SRHRB54AO",
+      "url": "https://www.primevideo.com/-/ar/detail/0ISHJSZHY1JL6UQI5SRHRB54AO"
+    },
+    "starzplay": {
+      "id": 746532392433,
+      "url": "https://starzplay.com/ar/admn/movies/alkenz-2/746532392433"
+    },
+    "yango": {
+      "id": "53853dd92253450abe63902895705c9a",
+      "url": "https://play.yango.com/ar/movies/film/53853dd92253450abe63902895705c9a"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/uKSzOzIAXvVNy54tdP1kqcDSei.jpg",
+  "title": "الكنز (2): الحب والمصير",
+  "type": "movie",
+  "year": 2019
+}

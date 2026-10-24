@@ -1,0 +1,147 @@
+{
+  "addedAt": 1790449079860,
+  "category": "Tom Hanks",
+  "description": "يتولى قائد القوات البحرية الأمريكية \"إرنست Краووز\" (توم هانكس) أول مهمة قيادية له خلال الحرب العالمية الثانية على متن المدمرة \"جريهاوند\".\nيُكلف بتأمين قافلة دولية تضم 37 سفينة حلفاء تعبر المحيط الأطلسي المظلم دون أي غطاء جوي لدعم القوات.\nيجد القائد نفسه في مواجهة شرسة ومعركة بقاء حابسة للأنفاس ضد سرب من الغواصات الألمانية المرعبة (Wolfpack) في عرض البحر.",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 143.88,
+      "id": 1,
+      "original_description": "damn",
+      "start": 143.18
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 362.29,
+      "id": 2,
+      "original_description": "rum",
+      "start": 361.38
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 567.4,
+      "id": 3,
+      "original_description": "hell",
+      "start": 566.3
+    },
+    {
+      "action_type": "blur",
+      "category": "substance abuse",
+      "end": 579.57,
+      "id": 4,
+      "original_description": "شخص يشرب السجائر",
+      "start": 578.08
+    },
+    {
+      "action_type": "blur",
+      "category": "substance abuse",
+      "end": 586.98,
+      "id": 5,
+      "original_description": "شخص يشرب السجائر",
+      "start": 580.36
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 695.05,
+      "id": 6,
+      "original_description": "شخص يشرب السجائر",
+      "start": 693.04
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 711.66,
+      "id": 7,
+      "original_description": "bitches",
+      "start": 710.78
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1352.27,
+      "id": 8,
+      "original_description": "fuck",
+      "start": 1351.97
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2108.57,
+      "id": 9,
+      "original_description": "damn",
+      "start": 2107.69
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 3051.35,
+      "id": 10,
+      "original_description": "شخص يخيط جراح شخص",
+      "start": 3047.83
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3257.65,
+      "id": 11,
+      "original_description": "hell",
+      "start": 3256.79
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3290.24,
+      "id": 12,
+      "original_description": "bitch",
+      "start": 3289.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3469.39,
+      "id": 13,
+      "original_description": "jesus",
+      "start": 3468.51
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3469.62,
+      "id": 14,
+      "original_description": "christ",
+      "start": 3468.69
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4568.25,
+      "id": 15,
+      "original_description": "bloody",
+      "start": 4567.06
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 4884.06,
+      "id": 16,
+      "original_description": "دعاء لغير الله",
+      "start": 4873.17
+    }
+  ],
+  "genre": "أكشن، دراما، حرب، تاريخي، إثارة",
+  "pg": "+13",
+  "platforms": {
+    "appletv": {
+      "id": "umc.cmc.o5z5ztufuu3uv8lx7m0jcega",
+      "url": "https://tv.apple.com/eg/movie/greyhound/umc.cmc.o5z5ztufuu3uv8lx7m0jcega"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/w600_and_h900_face/kjMbDciooTbJPofVXgAoFjfX8Of.jpg",
+  "title": "Greyhound",
+  "type": "movie",
+  "year": 2020
+}

@@ -1,0 +1,75 @@
+{
+  "episode": 2,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 43.85,
+      "id": 1,
+      "original_description": "crap",
+      "start": 43.58
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 74.75115,
+      "id": 2,
+      "original_description": "شخص يضع الخبز على بطنه ويأكله",
+      "start": 66.153045
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 72.26,
+      "id": 3,
+      "original_description": "hell",
+      "start": 71.96
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 128.45,
+      "id": 4,
+      "original_description": "sucking",
+      "start": 127.87
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 525.22,
+      "id": 5,
+      "original_description": "beer",
+      "start": 524.97
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 626.92,
+      "id": 6,
+      "original_description": "screwed",
+      "start": 626.46
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 903.38,
+      "id": 7,
+      "original_description": "butt",
+      "start": 903.04
+    }
+  ],
+  "parent_series_id": "the-middle",
+  "platforms": {
+    "netflix": {
+      "id": "82170856",
+      "url": "https://www.netflix.com/watch/82170856"
+    },
+    "osnplus": {
+      "id": 68505,
+      "url": "https://osnplus.com/en-eg/episode/homecoming-68505/watch?contentStreamingDeeplinkQueryParam=false&skipRecap=true"
+    }
+  },
+  "season": 2,
+  "title": "The Middle - S2E2",
+  "type": "episode"
+}

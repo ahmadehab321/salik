@@ -1,0 +1,203 @@
+{
+  "addedAt": 1787388652346,
+  "category": "Tobey Phase",
+  "description": "فيلم Spider-Man 2 (2004) هو فيلم أبطال خارقين مذهل أخرجه سام رايمي من بطولة توبي ماغواير. يوازن الفيلم ببراعة بين الصراعات الشخصية لـ بيتر باركر وضغوط حياته ومواجهته للعالم العبقري المتحول أوتو أوكتافيوس (دكتور أوك)",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 108.55,
+      "id": 1,
+      "original_description": "بيتر يقبل ماري",
+      "start": 103.52
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 236.89,
+      "id": 2,
+      "original_description": "ass",
+      "start": 236.29
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 263.49,
+      "id": 3,
+      "original_description": "stupid",
+      "start": 262.8
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 518.73,
+      "id": 4,
+      "original_description": "jerk",
+      "start": 518.08
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1357.24,
+      "id": 5,
+      "original_description": "شخص يخرج من الحمام",
+      "start": 1347.65
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1610.46,
+      "id": 6,
+      "original_description": "ماري تقبل شخص اخر",
+      "start": 1608.28
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2506.45,
+      "id": 7,
+      "original_description": "crap",
+      "start": 2505.93
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2508.49,
+      "id": 8,
+      "original_description": "crap",
+      "start": 2507.53
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 3108.79,
+      "id": 9,
+      "original_description": "شخص يشرب الخمر",
+      "start": 3075.42
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3275,
+      "id": 10,
+      "original_description": "pisses",
+      "start": 3274.3
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3293.93,
+      "id": 11,
+      "original_description": "freak",
+      "start": 3293.38
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 3445.38,
+      "id": 12,
+      "original_description": "شخص يشرب السيغار",
+      "start": 3436.69
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3945.45,
+      "id": 13,
+      "original_description": "hell",
+      "start": 3944.99
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4695.16,
+      "id": 14,
+      "original_description": "hell",
+      "start": 4694.51
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4828.46,
+      "id": 15,
+      "original_description": "lord",
+      "start": 4827.69
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5014.52,
+      "id": 16,
+      "original_description": "jerk",
+      "start": 5013.77
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5016.33,
+      "id": 17,
+      "original_description": "jerks",
+      "start": 5015.91
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5055.77,
+      "id": 18,
+      "original_description": "امرأة تقبل رجل",
+      "start": 5029.57
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5163.96,
+      "id": 19,
+      "original_description": "Kiss me",
+      "start": 5162.56
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5167.32,
+      "id": 20,
+      "original_description": "Kiss you",
+      "start": 5165.4
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5453.88,
+      "id": 21,
+      "original_description": "hell",
+      "start": 5453.32
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6993.48,
+      "id": 22,
+      "original_description": "رجل يقبل امراة",
+      "start": 6989.89
+    }
+  ],
+  "genre": "Action-Adventure",
+  "pg": "PG-13",
+  "platforms": {
+    "shahid": {
+      "id": "1018954",
+      "url": "https://shahid.mbc.net/ar/movies/Spider-Man-2/movie-1018954"
+    },
+    "starzplay": {
+      "id": "24024104358",
+      "url": "https://starzplay.com/ar/movies/spiderman-2/24024104358"
+    },
+    "tod": {
+      "id": "spider-man-2-253557",
+      "url": "https://www.tod.tv/en/movies/english/spider-man-2-253557"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/oUolSpUruuojKcL5E6blI2TTf9b.jpg",
+  "title": "Spider-Man 2",
+  "type": "movie",
+  "year": 2004
+}

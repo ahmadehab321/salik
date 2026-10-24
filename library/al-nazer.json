@@ -1,0 +1,290 @@
+{
+  "category": "Comedy",
+  "description": "فيلم كوميدي مصري شهير، بطولة النجم الراحل علاء ولي الدين وإخراج شريف عرفة. تدور قصة العمل حول صلاح الشاب المستهتر الذي يضطر لإدارة مدرسة أبيه القاسي بعد وفاته، فيمر بمواقف ساخرة تغير مجرى حياته ومدرسة عاشور بالكامل",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1109.35,
+      "id": 1,
+      "original_description": "الحيوان",
+      "start": 1108.65
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1169.63,
+      "id": 2,
+      "original_description": "ابن الجزمة",
+      "start": 1168.42
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1195.34,
+      "id": 3,
+      "original_description": "سوء أدب مع الله: مش هياخدني وموت بغيظك",
+      "start": 1184.98
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1341.55,
+      "id": 4,
+      "original_description": "الحلف بغير الله: والنبي",
+      "start": 1340.94
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1343.78,
+      "id": 5,
+      "original_description": "الحلف بغير الله: والنبي",
+      "start": 1343.09
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1507,
+      "id": 6,
+      "original_description": "يا حيوان يا متخلف ، اطرش ، حيوان",
+      "start": 1502.59
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1676.18,
+      "id": 7,
+      "original_description": "راقصة وسجائر في الفرح",
+      "start": 1666.2
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1697.48,
+      "id": 8,
+      "original_description": "شرب سجائر وتقبيل راقصة",
+      "start": 1680.04
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1716.22,
+      "id": 9,
+      "original_description": "\"اللمبي\"سكران ويشرب الحشيش",
+      "start": 1700.21
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1947.35,
+      "id": 10,
+      "original_description": "واطي من عيلة واطية",
+      "start": 1945.9
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1969.29,
+      "id": 11,
+      "original_description": "حقير ومعفن",
+      "start": 1967.47
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 2637.66,
+      "id": 12,
+      "original_description": "شخص يحكي قصة حبه مع فتاة لعوب",
+      "start": 2619.33
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 2706.41,
+      "id": 13,
+      "original_description": "حديث شخص عن الخمور والمخدرات",
+      "start": 2689.95
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2758.39,
+      "id": 14,
+      "original_description": "شخص يشرب سجائر",
+      "start": 2751.43
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2983.86,
+      "id": 15,
+      "original_description": "مشهد الذهاب لبيوت الدعارة",
+      "start": 2800.14
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 3128.66,
+      "id": 16,
+      "original_description": "عبيط",
+      "start": 3125.05
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 3478.51,
+      "id": 17,
+      "original_description": "شباب يشربون الخمر",
+      "start": 3452.18
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 3632.82,
+      "id": 18,
+      "original_description": "تنمر على بنات",
+      "start": 3629.77
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 3654.74,
+      "id": 19,
+      "original_description": "شخص يتكلم عن البيرة",
+      "start": 3652.14
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 3765.03,
+      "id": 20,
+      "original_description": "الأهبل ابن الأهبل",
+      "start": 3762.93
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3972.72,
+      "id": 21,
+      "original_description": "يا نهار اسود",
+      "start": 3972.15
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4061.87,
+      "id": 22,
+      "original_description": "البقية في حياتك",
+      "start": 4060.35
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4169.71,
+      "id": 23,
+      "original_description": "التحرش اللمسي بسيدة",
+      "start": 4164.24
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 4568.54,
+      "id": 24,
+      "original_description": "الموكوس ابن الموكوس",
+      "start": 4566.95
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 4713.5,
+      "id": 25,
+      "original_description": "استهزاء بالشعوب: فاكرنا صوماليين",
+      "start": 4712.4
+    },
+    {
+      "action_type": "blur",
+      "category": "substance abuse",
+      "end": 4748.17,
+      "id": 26,
+      "original_description": "شباب يشربون السجائر",
+      "start": 4743.08
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5350.3,
+      "id": 27,
+      "original_description": "امرأة تتحرش برجل",
+      "start": 5343.08
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 5392.98,
+      "id": 28,
+      "original_description": "انا واكلة كرنب وممكن ابهدلك",
+      "start": 5386.93
+    },
+    {
+      "action_type": "mute",
+      "category": "violence",
+      "end": 5785.02,
+      "id": 29,
+      "original_description": "تعذيب شخص بالكاراتيه",
+      "start": 5777.9
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5935.27,
+      "id": 30,
+      "original_description": "زفت",
+      "start": 5934.57
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6450.3,
+      "id": 31,
+      "original_description": "مشهد الديسكو",
+      "start": 6172.86
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 6528.22,
+      "id": 32,
+      "original_description": "صفعة على وجه طالبة",
+      "start": 6527.58
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6783.73,
+      "id": 33,
+      "original_description": "يا حيوانة",
+      "start": 6782.97
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7188.21,
+      "id": 34,
+      "original_description": "الدون",
+      "start": 7187.65
+    }
+  ],
+  "genre": "Comedy",
+  "pg": "PG",
+  "platforms": {
+    "yango": {
+      "id": "50efb09a306e4fc8a10141924c03dd88",
+      "url": "https://play.yango.com/ar/movies/film/50efb09a306e4fc8a10141924c03dd88"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/84n6TZXWvXaBSoObAontP7VEmbX.jpg",
+  "title": "الناظر",
+  "type": "movie",
+  "year": 2000
+}

@@ -1,0 +1,86 @@
+{
+  "category": "Horror, Drama, Sci-Fi",
+  "description": "فيلم \"A Quiet Place\" هو فيلم رعب أمريكي صدر عام 2018، من إخراج وبطولة جون كراسينسكي، وتشارك في بطولته إيميلي بلنت. تدور قصة الفيلم حول عائلة تعيش في صمت تام لتفادي مخلوقات عمياء تعتمد كلياً على حاسة السمع الحادة لاصطياد البشر",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1250.32,
+      "id": 1,
+      "original_description": "الكائن يقتل الراكون بوحشية",
+      "start": 1249.69
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 2457.33,
+      "id": 2,
+      "original_description": "زوجة مقتولة بوحشية ",
+      "start": 2454.1
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2508.87,
+      "id": 3,
+      "original_description": "الكائن يقتل الزوج بوحشية",
+      "start": 2507.71
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2594.72,
+      "id": 4,
+      "original_description": "قدمها تدوس على مسمار",
+      "start": 2593.56
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2618.3,
+      "id": 5,
+      "original_description": "تخرج قدمها من المسمار",
+      "start": 2614.81
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3050.02,
+      "id": 6,
+      "original_description": "دم في البانيو",
+      "start": 3046.69
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3078.94,
+      "id": 7,
+      "original_description": "يد مليئة بالدم على الزجاج",
+      "start": 3066.06
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3092.77,
+      "id": 8,
+      "original_description": "رجل يقبل امرأة",
+      "start": 3083.65
+    }
+  ],
+  "genre": "Horror, Drama, Sci-Fi",
+  "pg": 18,
+  "platforms": {
+    "shahid": {
+      "id": 2244726527,
+      "url": "https://shahid.mbc.net/ar/movies/A-Quiet-Place/movie-2244726527"
+    },
+    "tod": {
+      "id": 302787,
+      "url": "https://www.tod.tv/en/movies/english/a-quiet-place-302787"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/tiqgOGacYEzwb0ByflQlidc9ooy.jpg",
+  "title": "A Quiet Place",
+  "type": "movie",
+  "year": 2018
+}

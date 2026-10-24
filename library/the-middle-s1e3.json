@@ -1,0 +1,99 @@
+{
+  "episode": 3,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 30.95,
+      "id": 1,
+      "original_description": "hell",
+      "start": 30.76
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 91.549978,
+      "id": 2,
+      "original_description": "رجل يقبل امرأة",
+      "start": 81.593471
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 316.16,
+      "id": 3,
+      "original_description": "hell",
+      "start": 315.85
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 496.47,
+      "id": 4,
+      "original_description": "damn",
+      "start": 495.92
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 589.755448,
+      "id": 5,
+      "original_description": "رجل يصفع امرأة",
+      "start": 587.878011
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 707.24,
+      "id": 6,
+      "original_description": "hell",
+      "start": 707.04
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 715.38,
+      "id": 7,
+      "original_description": "damn",
+      "start": 715.17
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 774.06,
+      "id": 8,
+      "original_description": "damn",
+      "start": 773.55
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 796.09,
+      "id": 9,
+      "original_description": "sexual",
+      "start": 795.79
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 949.45,
+      "id": 10,
+      "original_description": "hell",
+      "start": 949.15
+    }
+  ],
+  "parent_series_id": "the-middle",
+  "platforms": {
+    "netflix": {
+      "id": "82170834",
+      "url": "https://www.netflix.com/watch/82170834"
+    },
+    "osnplus": {
+      "id": "68984",
+      "url": "https://osnplus.com/en-eg/series/the-middle-68502"
+    }
+  },
+  "season": 1,
+  "title": "The Middle - S1E3",
+  "type": "episode"
+}

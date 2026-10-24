@@ -1,0 +1,107 @@
+{
+  "episode": 9,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 67.51,
+      "id": 1,
+      "original_description": "crap",
+      "start": 67.31
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 261.17,
+      "id": 2,
+      "original_description": "damn",
+      "start": 260.91
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 599.19,
+      "id": 3,
+      "original_description": "hell",
+      "start": 598.99
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 682.26,
+      "id": 4,
+      "original_description": "pee",
+      "start": 682.02
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 937.09,
+      "id": 5,
+      "original_description": "gal",
+      "start": 936.63
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1031.13,
+      "id": 6,
+      "original_description": "damn",
+      "start": 1029.98
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1111.7,
+      "id": 7,
+      "original_description": "hell",
+      "start": 1111.49
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1131.41,
+      "id": 8,
+      "original_description": "damn",
+      "start": 1131.19
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1134.83,
+      "id": 9,
+      "original_description": "stupid",
+      "start": 1134.61
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1163.09,
+      "id": 10,
+      "original_description": "hell",
+      "start": 1162.7
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1205.15,
+      "id": 11,
+      "original_description": "stupid",
+      "start": 1204.88
+    }
+  ],
+  "parent_series_id": "the-middle",
+  "platforms": {
+    "netflix": {
+      "id": "82170840",
+      "url": "https://www.netflix.com/watch/82170840"
+    },
+    "osnplus": {
+      "id": 68968,
+      "url": "https://osnplus.com/en-eg/episode/siblings-68968/watch?contentStreamingDeeplinkQueryParam=false"
+    }
+  },
+  "season": 1,
+  "title": "The Middle - S1E9",
+  "type": "episode"
+}

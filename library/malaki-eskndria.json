@@ -1,0 +1,154 @@
+{
+  "category": "Crime, Thriller",
+  "description": " تدور قصة الفيلم حول محامٍ شاب يتولى الدفاع عن أرملة متهمة بقتل زوجها رجل الأعمال، ليكتشف أثناء بحثه مفاجآت غير متوقعة",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 210.64,
+      "id": 1,
+      "original_description": "حديث عن لعب القمار",
+      "start": 209.81
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 638.48,
+      "id": 2,
+      "original_description": "مغازلة النادلة",
+      "start": 625.15
+    },
+    {
+      "action_type": "blur",
+      "category": "substance abuse",
+      "end": 647.57,
+      "id": 3,
+      "original_description": "\"حسين\" يشرب السيغار ومعه فتاة ليل",
+      "start": 640.4
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 854.68,
+      "id": 4,
+      "original_description": "مكالمة تليفونية من فتاة ليل",
+      "start": 845
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1155.21,
+      "id": 5,
+      "original_description": "وساخة",
+      "start": 1154.37
+    },
+    {
+      "action_type": "blur",
+      "category": "substance abuse",
+      "end": 1938.63,
+      "id": 6,
+      "original_description": "\"ليلى\" تشرب سجائر",
+      "start": 1934.97
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 2115.06,
+      "id": 7,
+      "original_description": "الحلف بغير الله: ورحمة أبويا",
+      "start": 2113.83
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 2456.35,
+      "id": 8,
+      "original_description": "رجل يقبل رأس امرأة أجنبية",
+      "start": 2453.7
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2573.1,
+      "id": 9,
+      "original_description": "زبالة",
+      "start": 2572.54
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2580.05,
+      "id": 10,
+      "original_description": "حمار",
+      "start": 2579.31
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2603.68,
+      "id": 11,
+      "original_description": "والنعمة",
+      "start": 2602.43
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2624.73,
+      "id": 12,
+      "original_description": "مغازلة امرأة",
+      "start": 2622.17
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4258.59,
+      "id": 13,
+      "original_description": "شخص يظهر الملابس الداخلية لامرأة",
+      "start": 4248.74
+    },
+    {
+      "action_type": "blur",
+      "category": "substance abuse",
+      "end": 4303.03,
+      "id": 14,
+      "original_description": "\"حسين\" يشرب السيغار",
+      "start": 4296.66
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 4324.12,
+      "id": 15,
+      "original_description": "امرأة تشرب السيجارة",
+      "start": 4322.1
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 4852.76,
+      "id": 16,
+      "original_description": "عالم واطية",
+      "start": 4851.57
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 5405.68,
+      "id": 17,
+      "original_description": "وحياة مريم",
+      "start": 5401.95
+    }
+  ],
+  "genre": "Crime, Thriller",
+  "pg": "PG",
+  "platforms": {
+    "dailymotion": {
+      "id": "x8mcnmp",
+      "url": "https://www.dailymotion.com/video/x8mcnmp"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/3uztP7DPKipU40vMjaiyR6MT4j2.jpg",
+  "title": "ملاكي اسكندرية",
+  "type": "movie",
+  "year": 2005
+}

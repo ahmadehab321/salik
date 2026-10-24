@@ -1,0 +1,267 @@
+{
+  "addedAt": 1787230717031,
+  "category": "Fantasy, Animation, Comedy",
+  "description": "فيلم شريك 2 (Shrek 2) هو فيلم رسوم متحركة كوميدي من إنتاج دريم ووركس. تدور قصة الفيلم حول سفر شريك وفيونا لمقابلة والديها في مملكة \"بعيداً جداً\"، ليواجهوا مواقف ساخرة ومؤامرات تدبرها العرابة الساحرة والأمير الساحر",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 314.57,
+      "id": 1,
+      "original_description": "غول يقبل غولة ",
+      "start": 231.93
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 966.34,
+      "id": 2,
+      "original_description": "شخص يتكرع",
+      "start": 956.86
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1265.83,
+      "id": 3,
+      "original_description": "sexy",
+      "start": 1265.26
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1284.6,
+      "id": 4,
+      "original_description": "حديث جنسي",
+      "start": 1277.79
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1280.99,
+      "id": 5,
+      "original_description": "sexy",
+      "start": 1280.49
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1568.24,
+      "id": 6,
+      "original_description": "bloody",
+      "start": 1567.53
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1569.57,
+      "id": 7,
+      "original_description": "bloody",
+      "start": 1568.88
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1749.84,
+      "id": 8,
+      "original_description": "تشبه الرجال بالنساء",
+      "start": 1711.77
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2213.12,
+      "id": 9,
+      "original_description": "fool",
+      "start": 2212.53
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2981.89,
+      "id": 10,
+      "original_description": "ass",
+      "start": 2981.2
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2996.25,
+      "id": 11,
+      "original_description": "butt",
+      "start": 2995.64
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3025.99,
+      "id": 12,
+      "original_description": "شخص يضرط",
+      "start": 3017.16
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3242.55,
+      "id": 13,
+      "original_description": "حديث عن المؤخرة",
+      "start": 3238.92
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3345.73,
+      "id": 14,
+      "original_description": "سقوط سروال الغول",
+      "start": 3339.97
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3507.96,
+      "id": 15,
+      "original_description": "sexy",
+      "start": 3507.25
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3685.82,
+      "id": 16,
+      "original_description": "تشبه الرجال بالنساء",
+      "start": 3678.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3688.21,
+      "id": 17,
+      "original_description": "stupid",
+      "start": 3687.08
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3717.13,
+      "id": 18,
+      "original_description": "تشبه الرجال بالنساء",
+      "start": 3708.15
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3750.38,
+      "id": 19,
+      "original_description": "تشبه الرجال بالنساء",
+      "start": 3747.58
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4152.49,
+      "id": 20,
+      "original_description": "شخص يقول انه يلبس ملابس نسائية",
+      "start": 4132.86
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4255.98,
+      "id": 21,
+      "original_description": "stupid",
+      "start": 4254.87
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4579.01,
+      "id": 22,
+      "original_description": "شخص يلقي تعليق ايحائي",
+      "start": 4574.08
+    },
+    {
+      "action_type": "mute",
+      "category": "nudity",
+      "end": 4619.45,
+      "id": 23,
+      "original_description": "Kiss her",
+      "start": 4616.74
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4623.12,
+      "id": 24,
+      "original_description": "رجل يقبل امرأة",
+      "start": 4620.36
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4630.78,
+      "id": 25,
+      "original_description": "رجل يقبل امرأة",
+      "start": 4628.52
+    },
+    {
+      "action_type": "mute",
+      "category": "nudity",
+      "end": 4763.59,
+      "id": 26,
+      "original_description": "kiss me",
+      "start": 4762.22
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4873.46,
+      "id": 27,
+      "original_description": "امرأة تقبل رجل",
+      "start": 4864.84
+    },
+    {
+      "action_type": "mute",
+      "category": "nudity",
+      "end": 4912.53,
+      "id": 28,
+      "original_description": "take your clothes off",
+      "start": 4910.61
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4932.23,
+      "id": 29,
+      "original_description": "تشبه الرجال بالنساء",
+      "start": 4929.94
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4995.31,
+      "id": 30,
+      "original_description": "امرأة تقبل رجل",
+      "start": 4993.29
+    }
+  ],
+  "genre": "Fantasy, Animation, Comedy",
+  "pg": "+7",
+  "platforms": {
+    "amazon": {
+      "id": "0MNMEND9Q01308FBOHJGPHSBF2",
+      "url": "https://www.primevideo.com/region/eu/detail/0MNMEND9Q01308FBOHJGPHSBF2"
+    },
+    "netflix": {
+      "id": 60034572,
+      "url": "https://www.netflix.com/title/60034572"
+    },
+    "osnplus": {
+      "id": "shrek-2-13549",
+      "url": "https://osnplus.com/en-eg/movie/shrek-2-13549"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/gbn4OmfFNnzp9pfXDYh7CbxgqLN.jpg",
+  "title": "Shrek (2)",
+  "type": "movie",
+  "year": 2004
+}

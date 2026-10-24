@@ -1,0 +1,215 @@
+{
+  "addedAt": 1790448711540,
+  "category": "Ben Stellar",
+  "description": "يبدأ السحر الذي يحيي المعروضات باللاشي والتعفن بسبب تأكل سحر اللوح الفرعوني القديم.\nيسافر \"لاري دالي\" برفقة أصدقائه المعروضات إلى المتحف البريطاني في لندن للبحث عن والد الملك \"أخمنرع\" لمعرفة كيفية إنقاذ اللوح وقوته السحرية.\nيخوض الفريق مغامرة ختامية مليئة بالمواقف الكوميدية والتحديات للتغلب على المعروضات البريطانية الثائرة وإعادة السحر لمجده قبل فوات الأوان.",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 442.23,
+      "id": 1,
+      "original_description": "hell",
+      "start": 441.36
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 459.37,
+      "id": 2,
+      "original_description": "hell",
+      "start": 458.51
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 867.55,
+      "id": 3,
+      "original_description": "hell",
+      "start": 866.62
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1333.01,
+      "id": 4,
+      "original_description": "joint",
+      "start": 1332
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1554.66,
+      "id": 5,
+      "original_description": "freaking",
+      "start": 1553.68
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1556.77,
+      "id": 6,
+      "original_description": "freaking",
+      "start": 1555.93
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2180.8,
+      "id": 7,
+      "original_description": "fool",
+      "start": 2179.64
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2182.04,
+      "id": 8,
+      "original_description": "fool",
+      "start": 2181.15
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2192.38,
+      "id": 9,
+      "original_description": "fool",
+      "start": 2191.52
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2547.92,
+      "id": 10,
+      "original_description": "fool",
+      "start": 2547.21
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2552.55,
+      "id": 11,
+      "original_description": "fool",
+      "start": 2551.72
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2584.12,
+      "id": 12,
+      "original_description": "stupid",
+      "start": 2583.06
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3063.57,
+      "id": 13,
+      "original_description": "قرد يتبول على الحمم",
+      "start": 3040.86
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3309.22,
+      "id": 14,
+      "original_description": "god",
+      "start": 3308.52
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3325.37,
+      "id": 15,
+      "original_description": "god",
+      "start": 3324.59
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3423.72,
+      "id": 16,
+      "original_description": "god",
+      "start": 3422.81
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3440.46,
+      "id": 17,
+      "original_description": "god",
+      "start": 3439.69
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3630.96,
+      "id": 18,
+      "original_description": "fool",
+      "start": 3630.14
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3764.54,
+      "id": 19,
+      "original_description": "damn",
+      "start": 3763.68
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3767.96,
+      "id": 20,
+      "original_description": "dumb",
+      "start": 3767.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3993.49,
+      "id": 21,
+      "original_description": "freak",
+      "start": 3992.36
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4555.47,
+      "id": 22,
+      "original_description": "fool",
+      "start": 4554.64
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4881.69,
+      "id": 23,
+      "original_description": "امرأة تقبل رجل",
+      "start": 4815.58
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5071.94,
+      "id": 24,
+      "original_description": "قرد يقبل رجل",
+      "start": 5049.85
+    }
+  ],
+  "genre": "كوميديا، مغامرة، خيال، عائلي",
+  "pg": "+7",
+  "platforms": {
+    "disney": {
+      "id": "eefd84d7-01a2-419e-941c-631efaad118a",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-eefd84d7-01a2-419e-941c-631efaad118a"
+    },
+    "netflix": {
+      "id": "70305932",
+      "url": "https://www.netflix.com/title/70305932"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/w600_and_h900_face/xwgy305K6qDs3D20xUO4OZu1HPY.jpg",
+  "title": "Night at the Museum (3): Secret of the Tomb",
+  "type": "movie",
+  "year": 2014
+}

@@ -1,0 +1,190 @@
+{
+  "category": "Comedy, Drama",
+  "description": "عمل كوميدي اجتماعي مصري من بطولة عادل إمام، يحكي قصة رجل أعمال ثري يطمع ابناه في ثروته فيدّعيان إصابته بمرض \"الزهايمر\" لإصدار قرار بالحجر على أمواله. تنقلب الأحداث حين تكتشف الممرضة خدعتهما وتتوالى المفارقات بأسلوب يجمع بين الكوميديا والدراما الإنسانية",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 344.250209,
+      "id": 1,
+      "original_description": "التحدث مع فتاة الليل",
+      "start": 305.829102
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 421.794933,
+      "id": 2,
+      "original_description": "التحدث مع فتاة ليل أخرى",
+      "start": 403.766849
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 980.284273,
+      "id": 3,
+      "original_description": "حفلة عربدة ونساء يرقصون",
+      "start": 954.265577
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1868.974001,
+      "id": 4,
+      "original_description": "ضربة على الوجه",
+      "start": 1867.464132
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1910.880819,
+      "id": 5,
+      "original_description": "حمار",
+      "start": 1910.510843
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2323.625733,
+      "id": 6,
+      "original_description": "الحلف بغير الله: والنعمة",
+      "start": 2323.052472
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2959.223448,
+      "id": 7,
+      "original_description": "شخص يضرب شخص في مكان حساس",
+      "start": 2956.647403
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3248.232319,
+      "id": 8,
+      "original_description": "ابن الكلب",
+      "start": 3247.802977
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3251.279888,
+      "id": 9,
+      "original_description": "ابن الكلب",
+      "start": 3251.102162
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3264.162392,
+      "id": 10,
+      "original_description": "ابن الكلب",
+      "start": 3263.529163
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3531.186019,
+      "id": 11,
+      "original_description": "يا نهار اسود",
+      "start": 3531.077993
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3574.670873,
+      "id": 12,
+      "original_description": "أب يصفع وجه ابنه",
+      "start": 3574.320827
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3629.487295,
+      "id": 13,
+      "original_description": "يا كلب",
+      "start": 3629.012293
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4450.339115,
+      "id": 14,
+      "original_description": "شخص يبوس فم رجل آخر فيضربهه",
+      "start": 4447.683062
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4467.522424,
+      "id": 15,
+      "original_description": "غبي",
+      "start": 4466.867301
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5033.853049,
+      "id": 16,
+      "original_description": "رجل يقبل امرأة على خدها",
+      "start": 5029.421318
+    },
+    {
+      "action_type": "mute",
+      "category": "substance abuse",
+      "end": 5547.616402,
+      "id": 17,
+      "original_description": "ذكر نوع مخدر ",
+      "start": 5546.65088
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 5549.62,
+      "id": 18,
+      "original_description": "رجل يشرب سيجار",
+      "start": 5626.260269
+    },
+    {
+      "action_type": "mute",
+      "category": "substance abuse",
+      "end": 5864.553131,
+      "id": 19,
+      "original_description": "ذكر نوع مخدر",
+      "start": 5864.067221
+    },
+    {
+      "action_type": "mute",
+      "category": "substance abuse",
+      "end": 5867.132537,
+      "id": 20,
+      "original_description": "ذكر مخدر الكوكايين والهروين",
+      "start": 5866.161092
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 6109.541702,
+      "id": 21,
+      "original_description": "رجل يصفع امرأة على وجهها",
+      "start": 6108.829985
+    }
+  ],
+  "genre": "Comedy",
+  "pg": "PG-13",
+  "platforms": {
+    "netflix": {
+      "id": 81323781,
+      "url": "https://www.netflix.com/title/81323781"
+    },
+    "shahid": {
+      "id": 85121,
+      "url": "https://shahid.mbc.net/ar/movies/%D8%B2%D9%87%D8%A7%D9%8A%D9%85%D8%B1/movie-85121"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/w600_and_h900_face/3ZKdd8boPgd919IFLhBNdCPa9Ld.jpg",
+  "title": "زهايمر",
+  "type": "movie",
+  "year": 2010
+}

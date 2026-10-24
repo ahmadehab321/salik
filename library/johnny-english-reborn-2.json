@@ -1,0 +1,171 @@
+{
+  "addedAt": 1788638575164,
+  "category": "Rowan Atkinson",
+  "description": "يعود العميل السري الغبي \"جوني إنجليش\" (روان أتكينسون) للخدمة في المخابرات البريطانية بعد سنوات من عزلة تبتية تعلم فيها الفنون القتالية. يُكلف بمهمة منع عملية اغتيال تستهدف رئيس الوزراء الصيني أثناء قمة دولية حاسمة. يخوض جوني رحلة مليئة بالسوء التفاهم، الحوادث العفوية، والمواقف الكوميدية لكشف شبكة اغتيالات دولية تُدعى \"فورمكس\" وتبرئة اسمه.",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 161.77,
+      "id": 1,
+      "original_description": "شخص يتم ضربه في مكان حساس",
+      "start": 159.09
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 203.91,
+      "id": 2,
+      "original_description": "شخص يضع حبل بداخل اعضاءه ويمشي على الفحم",
+      "start": 171.87
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 244.88,
+      "id": 3,
+      "original_description": "وضع حبل في أعضاء شخص",
+      "start": 236
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 861.55,
+      "id": 4,
+      "original_description": "beer",
+      "start": 860.94
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1348.22,
+      "id": 5,
+      "original_description": "vodka",
+      "start": 1346.85
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1348.93,
+      "id": 6,
+      "original_description": "rum",
+      "start": 1348.02
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1516.55,
+      "id": 7,
+      "original_description": "ضرب في مكان حساس",
+      "start": 1514.21
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1614.67,
+      "id": 8,
+      "original_description": "امرأة تخلع ملابسها",
+      "start": 1611.93
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2080.48,
+      "id": 9,
+      "original_description": "مغازلة امرأة",
+      "start": 2077.99
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2149.92,
+      "id": 10,
+      "original_description": "امرأة تخلع ملابسها",
+      "start": 2142.69
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2172.81,
+      "id": 11,
+      "original_description": "امرأة بالبكيني",
+      "start": 2171.17
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2978.03,
+      "id": 12,
+      "original_description": "شخص يغازل امرأة",
+      "start": 2961.12
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3156.07,
+      "id": 13,
+      "original_description": "شخص يتبول",
+      "start": 3132.51
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3445.82,
+      "id": 14,
+      "original_description": "ضرب النار في الكنيسة وانتهاك دور العبادة",
+      "start": 3420.05
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 3917.18,
+      "id": 15,
+      "original_description": "شخص يقول عن شخص انه إله",
+      "start": 3914.43
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5236.77,
+      "id": 16,
+      "original_description": "امرأة تقبل رجل",
+      "start": 5221.55
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5274.38,
+      "id": 17,
+      "original_description": "امرأة تقبل رجل",
+      "start": 5255.04
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 5462,
+      "id": 18,
+      "original_description": "ضرب في مكان حساس",
+      "start": 5447.7
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5481.71,
+      "id": 19,
+      "original_description": "ضرب في مكان حساس",
+      "start": 5480.66
+    }
+  ],
+  "genre": "أكشن، كوميديا، تجسس",
+  "pg": "+13",
+  "platforms": {
+    "stremio": {
+      "id": "tt1634122",
+      "url": "https://web.stremio.com/#/detail/movie/tt1634122/tt1634122"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/wt7Q9OwsXrZrepm8247tN6T8Apm.jpg",
+  "title": "Johnny English Reborn",
+  "type": "movie",
+  "year": 2011
+}

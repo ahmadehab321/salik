@@ -1,0 +1,288 @@
+{
+  "episode": 2,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 40.15,
+      "id": 1,
+      "original_description": "fuck",
+      "start": 39.49
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 55.28,
+      "id": 2,
+      "original_description": "fuck",
+      "start": 54.67
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 67.31,
+      "id": 3,
+      "original_description": "fuck",
+      "start": 66.88
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 73.26,
+      "id": 4,
+      "original_description": "jesus",
+      "start": 72.56
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 73.86,
+      "id": 5,
+      "original_description": "christ",
+      "start": 72.86
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 170.68,
+      "id": 6,
+      "original_description": "fuck",
+      "start": 169.93
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 178.12,
+      "id": 7,
+      "original_description": "bullshit",
+      "start": 177.36
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 431.04,
+      "id": 8,
+      "original_description": "fuck",
+      "start": 430.6
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 727.07,
+      "id": 9,
+      "original_description": "hell",
+      "start": 726.44
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 733.48,
+      "id": 10,
+      "original_description": "shit",
+      "start": 732.88
+    },
+    {
+      "action_type": "blur",
+      "category": "nudity",
+      "end": 743.84,
+      "id": 11,
+      "original_description": "ظهور جثة رجل عارية",
+      "start": 739.71
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 786.83,
+      "id": 12,
+      "original_description": "piss",
+      "start": 786.2
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 787.96,
+      "id": 13,
+      "original_description": "goddamn",
+      "start": 787.15
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 939.6,
+      "id": 14,
+      "original_description": "hell",
+      "start": 939
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 969.21,
+      "id": 15,
+      "original_description": "fucking",
+      "start": 968.44
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1043.55,
+      "id": 16,
+      "original_description": "شخص يتم ضربه وصعقه",
+      "start": 1034.56
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1068.35,
+      "id": 17,
+      "original_description": "fucking",
+      "start": 1067.31
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1104.33,
+      "id": 18,
+      "original_description": "اشخاص يتم ضربهم",
+      "start": 1074.23
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1253.71,
+      "id": 19,
+      "original_description": "hell",
+      "start": 1253.07
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1441.82,
+      "id": 20,
+      "original_description": "hell",
+      "start": 1441.52
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1443.79,
+      "id": 21,
+      "original_description": "cigarettes",
+      "start": 1443.13
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1447.83,
+      "id": 22,
+      "original_description": "hell",
+      "start": 1447.22
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1480.15,
+      "id": 23,
+      "original_description": "christ",
+      "start": 1479.42
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1518.43,
+      "id": 24,
+      "original_description": "fucking",
+      "start": 1517.6
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1552.92,
+      "id": 25,
+      "original_description": "shit",
+      "start": 1552.48
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1589.45,
+      "id": 26,
+      "original_description": "fuck",
+      "start": 1588.81
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1790.29,
+      "id": 27,
+      "original_description": "fuck",
+      "start": 1789.62
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1961.82,
+      "id": 28,
+      "original_description": "ass",
+      "start": 1961.23
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2052.67,
+      "id": 29,
+      "original_description": "shit",
+      "start": 2052.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2323.4,
+      "id": 30,
+      "original_description": "fuckin'",
+      "start": 2322.79
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2327.92,
+      "id": 31,
+      "original_description": "fucking",
+      "start": 2327.1
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2349.68,
+      "id": 32,
+      "original_description": "fuck",
+      "start": 2348.88
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2611.75,
+      "id": 33,
+      "original_description": "shit",
+      "start": 2611.19
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2831.29,
+      "id": 34,
+      "original_description": "fuck",
+      "start": 2830.65
+    }
+  ],
+  "parent_series_id": "lanterns",
+  "platforms": {
+    "osnplus": {
+      "id": "trust-fall-76345",
+      "offset_seconds": 0,
+      "url": "https://osnplus.com/en-eg/episode/trust-fall-76345/watch"
+    }
+  },
+  "season": 1,
+  "title": "Lanterns - S1E2",
+  "type": "episode"
+}

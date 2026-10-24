@@ -1,0 +1,199 @@
+{
+  "episode": 4,
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 57.07,
+      "id": 1,
+      "original_description": "شباب يشربون الخمر",
+      "start": 48.28
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 65.68,
+      "id": 2,
+      "original_description": "فتاة تبتاع المخدرات",
+      "start": 61.6
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 69.07,
+      "id": 3,
+      "original_description": "fucking",
+      "start": 68.57
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 87.5,
+      "id": 4,
+      "original_description": "شخص يأخذ حبة مخدرات",
+      "start": 78.18
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 585.66,
+      "id": 5,
+      "original_description": "hell",
+      "start": 585.45
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1198.48,
+      "id": 6,
+      "original_description": "damn",
+      "start": 1197.48
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1224.93,
+      "id": 7,
+      "original_description": "fucking",
+      "start": 1224.49
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1393.79,
+      "id": 8,
+      "original_description": "fucking",
+      "start": 1393.07
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2039.7,
+      "id": 9,
+      "original_description": "fuck",
+      "start": 2039.32
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2088.76,
+      "id": 10,
+      "original_description": "prick",
+      "start": 2088.25
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2094.95,
+      "id": 11,
+      "original_description": "fuck",
+      "start": 2094.64
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2106.73,
+      "id": 12,
+      "original_description": "fuck",
+      "start": 2106.43
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2173.16,
+      "id": 13,
+      "original_description": "fuck",
+      "start": 2172.08
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2193.8,
+      "id": 14,
+      "original_description": "fuck",
+      "start": 2193.3
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2212.6,
+      "id": 15,
+      "original_description": "fuck",
+      "start": 2212.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2231.32,
+      "id": 16,
+      "original_description": "fucking",
+      "start": 2230.85
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2232.8,
+      "id": 17,
+      "original_description": "fucking",
+      "start": 2232.33
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2255.77,
+      "id": 18,
+      "original_description": "fucked",
+      "start": 2255.21
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2368.93,
+      "id": 19,
+      "original_description": "fuck",
+      "start": 2368.36
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2384.8,
+      "id": 20,
+      "original_description": "fucking",
+      "start": 2384.21
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2450.6,
+      "id": 21,
+      "original_description": "fuck",
+      "start": 2449.56
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2505.7,
+      "id": 22,
+      "original_description": "جرح غائر ",
+      "start": 2496.44
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2498.24,
+      "id": 23,
+      "original_description": "fuck",
+      "start": 2497.55
+    }
+  ],
+  "parent_series_id": "safe",
+  "platforms": {
+    "netflix": {
+      "id": "80202424",
+      "url": "https://www.netflix.com/watch/80202424"
+    }
+  },
+  "season": 1,
+  "title": "safe - S1E4",
+  "type": "episode"
+}

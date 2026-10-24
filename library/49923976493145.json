@@ -1,0 +1,88 @@
+{
+  "category": "Romance",
+  "description": "تدور أحداث الفيلم في إطار من الدراما الرومانسية والموسيقية حول أستاذ جامعي انطوائي، تنقلب حياته عندما تدخل طالبة إلى عالمه وتدفعه دون قصد للتورط في علاقتها، مما يجعله يواجه حقيقة مشاعره الدفينة التي لم يجرؤ على الاعتراف بها",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1057.095725,
+      "id": 1,
+      "original_description": "شرب سجائر",
+      "start": 1046.193983
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1070.443326,
+      "id": 2,
+      "original_description": "شخص يشرب سجائر",
+      "start": 1068.491222
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1100.887975,
+      "id": 3,
+      "original_description": "شرب سجائر",
+      "start": 1088.111974
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1239.550524,
+      "id": 4,
+      "original_description": "والنبي",
+      "start": 1239.299976
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3346.716802,
+      "id": 5,
+      "original_description": "والنبي والنبي والنبي",
+      "start": 3345.793543
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 4846.547666,
+      "id": 6,
+      "original_description": "شخص يأخذ حبوب ويشرب الخمر",
+      "start": 4842.991415
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5032.139048,
+      "id": 7,
+      "original_description": "البقية في حياتك",
+      "start": 5031.230739
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5963.295678,
+      "id": 8,
+      "original_description": "امرأة تقبل رجل على خده",
+      "start": 5960.350041
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6156.274425,
+      "id": 9,
+      "original_description": "رقص اغرائي",
+      "start": 6153.146845
+    }
+  ],
+  "platforms": {
+    "shahid": {
+      "id": 49923976493145,
+      "url": "https://shahid.mbc.net/ar/movies/%D9%88%D9%84%D9%86%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%AE%D9%8A%D8%A7%D9%84...-%D8%AD%D8%A8%D8%9F/movie-49923976493145"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/w600_and_h900_face/q521ctl7fuG6fVitQ4DVCNYRNRk.jpg",
+  "title": "ولنا في الخيال .. حب ؟",
+  "type": "movie",
+  "year": 2025
+}

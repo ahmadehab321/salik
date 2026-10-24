@@ -1,0 +1,259 @@
+{
+  "addedAt": 1792444352602,
+  "category": "Hollywood",
+  "description": "تدور احداث الفيلم في إطار من الحركة والخيال العلمي، تظهر مجموعة من الحيوانات الآلية، مما يطلق العنان لحربا كبرى يشارك بها كافة المتحولون.",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 60.75,
+      "id": 1,
+      "original_description": "god",
+      "start": 59.95
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 376.87,
+      "id": 2,
+      "original_description": "shit",
+      "start": 376.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 473.44,
+      "id": 3,
+      "original_description": "shit",
+      "start": 472.78
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 531.79,
+      "id": 4,
+      "original_description": "hell",
+      "start": 531.33
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 970.06,
+      "id": 5,
+      "original_description": "hell",
+      "start": 969.64
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1033.8,
+      "id": 6,
+      "original_description": "god",
+      "start": 1033.16
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1372.52,
+      "id": 7,
+      "original_description": "hell",
+      "start": 1371.76
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1380.1,
+      "id": 8,
+      "original_description": "shit",
+      "start": 1379.21
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1381.36,
+      "id": 9,
+      "original_description": "shit",
+      "start": 1380.67
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1539.88,
+      "id": 10,
+      "original_description": "hell",
+      "start": 1539.56
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1570.55,
+      "id": 11,
+      "original_description": "شخص يقوم بعمل اشارة جنسية",
+      "start": 1569.11
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1620.62,
+      "id": 12,
+      "original_description": "damn",
+      "start": 1619.99
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1798.35,
+      "id": 13,
+      "original_description": "hell",
+      "start": 1797.63
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1830.16,
+      "id": 14,
+      "original_description": "hell",
+      "start": 1829.44
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1868.7,
+      "id": 15,
+      "original_description": "asses",
+      "start": 1868.06
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1973.9,
+      "id": 16,
+      "original_description": "ass",
+      "start": 1973.35
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2182.44,
+      "id": 17,
+      "original_description": "shit",
+      "start": 2181.53
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2210.44,
+      "id": 18,
+      "original_description": "damn",
+      "start": 2209.1
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2211.63,
+      "id": 19,
+      "original_description": "damn",
+      "start": 2210.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2312.86,
+      "id": 20,
+      "original_description": "hell",
+      "start": 2312.16
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2342.32,
+      "id": 21,
+      "original_description": "hell",
+      "start": 2341.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2813.23,
+      "id": 22,
+      "original_description": "fool",
+      "start": 2811.09
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2875.37,
+      "id": 23,
+      "original_description": "asses",
+      "start": 2874.84
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2992.27,
+      "id": 24,
+      "original_description": "shit",
+      "start": 2990.33
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3158.77,
+      "id": 25,
+      "original_description": "ass",
+      "start": 3158.23
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3668.4,
+      "id": 26,
+      "original_description": "shit",
+      "start": 3667.9
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3936.01,
+      "id": 27,
+      "original_description": "hell",
+      "start": 3935.39
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5226.87,
+      "id": 28,
+      "original_description": "hell",
+      "start": 5226.23
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5829.56,
+      "id": 29,
+      "original_description": "ass",
+      "start": 5829
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6660.65,
+      "id": 30,
+      "original_description": "joint",
+      "start": 6659.56
+    }
+  ],
+  "genre": "خيال علمي, مغامرة, حركة",
+  "pg": "+13",
+  "platforms": {
+    "shahid": {
+      "id": "49923589269297",
+      "url": "https://shahid.mbc.net/ar/player/movies/transformers:-rise-of-the-beasts/id-49923589269297"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/w342/gPbM0MK8CP8A174rmUwGsADNYKD.jpg",
+  "title": "Transformers: Rise of The Beasts",
+  "type": "movie",
+  "year": 2023
+}

@@ -1,0 +1,255 @@
+{
+  "addedAt": 1786291670427,
+  "category": "Drama, Sci-Fi",
+  "description": "فيلم Interstellar (بين النجوم) هو فيلم خيال علمي ملحمي صدر عام 2014، أخرجه كريستوفر نولان وبطولة ماثيو ماكونهي وآن هاثاواي. يروي قصة فريق من رواد الفضاء يسافرون عبر ثقب دودي للبحث عن كوكب بديل للبشرية بعد أن أصبحت الأرض مهددة بالمجاعة ونقص الموارد، مع التركيز على مفاهيم الفيزياء الفلكية مثل النسبية وتمدد الزمن.",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 129.64,
+      "id": 1,
+      "original_description": "butt",
+      "start": 128.99
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 222.04,
+      "id": 2,
+      "original_description": "dumbass",
+      "start": 221.52
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 308.68,
+      "id": 3,
+      "original_description": "dumbass",
+      "start": 308.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 628.6,
+      "id": 4,
+      "original_description": "ass",
+      "start": 628.26
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 903.46,
+      "id": 5,
+      "original_description": "رجل يشرب البيرة",
+      "start": 900.29
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1300.24,
+      "id": 6,
+      "original_description": "jesus",
+      "start": 1299.2
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3138.28,
+      "id": 7,
+      "original_description": "fools",
+      "start": 3137.65
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3141.38,
+      "id": 8,
+      "original_description": "fool",
+      "start": 3140.81
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3636.4,
+      "id": 9,
+      "original_description": "jesus",
+      "start": 3635.36
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3860.51,
+      "id": 10,
+      "original_description": "damn",
+      "start": 3859.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4038.92,
+      "id": 11,
+      "original_description": "shit",
+      "start": 4037.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4073.71,
+      "id": 12,
+      "original_description": "ass",
+      "start": 4073.15
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4130.08,
+      "id": 13,
+      "original_description": "shit",
+      "start": 4129.08
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4180.6,
+      "id": 14,
+      "original_description": "shit",
+      "start": 4179.95
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4222.1,
+      "id": 15,
+      "original_description": "goddamn",
+      "start": 4221
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4226.24,
+      "id": 16,
+      "original_description": "ass",
+      "start": 4225.71
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4706,
+      "id": 17,
+      "original_description": "bitch",
+      "start": 4705.29
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5902.94,
+      "id": 18,
+      "original_description": "naked",
+      "start": 5902.31
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5943.96,
+      "id": 19,
+      "original_description": "bullshit",
+      "start": 5942.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5982.53,
+      "id": 20,
+      "original_description": "fucking",
+      "start": 5981.66
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6041.67,
+      "id": 21,
+      "original_description": "damn",
+      "start": 6040.8
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6487.72,
+      "id": 22,
+      "original_description": "jesus",
+      "start": 6486.68
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6492.12,
+      "id": 23,
+      "original_description": "dumb",
+      "start": 6491.58
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6530.71,
+      "id": 24,
+      "original_description": "fucking",
+      "start": 6529.7
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7572.8,
+      "id": 25,
+      "original_description": "shit",
+      "start": 7571.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7742.52,
+      "id": 26,
+      "original_description": "asshole",
+      "start": 7741.83
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 8262.44,
+      "id": 27,
+      "original_description": "idiot",
+      "start": 8261.87
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 8460.99,
+      "id": 28,
+      "original_description": "hell",
+      "start": 8460.07
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 8817.25,
+      "id": 29,
+      "original_description": "امرأة تقبل رجل",
+      "start": 8814.53
+    }
+  ],
+  "genre": "Drama, Sci-Fi",
+  "pg": "PG-15",
+  "platforms": {
+    "osnplus": {
+      "id": 19038,
+      "url": "https://osnplus.com/en-eg/movie/19038"
+    },
+    "shahid": {
+      "id": 2242359527,
+      "url": "https://shahid.mbc.net/ar/movies/Interstellar/movie-2242359527"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/rR8bjK9dOXXH9H8AdpfPTlRx8Fy.jpg",
+  "title": "Interstellar",
+  "type": "movie",
+  "year": 2014
+}

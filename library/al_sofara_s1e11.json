@@ -1,0 +1,74 @@
+{
+  "episode": 11,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 213.78,
+      "id": 1,
+      "original_description": "يا نهار اسود",
+      "start": 213.16
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1051.95,
+      "id": 2,
+      "original_description": "ايحاءات جنسية لمريض",
+      "start": 1037.5
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1071.26,
+      "id": 3,
+      "original_description": "ايحاءات جنسية لمريض",
+      "start": 1066.57
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1123.17,
+      "id": 4,
+      "original_description": "ايحاءات جنسية لمريض",
+      "start": 1120.27
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1226.25,
+      "id": 5,
+      "original_description": "يا نهار اسود",
+      "start": 1225.58
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1563.07,
+      "id": 6,
+      "original_description": "ايحاءات جنسية لمريض",
+      "start": 1495.58
+    }
+  ],
+  "parent_series_id": "Al-Sofara",
+  "platforms": {
+    "shahid": {
+      "id": "981676",
+      "offset_seconds": 15,
+      "url": "https://shahid.mbc.net/ar/player/episodes/%D8%A7%D9%84%D8%B5%D9%81%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%85-1-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9-1/id-981676"
+    },
+    "starzplay": {
+      "id": "s1e11",
+      "offset_seconds": 0,
+      "url": "https://starzplay.com/ar/watch/series/al-sofara/648572456358/s1e11"
+    },
+    "watchit": {
+      "id": "19452",
+      "offset_seconds": 0,
+      "url": "https://www.watchit.com/#/details/series/860/1006/19452/play"
+    }
+  },
+  "season": 1,
+  "title": "Al-sofara - S1E11",
+  "type": "episode"
+}

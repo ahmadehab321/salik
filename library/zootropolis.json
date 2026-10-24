@@ -1,0 +1,339 @@
+{
+  "addedAt": 1789247315726,
+  "category": "disney",
+  "description": "تنتقل الأرنبة الطموحة \"جودي هوبس\" إلى مدينة الثدييات الكبرى \"زوتوبوليس\" لتصبح أول أرنب يلتحق بسلاح الشرطة المليء بالحيوانات الضخمة.\nتستغل جودي فرصة إثبات كفاءتها بتولي قضية غامضة لاختفاء حيوانات مفترسة، وتضطر للتحالف مع الثعلب المحتال \"نيك وايلد\".\nيخوض الثنائي رحلة مليئة بالمغامرة لكشف مؤامرة خفية تهدد السلام والتعايش بين جميع سكان المدينة.",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 259.42,
+      "id": 1,
+      "original_description": "butt",
+      "start": 258.5
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 268.68,
+      "id": 2,
+      "original_description": "loser",
+      "start": 267.75
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 280.44,
+      "id": 3,
+      "original_description": "dumb",
+      "start": 279.53
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 318.52,
+      "id": 4,
+      "original_description": "stupid",
+      "start": 317.66
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 321.14,
+      "id": 5,
+      "original_description": "dumb",
+      "start": 320.07
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 400.65,
+      "id": 6,
+      "original_description": "butt",
+      "start": 399.94
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 407.03,
+      "id": 7,
+      "original_description": "stupid",
+      "start": 406.15
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 408.67,
+      "id": 8,
+      "original_description": "dumb",
+      "start": 407.73
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 533.25,
+      "id": 9,
+      "original_description": "jerk",
+      "start": 532.23
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 536.61,
+      "id": 10,
+      "original_description": "jerks",
+      "start": 535.82
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 608,
+      "id": 11,
+      "original_description": "غزال تلبس البكيني",
+      "start": 604
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 765,
+      "id": 12,
+      "original_description": "غزال تلبس البكيني",
+      "start": 758
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1526.06,
+      "id": 13,
+      "original_description": "jerk",
+      "start": 1525.19
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1542.28,
+      "id": 14,
+      "original_description": "dumb",
+      "start": 1541.11
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1544.31,
+      "id": 15,
+      "original_description": "dumb",
+      "start": 1543.18
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1584.24,
+      "id": 16,
+      "original_description": "loser",
+      "start": 1582.68
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1821.16,
+      "id": 17,
+      "original_description": "god",
+      "start": 1820.25
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2158.45,
+      "id": 18,
+      "original_description": "dumb",
+      "start": 2157.46
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2400,
+      "id": 19,
+      "original_description": "مشهد نادي العراة",
+      "start": 2288
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2293.06,
+      "id": 20,
+      "original_description": "naked",
+      "start": 2291.86
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2301.75,
+      "id": 21,
+      "original_description": "naked",
+      "start": 2300.9
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2406.66,
+      "id": 22,
+      "original_description": "moron",
+      "start": 2405.67
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2419.62,
+      "id": 23,
+      "original_description": "moron",
+      "start": 2418.62
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2423.35,
+      "id": 24,
+      "original_description": "moron",
+      "start": 2422.19
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2721.51,
+      "id": 25,
+      "original_description": "loser",
+      "start": 2720.73
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2732.21,
+      "id": 26,
+      "original_description": "lowlife",
+      "start": 2730.89
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2853.39,
+      "id": 27,
+      "original_description": "butt",
+      "start": 2851.61
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2930.36,
+      "id": 28,
+      "original_description": "butt",
+      "start": 2929.15
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2932.93,
+      "id": 29,
+      "original_description": "butt",
+      "start": 2931.74
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2939.75,
+      "id": 30,
+      "original_description": "butt",
+      "start": 2938.7
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3560.68,
+      "id": 31,
+      "original_description": "dumber",
+      "start": 3559.65
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3640.21,
+      "id": 32,
+      "original_description": "butt",
+      "start": 3639.2
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3755.58,
+      "id": 33,
+      "original_description": "dumb",
+      "start": 3754.53
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4706.95,
+      "id": 34,
+      "original_description": "jerk",
+      "start": 4705.86
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4711.58,
+      "id": 35,
+      "original_description": "jerk",
+      "start": 4710.72
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4871.38,
+      "id": 36,
+      "original_description": "dumb",
+      "start": 4870
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4879.04,
+      "id": 37,
+      "original_description": "dumb",
+      "start": 4877.72
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4884.04,
+      "id": 38,
+      "original_description": "dumb",
+      "start": 4882.78
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5734.68,
+      "id": 39,
+      "original_description": "dumb",
+      "start": 5732.93
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5997,
+      "id": 40,
+      "original_description": "غزال تلبس البكيني",
+      "start": 5774
+    }
+  ],
+  "genre": "رسوم متحركة، كوميديا، مغامرة، تحري وجريمة",
+  "pg": "+7",
+  "platforms": {
+    "disney": {
+      "id": "319bcc7d-be84-4b00-8548-9e2ec0ae017b",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-319bcc7d-be84-4b00-8548-9e2ec0ae017b"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/w600_and_h900_face/grHh1QEH22WXvEcKPwnnG8DtlsO.jpg",
+  "title": "زوتروبوليس",
+  "type": "movie",
+  "year": 2016
+}

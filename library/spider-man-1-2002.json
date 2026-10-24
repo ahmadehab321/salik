@@ -1,0 +1,395 @@
+{
+  "addedAt": 1787378698332,
+  "category": "Tobey Phase",
+  "description": "يعتبر فيلم Spider-Man لعام 2002 من إخراج سام ريمي محطة فارقة في تاريخ سينما الأبطال الخارقين، حيث يروي قصة المراهق بيتر باركر الذي تتبدل حياته بعد تعرضه لعضة عنكبوت معدل وراثياً ليواجه الشرير جرين غوبلن",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 252.53,
+      "id": 1,
+      "original_description": "lame",
+      "start": 251.77
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 454.61,
+      "id": 2,
+      "original_description": "jerks",
+      "start": 454.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 738.04,
+      "id": 3,
+      "original_description": "ass",
+      "start": 737.59
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 740.54,
+      "id": 4,
+      "original_description": "ass",
+      "start": 739.84
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 747.8,
+      "id": 5,
+      "original_description": "ass",
+      "start": 747.43
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1338.84,
+      "id": 6,
+      "original_description": "freaking",
+      "start": 1337.55
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1376.64,
+      "id": 7,
+      "original_description": "freak",
+      "start": 1376.22
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1385.01,
+      "id": 8,
+      "original_description": "ass",
+      "start": 1384.67
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1433.87,
+      "id": 9,
+      "original_description": "jesus",
+      "start": 1433.04
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1436,
+      "id": 10,
+      "original_description": "freak",
+      "start": 1435.22
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1633.63,
+      "id": 11,
+      "original_description": "beer",
+      "start": 1632.92
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1635.38,
+      "id": 12,
+      "original_description": "beer",
+      "start": 1634.93
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1637.21,
+      "id": 13,
+      "original_description": "ass",
+      "start": 1636.62
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1638.06,
+      "id": 14,
+      "original_description": "beer",
+      "start": 1637.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1640.8,
+      "id": 15,
+      "original_description": "stupid",
+      "start": 1640.13
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2016.59,
+      "id": 16,
+      "original_description": "hell",
+      "start": 2016
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2160.75,
+      "id": 17,
+      "original_description": "بنات تلبس البكيني",
+      "start": 2134.88
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2211.62,
+      "id": 18,
+      "original_description": "بنات تلبس البكيني حول المذيع",
+      "start": 2207.87
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2244.85,
+      "id": 19,
+      "original_description": "moron",
+      "start": 2244.32
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2268.51,
+      "id": 20,
+      "original_description": "بنات تتنمر على رجل",
+      "start": 2244.81
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2306.74,
+      "id": 21,
+      "original_description": "freak",
+      "start": 2305.67
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2326.59,
+      "id": 22,
+      "original_description": "شخص يلقي تعليق ايحائي",
+      "start": 2322.8
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2355.68,
+      "id": 23,
+      "original_description": "تكسير شخص بالكرسي",
+      "start": 2333.42
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2356.25,
+      "id": 24,
+      "original_description": "ass",
+      "start": 2355.67
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2427.87,
+      "id": 25,
+      "original_description": "hell",
+      "start": 2427.16
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2900.71,
+      "id": 26,
+      "original_description": "hell",
+      "start": 2900.14
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 3186.1,
+      "id": 27,
+      "original_description": "فتاة تشرب السجائر",
+      "start": 3179.78
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3185.63,
+      "id": 28,
+      "original_description": "hot",
+      "start": 3185.18
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3289.97,
+      "id": 29,
+      "original_description": "\"ماري \" تخرج مكشوفة الساق",
+      "start": 3275.53
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3521.65,
+      "id": 30,
+      "original_description": "crap",
+      "start": 3521.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3522.72,
+      "id": 31,
+      "original_description": "crap",
+      "start": 3521.82
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3523.43,
+      "id": 32,
+      "original_description": "crap",
+      "start": 3522.38
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3811.83,
+      "id": 33,
+      "original_description": "hell",
+      "start": 3811.16
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3877.9,
+      "id": 34,
+      "original_description": "يتحولو إلى هياكل عظمية",
+      "start": 3876.7
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4622.65,
+      "id": 35,
+      "original_description": "صدر امرأة موصوف",
+      "start": 4619.27
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4689.08,
+      "id": 36,
+      "original_description": "امرأة تقبل رجل",
+      "start": 4665.25
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5145.87,
+      "id": 37,
+      "original_description": "creep",
+      "start": 5145.25
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5146.93,
+      "id": 38,
+      "original_description": "creep",
+      "start": 5146.2
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5347.46,
+      "id": 39,
+      "original_description": "stupid",
+      "start": 5346.73
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5829.11,
+      "id": 40,
+      "original_description": "fools",
+      "start": 5828.29
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6000.83,
+      "id": 41,
+      "original_description": "ass",
+      "start": 6000.53
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6006.36,
+      "id": 42,
+      "original_description": "ass",
+      "start": 6006.02
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6126.08,
+      "id": 43,
+      "original_description": "pissed",
+      "start": 6125.14
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6140.94,
+      "id": 44,
+      "original_description": "hell",
+      "start": 6140.1
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 6276.03,
+      "id": 45,
+      "original_description": "تدخل أداة الطيران إلى بطنه",
+      "start": 6272.9
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6505.21,
+      "id": 46,
+      "original_description": "رجل يقبل امرأة",
+      "start": 6500.56
+    }
+  ],
+  "genre": "Sci-Fi, Action",
+  "pg": "PG-13",
+  "platforms": {
+    "shahid": {
+      "id": "1018953",
+      "url": "https://shahid.mbc.net/ar/player/movies/spider-man/id-1018953"
+    },
+    "starzplay": {
+      "id": "24024104325",
+      "url": "https://starzplay.com/ar/movies/spiderman/24024104325"
+    },
+    "tod": {
+      "id": "spider-man-4k-5006986",
+      "url": "https://www.tod.tv/en/movies/english/spider-man-4k-5006986"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/hmOhNnyV0F1e3lhVO2jDS8tJfc6.jpg",
+  "title": "Spider-Man",
+  "type": "movie",
+  "year": 2002
+}

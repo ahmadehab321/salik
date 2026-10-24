@@ -1,0 +1,83 @@
+{
+  "episode": 10,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 167.72,
+      "id": 1,
+      "original_description": "stupid",
+      "start": 167.32
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 197.72,
+      "id": 2,
+      "original_description": "hell",
+      "start": 197.19
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 262.58,
+      "id": 3,
+      "original_description": "lame",
+      "start": 262.1
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 344.76,
+      "id": 4,
+      "original_description": "stupid",
+      "start": 344.54
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 363.73,
+      "id": 5,
+      "original_description": "crap",
+      "start": 363.41
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 602.76,
+      "id": 6,
+      "original_description": "hot",
+      "start": 602.59
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 974.3,
+      "id": 7,
+      "original_description": "hell",
+      "start": 973.78
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1084.09,
+      "id": 8,
+      "original_description": "lame",
+      "start": 1083.75
+    }
+  ],
+  "parent_series_id": "the-middle",
+  "platforms": {
+    "netflix": {
+      "id": 82170864,
+      "url": "https://www.netflix.com/watch/82170864"
+    },
+    "osnplus": {
+      "id": 69076,
+      "url": "https://osnplus.com/en-eg/episode/a-simple-christmas-69076/watch?contentStreamingDeeplinkQueryParam=false&skipRecap=true"
+    }
+  },
+  "season": 2,
+  "title": "The Middle - S2E10",
+  "type": "episode"
+}

@@ -1,0 +1,394 @@
+{
+  "category": "Crime, Thriller",
+  "description": "تدور قصته حول اختفاء زوجة رجل أعمال فجأة بعد حضور حفلة مشبوهة، وتولّي الشرطة التحقيق مع الحضور لكشف اللغز",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 800.81,
+      "id": 1,
+      "original_description": "يا دكر ، يابن الكلب",
+      "start": 794.47
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1077.73,
+      "id": 2,
+      "original_description": "عبده الزبالة",
+      "start": 1077.25
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1079.53,
+      "id": 3,
+      "original_description": "عبده الزبالة",
+      "start": 1079.03
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1305.67,
+      "id": 4,
+      "original_description": "شخص يشرب السيغار",
+      "start": 1292.16
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1421.15,
+      "id": 5,
+      "original_description": "شخص ينظر إلى مفاتن امرأة ويقول تعليق ايحائي",
+      "start": 1418.19
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1492.05,
+      "id": 6,
+      "original_description": "ملط",
+      "start": 1421.15
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1556.92,
+      "id": 7,
+      "original_description": "حفلة بها خمور ومخدرات",
+      "start": 1544.36
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1589.3,
+      "id": 8,
+      "original_description": "شخص يخرج جوينت حشيش",
+      "start": 1579.65
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1879.67,
+      "id": 9,
+      "original_description": "حفلة بها خمور ومخدرات",
+      "start": 1871.8
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1935.69,
+      "id": 10,
+      "original_description": "يعط",
+      "start": 1935.18
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1939.26,
+      "id": 11,
+      "original_description": "عطيت ",
+      "start": 1938.8
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1953.07,
+      "id": 12,
+      "original_description": "الزفت",
+      "start": 1952.67
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1992.21,
+      "id": 13,
+      "original_description": "وحياتي عندك",
+      "start": 1991.52
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2040.49,
+      "id": 14,
+      "original_description": "فتاة تخرج جوينت حشيش",
+      "start": 2024.62
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2164.21,
+      "id": 15,
+      "original_description": " مع خمور ونساءالرقص على أغنية مهرجانات",
+      "start": 2100.46
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2268.15,
+      "id": 16,
+      "original_description": "قيء",
+      "start": 2262.56
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2628.89,
+      "id": 17,
+      "original_description": "والنعمة",
+      "start": 2628.25
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2903.99,
+      "id": 18,
+      "original_description": "حفلة بها خمور ومخدرات",
+      "start": 2880.81
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2912.85,
+      "id": 19,
+      "original_description": "انتي سكرتي ",
+      "start": 2908.76
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2921.64,
+      "id": 20,
+      "original_description": "الزفتة",
+      "start": 2921.13
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 2945.11,
+      "id": 21,
+      "original_description": "اغنية جو تو هيل",
+      "start": 2933.63
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2960.86,
+      "id": 22,
+      "original_description": "زبالة",
+      "start": 2960.25
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 3049.2,
+      "id": 23,
+      "original_description": "انت سكران",
+      "start": 3047.93
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 3104.1,
+      "id": 24,
+      "original_description": "والختمة الشريفة",
+      "start": 3102.96
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 3649.46,
+      "id": 25,
+      "original_description": "ورحمة أبويا",
+      "start": 3649.07
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 3733.38,
+      "id": 26,
+      "original_description": "حفلة بها خمور ومخدرات",
+      "start": 3725.85
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3896.87,
+      "id": 27,
+      "original_description": "رقص على أغنية جو تو هيل ",
+      "start": 3849.87
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3912.47,
+      "id": 28,
+      "original_description": "قيء",
+      "start": 3909.94
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 4011.88,
+      "id": 29,
+      "original_description": "يا رخامة أمه",
+      "start": 4010.58
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4012.74,
+      "id": 30,
+      "original_description": "زفت ",
+      "start": 4012.36
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4330.1,
+      "id": 31,
+      "original_description": "هبلة",
+      "start": 4329.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4366.3,
+      "id": 32,
+      "original_description": "زي الزفت",
+      "start": 4365.28
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 4375.06,
+      "id": 33,
+      "original_description": "حفلة بها خمور ومخدرات",
+      "start": 4367.6
+    },
+    {
+      "action_type": "blur",
+      "category": "substance abuse",
+      "end": 4405.54,
+      "id": 34,
+      "original_description": "السكرتيرة تشرب السجائر",
+      "start": 4402.17
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4532.48,
+      "id": 35,
+      "original_description": "زفت",
+      "start": 4532.17
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 4878.9,
+      "id": 36,
+      "original_description": "شخص يشرب السجائر",
+      "start": 4873
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 4911.39,
+      "id": 37,
+      "original_description": "اشخاص يشربون السجائر",
+      "start": 4887.97
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4962.35,
+      "id": 38,
+      "original_description": "يا ابن الكلب",
+      "start": 4961.81
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 5038.9,
+      "id": 39,
+      "original_description": "شخص يخنق الآخر بحبل",
+      "start": 5015.06
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5060.4,
+      "id": 40,
+      "original_description": "البقية في حياتك",
+      "start": 5058.45
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5268.58,
+      "id": 41,
+      "original_description": "بروح أمه",
+      "start": 5268.27
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5272.61,
+      "id": 42,
+      "original_description": "الحلف بغير الله: وديني",
+      "start": 5272.2
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5406.26,
+      "id": 43,
+      "original_description": "تودد رجل لإمرأة",
+      "start": 5392.58
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5431.87,
+      "id": 44,
+      "original_description": "وسخة",
+      "start": 5431.17
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 5483.66,
+      "id": 45,
+      "original_description": "فتاة تلبس النقاب وتكلم شخص",
+      "start": 5477.12
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 5520.07,
+      "id": 46,
+      "original_description": "السكرتيرة تأخذ الفلوس وتلبس النقاب",
+      "start": 5514.58
+    },
+    {
+      "action_type": "blur",
+      "category": "language",
+      "end": 5546.52,
+      "id": 47,
+      "original_description": "الضابط يشعل سيجارة ويحل لغز القضية ويصفق",
+      "start": 5527.63
+    }
+  ],
+  "genre": "Thriller",
+  "pg": "PG",
+  "platforms": {
+    "dailymotion": {
+      "id": "x8gxvwa",
+      "url": "https://www.dailymotion.com/video/x8gxvwa"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/asOQbAa5vQFmCVuJFUUP43TJ9u2.jpg",
+  "title": "الحفلة",
+  "type": "movie",
+  "year": 2013
+}

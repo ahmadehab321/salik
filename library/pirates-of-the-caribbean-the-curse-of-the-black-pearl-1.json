@@ -1,0 +1,363 @@
+{
+  "addedAt": 1787045306310,
+  "category": "Fantasy, Action-Adventure",
+  "description": "فيلم قراصنة الكاريبي: لعنة اللؤلؤة السوداء هو فيلم مغامرات وحركة أمريكي صدر عام 2003، من إنتاج شركة والت ديزني وإخراج غور فيربينسكي. تدور قصة الفيلم حول الكابتن الخالد الظرافة جاك سبارو والحداد ويل تورنر اللذين يتحالفان لإنقاذ إليزابيث سوان ابنة الحاكم، بعد أن اختطفها الكابتن باربوسا وطاقمه الملعون الذين يتحولون إلى أموات أحياناً في ضوء القمر بسبب لعنة الذهب الأسطورية.",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 169.56,
+      "id": 1,
+      "original_description": "god",
+      "start": 168.89
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 775.76,
+      "id": 2,
+      "original_description": "damned",
+      "start": 775.03
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 779.54,
+      "id": 3,
+      "original_description": "hell",
+      "start": 778.69
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 790.32,
+      "id": 4,
+      "original_description": "damned",
+      "start": 789.53
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 792.63,
+      "id": 5,
+      "original_description": "hell",
+      "start": 791.88
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 839.05,
+      "id": 6,
+      "original_description": "شخص يقول تعليق ايحائي",
+      "start": 834.99
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1854.73,
+      "id": 7,
+      "original_description": "شخص يخرج عينه الزجاجية",
+      "start": 1842.75
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1880.3,
+      "id": 8,
+      "original_description": "فأس في ظهر شخص",
+      "start": 1875.82
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1979.86,
+      "id": 9,
+      "original_description": "شخص يحترق من النار",
+      "start": 1975.6
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2223.6,
+      "id": 10,
+      "original_description": "hell",
+      "start": 2222.99
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2237.76,
+      "id": 11,
+      "original_description": "hell",
+      "start": 2237.06
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2958.9,
+      "id": 12,
+      "original_description": "bloody",
+      "start": 2957.99
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 3089.51,
+      "id": 13,
+      "original_description": "خمور وبنات مفاتنهم ظاهرة",
+      "start": 3048.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3093.72,
+      "id": 14,
+      "original_description": "idiot",
+      "start": 3093.09
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3179.4,
+      "id": 15,
+      "original_description": "fools",
+      "start": 3178.73
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3183.4,
+      "id": 16,
+      "original_description": "fool",
+      "start": 3182.72
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3208.66,
+      "id": 17,
+      "original_description": "امرأة تشرب الخمر وصدرها ظاهر",
+      "start": 3202.46
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3282.42,
+      "id": 18,
+      "original_description": "شخص يقول تعليق ايحائي",
+      "start": 3278.85
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3280.16,
+      "id": 19,
+      "original_description": "naked",
+      "start": 3279.48
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 3299.33,
+      "id": 20,
+      "original_description": "خنزير مطبوخ",
+      "start": 3295.78
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 3332.54,
+      "id": 21,
+      "original_description": "شخص يعرض عليها شرب الخمر",
+      "start": 3327.55
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3590.68,
+      "id": 22,
+      "original_description": "قرد مشوه",
+      "start": 3585.34
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4277.12,
+      "id": 23,
+      "original_description": "stupid",
+      "start": 4276.27
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4548.45,
+      "id": 24,
+      "original_description": "damn",
+      "start": 4547.92
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 5148.4,
+      "id": 25,
+      "original_description": "شوكة تطعن عين شخص",
+      "start": 5133.6
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5328.45,
+      "id": 26,
+      "original_description": "bloody",
+      "start": 5327.44
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5493.44,
+      "id": 27,
+      "original_description": "stupid",
+      "start": 5492.66
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5570.96,
+      "id": 28,
+      "original_description": "bastard",
+      "start": 5570.22
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5778.89,
+      "id": 29,
+      "original_description": "bloody",
+      "start": 5777.95
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 5919.95,
+      "id": 30,
+      "original_description": "اشخاص يشربون الخمر",
+      "start": 5803.58
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5986.76,
+      "id": 31,
+      "original_description": "bloody",
+      "start": 5985.5
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6130.14,
+      "id": 32,
+      "original_description": "stupid",
+      "start": 6129.44
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6249.14,
+      "id": 33,
+      "original_description": "prick",
+      "start": 6248.4
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6669.28,
+      "id": 34,
+      "original_description": "fool",
+      "start": 6668.68
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6736.16,
+      "id": 35,
+      "original_description": "stupid",
+      "start": 6735.37
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7108.56,
+      "id": 36,
+      "original_description": "bloody",
+      "start": 7107.64
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7127.25,
+      "id": 37,
+      "original_description": "bloody",
+      "start": 7126.4
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 7173.08,
+      "id": 38,
+      "original_description": "خروج العين الزجاجية",
+      "start": 7164.5
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 7214.15,
+      "id": 39,
+      "original_description": "تكسير رأس",
+      "start": 7213.48
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 7372.47,
+      "id": 40,
+      "original_description": "تركيب العين الزجاجية",
+      "start": 7365.3
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 7534.98,
+      "id": 41,
+      "original_description": "براز طائر على شخص",
+      "start": 7528.83
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7783.63,
+      "id": 42,
+      "original_description": "idiot",
+      "start": 7783.12
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 7909.41,
+      "id": 43,
+      "original_description": "رجل يقبل امرأة",
+      "start": 7892.71
+    }
+  ],
+  "genre": "Fantasy, Action-Adventure",
+  "pg": "PG-13",
+  "platforms": {
+    "disney": {
+      "id": "2d6036d7-f3b4-42c3-b1d3-cd5dd79bf307",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-2d6036d7-f3b4-42c3-b1d3-cd5dd79bf307"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/A9EsD5fTXCU2PEC5rnuLMoUHNJj.jpg",
+  "title": "Pirates of The Caribbean (1): the Curse of The Black Pearl",
+  "type": "movie",
+  "year": 2003
+}

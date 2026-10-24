@@ -1,0 +1,266 @@
+{
+  "category": "Comedy, Romance",
+  "description": "صاحب وكالة إعلانات يستلقي في المستشفى بعظام مكسورة، بينما يروي لطبيبته القصة التي أدت به إلى ذلك الموقف، عن كيفية وقوعه في حب إمرأتين مختلفتين تماماً ومقارنته بينهما.",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 305.23,
+      "id": 1,
+      "original_description": "وضع الدعاء",
+      "start": 304.8
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 363.24,
+      "id": 2,
+      "original_description": "شخص يشرب سجائر ",
+      "start": 360.09
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 483.91,
+      "id": 3,
+      "original_description": "لطخ",
+      "start": 483.53
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 489.84,
+      "id": 4,
+      "original_description": "لطخ",
+      "start": 484.14
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 512.63,
+      "id": 5,
+      "original_description": "المايوه الأحمر",
+      "start": 511.3
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 645.89,
+      "id": 6,
+      "original_description": "مزز",
+      "start": 645.4
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1224.19,
+      "id": 7,
+      "original_description": "يا بنت المجنونة",
+      "start": 1223.38
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1988.99,
+      "id": 8,
+      "original_description": "ايحاء جنسي \"حتة طير\"",
+      "start": 1982.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2209.01,
+      "id": 9,
+      "original_description": "يخربيت امك يا شيخة",
+      "start": 2207.58
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2514.67,
+      "id": 10,
+      "original_description": "الزبالة",
+      "start": 2514.2
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2519.14,
+      "id": 11,
+      "original_description": "الحمار",
+      "start": 2518.73
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2716.3,
+      "id": 12,
+      "original_description": "يا نهار اسود",
+      "start": 2715.19
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 2979.38,
+      "id": 13,
+      "original_description": "ماية ولا طينة",
+      "start": 2977.52
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3170.06,
+      "id": 14,
+      "original_description": "مغازلة الجرسونة",
+      "start": 3156.06
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 3385.37,
+      "id": 15,
+      "original_description": "ايحاءات جنسية عن اللف",
+      "start": 3360.81
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 3482.14,
+      "id": 16,
+      "original_description": "شخص يشرب السجائر",
+      "start": 3475.6
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3795.84,
+      "id": 17,
+      "original_description": "تظهر امرأة عارية بين الكتب",
+      "start": 3790.69
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 3975.19,
+      "id": 18,
+      "original_description": "سب ولعن",
+      "start": 3971.67
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 4219.74,
+      "id": 19,
+      "original_description": "ايحاء جنسي عن الصدر والورك",
+      "start": 4218.8
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 4435.28,
+      "id": 20,
+      "original_description": "منبه مكتوب عليه عبارات ايحائية",
+      "start": 4423.35
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 4680.26,
+      "id": 21,
+      "original_description": "شخص يشرب السجائر",
+      "start": 4671.99
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4946.74,
+      "id": 22,
+      "original_description": "حمار",
+      "start": 4946.26
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5150.75,
+      "id": 23,
+      "original_description": "يا نهارك اسود",
+      "start": 5149.94
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5495.08,
+      "id": 24,
+      "original_description": "حمار",
+      "start": 5494.52
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5501.51,
+      "id": 25,
+      "original_description": "حمار",
+      "start": 5500.58
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5763.35,
+      "id": 26,
+      "original_description": "يا روح امك",
+      "start": 5762.89
+    },
+    {
+      "action_type": "blur",
+      "category": "nudity",
+      "end": 6308.29,
+      "id": 27,
+      "original_description": "\"بلبل\" يظهر ملابس داخلية عليها سوبرمان",
+      "start": 6300.76
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6334.43,
+      "id": 28,
+      "original_description": "ابن الكلب",
+      "start": 6333.74
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6474.15,
+      "id": 29,
+      "original_description": "واطية",
+      "start": 6473.81
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 6481.55,
+      "id": 30,
+      "original_description": "رقص كباريهات",
+      "start": 6480.22
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 6501.84,
+      "id": 31,
+      "original_description": "ذكر نوع مخدرات",
+      "start": 6497.46
+    }
+  ],
+  "genre": "Comedy, Romance",
+  "pg": "PG",
+  "platforms": {
+    "watchit": {
+      "id": 105,
+      "url": "https://www.watchit.com/#/details/movies/105"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/oJcjFpLVgneQwuhgojR23fs7K8V.jpg",
+  "title": "بلبل حيران",
+  "type": "movie",
+  "year": 2010
+}

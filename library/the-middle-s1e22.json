@@ -1,0 +1,115 @@
+{
+  "episode": 22,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 75,
+      "id": 1,
+      "original_description": "stupid",
+      "start": 74.62
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 82.08,
+      "id": 2,
+      "original_description": "crap",
+      "start": 81.83
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 287.96,
+      "id": 3,
+      "original_description": "crap",
+      "start": 287.73
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 353.129191,
+      "id": 4,
+      "original_description": "شخص يعلق تعليقا جنسيا",
+      "start": 345.199188
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 695.834189,
+      "id": 5,
+      "original_description": "قيء",
+      "start": 658.034761
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 703.48,
+      "id": 6,
+      "original_description": "asses",
+      "start": 703.1
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 732.375609,
+      "id": 7,
+      "original_description": "شخص يتكلم عن الخمر",
+      "start": 727.805198
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 782.36,
+      "id": 8,
+      "original_description": "stupid",
+      "start": 781.95
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 937.93,
+      "id": 9,
+      "original_description": "damn",
+      "start": 937.67
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 939.27,
+      "id": 10,
+      "original_description": "damn",
+      "start": 939.01
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 940.83,
+      "id": 11,
+      "original_description": "damn",
+      "start": 940.57
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 976.93,
+      "id": 12,
+      "original_description": "sucking",
+      "start": 976.59
+    }
+  ],
+  "parent_series_id": "the-middle",
+  "platforms": {
+    "netflix": {
+      "id": "82170852",
+      "url": "https://www.netflix.com/watch/82170852"
+    },
+    "osnplus": {
+      "id": 69004,
+      "url": "https://osnplus.com/en-eg/episode/mothers-day-69004/watch?contentStreamingDeeplinkQueryParam=false"
+    }
+  },
+  "season": 1,
+  "title": "The Middle - S1E22",
+  "type": "episode"
+}

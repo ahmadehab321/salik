@@ -1,0 +1,75 @@
+{
+  "episode": 16,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 221.49,
+      "id": 1,
+      "original_description": "stupid",
+      "start": 221.24
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 222.73,
+      "id": 2,
+      "original_description": "stupid",
+      "start": 222.48
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 326.27,
+      "id": 3,
+      "original_description": "crap",
+      "start": 325.99
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 493.43,
+      "id": 4,
+      "original_description": "hump",
+      "start": 493.17
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 497.8,
+      "id": 5,
+      "original_description": "hump",
+      "start": 497.35
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 621.99,
+      "id": 6,
+      "original_description": "hot",
+      "start": 621.76
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 675.61,
+      "id": 7,
+      "original_description": "poop",
+      "start": 675.2
+    }
+  ],
+  "parent_series_id": "the-middle",
+  "platforms": {
+    "netflix": {
+      "id": "82170848",
+      "url": "https://www.netflix.com/watch/82170848"
+    },
+    "osnplus": {
+      "id": 68995,
+      "url": "https://osnplus.com/en-eg/episode/the-bee-68995/watch?contentStreamingDeeplinkQueryParam=false"
+    }
+  },
+  "season": 1,
+  "title": "The Middle - S1E16",
+  "type": "episode"
+}

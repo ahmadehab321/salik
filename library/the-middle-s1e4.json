@@ -1,0 +1,99 @@
+{
+  "episode": 4,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 9.85,
+      "id": 1,
+      "original_description": "crap",
+      "start": 9.59
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 246.73,
+      "id": 2,
+      "original_description": "damn",
+      "start": 246.45
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 259.83,
+      "id": 3,
+      "original_description": "hell",
+      "start": 259.59
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 402.54,
+      "id": 4,
+      "original_description": "jesus",
+      "start": 402.17
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 440.91,
+      "id": 5,
+      "original_description": "stupid",
+      "start": 440.7
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 446.42,
+      "id": 6,
+      "original_description": "hell",
+      "start": 446.21
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 875.04,
+      "id": 7,
+      "original_description": "damn",
+      "start": 874.85
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 976.89,
+      "id": 8,
+      "original_description": "stupid",
+      "start": 976.55
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1037.19,
+      "id": 9,
+      "original_description": "crap",
+      "start": 1036.84
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1083.97,
+      "id": 10,
+      "original_description": "sex",
+      "start": 1083.71
+    }
+  ],
+  "parent_series_id": "the-middle",
+  "platforms": {
+    "netflix": {
+      "id": "82170835",
+      "url": "https://www.netflix.com/watch/82170835"
+    },
+    "osnplus": {
+      "id": "68989",
+      "url": "https://osnplus.com/en-eg/series/the-middle-68502"
+    }
+  },
+  "season": 1,
+  "title": "The Middle - S1E4",
+  "type": "episode"
+}

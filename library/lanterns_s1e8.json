@@ -1,0 +1,328 @@
+{
+  "episode": 8,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 310,
+      "id": 1,
+      "original_description": "asshole",
+      "start": 309.04
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 318.01,
+      "id": 2,
+      "original_description": "asshole",
+      "start": 317.24
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 320.89,
+      "id": 3,
+      "original_description": "asshole",
+      "start": 319.89
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 365.56,
+      "id": 4,
+      "original_description": "shit",
+      "start": 364.7
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 399.04,
+      "id": 5,
+      "original_description": "fucked",
+      "start": 398.12
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 489.42,
+      "id": 6,
+      "original_description": "رجل يقبل امرأة",
+      "start": 478.65
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 499.64,
+      "id": 7,
+      "original_description": "رجل يقبل امرأة",
+      "start": 494.19
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 529.68,
+      "id": 8,
+      "original_description": "fuck",
+      "start": 528.08
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 533.8,
+      "id": 9,
+      "original_description": "fuck",
+      "start": 532.32
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 769.63,
+      "id": 10,
+      "original_description": "تعذيب شخص بالغرق",
+      "start": 754.59
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 913.87,
+      "id": 11,
+      "original_description": "fuck",
+      "start": 913.23
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 985.52,
+      "id": 12,
+      "original_description": "dumb",
+      "start": 984.89
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 995.47,
+      "id": 13,
+      "original_description": "pisses",
+      "start": 994.7
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1108.09,
+      "id": 14,
+      "original_description": "fuck",
+      "start": 1107.54
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1191.28,
+      "id": 15,
+      "original_description": "ركل شخص",
+      "start": 1183.87
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1533.84,
+      "id": 16,
+      "original_description": "fucking",
+      "start": 1532.97
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1920.32,
+      "id": 17,
+      "original_description": "jesus",
+      "start": 1919.36
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2144.88,
+      "id": 18,
+      "original_description": "shitty",
+      "start": 2144.07
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2190.91,
+      "id": 19,
+      "original_description": "fucking",
+      "start": 2189.9
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2219.46,
+      "id": 20,
+      "original_description": "goddammit",
+      "start": 2218.69
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2593.25,
+      "id": 21,
+      "original_description": "jesus",
+      "start": 2592.52
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2602.32,
+      "id": 22,
+      "original_description": "رسمة لعضو ذكري",
+      "start": 2599.8
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2606.36,
+      "id": 23,
+      "original_description": "shit",
+      "start": 2605.74
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2617.31,
+      "id": 24,
+      "original_description": "fucking",
+      "start": 2616.48
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2623.92,
+      "id": 25,
+      "original_description": "shit",
+      "start": 2623.47
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2643.92,
+      "id": 26,
+      "original_description": "fuck",
+      "start": 2643
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2681.36,
+      "id": 27,
+      "original_description": "fuck",
+      "start": 2680.62
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2715.18,
+      "id": 28,
+      "original_description": "bullshit",
+      "start": 2713.91
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2754.08,
+      "id": 29,
+      "original_description": "fucking",
+      "start": 2753.06
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2754.32,
+      "id": 30,
+      "original_description": "idiot",
+      "start": 2753.68
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2764.82,
+      "id": 31,
+      "original_description": "شخص يقوم بعمل اشارة جنسية",
+      "start": 2761.45
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2774.51,
+      "id": 32,
+      "original_description": "douchebag",
+      "start": 2773.27
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2775.83,
+      "id": 33,
+      "original_description": "jesus",
+      "start": 2775.28
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2776.26,
+      "id": 34,
+      "original_description": "christ",
+      "start": 2775.43
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2780.48,
+      "id": 35,
+      "original_description": "hell",
+      "start": 2779.8
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2809.14,
+      "id": 36,
+      "original_description": "jesus",
+      "start": 2808.45
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2856.86,
+      "id": 37,
+      "original_description": "fuck",
+      "start": 2856.16
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2890.6,
+      "id": 38,
+      "original_description": "fucking",
+      "start": 2889.85
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2891.6,
+      "id": 39,
+      "original_description": "fuckin'",
+      "start": 2890.85
+    }
+  ],
+  "parent_series_id": "lanterns",
+  "platforms": {
+    "osnplus": {
+      "id": "dirt-and-stars-77519",
+      "offset_seconds": 0,
+      "url": "https://osnplus.com/en-eg/episode/dirt-and-stars-77519/watch"
+    }
+  },
+  "season": 1,
+  "title": "Lanterns - S1E8",
+  "type": "episode"
+}

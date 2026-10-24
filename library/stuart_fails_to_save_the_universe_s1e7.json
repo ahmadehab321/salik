@@ -1,0 +1,192 @@
+{
+  "episode": 7,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 47.65,
+      "id": 1,
+      "original_description": "sex",
+      "start": 47.16
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 163.24,
+      "id": 2,
+      "original_description": "damn",
+      "start": 162.16
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 203.8,
+      "id": 3,
+      "original_description": "hot",
+      "start": 202.96
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 216.22,
+      "id": 4,
+      "original_description": "شخص يلقي تعليق شاذ",
+      "start": 211.75
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 296.28,
+      "id": 5,
+      "original_description": "hell",
+      "start": 295.56
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 335,
+      "id": 6,
+      "original_description": "asshole",
+      "start": 333.53
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 432.25,
+      "id": 7,
+      "original_description": "شخص يقول تعليق ايحائي",
+      "start": 422.47
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 472.03,
+      "id": 8,
+      "original_description": "bitch",
+      "start": 471.07
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 486.67,
+      "id": 9,
+      "original_description": "vodka",
+      "start": 485.78
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 500.72,
+      "id": 10,
+      "original_description": "asshole",
+      "start": 499.8
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 502.76,
+      "id": 11,
+      "original_description": "asshole",
+      "start": 501.44
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 518.33,
+      "id": 12,
+      "original_description": "alcoholic",
+      "start": 517.28
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 595.64,
+      "id": 13,
+      "original_description": "حديث عن ممارسة الزنا",
+      "start": 579.38
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 581.04,
+      "id": 14,
+      "original_description": "sex",
+      "start": 580.39
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 604.03,
+      "id": 15,
+      "original_description": "ass",
+      "start": 603.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 648.88,
+      "id": 16,
+      "original_description": "shit",
+      "start": 648.21
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 683.14,
+      "id": 17,
+      "original_description": "dumb",
+      "start": 682.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 694.49,
+      "id": 18,
+      "original_description": "hot",
+      "start": 693.66
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 705.82,
+      "id": 19,
+      "original_description": "damn",
+      "start": 705.28
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 719.82,
+      "id": 20,
+      "original_description": "shit",
+      "start": 719.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 797.36,
+      "id": 21,
+      "original_description": "shit",
+      "start": 796.51
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 811.5,
+      "id": 22,
+      "original_description": "fuck",
+      "start": 810.4
+    }
+  ],
+  "parent_series_id": "stuart_fails_to_save_the_universe",
+  "platforms": {
+    "osnplus": {
+      "id": "spoiler-dexys-midnight-runners-get-a-royalty-76719",
+      "offset_seconds": 0,
+      "url": "https://osnplus.com/en-eg/series/spoiler-dexys-midnight-runners-get-a-royalty-76719"
+    }
+  },
+  "season": 1,
+  "title": "Stuart Fails to Save The Universe - S1E7",
+  "type": "episode"
+}

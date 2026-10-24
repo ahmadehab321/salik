@@ -1,0 +1,184 @@
+{
+  "episode": 2,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6.33,
+      "id": 1,
+      "original_description": "shit",
+      "start": 5.84
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 116.69,
+      "id": 2,
+      "original_description": "sex",
+      "start": 116.2
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 124.99,
+      "id": 3,
+      "original_description": "hell",
+      "start": 124.43
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 177.2,
+      "id": 4,
+      "original_description": "hell",
+      "start": 176.32
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 198.26,
+      "id": 5,
+      "original_description": "damn",
+      "start": 197.7
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 203.15,
+      "id": 6,
+      "original_description": "stupid",
+      "start": 202.52
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 288.72,
+      "id": 7,
+      "original_description": "hell",
+      "start": 288.14
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 388.2,
+      "id": 8,
+      "original_description": "idiot",
+      "start": 386.2
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 522.09,
+      "id": 9,
+      "original_description": "stupid",
+      "start": 521.19
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 522.44,
+      "id": 10,
+      "original_description": "stupid",
+      "start": 521.74
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 828.4,
+      "id": 11,
+      "original_description": "motherfucker",
+      "start": 827.22
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1066.84,
+      "id": 12,
+      "original_description": "shit",
+      "start": 1065.98
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1099,
+      "id": 13,
+      "original_description": "idiot",
+      "start": 1098.38
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1146.78,
+      "id": 14,
+      "original_description": "dummies",
+      "start": 1145.66
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1156.38,
+      "id": 15,
+      "original_description": "أفعى تخرج من فم شخص",
+      "start": 1151.86
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1178.72,
+      "id": 16,
+      "original_description": "asshole",
+      "start": 1178.02
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1180.36,
+      "id": 17,
+      "original_description": "asshole",
+      "start": 1179.52
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1181.56,
+      "id": 18,
+      "original_description": "asshole",
+      "start": 1180.92
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1215.4,
+      "id": 19,
+      "original_description": "شخص يلقي تعليق جنسي",
+      "start": 1198.15
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1200.37,
+      "id": 20,
+      "original_description": "asshole",
+      "start": 1199.47
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1203.47,
+      "id": 21,
+      "original_description": "asshole",
+      "start": 1202.34
+    }
+  ],
+  "parent_series_id": "stuart_fails_to_save_the_universe",
+  "platforms": {
+    "osnplus": {
+      "id": 75828,
+      "offset_seconds": 0,
+      "url": "https://osnplus.com/en-eg/series/spoiler-zacks-in-this-one-75828"
+    }
+  },
+  "season": 1,
+  "title": "Stuart Fails to Save The Universe - S1E2",
+  "type": "episode"
+}

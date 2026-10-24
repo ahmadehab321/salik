@@ -1,0 +1,74 @@
+{
+  "episode": 9,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1701.91,
+      "id": 1,
+      "original_description": "علاء الكلب",
+      "start": 1701.83
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1964.53,
+      "id": 2,
+      "original_description": "غبي",
+      "start": 1964.02
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1966.64,
+      "id": 3,
+      "original_description": "غبي ليه",
+      "start": 1966.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2059.45,
+      "id": 4,
+      "original_description": "جاموسة",
+      "start": 2058.71
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2064.02,
+      "id": 5,
+      "original_description": "جاموسة",
+      "start": 2063.36
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2142.13,
+      "id": 6,
+      "original_description": "حتة دين مفاجأة",
+      "start": 2141.78
+    }
+  ],
+  "parent_series_id": "Al-Sofara",
+  "platforms": {
+    "shahid": {
+      "id": "981384",
+      "offset_seconds": 15,
+      "url": "https://shahid.mbc.net/ar/player/episodes/%D8%A7%D9%84%D8%B5%D9%81%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%85-1-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9-1/id-981384"
+    },
+    "starzplay": {
+      "id": "s1e9",
+      "offset_seconds": 0,
+      "url": "https://starzplay.com/ar/watch/series/al-sofara/648572456358/s1e9"
+    },
+    "watchit": {
+      "id": "19414",
+      "offset_seconds": 0,
+      "url": "https://www.watchit.com/#/details/series/860/1006/19414/play"
+    }
+  },
+  "season": 1,
+  "title": "Al-sofara - S1E9",
+  "type": "episode"
+}

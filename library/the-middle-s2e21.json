@@ -1,0 +1,95 @@
+{
+  "episode": 21,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 105.6,
+      "id": 1,
+      "original_description": "stupid",
+      "start": 104.77
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 168.93,
+      "id": 2,
+      "original_description": "jerk",
+      "start": 168.25
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 314.82,
+      "id": 3,
+      "original_description": "damn",
+      "start": 314.36
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 330.01,
+      "id": 4,
+      "original_description": "stupid",
+      "start": 329.38
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 388.57,
+      "id": 5,
+      "original_description": "crap",
+      "start": 387.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 433.76,
+      "id": 6,
+      "original_description": "hell",
+      "start": 433.14
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 830.48,
+      "id": 7,
+      "original_description": "stupid",
+      "start": 829.71
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 835.81,
+      "id": 8,
+      "original_description": "crappy",
+      "start": 835.09
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1052.31,
+      "id": 9,
+      "original_description": "crappy",
+      "start": 1051.48
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1150.88,
+      "id": 10,
+      "original_description": "crappy",
+      "start": 1150.1
+    }
+  ],
+  "parent_series_id": "the-middle",
+  "platforms": {
+    "netflix": {
+      "id": 82170875,
+      "url": "https://www.netflix.com/watch/82170875"
+    }
+  },
+  "season": 2,
+  "title": "The Middle - S2E21",
+  "type": "episode"
+}

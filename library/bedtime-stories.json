@@ -1,0 +1,661 @@
+{
+  "addedAt": 1790870975593,
+  "category": "Adam Sandler",
+  "description": "يعمل \"سكيترز برونسون\" (آدم ساندلر) كمصلح عام في فندق ضخم حلم يومًا بإدارته.\nتتغير حياته عندما يطلب منه أخته الاعتناء بطفليها لعدة أيام، فيبدأ برواية قصص خيالية لهم قبل النوم لتسليتهم.\nيكتشف سكيترز أن الأحداث والتفاصيل الخيالية التي يضيفها الأطفال إلى قصصه تتحقق بدقة شديدة في أرض الواقع وفي حياته اليومية.",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 228.5,
+      "id": 1,
+      "original_description": "bloody",
+      "start": 227.06
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 292.68,
+      "id": 2,
+      "original_description": "alcohol",
+      "start": 291.43
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 476.67,
+      "id": 3,
+      "original_description": "god",
+      "start": 476
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 503.6,
+      "id": 4,
+      "original_description": "hot",
+      "start": 502.82
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 726.83,
+      "id": 5,
+      "original_description": "stupid",
+      "start": 725.79
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 937.92,
+      "id": 6,
+      "original_description": "sexy",
+      "start": 937.15
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1160.11,
+      "id": 7,
+      "original_description": "butt",
+      "start": 1159.07
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1218.57,
+      "id": 8,
+      "original_description": "butt",
+      "start": 1217.42
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1223.36,
+      "id": 9,
+      "original_description": "butt",
+      "start": 1222.49
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1302.54,
+      "id": 10,
+      "original_description": "butt",
+      "start": 1301.64
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1355.78,
+      "id": 11,
+      "original_description": "butt",
+      "start": 1354.96
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1398.222,
+      "id": 12,
+      "original_description": "امرأة بالبكيني",
+      "start": 1394.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1733.44,
+      "id": 13,
+      "original_description": "hot",
+      "start": 1732.12
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2128.344,
+      "id": 14,
+      "original_description": "ضرطة حصان",
+      "start": 2122.866
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2827.34,
+      "id": 15,
+      "original_description": "butt",
+      "start": 2826.48
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2971.53,
+      "id": 16,
+      "original_description": "fools",
+      "start": 2970.59
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3219.717,
+      "id": 17,
+      "original_description": "شخص يعمل شقلبة وتظهر عورته",
+      "start": 3215.311
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3309.18,
+      "id": 18,
+      "original_description": "wine",
+      "start": 3308.15
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.654,
+        "width": 0.181,
+        "x": 0.195,
+        "y": 0.262
+      },
+      "category": "nudity",
+      "end": 3364.022,
+      "id": 19,
+      "original_description": "امرأة بالبكيني",
+      "start": 3361.875
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.801,
+        "width": 0.254,
+        "x": 0.155,
+        "y": 0.097
+      },
+      "category": "nudity",
+      "end": 3371.838,
+      "id": 20,
+      "original_description": "امرأة بالبكيني",
+      "start": 3367.282
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.248,
+        "width": 0.34,
+        "x": 0.312,
+        "y": 0.523
+      },
+      "category": "nudity",
+      "end": 3374.963,
+      "id": 21,
+      "original_description": "امرأة بالبكيني",
+      "start": 3371.838
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.303,
+        "width": 0.149,
+        "x": 0.165,
+        "y": 0.459
+      },
+      "category": "nudity",
+      "end": 3382.196,
+      "id": 22,
+      "original_description": "امرأة بالبكيني",
+      "start": 3379.651
+    },
+    {
+      "action_type": "blur",
+      "category": "nudity",
+      "end": 3427.512,
+      "id": 23,
+      "original_description": "فتيات بالبكيني",
+      "start": 3417.807
+    },
+    {
+      "action_type": "blur",
+      "category": "nudity",
+      "end": 3460.327,
+      "id": 24,
+      "original_description": "فتيات بالبكيني",
+      "start": 3456.528
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.136,
+        "width": 0.188,
+        "x": 0.114,
+        "y": 0.486
+      },
+      "category": "nudity",
+      "end": 3462.03,
+      "id": 25,
+      "original_description": "فتيات بالبكيني",
+      "start": 3461.065
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.262,
+        "width": 0.829,
+        "x": 0.091,
+        "y": 0.226
+      },
+      "category": "nudity",
+      "end": 3470.144,
+      "id": 26,
+      "original_description": "فتيات بالبكيني",
+      "start": 3462.288
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.62,
+        "width": 0.244,
+        "x": 0.671,
+        "y": 0.262
+      },
+      "category": "nudity",
+      "end": 3472.682,
+      "id": 27,
+      "original_description": "فتيات بالبكيني",
+      "start": 3470.144
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.464,
+        "width": 0.286,
+        "x": 0.084,
+        "y": 0.215
+      },
+      "category": "nudity",
+      "end": 3477.595,
+      "id": 28,
+      "original_description": "فتيات بالبكيني",
+      "start": 3472.502
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3982.491,
+      "id": 29,
+      "original_description": "صفع على الوجه",
+      "start": 3981.593
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3999.692,
+      "id": 30,
+      "original_description": "صفع على الوجه",
+      "start": 3995.626
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4005.36,
+      "id": 31,
+      "original_description": "butt",
+      "start": 4004.48
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4049.799,
+      "id": 32,
+      "original_description": "وحش مخاطي يلحس شخص",
+      "start": 4043.975
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4119.76,
+      "id": 33,
+      "original_description": "stupid",
+      "start": 4118.92
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4234.877,
+      "id": 34,
+      "original_description": "فتيات بالبكيني",
+      "start": 4224.775
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.451,
+        "width": 0.441,
+        "x": 0.476,
+        "y": 0.44
+      },
+      "category": "nudity",
+      "end": 4281.207,
+      "id": 35,
+      "original_description": "رجل بالبكيني",
+      "start": 4262.788
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.54,
+        "width": 0.239,
+        "x": 0.329,
+        "y": 0.37
+      },
+      "category": "nudity",
+      "end": 4287.463,
+      "id": 36,
+      "original_description": "فتيات بالبكيني",
+      "start": 4280.207
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.407,
+        "width": 0.284,
+        "x": 0.429,
+        "y": 0.464
+      },
+      "category": "nudity",
+      "end": 4297.338,
+      "id": 37,
+      "original_description": "رجل بالبكيني",
+      "start": 4293.451
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.404,
+        "width": 0.449,
+        "x": 0.419,
+        "y": 0.432
+      },
+      "category": "nudity",
+      "end": 4305.675,
+      "id": 38,
+      "original_description": "رجل بالبكيني",
+      "start": 4300.431
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.419,
+        "width": 0.237,
+        "x": 0.527,
+        "y": 0.417
+      },
+      "category": "nudity",
+      "end": 4312.223,
+      "id": 39,
+      "original_description": "رجل بالبكيني",
+      "start": 4310.267
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.589,
+        "width": 0.345,
+        "x": 0.407,
+        "y": 0.314
+      },
+      "category": "nudity",
+      "end": 4324.055,
+      "id": 40,
+      "original_description": "فتيات بالبكيني",
+      "start": 4314.934
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.572,
+        "width": 0.538,
+        "x": 0.065,
+        "y": 0.305
+      },
+      "category": "nudity",
+      "end": 4336.272,
+      "id": 41,
+      "original_description": "رجل بالبكيني",
+      "start": 4330.551
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.471,
+        "width": 0.413,
+        "x": 0.083,
+        "y": 0.413
+      },
+      "category": "nudity",
+      "end": 4460.779,
+      "id": 42,
+      "original_description": "رجل بالبكيني",
+      "start": 4445.994
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.306,
+        "width": 0.077,
+        "x": 0.449,
+        "y": 0.424
+      },
+      "category": "nudity",
+      "end": 4468.468,
+      "id": 43,
+      "original_description": "رجل بالبكيني",
+      "start": 4467.267
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.443,
+        "width": 0.332,
+        "x": 0.154,
+        "y": 0.451
+      },
+      "category": "nudity",
+      "end": 4481.666,
+      "id": 44,
+      "original_description": "رجل بالبكيني",
+      "start": 4478.275
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.486,
+        "width": 0.202,
+        "x": 0.083,
+        "y": 0.392
+      },
+      "category": "nudity",
+      "end": 4488,
+      "id": 45,
+      "original_description": "رجل بالبكيني",
+      "start": 4486.556
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.503,
+        "width": 0.412,
+        "x": 0.083,
+        "y": 0.379
+      },
+      "category": "nudity",
+      "end": 4503.959,
+      "id": 46,
+      "original_description": "رجل بالبكيني",
+      "start": 4494.498
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.487,
+        "width": 0.283,
+        "x": 0.217,
+        "y": 0.401
+      },
+      "category": "nudity",
+      "end": 4519.052,
+      "id": 47,
+      "original_description": "رجل بالبكيني",
+      "start": 4508.006
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4523.341,
+      "id": 48,
+      "original_description": "رجل بالبكيني",
+      "start": 4519.052
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.605,
+        "width": 0.336,
+        "x": 0.247,
+        "y": 0.291
+      },
+      "category": "nudity",
+      "end": 4563.737,
+      "id": 49,
+      "original_description": "رجل بالبكيني",
+      "start": 4525.137
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.526,
+        "width": 0.233,
+        "x": 0.194,
+        "y": 0.358
+      },
+      "category": "nudity",
+      "end": 4576.399,
+      "id": 50,
+      "original_description": "رجل بالبكيني",
+      "start": 4565.828
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.549,
+        "width": 0.566,
+        "x": 0.067,
+        "y": 0.338
+      },
+      "category": "nudity",
+      "end": 4613.778,
+      "id": 51,
+      "original_description": "رجل بالبكيني",
+      "start": 4585.519
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.54,
+        "width": 0.357,
+        "x": 0.274,
+        "y": 0.345
+      },
+      "category": "nudity",
+      "end": 4645.652,
+      "id": 52,
+      "original_description": "رجل بالبكيني",
+      "start": 4642.409
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.566,
+        "width": 0.214,
+        "x": 0.292,
+        "y": 0.319
+      },
+      "category": "nudity",
+      "end": 4665.749,
+      "id": 53,
+      "original_description": "رجل بالبكيني",
+      "start": 4664.102
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4677.974,
+      "id": 54,
+      "original_description": "كلب بمخاطه يلحس شخص",
+      "start": 4666.832
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.409,
+        "width": 0.846,
+        "x": 0.077,
+        "y": 0.35
+      },
+      "category": "nudity",
+      "end": 4716.328,
+      "id": 55,
+      "original_description": "رجل بالبكيني",
+      "start": 4712.003
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5406.101,
+      "id": 56,
+      "original_description": "طفلة تقبل طفل",
+      "start": 5403.799
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5413.84,
+      "id": 57,
+      "original_description": "hot",
+      "start": 5412.85
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5435.793,
+      "id": 58,
+      "original_description": "رجل يقبل امرأة",
+      "start": 5423.228
+    },
+    {
+      "action_type": "mute",
+      "category": "violence",
+      "end": 5485.602,
+      "id": 59,
+      "original_description": "ضرطة \"باغزي\"",
+      "start": 5484.864
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5658.19,
+      "id": 60,
+      "original_description": "wine",
+      "start": 5656.99
+    }
+  ],
+  "genre": "كوميديا، خيال، عائلي، رومانسية",
+  "pg": "+7",
+  "platforms": {
+    "disney": {
+      "id": "75cceb6f-2cee-4807-bc3d-c6b0a0646cd2",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-75cceb6f-2cee-4807-bc3d-c6b0a0646cd2"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/w600_and_h900_face/rSOnWm8ahvgThYp8TKGRUTcvsyw.jpg",
+  "title": "Bedtime Stories",
+  "type": "movie",
+  "year": 2008
+}

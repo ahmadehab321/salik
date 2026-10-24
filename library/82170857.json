@@ -1,0 +1,59 @@
+{
+  "episode": 3,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 372.74,
+      "id": 1,
+      "original_description": "kill",
+      "start": 372.47
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 702.49,
+      "id": 2,
+      "original_description": "hot",
+      "start": 702.18
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 886.34,
+      "id": 3,
+      "original_description": "pee",
+      "start": 886.17
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1084.53,
+      "id": 4,
+      "original_description": "butts",
+      "start": 1084.04
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1242.340643,
+      "id": 5,
+      "original_description": "رجل يقبل امرأة",
+      "start": 1240.185774
+    }
+  ],
+  "parent_series_id": "the-middle",
+  "platforms": {
+    "netflix": {
+      "id": 82170857,
+      "url": "https://www.netflix.com/watch/82170857"
+    },
+    "osnplus": {
+      "id": 68506,
+      "url": "https://osnplus.com/en-eg/episode/the-diaper-incident-68506/watch?contentStreamingDeeplinkQueryParam=false&skipRecap=true"
+    }
+  },
+  "season": 2,
+  "title": "The Middle- S2E3",
+  "type": "episode"
+}

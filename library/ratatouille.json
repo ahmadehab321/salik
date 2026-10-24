@@ -1,0 +1,82 @@
+{
+  "category": "Kids, Animation, Comedy",
+  "description": "\"خلطبيطة بالصلصة\" هو الاسم العربي الشهير لفيلم الرسوم المتحركة الأمريكي راتاتوي (Ratatouille) من إنتاج استوديوهات بيكسار ووالت ديزني، والذي صدر عام 2007 وفاز بجائزة الأوسكار لأفضل فيلم رسوم متحركة. ويحكي قصة الفأر \"ريمي\" الذي يحلم بأن يصبح طاهياً فرنسياً مشهوراً في باريس",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 199.2,
+      "id": 1,
+      "original_description": "بالذمة",
+      "start": 198.58
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 987.53,
+      "id": 2,
+      "original_description": "رجل يقبل امرأة",
+      "start": 984.97
+    },
+    {
+      "action_type": "mute",
+      "category": "violence",
+      "end": 1399.07,
+      "id": 3,
+      "original_description": "صوت قيء",
+      "start": 1397.6
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1527.63,
+      "id": 4,
+      "original_description": "حديث عن سلخ شخص",
+      "start": 1523.44
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2002.26,
+      "id": 5,
+      "original_description": "غبي",
+      "start": 2001.59
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2079.4,
+      "id": 6,
+      "original_description": "ظهور الملابس الداحلية ",
+      "start": 2076.98
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3965.01,
+      "id": 7,
+      "original_description": "رجل يقبل امرأة",
+      "start": 3941.49
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5986.79,
+      "id": 8,
+      "original_description": "رجل يقبل امرأة",
+      "start": 5983.29
+    }
+  ],
+  "genre": "Kids, Animation, Comedy",
+  "pg": "PG",
+  "platforms": {
+    "disney": {
+      "id": "ab7c4e29-04f1-46dd-931a-d43be1ce0f8c",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-ab7c4e29-04f1-46dd-931a-d43be1ce0f8c"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/lBfftNxNUTvuWyVnhvQuvj2IOnI.jpg",
+  "title": "Ratatouille",
+  "type": "movie",
+  "year": 2007
+}

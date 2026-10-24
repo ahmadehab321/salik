@@ -1,0 +1,35 @@
+{
+  "addedAt": 1786829864497,
+  "category": "Kids, Animation",
+  "description": "فيلم Inside Out 2 (قلباً وقالبًا 2) هو فيلم رسوم متحركة من إنتاج بيكسار. يعود ليصحبنا داخل عقْل الفتاة \"رايلي\" بعد بلوغها سن المراهقة. تواجه المشاعر القديمة مثل الفرح والحزن صراعاً جديداً ومثيراً بعد ظهور مشاعر أخرى أكثر تعقيداً",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1225.76,
+      "id": 1,
+      "original_description": "ظهور اسفل ظهر \"احراج\"",
+      "start": 1224.95
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 5118.33,
+      "id": 2,
+      "original_description": "ظهور اسفل ظهر \"احراج\"",
+      "start": 5117.55
+    }
+  ],
+  "genre": "Kids, Animation",
+  "pg": "+7",
+  "platforms": {
+    "disney": {
+      "id": "ec9f9fa3-fbae-4a25-b722-12c3b8ab0ef4",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-ec9f9fa3-fbae-4a25-b722-12c3b8ab0ef4"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/eOb1Zmmtnl6R8ZNhOQwrt8C68aS.jpg",
+  "title": "Inside Out 2",
+  "type": "movie",
+  "year": 2024
+}

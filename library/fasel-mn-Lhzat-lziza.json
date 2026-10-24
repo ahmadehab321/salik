@@ -1,0 +1,456 @@
+{
+  "category": "comedy, Fantasy",
+  "description": "بعد أن تضغط درية على صالح بشأن منزلهما الذي يتهالك يوما بعد يوم، تفتح أمامه بوابة سحرية صدفة تنقلهما إلى عوالم موازية لم يعرفا بوجودها من قبل.",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 176.354144,
+      "id": 1,
+      "original_description": "\"يا لهوي\"",
+      "start": 175.678922
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 234.010373,
+      "id": 2,
+      "original_description": "يا روح امك",
+      "start": 233.435021
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 262.18161,
+      "id": 3,
+      "original_description": "وديني وما اعبد",
+      "start": 260.926936
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 273.830222,
+      "id": 4,
+      "original_description": "سافلة",
+      "start": 273.484283
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 488.503416,
+      "id": 5,
+      "original_description": "شخص يقول نكتة قبيحة",
+      "start": 475.731459
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 671.794591,
+      "id": 6,
+      "original_description": "شخص يعطي تعليق ايحائي",
+      "start": 665.624219
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 771.61967,
+      "id": 7,
+      "original_description": "امرأة تقتل رجل",
+      "start": 735.90937
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 835.75,
+      "id": 8,
+      "original_description": "معفنة",
+      "start": 835.664799
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 973.65,
+      "id": 9,
+      "original_description": "حيوان",
+      "start": 973.565885
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1779.101036,
+      "id": 10,
+      "original_description": "شخص ينظر بشهوة إلى الخادمة",
+      "start": 1761.57958
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1923.219449,
+      "id": 11,
+      "original_description": "معاكسة رجل لامرأة",
+      "start": 1910.295594
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2089.011789,
+      "id": 12,
+      "original_description": "يا نهار اسود",
+      "start": 2088.517462
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2262.601621,
+      "id": 13,
+      "original_description": "مغازلة زوج لزوجة",
+      "start": 2257.653561
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2601.004144,
+      "id": 14,
+      "original_description": "حلف بغير الله: وحياة أهلك",
+      "start": 2591.181918
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3110.906449,
+      "id": 15,
+      "original_description": "وحياة امك",
+      "start": 3109.735714
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3118,
+      "id": 16,
+      "original_description": "وديني",
+      "start": 3117.92207
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3128.49,
+      "id": 17,
+      "original_description": "وديني",
+      "start": 3128.40932
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3325.605146,
+      "id": 18,
+      "original_description": "زوج يبادر في العلاقة",
+      "start": 3320.94751
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3371.22776,
+      "id": 19,
+      "original_description": "يلعن أبو",
+      "start": 3371.006517
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3418.944378,
+      "id": 20,
+      "original_description": "كلام عن العلاقة الحميمية",
+      "start": 3373.965853
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3442.799342,
+      "id": 21,
+      "original_description": "شخص يصعق في أماكن حساسة",
+      "start": 3436.375427
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3480.416008,
+      "id": 22,
+      "original_description": "شخص يقول لخادمة هاتي بوسة",
+      "start": 3468.981153
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3559.554172,
+      "id": 23,
+      "original_description": "كلام عن العلاقة الحميمية",
+      "start": 3539.232045
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3687.645283,
+      "id": 24,
+      "original_description": "حيوان",
+      "start": 3686.607767
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3692.225464,
+      "id": 25,
+      "original_description": "نطع",
+      "start": 3692.102775
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3696.87,
+      "id": 26,
+      "original_description": "امك",
+      "start": 3696.790986
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3730.09,
+      "id": 27,
+      "original_description": "وديني",
+      "start": 3730.006213
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3841.810831,
+      "id": 28,
+      "original_description": "عراك بين رجل وامرأة",
+      "start": 3793.917206
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3943.367589,
+      "id": 29,
+      "original_description": "شخص يعمل لقطة ايحائية",
+      "start": 3902.303416
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4046.904284,
+      "id": 30,
+      "original_description": "خلاص والنبي",
+      "start": 4042.46889
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4098.002335,
+      "id": 31,
+      "original_description": "بنت البيئة",
+      "start": 4097.65747
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4273.219999,
+      "id": 32,
+      "original_description": "جربوع",
+      "start": 4273.125995
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4292.539999,
+      "id": 33,
+      "original_description": "المعفن",
+      "start": 4292.261243
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 4300.059809,
+      "id": 34,
+      "original_description": "نطع",
+      "start": 4297.275853
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 4503.901208,
+      "id": 35,
+      "original_description": "شتائم",
+      "start": 4499.795107
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4523.91267,
+      "id": 36,
+      "original_description": "شخص يكشف بطنه",
+      "start": 4516.192724
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4639.514274,
+      "id": 37,
+      "original_description": "شخص يقول افيه ايحائي",
+      "start": 4623.368835
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 4676.616366,
+      "id": 48,
+      "original_description": "قول افيهات قليلة الأدب",
+      "start": 4651.715993
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4786.360575,
+      "id": 39,
+      "original_description": "ايحاءات جنسية",
+      "start": 4750.160067
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4881.097934,
+      "id": 40,
+      "original_description": "كلام عن ملابس داخلية",
+      "start": 4870.566957
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4956.422594,
+      "id": 41,
+      "original_description": "كلام سيء عن بدلة الفرح",
+      "start": 4927.572991
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5153.701694,
+      "id": 42,
+      "original_description": "ايحاءات جنسية",
+      "start": 5149.94098
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 5656.260676,
+      "id": 43,
+      "original_description": "الفاظ جنسية وتعاطي حبوب",
+      "start": 5539.515436
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 5709.541935,
+      "id": 44,
+      "original_description": "تعاطي حبوب",
+      "start": 5681.327634
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5729.812332,
+      "id": 45,
+      "original_description": "ابن الجزمة",
+      "start": 5729.155021
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 5780.761875,
+      "id": 46,
+      "original_description": "تعاطي حبوب مخدرة",
+      "start": 5770.547008
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6102.044659,
+      "id": 47,
+      "original_description": "ابن المجنونة",
+      "start": 6101.846542
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 6140.497448,
+      "id": 48,
+      "original_description": "عراك بالساطور",
+      "start": 6106.904931
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6155.221459,
+      "id": 49,
+      "original_description": "احيه",
+      "start": 6153.642819
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 6207.41594,
+      "id": 50,
+      "original_description": "عراك يضع رأسه في مؤخرته",
+      "start": 6202.641378
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6447.075296,
+      "id": 51,
+      "original_description": "ينهار اسود",
+      "start": 6442.689278
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6662.926002,
+      "id": 52,
+      "original_description": "بشرفي",
+      "start": 6662.59202
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6820.883869,
+      "id": 53,
+      "original_description": "غبي",
+      "start": 6820.70458
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6866.75567,
+      "id": 54,
+      "original_description": "حيوان",
+      "start": 6866.52
+    }
+  ],
+  "platforms": {
+    "shahid": {
+      "id": "49923248472218",
+      "url": "https://shahid.mbc.net/ar/movies/فاصل-من-اللحظات-اللذيذة/movie-49923248472218"
+    },
+    "watchit": {
+      "id": "1298",
+      "url": "https://www.watchit.com/#/details/movies/1298"
+    },
+    "yango": {
+      "id": "0ea37b05648a40aa808015d676c73013",
+      "url": "https://play.yango.com/ar/0ea37b05648a40aa808015d676c73013"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/u5Zarcam6njP2ED5AUQH0oowqeJ.jpg",
+  "title": "فاصل من اللحظات اللذيذة",
+  "type": "movie",
+  "year": 2024
+}

@@ -1,0 +1,363 @@
+{
+  "addedAt": 1787653845558,
+  "category": "Marvel",
+  "description": "فيلم Captain America: The First Avenger (إصدار 2011) هو فيلم بطل خارق يدور حول الشاب النحيل \"ستيف روجرز\" الذي يُرفض مراراً من الخدمة العسكرية بسبب ضعفه، قبل أن يتطوع في تجربة سرية تحوله إلى جندي خارق يملك قوة وبنية مثالية",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 103.8,
+      "id": 1,
+      "original_description": "hell",
+      "start": 102.78
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 265.2,
+      "id": 2,
+      "original_description": "شخص ميت تحت الصخور",
+      "start": 261.87
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 471.92,
+      "id": 3,
+      "original_description": "fool",
+      "start": 470.56
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 623.68,
+      "id": 4,
+      "original_description": "ضرب شخص في مكان حساس",
+      "start": 622.34
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 731.92,
+      "id": 5,
+      "original_description": "بنات مكشوفة عوراتهم",
+      "start": 716.78
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 725.68,
+      "id": 6,
+      "original_description": "\"هاورد\" يقبل امرأة",
+      "start": 723.42
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 746.95,
+      "id": 7,
+      "original_description": "بنات مكشوفة عوراتهم يخرجون الكاوتشات من اماكنها",
+      "start": 741.19
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 766.94,
+      "id": 8,
+      "original_description": "بنات مكشوفة عرواتهم",
+      "start": 754.99
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 857.53,
+      "id": 9,
+      "original_description": "stupid",
+      "start": 856.43
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 861.38,
+      "id": 10,
+      "original_description": "stupid",
+      "start": 860.31
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 866.96,
+      "id": 11,
+      "original_description": "jerk",
+      "start": 865.75
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1217.78,
+      "id": 12,
+      "original_description": "شخص يلقي تعليق ايحائي",
+      "start": 1214.18
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1227.19,
+      "id": 13,
+      "original_description": "ass",
+      "start": 1226.48
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1290.04,
+      "id": 14,
+      "original_description": "hell",
+      "start": 1289.19
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1383.96,
+      "id": 15,
+      "original_description": "hell",
+      "start": 1383.34
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1443.58,
+      "id": 16,
+      "original_description": "dummy",
+      "start": 1442.43
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1972.55,
+      "id": 17,
+      "original_description": "jesus",
+      "start": 1971.76
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2237.68,
+      "id": 18,
+      "original_description": "bitch",
+      "start": 2236.62
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2554.47,
+      "id": 19,
+      "original_description": "hell",
+      "start": 2553.52
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2915.39,
+      "id": 20,
+      "original_description": "فتيات مكشوفة عوراتهم ، يدخل عليهم كابتي امريكا في مسرح ويغنون",
+      "start": 2898.99
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2926.67,
+      "id": 21,
+      "original_description": "فتيات مكشوفة عوراتهم ترقص",
+      "start": 2921.38
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3001.91,
+      "id": 22,
+      "original_description": "فتيات مكشوفة ترقص",
+      "start": 2942.44
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3048.76,
+      "id": 23,
+      "original_description": "فتيات مكشوفة الصدر والساق ترقص",
+      "start": 3019.73
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3093.31,
+      "id": 24,
+      "original_description": "شخص يظهر مؤخرته امام ستيف",
+      "start": 3090.49
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3116.63,
+      "id": 25,
+      "original_description": "فتيات فاتنات ترقص",
+      "start": 3104.64
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3197.12,
+      "id": 26,
+      "original_description": "hell",
+      "start": 3196.44
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3416.79,
+      "id": 27,
+      "original_description": "hell",
+      "start": 3415.92
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3420.42,
+      "id": 28,
+      "original_description": "hell",
+      "start": 3419.44
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3671.92,
+      "id": 29,
+      "original_description": "hell",
+      "start": 3671.05
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4107.6,
+      "id": 30,
+      "original_description": "hell",
+      "start": 4106.28
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4174.74,
+      "id": 31,
+      "original_description": "damn",
+      "start": 4173.78
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4388.8,
+      "id": 32,
+      "original_description": "ass",
+      "start": 4388.1
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 4535.77,
+      "id": 33,
+      "original_description": "اشخاص يشربون الخمر في حانة",
+      "start": 4399.53
+    },
+    {
+      "action_type": "mute",
+      "category": "violence",
+      "end": 4412.29,
+      "id": 34,
+      "original_description": "شخص يتكرع",
+      "start": 4411.11
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4428.45,
+      "id": 35,
+      "original_description": "hell",
+      "start": 4428
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4452.52,
+      "id": 36,
+      "original_description": "idiots",
+      "start": 4451.27
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4459.2,
+      "id": 37,
+      "original_description": "hell",
+      "start": 4458.56
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4462.8,
+      "id": 38,
+      "original_description": "dumb",
+      "start": 4461.8
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4634.29,
+      "id": 39,
+      "original_description": "امرأة مكشوفة الساق تغازل ستيف",
+      "start": 4581.45
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4660.35,
+      "id": 40,
+      "original_description": "bloody",
+      "start": 4659.29
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 5424.62,
+      "id": 41,
+      "original_description": "شخص يشرب الخمر",
+      "start": 5392.83
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5451.64,
+      "id": 42,
+      "original_description": "damn",
+      "start": 5451.2
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5942.47,
+      "id": 43,
+      "original_description": "امرأة تقبل ستيف",
+      "start": 5939.22
+    }
+  ],
+  "genre": "Action-Adventure, Sci-Fi",
+  "pg": "PG-13",
+  "platforms": {
+    "disney": {
+      "id": "8e68c43a-117c-4f4d-b217-0db106a1a614",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-8e68c43a-117c-4f4d-b217-0db106a1a614"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/zsXne3JCapkJxPAPPOaTlPJQLVI.jpg",
+  "title": "Captain America: The First Avenger",
+  "type": "movie",
+  "year": 2011
+}

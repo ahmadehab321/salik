@@ -1,0 +1,34 @@
+{
+  "category": "Disney",
+  "description": "فيلم \"فوق\" (Up) هو فيلم رسوم متحركة أمريكي من استوديوهات Pixar Animation Studios وشركة Walt Disney Pictures. يدور حول العجوز \"فريد زين\" الذي يربط آلاف بالونات الهيليوم بمنزله ليسافر إلى شلالات الفردوس ، بالتعاون مع طفل الكشافة الصغير \"رامز\"",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 439.01,
+      "id": 1,
+      "original_description": "امرأة تقبل رجل",
+      "start": 436.13
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1077.7,
+      "id": 2,
+      "original_description": "دم يخرج من رأس شخص",
+      "start": 1075.66
+    }
+  ],
+  "genre": "Drama, Animation, Action-Adventure",
+  "pg": "+7",
+  "platforms": {
+    "disney": {
+      "id": "f820c0a3-e646-4b75-8dd1-87f6d776c32b",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-f820c0a3-e646-4b75-8dd1-87f6d776c32b"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/fPtAMZkhSZuz71XVm94F1n6f1oZ.jpg",
+  "title": "UP",
+  "type": "movie",
+  "year": 2009
+}

@@ -1,0 +1,163 @@
+{
+  "episode": 7,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 131.07,
+      "id": 1,
+      "original_description": "hot",
+      "start": 130.55
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 156.49,
+      "id": 2,
+      "original_description": "idiot",
+      "start": 156.1
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 254.03,
+      "id": 3,
+      "original_description": "hot",
+      "start": 253.85
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 279.02,
+      "id": 4,
+      "original_description": "stupid",
+      "start": 278.63
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 454.94,
+      "id": 5,
+      "original_description": "hot",
+      "start": 454.73
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 494.41976,
+      "id": 6,
+      "original_description": "التحدث عن حفلة زنا",
+      "start": 477.579214
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 479.35,
+      "id": 7,
+      "original_description": "hot",
+      "start": 479.22
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 684.63,
+      "id": 8,
+      "original_description": "damn",
+      "start": 684.26
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 698.29,
+      "id": 9,
+      "original_description": "idiot",
+      "start": 698.04
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 738.43,
+      "id": 10,
+      "original_description": "beer",
+      "start": 737.95
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 866.57,
+      "id": 11,
+      "original_description": "prick",
+      "start": 866.16
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 913.2,
+      "id": 12,
+      "original_description": "crappy",
+      "start": 912.84
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1089.35,
+      "id": 13,
+      "original_description": "hell",
+      "start": 1089.1
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1142.65,
+      "id": 14,
+      "original_description": "dumb",
+      "start": 1142.17
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1146.92,
+      "id": 15,
+      "original_description": "dumb",
+      "start": 1146.36
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1148.32,
+      "id": 16,
+      "original_description": "hot",
+      "start": 1147.89
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1168.49,
+      "id": 17,
+      "original_description": "hot",
+      "start": 1168.31
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1177.44,
+      "id": 18,
+      "original_description": "hot",
+      "start": 1177.26
+    }
+  ],
+  "parent_series_id": "the-middle",
+  "platforms": {
+    "netflix": {
+      "id": 82170862,
+      "url": "https://www.netflix.com/watch/82170862"
+    },
+    "osnplus": {
+      "id": 69073,
+      "url": "https://osnplus.com/en-eg/episode/a-birthday-story-69073/watch?contentStreamingDeeplinkQueryParam=false&skipRecap=true"
+    }
+  },
+  "season": 2,
+  "title": "The Middle - S2E7",
+  "type": "episode"
+}

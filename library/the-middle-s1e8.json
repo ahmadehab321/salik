@@ -1,0 +1,83 @@
+{
+  "episode": 8,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 70.31,
+      "id": 1,
+      "original_description": "ass",
+      "start": 70.06
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 219.72,
+      "id": 2,
+      "original_description": "tampon",
+      "start": 219.4
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 271.65,
+      "id": 3,
+      "original_description": "hell",
+      "start": 271.4
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 325.97,
+      "id": 4,
+      "original_description": "omg",
+      "start": 325.45
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 407.25,
+      "id": 5,
+      "original_description": "crap",
+      "start": 406.97
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 742.671886,
+      "id": 6,
+      "original_description": "شخص قال انه تبول في النيل ",
+      "start": 739.467669
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1077.13,
+      "id": 7,
+      "original_description": "damn",
+      "start": 1076.82
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1182.266215,
+      "id": 8,
+      "original_description": "رجل يقبل امرآة",
+      "start": 1181.041405
+    }
+  ],
+  "parent_series_id": "the-middle",
+  "platforms": {
+    "netflix": {
+      "id": 82170837,
+      "url": "https://www.netflix.com/watch/82170837"
+    },
+    "osnplus": {
+      "id": 68982,
+      "url": "https://osnplus.com/en-eg/episode/thanksgiving-68982/watch?contentStreamingDeeplinkQueryParam=false"
+    }
+  },
+  "season": 1,
+  "title": "The Middle - S1E8",
+  "type": "episode"
+}

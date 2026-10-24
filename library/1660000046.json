@@ -1,0 +1,58 @@
+{
+  "category": "Musical, Action, Kids, Cartoon",
+  "description": "، وهو فيلم رسوم متحركة ملحمي يروي قصة الشبل \"سيمبا\" وريث عرش مملكة الأسود، الذي يفر إلى المنفى بعد مقتل والده الملك \"موفاسا\" بمكالمة من عمه الشرير \"سكار\"، ليعود لاحقاً لاستعادة مملكته",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1205.103023,
+      "id": 1,
+      "original_description": "الأغبياء",
+      "start": 1202.77891
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1535.162413,
+      "id": 2,
+      "original_description": "الكلام عن التحدث مع الموتى في السماء",
+      "start": 1511.586521
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1604.623011,
+      "id": 3,
+      "original_description": "محاط بشلة متخلفة ",
+      "start": 1603.431461
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3618.655514,
+      "id": 4,
+      "original_description": "لمشهد يعرض أسداً ولبؤة في لحظة تآلف وتودد رومانسي؛ حيث تستلقي اللبؤة وتنظر إليه بدلال وهو يقف فوقها، إلا أن المشهد يُقدم بطريقة محتشمة ومتحفظة تجعله مناسباً للأطفال دون إدراكهم للإيحاءات البالغة فيه.",
+      "start": 3594.416899
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 4053.905984,
+      "id": 5,
+      "original_description": "التحدث مع الموتى في السماء",
+      "start": 3765.29458
+    }
+  ],
+  "genre": "Kids",
+  "pg": 7,
+  "platforms": {
+    "disney": {
+      "id": "a3ae7371-39a5-4c0b-a1f2-29a70b372848",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-a3ae7371-39a5-4c0b-a1f2-29a70b372848"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/w600_and_h900_face/l0DfggxJn89s0hOv8vVK6fa1QCX.jpg",
+  "title": "The Lion King",
+  "type": "movie",
+  "year": 1994
+}

@@ -1,0 +1,471 @@
+{
+  "addedAt": 1788638079195,
+  "category": "hollywood",
+  "description": "تدور أحداث الفيلم حول تحقق نبوءة تقويم المايا القديم التي تتوقع نهاية العالم في عام 2012 نتيجة ظاهرة انصهار نواة الأرض ووقوع كوارث طبيعية مدمرة من زلازل، وتسونامي، وبراكين تشمل الكوكب بأكمله. يتتبع الفيلم كاتبًا يُدعى \"جاكسون كيرتس\" يحاول جاهداً إنقاذ عائلته المطلقة وعبر سباق مع الزمن للوصول إلى سفن عملاقة سرية تم بناؤها في الهيمالايا لحفظ بقاء النسل البشري والنخبة من الكارثة المروعة.",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 328.37,
+      "id": 1,
+      "original_description": "damn",
+      "start": 327.47
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 734.32,
+      "id": 2,
+      "original_description": "معتقدات حضارة المايا وانتحار جماعي",
+      "start": 711.34
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 763.47,
+      "id": 3,
+      "original_description": "goddamn",
+      "start": 761.71
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 995.62,
+      "id": 4,
+      "original_description": "hell",
+      "start": 994.23
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1073.04,
+      "id": 5,
+      "original_description": "stupid",
+      "start": 1071.91
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1073.26,
+      "id": 6,
+      "original_description": "ass",
+      "start": 1072.34
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1235.87,
+      "id": 7,
+      "original_description": "hell",
+      "start": 1234.81
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1295.83,
+      "id": 8,
+      "original_description": "sex",
+      "start": 1295.13
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1332.61,
+      "id": 9,
+      "original_description": "damn",
+      "start": 1331.66
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1587.09,
+      "id": 10,
+      "original_description": "معتقدات المايا",
+      "start": 1583.39
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1827.08,
+      "id": 11,
+      "original_description": "asses",
+      "start": 1826.1
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1830.22,
+      "id": 12,
+      "original_description": "lord",
+      "start": 1829.24
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1830.37,
+      "id": 13,
+      "original_description": "jesus",
+      "start": 1829.52
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1883,
+      "id": 14,
+      "original_description": "beer",
+      "start": 1881.96
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1907.95,
+      "id": 15,
+      "original_description": "نبوءة المايا",
+      "start": 1894.22
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1932.71,
+      "id": 16,
+      "original_description": "bastards",
+      "start": 1931.54
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1982.5,
+      "id": 17,
+      "original_description": "bullshit",
+      "start": 1981.81
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2046.47,
+      "id": 18,
+      "original_description": "shit",
+      "start": 2046.04
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2099.5,
+      "id": 19,
+      "original_description": "ايحاءات جنسية",
+      "start": 2079.64
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2097.63,
+      "id": 20,
+      "original_description": "boobs",
+      "start": 2096.84
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2384.73,
+      "id": 21,
+      "original_description": "فتاة عارية الظهر",
+      "start": 2326.47
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2371.45,
+      "id": 22,
+      "original_description": "bastard",
+      "start": 2370.37
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2373.78,
+      "id": 23,
+      "original_description": "bastard",
+      "start": 2372.27
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2554.05,
+      "id": 24,
+      "original_description": "idiot",
+      "start": 2552.46
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2573.82,
+      "id": 25,
+      "original_description": "bastards",
+      "start": 2573
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2602.78,
+      "id": 26,
+      "original_description": "dumb",
+      "start": 2601.7
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2716.48,
+      "id": 27,
+      "original_description": "fucking",
+      "start": 2714.81
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2719.26,
+      "id": 28,
+      "original_description": "ass",
+      "start": 2718.26
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2829.57,
+      "id": 29,
+      "original_description": "jesus",
+      "start": 2828.07
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3078.82,
+      "id": 30,
+      "original_description": "goddamn",
+      "start": 3077.65
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3080.07,
+      "id": 31,
+      "original_description": "shit",
+      "start": 3079.31
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3140.45,
+      "id": 32,
+      "original_description": "hell",
+      "start": 3139.43
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3223.89,
+      "id": 33,
+      "original_description": "hell",
+      "start": 3222.84
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3233.43,
+      "id": 34,
+      "original_description": "hell",
+      "start": 3232.32
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3256.71,
+      "id": 35,
+      "original_description": "fool",
+      "start": 3255.62
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 3306.46,
+      "id": 36,
+      "original_description": "شخص يشرب الخمر",
+      "start": 3284.5
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3464.12,
+      "id": 37,
+      "original_description": "goddamn",
+      "start": 3463
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4237.52,
+      "id": 38,
+      "original_description": "امرأة مكشوفة الساق",
+      "start": 4231.83
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4355.91,
+      "id": 39,
+      "original_description": "jesus",
+      "start": 4355.22
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4499.26,
+      "id": 40,
+      "original_description": "lord",
+      "start": 4498.32
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4652.96,
+      "id": 41,
+      "original_description": "hell",
+      "start": 4652.06
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4692.31,
+      "id": 42,
+      "original_description": "jesus",
+      "start": 4690.69
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4706.33,
+      "id": 43,
+      "original_description": "ass",
+      "start": 4705.39
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6541.91,
+      "id": 44,
+      "original_description": "jesus",
+      "start": 6541.03
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6542.53,
+      "id": 45,
+      "original_description": "christ",
+      "start": 6541.21
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6586.12,
+      "id": 46,
+      "original_description": "bastard",
+      "start": 6584.69
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6716.79,
+      "id": 47,
+      "original_description": "hell",
+      "start": 6715.62
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7031.31,
+      "id": 48,
+      "original_description": "idiot",
+      "start": 7030.46
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 7250.1,
+      "id": 49,
+      "original_description": "شخص يقوم بعمل اشارة جنسية",
+      "start": 7247.56
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 7528.99,
+      "id": 50,
+      "original_description": "دهس ساق",
+      "start": 7250.1
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7530.05,
+      "id": 51,
+      "original_description": "goddamn",
+      "start": 7529.09
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 8041.19,
+      "id": 52,
+      "original_description": "goddamn",
+      "start": 8039.97
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 8060.09,
+      "id": 53,
+      "original_description": "hell",
+      "start": 8059.2
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 8161.55,
+      "id": 54,
+      "original_description": "رجل يقبل امرأة",
+      "start": 8152.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 8282.99,
+      "id": 55,
+      "original_description": "goddamn",
+      "start": 8282.44
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 8705.78,
+      "id": 56,
+      "original_description": "امرأة تقبل رجل",
+      "start": 8696.9
+    }
+  ],
+  "genre": "خيال علمي، كوارث، أكشن ومغامرة",
+  "pg": "+13",
+  "platforms": {
+    "netflix": {
+      "id": "70108779",
+      "url": "https://www.netflix.com/title/70108779"
+    },
+    "tod": {
+      "id": "317148",
+      "url": "https://www.tod.tv/en/movies/english/2012-317148"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/25nt7DMwCLt3gYqNVAx2iLLTX2T.jpg",
+  "title": "2012",
+  "type": "movie",
+  "year": 2009
+}

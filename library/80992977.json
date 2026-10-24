@@ -1,0 +1,194 @@
+{
+  "category": "Kids, Animation",
+  "description": "تدور أحداثه حول \"ستيفي\" وأخيها \"إليوت\" اللذين يذهبان في رحلة سحرية إلى عالم الأحلام العجيب لمقابلة \"صانع الأحلام\" (Sandman) وطلب تحقيق أمنيتهما الوحيدة: منع والديهما من الانفصال والحصول على العائلة المثالية.",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 317.54,
+      "id": 1,
+      "original_description": "طفل يدوس على لانشون ويأكله",
+      "start": 314.84
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 723.62,
+      "id": 2,
+      "original_description": "stupid",
+      "start": 722.92
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 966.97,
+      "id": 3,
+      "original_description": "تقبيل رجل لإمرأة",
+      "start": 964.59
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 972.01,
+      "id": 4,
+      "original_description": "كلب يتبول",
+      "start": 967.55
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1187.144872,
+      "id": 5,
+      "original_description": "شخص يستخبى ويظهر أسفل ظهره",
+      "start": 1182.151195
+    },
+    {
+      "action_type": "mute",
+      "category": "violence",
+      "end": 1763.337333,
+      "id": 6,
+      "original_description": "دمية تخرج غازات",
+      "start": 1736.206428
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1898.15,
+      "id": 7,
+      "original_description": "دمية تلبس حمالة صدر",
+      "start": 1893.36
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1901.14,
+      "id": 8,
+      "original_description": "hot",
+      "start": 1900.86
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1905.44,
+      "id": 9,
+      "original_description": "freak",
+      "start": 1904.97
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2009.19,
+      "id": 10,
+      "original_description": "دمية تلبس حمالة صدر",
+      "start": 2004.53
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2365.46,
+      "id": 11,
+      "original_description": "اطفال عراة في المول",
+      "start": 2355.42
+    },
+    {
+      "action_type": "blur",
+      "category": "nudity",
+      "end": 2358.67,
+      "id": 12,
+      "original_description": "Naked",
+      "start": 2356.17
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2356.84,
+      "id": 13,
+      "original_description": "naked",
+      "start": 2356.5
+    },
+    {
+      "action_type": "blur",
+      "category": "nudity",
+      "end": 2361.83,
+      "id": 14,
+      "original_description": "Naked",
+      "start": 2360.46
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2361.08,
+      "id": 15,
+      "original_description": "naked",
+      "start": 2360.73
+    },
+    {
+      "action_type": "blur",
+      "category": "nudity",
+      "end": 2365.21,
+      "id": 16,
+      "original_description": "naked",
+      "start": 2361.83
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2363.52,
+      "id": 17,
+      "original_description": "naked",
+      "start": 2363.02
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2418.03,
+      "id": 18,
+      "original_description": "naked",
+      "start": 2417.72
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3037.862542,
+      "id": 19,
+      "original_description": "حلم لشخص يخرج غازات",
+      "start": 3035.235986
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3394.98,
+      "id": 20,
+      "original_description": "stupid",
+      "start": 3394.5
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3941.698349,
+      "id": 21,
+      "original_description": "مشهد الهوت دوج",
+      "start": 3927.085617
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4063.25,
+      "id": 22,
+      "original_description": "pathetic",
+      "start": 4062.74
+    }
+  ],
+  "genre": "Comedy, Adventure",
+  "pg": "PG",
+  "platforms": {
+    "netflix": {
+      "id": 80992977,
+      "url": "https://www.netflix.com/title/80992977"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/w600_and_h900_face/107lP2QaOQSf9X0KFHa7zYy4NG8.jpg",
+  "title": "In Your Dreams",
+  "type": "movie",
+  "year": 2025
+}

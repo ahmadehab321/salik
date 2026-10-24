@@ -1,0 +1,351 @@
+{
+  "episode": 1,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 16.75,
+      "id": 1,
+      "original_description": "christ",
+      "start": 16.22
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 21.78,
+      "id": 2,
+      "original_description": "jesus",
+      "start": 21.31
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 22.33,
+      "id": 3,
+      "original_description": "christ",
+      "start": 21.78
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 22.98,
+      "id": 4,
+      "original_description": "lord",
+      "start": 22.61
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 122.98,
+      "id": 5,
+      "original_description": "beer",
+      "start": 122.61
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 137.56,
+      "id": 6,
+      "original_description": "beer",
+      "start": 137.21
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 210.36,
+      "id": 7,
+      "original_description": "bullshit",
+      "start": 209.75
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 259.6,
+      "id": 8,
+      "original_description": "idiot",
+      "start": 259.05
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 351.12,
+      "id": 9,
+      "original_description": "رجل وامرأة يدخنان",
+      "start": 336.71
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 362.29,
+      "id": 10,
+      "original_description": "رجل يقبل امرأة",
+      "start": 355.66
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 409.69,
+      "id": 11,
+      "original_description": "bloody",
+      "start": 409.25
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 440.06,
+      "id": 12,
+      "original_description": "prick",
+      "start": 439.02
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 485.03,
+      "id": 13,
+      "original_description": "hot",
+      "start": 484.76
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 496.59,
+      "id": 14,
+      "original_description": "christ",
+      "start": 495.6
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 612.56,
+      "id": 15,
+      "original_description": "شباب يشربون الخمر",
+      "start": 605.63
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 666.69,
+      "id": 16,
+      "original_description": "فتاة تبتاع المخدرات",
+      "start": 661.04
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 670.33,
+      "id": 17,
+      "original_description": "fucking",
+      "start": 669.85
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 679.76,
+      "id": 18,
+      "original_description": "شاب يشتري المخدرات من فتاة",
+      "start": 676.59
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 700.12,
+      "id": 19,
+      "original_description": "شخص يقوم بعمل اشارة جنسية",
+      "start": 697.73
+    },
+    {
+      "action_type": "mute",
+      "category": "nudity",
+      "end": 724.3,
+      "id": 20,
+      "original_description": "حفلة بها مخدرات وكحول",
+      "start": 700.88
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 704.6,
+      "id": 21,
+      "original_description": "fucking",
+      "start": 703.95
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 745.65,
+      "id": 22,
+      "original_description": "fucking",
+      "start": 745.09
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 767.05,
+      "id": 23,
+      "original_description": "حفلة خمور ونساء ومخدرات",
+      "start": 754.79
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 778.24,
+      "id": 24,
+      "original_description": "امرأة تشرب السجائر والخمور",
+      "start": 769.28
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 837.68,
+      "id": 25,
+      "original_description": "shit",
+      "start": 836.8
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 869.23,
+      "id": 26,
+      "original_description": "pissed",
+      "start": 868.69
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1065.42,
+      "id": 27,
+      "original_description": "hell",
+      "start": 1065.02
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1143.72,
+      "id": 28,
+      "original_description": "hell",
+      "start": 1143.3
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1553.28,
+      "id": 29,
+      "original_description": "sexual",
+      "start": 1552.89
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1753.51,
+      "id": 30,
+      "original_description": "\"المعلمة\" عارية في الصور",
+      "start": 1747.06
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1873.78,
+      "id": 31,
+      "original_description": "fuck",
+      "start": 1872.5
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1901.54,
+      "id": 32,
+      "original_description": "stupid",
+      "start": 1901.16
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1901.85,
+      "id": 33,
+      "original_description": "idiot",
+      "start": 1901.54
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1931.16,
+      "id": 34,
+      "original_description": "fucking",
+      "start": 1930.49
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1948.35,
+      "id": 35,
+      "original_description": "pissed",
+      "start": 1947.72
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2039.56,
+      "id": 36,
+      "original_description": "idiots",
+      "start": 2039.24
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2210.74,
+      "id": 37,
+      "original_description": "beer",
+      "start": 2210.29
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2212.19,
+      "id": 38,
+      "original_description": "beer",
+      "start": 2211.89
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2213.47,
+      "id": 39,
+      "original_description": "beer",
+      "start": 2213.17
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2217.23,
+      "id": 40,
+      "original_description": "lord",
+      "start": 2216.87
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2343.15,
+      "id": 41,
+      "original_description": "fuck",
+      "start": 2342.83
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 2423.33,
+      "id": 42,
+      "original_description": "جثة \"كريس\" مجمدة في الفريزر",
+      "start": 2416.85
+    }
+  ],
+  "parent_series_id": "safe",
+  "platforms": {
+    "netflix": {
+      "id": "80202421",
+      "url": "https://www.netflix.com/watch/80202421"
+    }
+  },
+  "season": 1,
+  "title": "safe - S1E1",
+  "type": "episode"
+}

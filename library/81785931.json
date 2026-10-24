@@ -1,0 +1,167 @@
+{
+  "episode": 1,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 156.33,
+      "id": 1,
+      "original_description": "shit",
+      "start": 156.1
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 211.74,
+      "id": 2,
+      "original_description": "stupid",
+      "start": 211.14
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 403.04,
+      "id": 3,
+      "original_description": "bitch",
+      "start": 402.77
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 791.74,
+      "id": 4,
+      "original_description": "damn",
+      "start": 791.43
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 862.8,
+      "id": 5,
+      "original_description": "god",
+      "start": 862.18
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 955.51,
+      "id": 6,
+      "original_description": "hell",
+      "start": 955.33
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1125.88,
+      "id": 7,
+      "original_description": "dummy",
+      "start": 1125.7
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1140.95,
+      "id": 8,
+      "original_description": "damn",
+      "start": 1140.57
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1368.79,
+      "id": 9,
+      "original_description": "fuck",
+      "start": 1368.54
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1426.93773,
+      "id": 10,
+      "original_description": "ضرب شخص بعنف ",
+      "start": 1409.827312
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1412.27,
+      "id": 11,
+      "original_description": "fuck",
+      "start": 1411.67
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1451.6,
+      "id": 12,
+      "original_description": "hell",
+      "start": 1451.45
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1831.72,
+      "id": 13,
+      "original_description": "shit",
+      "start": 1831.46
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1910.62,
+      "id": 14,
+      "original_description": "shit",
+      "start": 1909.98
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2051.33,
+      "id": 15,
+      "original_description": "shit",
+      "start": 2051.14
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2169.67,
+      "id": 16,
+      "original_description": "shit",
+      "start": 2169.28
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2364.5,
+      "id": 17,
+      "original_description": "goddamn",
+      "start": 2364.21
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2372,
+      "id": 18,
+      "original_description": "shit",
+      "start": 2371.79
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2372.19,
+      "id": 19,
+      "original_description": "shit",
+      "start": 2371.99
+    }
+  ],
+  "parent_series_id": "i-will-find-you",
+  "platforms": {
+    "netflix": {
+      "id": "81785931",
+      "url": "https://www.netflix.com/watch/81785931"
+    }
+  },
+  "season": 1,
+  "title": "I will Find You - S1E1",
+  "type": "episode"
+}

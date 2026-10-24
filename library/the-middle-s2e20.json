@@ -1,0 +1,67 @@
+{
+  "episode": 20,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 333.06,
+      "id": 1,
+      "original_description": "crap",
+      "start": 332.27
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 432.87,
+      "id": 2,
+      "original_description": "butts",
+      "start": 432.24
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1021.33,
+      "id": 3,
+      "original_description": "stupid",
+      "start": 1020.5
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1037.26,
+      "id": 4,
+      "original_description": "damn",
+      "start": 1036.18
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1063.75,
+      "id": 5,
+      "original_description": "lord",
+      "start": 1063.1
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1101.1,
+      "id": 6,
+      "original_description": "stupid",
+      "start": 1100.3
+    }
+  ],
+  "parent_series_id": "the-middle",
+  "platforms": {
+    "netflix": {
+      "id": 82170874,
+      "url": "https://www.netflix.com/watch/82170874"
+    },
+    "osnplus": {
+      "id": 69084,
+      "url": "https://osnplus.com/en-eg/episode/royal-wedding-69084/watch?contentStreamingDeeplinkQueryParam=false"
+    }
+  },
+  "season": 2,
+  "title": "The Middle - S2E20",
+  "type": "episode"
+}

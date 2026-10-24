@@ -1,0 +1,239 @@
+{
+  "episode": 8,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 80.75,
+      "id": 1,
+      "original_description": "stupid",
+      "start": 80.13
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 113.27,
+      "id": 2,
+      "original_description": "shit",
+      "start": 113.09
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 116.24,
+      "id": 3,
+      "original_description": "fuck",
+      "start": 116.02
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 225.95,
+      "id": 4,
+      "original_description": "stupid",
+      "start": 225.26
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 291.04,
+      "id": 5,
+      "original_description": "stupid",
+      "start": 290.22
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 681.47,
+      "id": 6,
+      "original_description": "porn",
+      "start": 681.24
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 757.4,
+      "id": 7,
+      "original_description": "fuck",
+      "start": 755.88
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 759.96,
+      "id": 8,
+      "original_description": "fuck",
+      "start": 758.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 863.01,
+      "id": 9,
+      "original_description": "bitch",
+      "start": 862.73
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 870.62,
+      "id": 10,
+      "original_description": "fucking",
+      "start": 870.2
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 874.48,
+      "id": 11,
+      "original_description": "shit",
+      "start": 874.27
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 989.79,
+      "id": 12,
+      "original_description": "fuck",
+      "start": 989.46
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1571.09,
+      "id": 13,
+      "original_description": "fucking",
+      "start": 1570.58
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1576.62,
+      "id": 14,
+      "original_description": "fuck",
+      "start": 1576.38
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1788.3,
+      "id": 15,
+      "original_description": "fucking",
+      "start": 1787.22
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 1842.2,
+      "id": 16,
+      "original_description": "شخص يقتل نفسه",
+      "start": 1840
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1862.27,
+      "id": 17,
+      "original_description": "جثة دامية",
+      "start": 1851.91
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2284.68,
+      "id": 18,
+      "original_description": "شخص يشرب السجائر",
+      "start": 2282.7
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2285.13,
+      "id": 19,
+      "original_description": "fuck",
+      "start": 2284.56
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2296.04,
+      "id": 20,
+      "original_description": "شخص يشرب السجائر",
+      "start": 2294.7
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2296.44,
+      "id": 21,
+      "original_description": "fucking",
+      "start": 2295.8
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2301.48,
+      "id": 22,
+      "original_description": "shit",
+      "start": 2301.15
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2302.71,
+      "id": 23,
+      "original_description": "fucking",
+      "start": 2302.22
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2315.73,
+      "id": 24,
+      "original_description": "شخص يشرب السجائر",
+      "start": 2313.58
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2330.41,
+      "id": 25,
+      "original_description": "fucking",
+      "start": 2329.77
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2373.2,
+      "id": 26,
+      "original_description": "bullshit",
+      "start": 2372.45
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2376.48,
+      "id": 27,
+      "original_description": "stupid",
+      "start": 2376.1
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2661.91,
+      "id": 28,
+      "original_description": "امرأة تتعرى",
+      "start": 2653.94
+    }
+  ],
+  "parent_series_id": "safe",
+  "platforms": {
+    "netflix": {
+      "id": "80202428",
+      "url": "https://www.netflix.com/watch/80202428"
+    }
+  },
+  "season": 1,
+  "title": "safe - S1E8",
+  "type": "episode"
+}

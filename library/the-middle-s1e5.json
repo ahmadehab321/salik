@@ -1,0 +1,91 @@
+{
+  "episode": 5,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 254.45,
+      "id": 1,
+      "original_description": "stupid",
+      "start": 254.16
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 264.77,
+      "id": 2,
+      "original_description": "stupid",
+      "start": 264.44
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 265.94,
+      "id": 3,
+      "original_description": "stupid",
+      "start": 265.77
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 400.84,
+      "id": 4,
+      "original_description": "suck",
+      "start": 400.59
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 428.47,
+      "id": 5,
+      "original_description": "suck",
+      "start": 428.23
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 662.04,
+      "id": 6,
+      "original_description": "damn",
+      "start": 661.24
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 710.55,
+      "id": 7,
+      "original_description": "stupid",
+      "start": 709.12
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 714.9,
+      "id": 8,
+      "original_description": "stupid",
+      "start": 714.44
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 796.72,
+      "id": 9,
+      "original_description": "damn",
+      "start": 796.4
+    }
+  ],
+  "parent_series_id": "the-middle",
+  "platforms": {
+    "netflix": {
+      "id": "82170833",
+      "url": "https://www.netflix.com/watch/82170833"
+    },
+    "osnplus": {
+      "id": "68988",
+      "url": "https://osnplus.com/en-eg/series/the-middle-68502"
+    }
+  },
+  "season": 1,
+  "title": "The Middle - S1E5",
+  "type": "episode"
+}

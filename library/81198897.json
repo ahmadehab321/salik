@@ -1,0 +1,154 @@
+{
+  "category": "Kids, Animation",
+  "description": " قصة أصل الصداقة التي تجمع بين الكلب \"سكوبي دو\" وصديقه \"شاجي\"، وكيف انضما إلى باقي فريق \"شركة الغموض\" (فريد، ودافني، وفيلما)",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1250.51,
+      "id": 1,
+      "original_description": "dick",
+      "start": 1250.2
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1435.01,
+      "id": 2,
+      "original_description": "dick",
+      "start": 1434.4
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1766.53,
+      "id": 3,
+      "original_description": "dick",
+      "start": 1766.08
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2339,
+      "id": 4,
+      "original_description": "dick",
+      "start": 2338.1
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2343.81,
+      "id": 5,
+      "original_description": "dick",
+      "start": 2343.5
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2351.71,
+      "id": 6,
+      "original_description": "dick",
+      "start": 2351.04
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2352.38,
+      "id": 7,
+      "original_description": "dick",
+      "start": 2351.71
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2353.78,
+      "id": 8,
+      "original_description": "dick",
+      "start": 2352.44
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2868.38,
+      "id": 9,
+      "original_description": "dick",
+      "start": 2867.59
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 3128.62,
+      "id": 10,
+      "original_description": "dick",
+      "start": 3128.36
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 3190.86,
+      "id": 11,
+      "original_description": "hell",
+      "start": 3190.38
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 3711.05,
+      "id": 12,
+      "original_description": "crap",
+      "start": 3710.85
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 3878.21,
+      "id": 13,
+      "original_description": "dick",
+      "start": 3877.48
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 5081.81,
+      "id": 14,
+      "original_description": "stupid",
+      "start": 5080.59
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 5085.73,
+      "id": 15,
+      "original_description": "dick",
+      "start": 5085.35
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 5098.5,
+      "id": 16,
+      "original_description": "rum",
+      "start": 5098.21
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 5110.69,
+      "id": 17,
+      "original_description": "dick",
+      "start": 5109.69
+    }
+  ],
+  "genre": "Action, Animation",
+  "pg": 7,
+  "platforms": {
+    "netflix": {
+      "id": "81198897",
+      "url": "https://www.netflix.com/title/81198897"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/zG2l9Svw4PTldWJAzC171Y3d6G8.jpg",
+  "title": "SCOOB!",
+  "type": "movie",
+  "year": 2020
+}

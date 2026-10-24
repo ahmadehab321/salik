@@ -1,0 +1,163 @@
+{
+  "addedAt": 1789247481771,
+  "category": "cartoon",
+  "description": "يعود الشريكان \"جودي هوبس\" و\"تيك وايلد\" في مهمة جديدة لحفظ الأمن والتحقيق في قضايا جديدة داخل مدينة الحيوانات المتطورة.\nيتتبع الثنائي خيوط قضية غامضة تحودهما لمواجهة التنوع المتزايد وأحياء جديدة في المدينة مع إدخال فصائل حيوانية وزواحف لم تظهر من قبل.\nيخوض الاثنان مغامرة مليئة بالمطاردات والمواقف الكوميدية لاكتشاف مؤامرة جديدة تهدد الاستقرار الاجتماعي في زوتوبوليس.",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 329.96,
+      "id": 1,
+      "original_description": "dumb",
+      "start": 329.04
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 364,
+      "id": 2,
+      "original_description": "حلاقة خروف كأنه لابس بكيني",
+      "start": 360
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 406.77,
+      "id": 3,
+      "original_description": "dumb",
+      "start": 405.67
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1760.53,
+      "id": 4,
+      "original_description": "dumb",
+      "start": 1759.43
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2194.76,
+      "id": 5,
+      "original_description": "threesome",
+      "start": 2193.38
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3070.03,
+      "id": 6,
+      "original_description": "dumb",
+      "start": 3068.77
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3075.23,
+      "id": 7,
+      "original_description": "dumb",
+      "start": 3074.25
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3075.62,
+      "id": 8,
+      "original_description": "dumb",
+      "start": 3074.53
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3076,
+      "id": 9,
+      "original_description": "dumb",
+      "start": 3074.92
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3077.3,
+      "id": 10,
+      "original_description": "dumb",
+      "start": 3076.37
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3077.67,
+      "id": 11,
+      "original_description": "dumb",
+      "start": 3076.6
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3078.03,
+      "id": 12,
+      "original_description": "dumb",
+      "start": 3076.97
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4016.45,
+      "id": 13,
+      "original_description": "god",
+      "start": 4015.63
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4321.62,
+      "id": 14,
+      "original_description": "idiot",
+      "start": 4320.89
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5183.75,
+      "id": 15,
+      "original_description": "threesome",
+      "start": 5183.08
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5309.95,
+      "id": 16,
+      "original_description": "dumb",
+      "start": 5308.76
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5314.07,
+      "id": 17,
+      "original_description": "dumb",
+      "start": 5313.11
+    },
+    {
+      "action_type": "blur",
+      "category": "nudity",
+      "end": 5972,
+      "id": 18,
+      "original_description": "حيوانات تلبس بكيني ولبس فاضح",
+      "start": 5792
+    }
+  ],
+  "genre": "رسوم متحركة، كوميديا، مغامرة، تحري وجريمة",
+  "pg": "+7",
+  "platforms": {
+    "disney": {
+      "id": "0818ff05-d4fd-4419-92ed-4f907f09bacb",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-0818ff05-d4fd-4419-92ed-4f907f09bacb"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/qL1MBO7f8V7jXSB46SgpetwqNaV.jpg",
+  "title": "زوتروبوليس (2)",
+  "type": "movie",
+  "year": 2025
+}

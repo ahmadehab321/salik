@@ -1,0 +1,795 @@
+{
+  "addedAt": 1788074066781,
+  "category": "Marvel",
+  "description": "يواصل فريق \"حراس المجرة\" مغامراتهم عبر أقاصي الفضاء، حيث يتوجب عليهم القتال للحفاظ على عائلتهم الوليدة موحدة. وأثناء محاولتهم فك أسرار النسب الحقيقي لـ \"بيتر كويل\" (ستار-لورد)، يلتقون بكائن قديم وقوي يُدعى \"إيغو\" يدعي أنه والده، لتنطلق الأحداث في إطار من الأكشن والكوميديا مع انضمام حلفاء أعداء سابقين للمساعدة في مواجهة تهديد جديد يهدد المجرة.",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 72.37,
+      "id": 1,
+      "original_description": "whiskey",
+      "start": 70.91
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 79.73,
+      "id": 2,
+      "original_description": "whiskey",
+      "start": 78.32
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 80.24,
+      "id": 3,
+      "original_description": "wine",
+      "start": 79.33
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 142.13,
+      "id": 4,
+      "original_description": "رجل يقبل امرأة",
+      "start": 136.62
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 245.52,
+      "id": 5,
+      "original_description": "damn",
+      "start": 244.92
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 641.12,
+      "id": 6,
+      "original_description": "شخص يعطي تعليق جنسي",
+      "start": 616.86
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 715.36,
+      "id": 7,
+      "original_description": "douchebags",
+      "start": 714.33
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 723.96,
+      "id": 8,
+      "original_description": "shit",
+      "start": 723.13
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 830.73,
+      "id": 9,
+      "original_description": "damn",
+      "start": 830.08
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 869.19,
+      "id": 10,
+      "original_description": "حديث عن اثارة الغرائز",
+      "start": 861.93
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 863.24,
+      "id": 11,
+      "original_description": "hot",
+      "start": 862.54
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 873.84,
+      "id": 12,
+      "original_description": "pathetic",
+      "start": 872.46
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 955.12,
+      "id": 13,
+      "original_description": "foolish",
+      "start": 954.15
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 977.63,
+      "id": 14,
+      "original_description": "damn",
+      "start": 976.76
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1070.52,
+      "id": 15,
+      "original_description": "douchebag",
+      "start": 1069.5
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1091.38,
+      "id": 16,
+      "original_description": "حديث عن الغائط",
+      "start": 1077.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1116.2,
+      "id": 17,
+      "original_description": "idiots",
+      "start": 1114.88
+    },
+    {
+      "action_type": "blur",
+      "category": "nudity",
+      "end": 1352.05,
+      "id": 18,
+      "original_description": "حديث عن القضيب",
+      "start": 1341.97
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1368.92,
+      "id": 19,
+      "original_description": "dick",
+      "start": 1367.92
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1383.35,
+      "id": 20,
+      "original_description": "stupid",
+      "start": 1382.37
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1408.91,
+      "id": 21,
+      "original_description": "fool",
+      "start": 1408.28
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1410.22,
+      "id": 22,
+      "original_description": "fool",
+      "start": 1409.52
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1457.34,
+      "id": 23,
+      "original_description": "hell",
+      "start": 1456.27
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1509.76,
+      "id": 24,
+      "original_description": "بيت دعارة",
+      "start": 1483.92
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1583.1,
+      "id": 25,
+      "original_description": "hell",
+      "start": 1581.78
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1585,
+      "id": 26,
+      "original_description": "damn",
+      "start": 1584.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1646.76,
+      "id": 27,
+      "original_description": "pathetic",
+      "start": 1644.84
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1673.1,
+      "id": 28,
+      "original_description": "hell",
+      "start": 1672.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1757.89,
+      "id": 29,
+      "original_description": "crap",
+      "start": 1757.08
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1764.8,
+      "id": 30,
+      "original_description": "bitch",
+      "start": 1763.84
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1772.8,
+      "id": 31,
+      "original_description": "lord",
+      "start": 1772.06
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1989.4,
+      "id": 32,
+      "original_description": "dick",
+      "start": 1988.48
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2122.95,
+      "id": 33,
+      "original_description": "sexual",
+      "start": 2121.75
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2255.1,
+      "id": 34,
+      "original_description": "شخص يأكل عنكبوت",
+      "start": 2249.21
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2269.95,
+      "id": 35,
+      "original_description": "دخول حقن في رؤوس أشخاص",
+      "start": 2265.99
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2526.29,
+      "id": 36,
+      "original_description": "شخص يتم كسر رأسه",
+      "start": 2269.95
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2400.28,
+      "id": 37,
+      "original_description": "crap",
+      "start": 2399.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2409.8,
+      "id": 38,
+      "original_description": "idiot",
+      "start": 2408.89
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2477.03,
+      "id": 39,
+      "original_description": "stupid",
+      "start": 2475.92
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2498.58,
+      "id": 40,
+      "original_description": "damn",
+      "start": 2498.08
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2510.4,
+      "id": 41,
+      "original_description": "damn",
+      "start": 2509.22
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2665.32,
+      "id": 42,
+      "original_description": "god",
+      "start": 2664.47
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2787.85,
+      "id": 43,
+      "original_description": "شخص يقول تعليق ايحائي",
+      "start": 2747.67
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2750.04,
+      "id": 44,
+      "original_description": "penis",
+      "start": 2749.1
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2776.8,
+      "id": 45,
+      "original_description": "penis",
+      "start": 2775.96
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2843.49,
+      "id": 46,
+      "original_description": "مانيكان يقبلان بعضهما",
+      "start": 2840.66
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2974.28,
+      "id": 47,
+      "original_description": "stupid",
+      "start": 2972.71
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3047.29,
+      "id": 48,
+      "original_description": "ass",
+      "start": 3046.38
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3057.62,
+      "id": 49,
+      "original_description": "scrotum",
+      "start": 3056.64
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3069.17,
+      "id": 50,
+      "original_description": "moronic",
+      "start": 3068.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3069.77,
+      "id": 51,
+      "original_description": "shitbag",
+      "start": 3068.47
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3376.16,
+      "id": 52,
+      "original_description": "dumb",
+      "start": 3375.17
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3561.96,
+      "id": 53,
+      "original_description": "jerks",
+      "start": 3561.11
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3585.28,
+      "id": 54,
+      "original_description": "stupid",
+      "start": 3583.8
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3626.37,
+      "id": 55,
+      "original_description": "dumbass",
+      "start": 3625.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3634.89,
+      "id": 56,
+      "original_description": "ass",
+      "start": 3634
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3637.24,
+      "id": 57,
+      "original_description": "asshole",
+      "start": 3636.02
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3836.98,
+      "id": 58,
+      "original_description": "صباع مقطوع",
+      "start": 3820.93
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4411.08,
+      "id": 59,
+      "original_description": "god",
+      "start": 4410.25
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4427.72,
+      "id": 60,
+      "original_description": "jerk",
+      "start": 4426.93
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4472.25,
+      "id": 61,
+      "original_description": "damn",
+      "start": 4471.2
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4672.63,
+      "id": 62,
+      "original_description": "stupid",
+      "start": 4671.67
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4844.96,
+      "id": 63,
+      "original_description": "shit",
+      "start": 4844.24
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4919.22,
+      "id": 64,
+      "original_description": "stupid",
+      "start": 4917.8
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 5064,
+      "id": 65,
+      "original_description": "شخص يقيء",
+      "start": 5062.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5066.09,
+      "id": 66,
+      "original_description": "hell",
+      "start": 5065.1
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5083.63,
+      "id": 67,
+      "original_description": "lord",
+      "start": 5082.56
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5090.64,
+      "id": 68,
+      "original_description": "fool",
+      "start": 5089.61
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5094.32,
+      "id": 69,
+      "original_description": "fool",
+      "start": 5093.31
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5098.16,
+      "id": 70,
+      "original_description": "loser",
+      "start": 5097.37
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5121.1,
+      "id": 71,
+      "original_description": "ass",
+      "start": 5120.2
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5124.5,
+      "id": 72,
+      "original_description": "damn",
+      "start": 5123.49
+    },
+    {
+      "action_type": "blur",
+      "category": "nudity",
+      "end": 5245.09,
+      "id": 73,
+      "original_description": "كان يتزاوج مع جميع الكائنات لتوليد اكبر قدر من المخلوقات السماوية",
+      "start": 5236.33
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5278.48,
+      "id": 74,
+      "original_description": "damn",
+      "start": 5277.54
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5393.31,
+      "id": 75,
+      "original_description": "hell",
+      "start": 5392.11
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5525.44,
+      "id": 76,
+      "original_description": "jackass",
+      "start": 5524.62
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5546.02,
+      "id": 77,
+      "original_description": "dumber",
+      "start": 5545.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5576.08,
+      "id": 78,
+      "original_description": "damn",
+      "start": 5575.16
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5579.6,
+      "id": 79,
+      "original_description": "stupid",
+      "start": 5578.54
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5619.96,
+      "id": 80,
+      "original_description": "idiot",
+      "start": 5619.29
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5637.83,
+      "id": 81,
+      "original_description": "freakin'",
+      "start": 5636.09
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5871.24,
+      "id": 82,
+      "original_description": "hell",
+      "start": 5870.41
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5983.73,
+      "id": 83,
+      "original_description": "butts",
+      "start": 5982.84
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6232.49,
+      "id": 84,
+      "original_description": "hell",
+      "start": 6232.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6414.76,
+      "id": 85,
+      "original_description": "pissing",
+      "start": 6412.83
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 6530.63,
+      "id": 86,
+      "original_description": "تحول ايغو من الهيكل العظمي إلى بشر 1",
+      "start": 6525.15
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 6570.39,
+      "id": 87,
+      "original_description": "تحول ايغو من الهيكل العظمي إلى بشر 2",
+      "start": 6562.94
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 6580.65,
+      "id": 88,
+      "original_description": "تحول ايغو من الهيكل العظمي إلى بشر 3",
+      "start": 6575.77
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 6615.84,
+      "id": 89,
+      "original_description": "تحول ايغو من الهيكل العظمي إلى بشر 4",
+      "start": 6611.52
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6800.89,
+      "id": 90,
+      "original_description": "damn",
+      "start": 6799.92
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6985.4,
+      "id": 91,
+      "original_description": "god",
+      "start": 6984.43
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7057.84,
+      "id": 92,
+      "original_description": "damn",
+      "start": 7056.92
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7185.23,
+      "id": 93,
+      "original_description": "ass",
+      "start": 7184.32
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7188,
+      "id": 94,
+      "original_description": "hot",
+      "start": 7186.97
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7732.4,
+      "id": 95,
+      "original_description": "dope",
+      "start": 7731.4
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7735.33,
+      "id": 96,
+      "original_description": "hell",
+      "start": 7734.68
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7741,
+      "id": 97,
+      "original_description": "shit",
+      "start": 7740.14
+    }
+  ],
+  "genre": "أبطال خارقون، أكشن ومغامرة، خيال علمي، كوميديا",
+  "pg": "+13",
+  "platforms": {
+    "disney": {
+      "id": "9fcd7087-c151-49dc-aeb9-b2f9943fd4e6",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-9fcd7087-c151-49dc-aeb9-b2f9943fd4e6"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/3kGckArA1uCjkbzwMmFFyGx0J4N.jpg",
+  "title": "Guardians of the Galaxy Vol. 2",
+  "type": "movie",
+  "year": 2017
+}

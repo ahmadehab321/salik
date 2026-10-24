@@ -1,0 +1,403 @@
+{
+  "addedAt": 1788639603951,
+  "category": "Tom Cruise",
+  "description": "يتهم العميل \"إيثان هانت\" وفريقه بالتفجير الإرهابي الذي يستهدف الكرملين في موسكو، مما يدفع الرئيس الأمريكي لتفعيل \"بروتوكول الشبح\" وإلغاء منظمة (IMF) بالكامل. يجد إيثان نفسه مطاردًا وبدون أي دعم لوجستي أو غطاء حكومي، ويضطر لتشكيل فريق مصغر للتخفي والتسلل في مهمة عالية الخطورة لمنع إرهابي يُدعى \"كورتس هيندريكس\" من الوصول إلى شفرات إطلاق الأسلحة النووية والتسبب في حرب عالمية ثالثة.",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2018.88,
+      "id": 1,
+      "original_description": "damn",
+      "start": 2017.47
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2090.25,
+      "id": 2,
+      "original_description": "شخص يشرب السجائر",
+      "start": 2076.92
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2104.74,
+      "id": 3,
+      "original_description": "شخص يشرب السجائر",
+      "start": 2101.04
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2141.37,
+      "id": 4,
+      "original_description": "hot",
+      "start": 2139.75
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2764.01,
+      "id": 5,
+      "original_description": "shit",
+      "start": 2762.89
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3043.79,
+      "id": 6,
+      "original_description": "gin",
+      "start": 3042.47
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3315.75,
+      "id": 7,
+      "original_description": "god",
+      "start": 3315.15
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3316.29,
+      "id": 8,
+      "original_description": "damn",
+      "start": 3315.15
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3436.43,
+      "id": 9,
+      "original_description": "hell",
+      "start": 3435.56
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3453.73,
+      "id": 10,
+      "original_description": "hell",
+      "start": 3452.31
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3714,
+      "id": 11,
+      "original_description": "shit",
+      "start": 3712.88
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3940.93,
+      "id": 12,
+      "original_description": "damn",
+      "start": 3939.89
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4454.16,
+      "id": 13,
+      "original_description": "jesus",
+      "start": 4453.16
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4988.77,
+      "id": 14,
+      "original_description": "hell",
+      "start": 4987.82
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 5121.67,
+      "id": 15,
+      "original_description": "شخص يشرب السجائر",
+      "start": 5112.58
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5794.9,
+      "id": 16,
+      "original_description": "امرأة مفاتنها ظاهرة",
+      "start": 5788.45
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5820.98,
+      "id": 17,
+      "original_description": "امرأة تلبس لبس مثير",
+      "start": 5799.08
+    },
+    {
+      "action_type": "blur",
+      "category": "nudity",
+      "end": 5839.52,
+      "id": 18,
+      "original_description": "امرأة مفاتنها ظاهرة",
+      "start": 5836.48
+    },
+    {
+      "action_type": "blur",
+      "category": "nudity",
+      "end": 5844.84,
+      "id": 19,
+      "original_description": "امرأة مفاتنها ظاهرة",
+      "start": 5842.12
+    },
+    {
+      "action_type": "blur",
+      "category": "nudity",
+      "end": 5897.67,
+      "id": 20,
+      "original_description": "امرأة كاشفة لمفاتنها",
+      "start": 5852.59
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5907.76,
+      "id": 21,
+      "original_description": "شخص يقول تعليق ايحائي",
+      "start": 5902.81
+    },
+    {
+      "action_type": "blur",
+      "category": "nudity",
+      "end": 5969.93,
+      "id": 22,
+      "original_description": "امرأة تلبس لبس مثير",
+      "start": 5931.32
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6018.72,
+      "id": 23,
+      "original_description": "امرأة صدرها مكشوف",
+      "start": 6000.48
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6082.52,
+      "id": 24,
+      "original_description": "امرأة تلبس لبس مثير",
+      "start": 6078.46
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6127.1,
+      "id": 25,
+      "original_description": "امرأة صدرها مكشوف تقبل رجل",
+      "start": 6100.31
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6143.9,
+      "id": 26,
+      "original_description": "امرأة مكشوفة الصدر",
+      "start": 6141.95
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6230.46,
+      "id": 27,
+      "original_description": "شخص يغازل امرأة",
+      "start": 6183.51
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6197.07,
+      "id": 28,
+      "original_description": "hot",
+      "start": 6195.84
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6201.11,
+      "id": 29,
+      "original_description": "hot",
+      "start": 6199.92
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6203.13,
+      "id": 30,
+      "original_description": "hot",
+      "start": 6202.61
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6203.66,
+      "id": 31,
+      "original_description": "hot",
+      "start": 6202.61
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 6264.89,
+      "id": 32,
+      "original_description": "شخص يصاب بطلقة ويموت",
+      "start": 6263.1
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6317.23,
+      "id": 33,
+      "original_description": "امرأة تغازل رجل",
+      "start": 6272.07
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6362.21,
+      "id": 34,
+      "original_description": "hell",
+      "start": 6361.23
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6365.27,
+      "id": 35,
+      "original_description": "hell",
+      "start": 6364.4
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6366.35,
+      "id": 36,
+      "original_description": "hell",
+      "start": 6365.53
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6416.92,
+      "id": 37,
+      "original_description": "امراة تستدرج شخص على السرير",
+      "start": 6374.59
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6395.35,
+      "id": 38,
+      "original_description": "ass",
+      "start": 6394.16
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6440.35,
+      "id": 39,
+      "original_description": "hell",
+      "start": 6439.04
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6446.14,
+      "id": 40,
+      "original_description": "امرأة مكشوفة الساق",
+      "start": 6444.23
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6513.98,
+      "id": 41,
+      "original_description": "شخص يقول تعليق ايحائي",
+      "start": 6508.97
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6543.93,
+      "id": 42,
+      "original_description": "امرأة تخلع فستانها",
+      "start": 6539.47
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6598.18,
+      "id": 43,
+      "original_description": "امرأة بملابسها الداخلية",
+      "start": 6578.42
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 6887.88,
+      "id": 44,
+      "original_description": "مضاربة تكسير عظام",
+      "start": 6870.98
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 6974.24,
+      "id": 45,
+      "original_description": "انتحار شخص من مكان عالي",
+      "start": 6970.03
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7019.13,
+      "id": 46,
+      "original_description": "damn",
+      "start": 7018.39
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 7213.89,
+      "id": 47,
+      "original_description": "اشخاص يشربون الخمر",
+      "start": 7174.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7256.43,
+      "id": 48,
+      "original_description": "dumb",
+      "start": 7255.67
+    }
+  ],
+  "genre": "أكشن ومغامرة، إثارة وتجسس، تشويق",
+  "pg": "+13",
+  "platforms": {
+    "netflix": {
+      "id": "70173048",
+      "url": "https://www.netflix.com/title/70173048"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/w600_and_h900_face/bi61KYRPq3uOjcicWBB1xIU9q0x.jpg",
+  "title": "Mission: Impossible – Ghost Protocol",
+  "type": "movie",
+  "year": 2011
+}

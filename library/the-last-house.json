@@ -1,0 +1,210 @@
+{
+  "category": "Thriller, Sci-Fi",
+  "description": "فيلم The Last House (البيت الأخير) هو فيلم إثارة وخيال علمي أمريكي صدر عبر منصة Netflix. يدور حول عائلة مكونة من أربعة أفراد تجد نفسها محاصرة ومغلقة بإحكام بشكل غامض داخل منزلها دون أي مخرج، بينما يواجه العالم بأسره خطراً مجهولاً، مما يدفعهم للتعاون للبقاء على قيد الحياة",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 280.22,
+      "id": 1,
+      "original_description": "امرأة تقبل رجل",
+      "start": 276.18
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 320.68,
+      "id": 2,
+      "original_description": "امرأة تقبل رجل",
+      "start": 318.28
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 384.58,
+      "id": 3,
+      "original_description": "stupid",
+      "start": 384.06
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 385.88,
+      "id": 4,
+      "original_description": "stupid",
+      "start": 384.92
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 388.54,
+      "id": 5,
+      "original_description": "stupid",
+      "start": 387.91
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 661.63,
+      "id": 6,
+      "original_description": "dumb",
+      "start": 661.05
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 719.52,
+      "id": 7,
+      "original_description": "حديث عن نزوة عابرة",
+      "start": 696.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 830.01,
+      "id": 8,
+      "original_description": "freaking",
+      "start": 829.14
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 885.87,
+      "id": 9,
+      "original_description": "stupid",
+      "start": 885.15
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 931.58,
+      "id": 10,
+      "original_description": "idiot",
+      "start": 930.65
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 967.89,
+      "id": 11,
+      "original_description": "hell",
+      "start": 967.2
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1687.5,
+      "id": 12,
+      "original_description": "dumb",
+      "start": 1686.85
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1851.93,
+      "id": 13,
+      "original_description": "شرب المخدرات",
+      "start": 1820.41
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1830.58,
+      "id": 14,
+      "original_description": "sex",
+      "start": 1830.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1831.77,
+      "id": 15,
+      "original_description": "sex",
+      "start": 1831.22
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1839.49,
+      "id": 16,
+      "original_description": "sex",
+      "start": 1838.92
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1910.64,
+      "id": 17,
+      "original_description": "hell",
+      "start": 1909.63
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1960.2,
+      "id": 18,
+      "original_description": "رجل يقبل امرأة",
+      "start": 1923.88
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2943.11,
+      "id": 19,
+      "original_description": "فتاة تعطي اشارة جنسية",
+      "start": 2941.44
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3500.01,
+      "id": 20,
+      "original_description": "damn",
+      "start": 3499.5
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4039.49,
+      "id": 21,
+      "original_description": "stupid",
+      "start": 4038.73
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 4929.97,
+      "id": 22,
+      "original_description": "امرأة تقبل رجل",
+      "start": 4919.05
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 5066.73,
+      "id": 23,
+      "original_description": "جثة شخص متحللة",
+      "start": 5061.05
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 5186.2,
+      "id": 24,
+      "original_description": "جثة شخص متحللة",
+      "start": 5179.08
+    }
+  ],
+  "genre": "Thriller, Sci-Fi",
+  "pg": 16,
+  "platforms": {
+    "netflix": {
+      "id": 81914143,
+      "url": "https://www.netflix.com/title/81914143"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/40piU5hVuWXXRY5s7mE36FBqjUO.jpg",
+  "title": "محتجزون في منزلنا",
+  "type": "movie",
+  "year": 2026
+}

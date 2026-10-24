@@ -1,0 +1,200 @@
+{
+  "episode": 6,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 44.96,
+      "id": 1,
+      "original_description": "stupid",
+      "start": 44.09
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 69.52,
+      "id": 2,
+      "original_description": "shit",
+      "start": 68.74
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 213.63,
+      "id": 3,
+      "original_description": "damn",
+      "start": 212.84
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 216.43,
+      "id": 4,
+      "original_description": "shit",
+      "start": 215.51
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 248.92,
+      "id": 5,
+      "original_description": "stupid",
+      "start": 248.04
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 369.03,
+      "id": 6,
+      "original_description": "stupid",
+      "start": 368.08
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 414.24,
+      "id": 7,
+      "original_description": "asshole",
+      "start": 413.32
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 501.97,
+      "id": 8,
+      "original_description": "رجل يقبل امرأة",
+      "start": 497.82
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 527.7,
+      "id": 9,
+      "original_description": "شخص يقول تعليق ايحائي",
+      "start": 521.62
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 522.43,
+      "id": 10,
+      "original_description": "sex",
+      "start": 521.92
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 578.07,
+      "id": 11,
+      "original_description": "شخص يقول تعليق ايحائي",
+      "start": 571.18
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 705.22,
+      "id": 12,
+      "original_description": "damn",
+      "start": 704.44
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 789,
+      "id": 13,
+      "original_description": "damn",
+      "start": 788.28
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 818.93,
+      "id": 14,
+      "original_description": "shit",
+      "start": 818.2
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 823.56,
+      "id": 15,
+      "original_description": "shit",
+      "start": 822.56
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 903.84,
+      "id": 16,
+      "original_description": "freaking",
+      "start": 902.64
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 906,
+      "id": 17,
+      "original_description": "dick",
+      "start": 905.16
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1084.17,
+      "id": 18,
+      "original_description": "ass",
+      "start": 1083.24
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1137.31,
+      "id": 19,
+      "original_description": "رجل يقبل امرأة",
+      "start": 1129.52
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1273.4,
+      "id": 20,
+      "original_description": "asshole",
+      "start": 1272.27
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1293.12,
+      "id": 21,
+      "original_description": "jesus",
+      "start": 1292.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1294.55,
+      "id": 22,
+      "original_description": "jesus",
+      "start": 1293.41
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1334.52,
+      "id": 23,
+      "original_description": "damn",
+      "start": 1334.12
+    }
+  ],
+  "parent_series_id": "stuart_fails_to_save_the_universe",
+  "platforms": {
+    "osnplus": {
+      "id": "spoiler-corn-is-delicious-76583",
+      "offset_seconds": 0,
+      "url": "https://osnplus.com/en-eg/series/spoiler-corn-is-delicious-76583"
+    }
+  },
+  "season": 1,
+  "title": "Stuart Fails to Save The Universe - S1E6",
+  "type": "episode"
+}

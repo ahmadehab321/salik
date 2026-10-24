@@ -1,0 +1,59 @@
+{
+  "addedAt": 1787641074252,
+  "category": "Disney",
+  "description": "Big Hero 6 فيلم رسوم متحركة من إنتاج ديزني يروي قصة الفتى العبقري في الروبوتات هيرو هامادا وروبوت الرعاية الصحية اللطيف بيماكس اللذين يشكلان فريق أبطال خارقين مع أصدقائهما لمواجهة شرير غامض في مدينة سان فرانسوكيو. يجمع العمل بين المغامرة والكوميديا والمشاعر الإنسانية المؤثرة حول الصداقة وتجاوز الأحزان",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 210.32,
+      "id": 1,
+      "original_description": "loser",
+      "start": 209.23
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 304.75,
+      "id": 2,
+      "original_description": "يا متخلف",
+      "start": 303.89
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 906.15,
+      "id": 3,
+      "original_description": "غبي",
+      "start": 905.23
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1735.22,
+      "id": 4,
+      "original_description": "dumb",
+      "start": 1734.52
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3066.64,
+      "id": 5,
+      "original_description": "nitwit",
+      "start": 3065.69
+    }
+  ],
+  "genre": "Action-Adventure, Hero, Comedy, Animation",
+  "pg": "+7",
+  "platforms": {
+    "disney": {
+      "id": "c29f81d8-8c51-4fe7-bb0c-13f099ad3e90",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-c29f81d8-8c51-4fe7-bb0c-13f099ad3e90"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/wE5Up7xUJpnpaTKrnyatIraQS74.jpg",
+  "title": "Big Hero 6",
+  "type": "movie",
+  "year": 2014
+}

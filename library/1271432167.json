@@ -1,0 +1,45 @@
+{
+  "category": "Family Comedy, Kids, Adventure, safe Sci-Fi",
+  "description": "سندس ، طالبة جامعية محبة للحيوانات، تستخدم تكنولوجيا متقدمة لنقل وعيها إلى قندس آلي نابض بالحياة",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "Crude Language",
+      "end": 3214,
+      "id": 1,
+      "original_description": "\"البقية في حياتك\"",
+      "reason": "مخالفة عقدية/ثقافية في الدبلجة",
+      "start": 3213
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3507.0000000000023,
+      "id": 2,
+      "original_description": "مشهد استحمام وظل خلف ستارة البانيو",
+      "reason": "لقطة بصرية إيحائية غير مناسبة عائلياً",
+      "start": 3504.5
+    },
+    {
+      "action_type": "mute",
+      "category": "Crude Language",
+      "end": 4599.000000000003,
+      "id": 3,
+      "original_description": "عبارة \"اتجوزني\"",
+      "reason": "فلترة لقطات الحب والعلاقات",
+      "start": 4598.000000000001
+    }
+  ],
+  "genre": "Sci-Fi, Animation",
+  "pg": "PG",
+  "platforms": {
+    "disney": {
+      "id": "38ce207f-bd54-4e94-92b9-5854b5a409fe",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-38ce207f-bd54-4e94-92b9-5854b5a409fe"
+    }
+  },
+  "poster_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJFFcmpm2Y6YPuSrhQG6DgNtgheWWBDUGHjA&s",
+  "title": "Hoppers",
+  "type": "movie",
+  "year": 2026
+}

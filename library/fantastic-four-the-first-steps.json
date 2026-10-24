@@ -1,0 +1,155 @@
+{
+  "addedAt": 1787692084745,
+  "category": "Marvel",
+  "description": "فيلم أبطال خارقين من عالم \"مارفل\" السينمائي صدر عام 2025، تدور أحداثه في عالم مستوحى من حقبة الستينيات برؤية مستقبلية ورجعية.يواجه فيه فريق \"الأربعة المذهلون\" أكبر تحدٍ للدفاع عن كوكب الأرض ضد إله الفضاء المرعب \"جالاكتوس\" ومساعده \"سيلفر سيرفر\" مع الحفاظ على قوة روابطهم الأسري",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 134.61,
+      "id": 1,
+      "original_description": "رجل يقبل امرأته",
+      "start": 124.39
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 345.04,
+      "id": 2,
+      "original_description": "كلب يشد بوكسر شخص",
+      "start": 342.22
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 948.36,
+      "id": 3,
+      "original_description": "bullshit",
+      "start": 947.17
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1063.38,
+      "id": 4,
+      "original_description": "jesus",
+      "start": 1062.39
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1190.5,
+      "id": 5,
+      "original_description": "hell",
+      "start": 1189.29
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1482.72,
+      "id": 6,
+      "original_description": "naked",
+      "start": 1481.77
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1486.79,
+      "id": 7,
+      "original_description": "naked",
+      "start": 1486
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2008.99,
+      "id": 8,
+      "original_description": "hell",
+      "start": 2008.17
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2361.76,
+      "id": 9,
+      "original_description": "hell",
+      "start": 2360.75
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2659.36,
+      "id": 11,
+      "original_description": "sexy",
+      "start": 2658.41
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2661.04,
+      "id": 13,
+      "original_description": "sexy",
+      "start": 2660.23
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2812.43,
+      "id": 14,
+      "original_description": "hell",
+      "start": 2811.54
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4041.83,
+      "id": 15,
+      "original_description": "idiot",
+      "start": 4040.94
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4655.14,
+      "id": 16,
+      "original_description": "god",
+      "start": 4654.23
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4713.26,
+      "id": 17,
+      "original_description": "stupid",
+      "start": 4712.19
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4797.83,
+      "id": 18,
+      "original_description": "jesus",
+      "start": 4796.82
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5902.9,
+      "id": 19,
+      "original_description": "رجل يقبل امرأة",
+      "start": 5895.81
+    }
+  ],
+  "genre": "Action-Adventure, Sci-Fi",
+  "pg": "PG-13",
+  "platforms": {
+    "disney": {
+      "id": "2142a7a9-4c49-438d-a492-296c4e08b714",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-2142a7a9-4c49-438d-a492-296c4e08b714"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/llX0QL1cHz5hcZuDTpOICVyjrrE.jpg",
+  "title": "The Fantastic Four: First Steps",
+  "type": "movie",
+  "year": 2025
+}

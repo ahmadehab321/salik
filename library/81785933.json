@@ -1,0 +1,63 @@
+{
+  "episode": 3,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 619.67,
+      "id": 1,
+      "original_description": "goddamn",
+      "start": 618.88
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 893.12,
+      "id": 2,
+      "original_description": "hell",
+      "start": 892.91
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1038.61,
+      "id": 3,
+      "original_description": "shit",
+      "start": 1038.24
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1309.29,
+      "id": 4,
+      "original_description": "shit",
+      "start": 1308.65
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1449.54,
+      "id": 5,
+      "original_description": "shit",
+      "start": 1449.06
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1879.88,
+      "id": 6,
+      "original_description": "hell",
+      "start": 1879.53
+    }
+  ],
+  "parent_series_id": "i-will-find-you",
+  "platforms": {
+    "netflix": {
+      "id": "81785933",
+      "url": "https://www.netflix.com/watch/81785933"
+    }
+  },
+  "season": 1,
+  "title": "I will Find You - S1E3",
+  "type": "episode"
+}

@@ -1,0 +1,107 @@
+{
+  "episode": 15,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 132.22,
+      "id": 1,
+      "original_description": "hot",
+      "start": 131.97
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 134.83,
+      "id": 2,
+      "original_description": "hot",
+      "start": 134.59
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 150.6,
+      "id": 3,
+      "original_description": "hot",
+      "start": 150.3
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 371.39,
+      "id": 4,
+      "original_description": "idiot",
+      "start": 371.17
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 507.66,
+      "id": 5,
+      "original_description": "sex",
+      "start": 507.42
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 596.35,
+      "id": 6,
+      "original_description": "crap",
+      "start": 595.83
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 705.38,
+      "id": 7,
+      "original_description": "stupid",
+      "start": 704.8
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 884.81,
+      "id": 8,
+      "original_description": "sleep with",
+      "start": 884.26
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 886.39,
+      "id": 9,
+      "original_description": "sleep with",
+      "start": 885.8
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1079.82,
+      "id": 10,
+      "original_description": "hot",
+      "start": 1079.52
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1104.14,
+      "id": 11,
+      "original_description": "سيدة ترقص بشكل اغرائي",
+      "start": 1098.68
+    }
+  ],
+  "parent_series_id": "the-middle",
+  "platforms": {
+    "netflix": {
+      "id": 82170868,
+      "url": "https://www.netflix.com/watch/82170868"
+    },
+    "osnplus": {
+      "id": 69082,
+      "url": "https://osnplus.com/en-eg/episode/friends-lies-and-videotape-69082/watch?contentStreamingDeeplinkQueryParam=false&skipRecap=true"
+    }
+  },
+  "season": 2,
+  "title": "The Middle - S2E15",
+  "type": "episode"
+}

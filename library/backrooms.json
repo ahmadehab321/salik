@@ -1,0 +1,1079 @@
+{
+  "addedAt": 1790073363327,
+  "category": "Horror",
+  "description": "يدور الفيلم حول تجربة علمية وميدانية تتسبب في خرق أبعاد الواقع للوصول إلى عالم موازي يُعرف بـ \"الغرف الخلفية\".\nيجد أبطال العمل أنفسهم محتجزين داخل متاهة لا نهائية من الممرات الخالية ذات السجاد المبتل والإضاءة الصفراء، حيث تحيط بهم مخاطر كائنات غامضة وقوانين أبعاد جديدة كلياً.",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 177.18,
+      "id": 1,
+      "original_description": "fuck",
+      "start": 175.86
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 212.54,
+      "id": 2,
+      "original_description": "fuck",
+      "start": 212.05
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 222.22,
+      "id": 3,
+      "original_description": "fuck",
+      "start": 221.19
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 227.48,
+      "id": 4,
+      "original_description": "fuck",
+      "start": 226.39
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 235.96,
+      "id": 5,
+      "original_description": "fuck",
+      "start": 234.9
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 236.61,
+      "id": 6,
+      "original_description": "fuck",
+      "start": 235.26
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 249.75,
+      "id": 7,
+      "original_description": "shit",
+      "start": 248.79
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 250.25,
+      "id": 8,
+      "original_description": "fuck",
+      "start": 249.49
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 343.8,
+      "id": 9,
+      "original_description": "fuck",
+      "start": 342.86
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 368.79,
+      "id": 10,
+      "original_description": "fuck",
+      "start": 367.99
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 369.39,
+      "id": 11,
+      "original_description": "fuck",
+      "start": 368.09
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 369.79,
+      "id": 12,
+      "original_description": "fuck",
+      "start": 368.69
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 376.96,
+      "id": 13,
+      "original_description": "fuck",
+      "start": 375.88
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 381.19,
+      "id": 14,
+      "original_description": "fuck",
+      "start": 380.76
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 381.92,
+      "id": 15,
+      "original_description": "fuck",
+      "start": 380.99
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 382.64,
+      "id": 16,
+      "original_description": "fuck",
+      "start": 381.72
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 382.67,
+      "id": 17,
+      "original_description": "fuck",
+      "start": 381.94
+    },
+    {
+      "action_type": "blur",
+      "category": "nudity",
+      "end": 778.66,
+      "id": 18,
+      "original_description": "\"ماري\" مكشوفة ساقها في جلسة نفسية مع \"كلارك\" صاحب معرض الأثاث اللذي به الباكرومز",
+      "start": 531.75
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 614.53,
+      "id": 19,
+      "original_description": "stupid",
+      "start": 613.45
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 677.81,
+      "id": 20,
+      "original_description": "stupid",
+      "start": 676.69
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 779.16,
+      "id": 21,
+      "original_description": "fucking",
+      "start": 778.11
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 781.21,
+      "id": 22,
+      "original_description": "god",
+      "start": 780.86
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 781.41,
+      "id": 23,
+      "original_description": "damn",
+      "start": 780.86
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 783.15,
+      "id": 24,
+      "original_description": "shit",
+      "start": 782.25
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 786.14,
+      "id": 25,
+      "original_description": "fucking",
+      "start": 784.98
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 786.34,
+      "id": 26,
+      "original_description": "ass",
+      "start": 785.44
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 916,
+      "id": 27,
+      "original_description": "fucking",
+      "start": 914.83
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 917.04,
+      "id": 28,
+      "original_description": "jesus",
+      "start": 916.2
+    },
+    {
+      "action_type": "blur",
+      "category": "nudity",
+      "end": 953.45,
+      "id": 29,
+      "original_description": "\"كات\" مكشوفة عورتها",
+      "start": 917.28
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 944.24,
+      "id": 30,
+      "original_description": "bullshit",
+      "start": 942.94
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1016.26,
+      "id": 31,
+      "original_description": "hell",
+      "start": 1015.43
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1065.15,
+      "id": 32,
+      "original_description": "damn",
+      "start": 1063.86
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1145.75,
+      "id": 33,
+      "original_description": "امرأة مكشوفة الساق",
+      "start": 1128.48
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1154.89,
+      "id": 34,
+      "original_description": "امرأة مكشوفة الساق",
+      "start": 1150
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1169.92,
+      "id": 35,
+      "original_description": "شخص يشرب الخمر",
+      "start": 1166.73
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1179.43,
+      "id": 36,
+      "original_description": "شخص يمسك زجاجة خمر",
+      "start": 1173.78
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1208.17,
+      "id": 37,
+      "original_description": "shit",
+      "start": 1207.1
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1400.36,
+      "id": 38,
+      "original_description": "prick",
+      "start": 1399.32
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1404.24,
+      "id": 39,
+      "original_description": "شخص يشرب الخمر",
+      "start": 1400.47
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1447.66,
+      "id": 40,
+      "original_description": "stupid",
+      "start": 1446.49
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1448.32,
+      "id": 41,
+      "original_description": "fuck",
+      "start": 1446.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1449.91,
+      "id": 42,
+      "original_description": "shit",
+      "start": 1448.76
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1773.72,
+      "id": 43,
+      "original_description": "طائر ميت",
+      "start": 1760.13
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1792.51,
+      "id": 44,
+      "original_description": "gin",
+      "start": 1791.6
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1872.2,
+      "id": 45,
+      "original_description": "fuck",
+      "start": 1871.05
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2217.59,
+      "id": 46,
+      "original_description": "fuck",
+      "start": 2216.45
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2410.81,
+      "id": 47,
+      "original_description": "hell",
+      "start": 2409.99
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2424.63,
+      "id": 48,
+      "original_description": "shit",
+      "start": 2423.82
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2439.98,
+      "id": 49,
+      "original_description": "shit",
+      "start": 2439.25
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2627.88,
+      "id": 50,
+      "original_description": "fucking",
+      "start": 2626.73
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2684.83,
+      "id": 51,
+      "original_description": "jesus",
+      "start": 2684.31
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2685.77,
+      "id": 52,
+      "original_description": "goddamn",
+      "start": 2684.63
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2695.61,
+      "id": 53,
+      "original_description": "fuck",
+      "start": 2694.66
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2728.92,
+      "id": 54,
+      "original_description": "shit",
+      "start": 2727.8
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2742.28,
+      "id": 55,
+      "original_description": "fuck",
+      "start": 2741.39
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2780.61,
+      "id": 56,
+      "original_description": "fuck",
+      "start": 2779.75
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2783.03,
+      "id": 57,
+      "original_description": "fuck",
+      "start": 2782.2
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2783.74,
+      "id": 58,
+      "original_description": "fuck",
+      "start": 2783.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2785.96,
+      "id": 59,
+      "original_description": "fucking",
+      "start": 2785.37
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2789.69,
+      "id": 60,
+      "original_description": "fuck",
+      "start": 2788.66
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2791.08,
+      "id": 61,
+      "original_description": "fucking",
+      "start": 2790
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2795.07,
+      "id": 62,
+      "original_description": "fuck",
+      "start": 2794.05
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2799.67,
+      "id": 63,
+      "original_description": "fuck",
+      "start": 2799.09
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2815.69,
+      "id": 64,
+      "original_description": "fuck",
+      "start": 2814.35
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2822.49,
+      "id": 65,
+      "original_description": "fuck",
+      "start": 2821.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2841.26,
+      "id": 66,
+      "original_description": "shit",
+      "start": 2840.27
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2856,
+      "id": 67,
+      "original_description": "fuck",
+      "start": 2854.88
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2868.13,
+      "id": 68,
+      "original_description": "حديث عن تعاطي المخدرات",
+      "start": 2855.03
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2860.98,
+      "id": 69,
+      "original_description": "drugs",
+      "start": 2860.22
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2887.89,
+      "id": 70,
+      "original_description": "fuck",
+      "start": 2886.83
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2937.17,
+      "id": 71,
+      "original_description": "fucking",
+      "start": 2936.22
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2946.65,
+      "id": 72,
+      "original_description": "stupid",
+      "start": 2945.71
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2990.07,
+      "id": 73,
+      "original_description": "fuck",
+      "start": 2988.93
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2991.77,
+      "id": 74,
+      "original_description": "fuck",
+      "start": 2990.91
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2998.8,
+      "id": 75,
+      "original_description": "jesus",
+      "start": 2998.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2999.46,
+      "id": 76,
+      "original_description": "fucking",
+      "start": 2998.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2999.83,
+      "id": 77,
+      "original_description": "christ",
+      "start": 2998.76
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3032.86,
+      "id": 78,
+      "original_description": "shit",
+      "start": 3032.08
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3038.26,
+      "id": 79,
+      "original_description": "fucking",
+      "start": 3037.17
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3060.52,
+      "id": 80,
+      "original_description": "fuck",
+      "start": 3059.56
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3090.05,
+      "id": 81,
+      "original_description": "fuck",
+      "start": 3089.14
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3108.36,
+      "id": 82,
+      "original_description": "fuck",
+      "start": 3107.23
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3118.13,
+      "id": 83,
+      "original_description": "fuck",
+      "start": 3117.11
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3121.56,
+      "id": 84,
+      "original_description": "fuck",
+      "start": 3120.91
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3123.99,
+      "id": 85,
+      "original_description": "fuck",
+      "start": 3122.9
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3125.99,
+      "id": 86,
+      "original_description": "jesus",
+      "start": 3125.08
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3126.51,
+      "id": 87,
+      "original_description": "christ",
+      "start": 3125.29
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3126.67,
+      "id": 88,
+      "original_description": "fuck",
+      "start": 3125.81
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3129,
+      "id": 89,
+      "original_description": "fuck",
+      "start": 3128.31
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3131.85,
+      "id": 90,
+      "original_description": "fucking",
+      "start": 3130.64
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3142.35,
+      "id": 91,
+      "original_description": "fuck",
+      "start": 3141.55
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3144.66,
+      "id": 92,
+      "original_description": "shit",
+      "start": 3143.98
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3145.52,
+      "id": 93,
+      "original_description": "fuck",
+      "start": 3144.72
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3145.52,
+      "id": 94,
+      "original_description": "jesus",
+      "start": 3144.85
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3151.17,
+      "id": 95,
+      "original_description": "fuck",
+      "start": 3150.73
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3155.4,
+      "id": 96,
+      "original_description": "fucking",
+      "start": 3154.75
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3155.4,
+      "id": 97,
+      "original_description": "asshole",
+      "start": 3154.82
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3158.29,
+      "id": 98,
+      "original_description": "hell",
+      "start": 3157.74
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3161.87,
+      "id": 99,
+      "original_description": "fuck",
+      "start": 3161.19
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3164.58,
+      "id": 100,
+      "original_description": "fuck",
+      "start": 3163.51
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3209.98,
+      "id": 101,
+      "original_description": "سحب جثة إلى باب",
+      "start": 3183.56
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3198.45,
+      "id": 102,
+      "original_description": "fuck",
+      "start": 3197.25
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3353.81,
+      "id": 103,
+      "original_description": "شخص مخيف يجري على شخص",
+      "start": 3348.56
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3435.14,
+      "id": 104,
+      "original_description": "fuck",
+      "start": 3434.19
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3446.33,
+      "id": 105,
+      "original_description": "fuck",
+      "start": 3445.39
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 4504.92,
+      "id": 106,
+      "original_description": "رجل له عينان وامرأة مشوهة",
+      "start": 4498.68
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 4527.94,
+      "id": 107,
+      "original_description": "كيان زوجة كلارك مشوهة على يسار كلارك",
+      "start": 4517.83
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 4537.37,
+      "id": 108,
+      "original_description": "كيان زوجة كلارك مشوهة على يسار كلارك",
+      "start": 4530.74
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 4555.81,
+      "id": 109,
+      "original_description": "كيان زوجة كلارك مشوهة على يسار كلارك",
+      "start": 4541.92
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 4632.23,
+      "id": 110,
+      "original_description": "رجلان مشوهان وامرأة مشوهة",
+      "start": 4557.22
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 4644.61,
+      "id": 111,
+      "original_description": "طعن رجل",
+      "start": 4632.23
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4671.59,
+      "id": 112,
+      "original_description": "أكل رجل",
+      "start": 4666.02
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4727.74,
+      "id": 113,
+      "original_description": "ادخال يد في بطن شخص",
+      "start": 4676.12
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 4903.45,
+      "id": 114,
+      "original_description": "اشخاص مشوهة",
+      "start": 4744.1
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4897.24,
+      "id": 115,
+      "original_description": "يقطع شعر امراة",
+      "start": 4866.55
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 4920.01,
+      "id": 116,
+      "original_description": "امرأة منزوعة الشعر يسار كلارك",
+      "start": 4908.56
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4979.41,
+      "id": 117,
+      "original_description": "جنون كلارك",
+      "start": 4923.55
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4994.98,
+      "id": 118,
+      "original_description": "ass",
+      "start": 4994.11
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5000.08,
+      "id": 119,
+      "original_description": "fucking",
+      "start": 4999.08
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5003.53,
+      "id": 120,
+      "original_description": "shit",
+      "start": 5002.62
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5006.69,
+      "id": 121,
+      "original_description": "fucking",
+      "start": 5005.42
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5006.93,
+      "id": 122,
+      "original_description": "ass",
+      "start": 5005.99
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5014.9,
+      "id": 123,
+      "original_description": "fuck",
+      "start": 5013.84
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5044.78,
+      "id": 124,
+      "original_description": "fucking",
+      "start": 5043.51
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5046.29,
+      "id": 125,
+      "original_description": "dipshit",
+      "start": 5045.23
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5069.69,
+      "id": 126,
+      "original_description": "fucking",
+      "start": 5068.48
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 5178.11,
+      "id": 127,
+      "original_description": "امرأة مشوهة تجري",
+      "start": 5173.38
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 5281.2,
+      "id": 128,
+      "original_description": "رجل يعض رجل",
+      "start": 5256.23
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 5314.07,
+      "id": 129,
+      "original_description": "رجل يجر رجل مضرج بالدماء",
+      "start": 5305.88
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 5667.79,
+      "id": 130,
+      "original_description": "رجل ينقض على امرأة",
+      "start": 5627.28
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5718.51,
+      "id": 131,
+      "original_description": "fuck",
+      "start": 5717.5
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 6221.97,
+      "id": 132,
+      "original_description": "د \"ماري\" اصبحت كيان مشوه مثلهم",
+      "start": 6216.45
+    }
+  ],
+  "genre": "رعب نفسي، خيال علمي، غموض، إثارة",
+  "pg": "+16",
+  "platforms": {
+    "osnplus": {
+      "id": "backrooms-77706",
+      "url": "https://osnplus.com/en-eg/movie/backrooms-77706"
+    },
+    "starzplay": {
+      "id": "798308904118",
+      "url": "https://starzplay.com/en/movies/backrooms/798308904118"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/w600_and_h900_face/9FZaaQstyvpmmK1sHOwU39ijtCO.jpg",
+  "title": "Backrooms",
+  "type": "movie",
+  "year": 2026
+}

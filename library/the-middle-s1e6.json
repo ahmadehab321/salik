@@ -1,0 +1,75 @@
+{
+  "episode": 6,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 90.78,
+      "id": 1,
+      "original_description": "ass",
+      "start": 90.52
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 218.71,
+      "id": 2,
+      "original_description": "hell",
+      "start": 217.84
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 329.11,
+      "id": 3,
+      "original_description": "damn",
+      "start": 328.83
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 330.08,
+      "id": 4,
+      "original_description": "hell",
+      "start": 329.85
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 367.43,
+      "id": 5,
+      "original_description": "moron",
+      "start": 367.05
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 701.14,
+      "id": 6,
+      "original_description": "hooker",
+      "start": 700.94
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 919.67,
+      "id": 7,
+      "original_description": "hell",
+      "start": 919.46
+    }
+  ],
+  "parent_series_id": "the-middle",
+  "platforms": {
+    "netflix": {
+      "id": "82170836",
+      "url": "https://www.netflix.com/watch/82170836"
+    },
+    "osnplus": {
+      "id": "68983",
+      "url": "https://osnplus.com/en-eg/series/the-middle-68502"
+    }
+  },
+  "season": 1,
+  "title": "The Middle - S1E6",
+  "type": "episode"
+}

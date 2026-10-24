@@ -1,0 +1,131 @@
+{
+  "addedAt": 1787074375629,
+  "category": "Kids, Animation",
+  "description": "فيلم غائم مع فرصة لتساقط كرات اللحم 2 (Cloudy with a Chance of Meatballs 2) هو فيلم رسوم متحركة كوميدي. تتابع القصة المخترع فلينت لوكوود بعد اكتشافه أن آلته القديمة لا تزال تعمل وتنتج حيوانات طعام هجينة وغريبة تُعرف باسم \"الحيوانات الغذائية\". يعود مع أصدقائه لإنقاذ العالم من هذه الكائنات.",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 195.11,
+      "id": 1,
+      "original_description": "رجل يقبل امرأة",
+      "start": 190.97
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 602.57,
+      "id": 2,
+      "original_description": "شخص يلقي تعليق ايحائي",
+      "start": 597.69
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1398.42,
+      "id": 3,
+      "original_description": "رجل يلبس فستان",
+      "start": 1374.48
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1440.65,
+      "id": 4,
+      "original_description": "حيوان في فتحة شرج حيوان اخر",
+      "start": 1435.89
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1449.65,
+      "id": 5,
+      "original_description": "شخص يدخل لوحة في مؤخرته",
+      "start": 1447.19
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2527.12,
+      "id": 6,
+      "original_description": "crap",
+      "start": 2526.28
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2725.91,
+      "id": 7,
+      "original_description": "مشهد البوكسر المطاط",
+      "start": 2603.2
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3630.75,
+      "id": 8,
+      "original_description": "crap",
+      "start": 3629.83
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3843.51,
+      "id": 9,
+      "original_description": "pathetic",
+      "start": 3842.61
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3969.27,
+      "id": 10,
+      "original_description": "stupid",
+      "start": 3968.41
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4611.17,
+      "id": 11,
+      "original_description": "foolish",
+      "start": 4610.56
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4683.85,
+      "id": 12,
+      "original_description": "idiot",
+      "start": 4683.36
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5191.61,
+      "id": 13,
+      "original_description": "كرة تدخل مؤخرة شخص",
+      "start": 5188.06
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5321.86,
+      "id": 14,
+      "original_description": "رجل يقبل امراة",
+      "start": 5316.74
+    }
+  ],
+  "genre": "Kids, Animation",
+  "pg": "+7",
+  "platforms": {
+    "netflix": {
+      "id": "70273612",
+      "url": "https://www.netflix.com/title/70273612"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/AfQoBtdP6kLl6TgkaiAmYfvsRbm.jpg",
+  "title": "Cloudy With A Chance of Meatballs (2)",
+  "type": "movie",
+  "year": 2013
+}

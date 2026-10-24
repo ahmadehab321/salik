@@ -1,0 +1,66 @@
+{
+  "episode": 3,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 271.84,
+      "id": 1,
+      "original_description": "حيوان",
+      "start": 271.33
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 559.66,
+      "id": 2,
+      "original_description": "وشرفي",
+      "start": 559.16
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 877.71,
+      "id": 3,
+      "original_description": "صباح الزفت على دماغك",
+      "start": 872.05
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1330.22,
+      "id": 4,
+      "original_description": "كلب",
+      "start": 1329.67
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1539.81,
+      "id": 5,
+      "original_description": "يا نهار ازرق",
+      "start": 1539.01
+    }
+  ],
+  "parent_series_id": "Al-Sofara",
+  "platforms": {
+    "shahid": {
+      "id": "980651",
+      "offset_seconds": 15,
+      "url": "https://shahid.mbc.net/ar/player/episodes/%D8%A7%D9%84%D8%B5%D9%81%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%85-1-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9-1/id-980651"
+    },
+    "starzplay": {
+      "id": "s1e3",
+      "offset_seconds": 0,
+      "url": "https://starzplay.com/ar/watch/series/al-sofara/648572456358/s1e3"
+    },
+    "watchit": {
+      "id": "19310",
+      "offset_seconds": 0,
+      "url": "https://www.watchit.com/#/details/series/860/1006/19310/play"
+    }
+  },
+  "season": 1,
+  "title": "Al-sofara - S1E3",
+  "type": "episode"
+}

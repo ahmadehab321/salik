@@ -1,0 +1,74 @@
+{
+  "episode": 8,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 532.38,
+      "id": 1,
+      "original_description": "يا نهار اسود",
+      "start": 531.73
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 782.53,
+      "id": 2,
+      "original_description": "يا نهار اسود",
+      "start": 781.82
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 925.54,
+      "id": 3,
+      "original_description": "وغلاوة وداد عندك",
+      "start": 924.12
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1125.2,
+      "id": 4,
+      "original_description": "حديث ايحائي مع الخادمة",
+      "start": 1116.9
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1719.89,
+      "id": 5,
+      "original_description": "انك غبية",
+      "start": 1718.67
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 2032.58,
+      "id": 6,
+      "original_description": "رجل يغازل امرأة",
+      "start": 2023.22
+    }
+  ],
+  "parent_series_id": "Al-Sofara",
+  "platforms": {
+    "shahid": {
+      "id": "981257",
+      "offset_seconds": 15,
+      "url": "https://shahid.mbc.net/ar/player/episodes/%D8%A7%D9%84%D8%B5%D9%81%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%85-1-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9-1/id-981257"
+    },
+    "starzplay": {
+      "id": "s1e8",
+      "offset_seconds": 0,
+      "url": "https://starzplay.com/ar/watch/series/al-sofara/648572456358/s1e8"
+    },
+    "watchit": {
+      "id": "19394",
+      "offset_seconds": 0,
+      "url": "https://www.watchit.com/#/details/series/860/1006/19394/play"
+    }
+  },
+  "season": 1,
+  "title": "Al-sofara - S1E8",
+  "type": "episode"
+}

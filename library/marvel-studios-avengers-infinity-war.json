@@ -1,0 +1,475 @@
+{
+  "addedAt": 1788080125912,
+  "category": "Marvel",
+  "description": "يخوض فريق \"المنتقمون\" وحلفاؤهم أشرس معاركهم على الإطلاق لمواجهة الطاغية القوي \"ثانوس\"، الذي يسعى لجمع أحجار الأبدية الستة وفرض إرادته الشريرة على الكون محاولاً محو نصف أشكال الحياة فيه. يتعين على جميع أبطال دي سي ومارفل الاتحاد عبر أرجاء الأرض والفضاء لمنع ثانوس من تنفيذ خطته المأساوية، في ملحمة سينمائية تحدد مصير المجرة ككل.",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 486.15,
+      "id": 1,
+      "original_description": "god",
+      "start": 485.52
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 542.68,
+      "id": 2,
+      "original_description": "god",
+      "start": 541.52
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 770.36,
+      "id": 3,
+      "original_description": "رجل يقبل امرأة",
+      "start": 765.24
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 918.84,
+      "id": 4,
+      "original_description": "douchebag",
+      "start": 917.72
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 947.84,
+      "id": 5,
+      "original_description": "shit",
+      "start": 946.8
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1109.4,
+      "id": 6,
+      "original_description": "shit",
+      "start": 1108.26
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1250.4,
+      "id": 7,
+      "original_description": "damn",
+      "start": 1249.33
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1484.48,
+      "id": 8,
+      "original_description": "قطع ذراع شخص",
+      "start": 1480.62
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1771.52,
+      "id": 9,
+      "original_description": "hell",
+      "start": 1770.45
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1847.16,
+      "id": 10,
+      "original_description": "hell",
+      "start": 1846.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1956.64,
+      "id": 11,
+      "original_description": "god",
+      "start": 1955.71
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2002.61,
+      "id": 12,
+      "original_description": "idiot",
+      "start": 2001.84
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2110.24,
+      "id": 13,
+      "original_description": "morons",
+      "start": 2109.43
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2114.54,
+      "id": 14,
+      "original_description": "morons",
+      "start": 2113.84
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2139.44,
+      "id": 15,
+      "original_description": "morons",
+      "start": 2138.5
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2199.28,
+      "id": 16,
+      "original_description": "امرأة تقبل رجل",
+      "start": 2194.62
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2284.53,
+      "id": 17,
+      "original_description": "شخص يتم طعنه في بطنه",
+      "start": 2281.35
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2782.7,
+      "id": 18,
+      "original_description": "امرأة تقبل رجل",
+      "start": 2771.16
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2825.61,
+      "id": 19,
+      "original_description": "damn",
+      "start": 2824.72
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2877.2,
+      "id": 20,
+      "original_description": "pathetic",
+      "start": 2875.88
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2918.12,
+      "id": 21,
+      "original_description": "fool",
+      "start": 2917.13
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 3114.39,
+      "id": 22,
+      "original_description": "دراكس يتحول إلى قطع",
+      "start": 3110.72
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 3120.9,
+      "id": 23,
+      "original_description": "تتحول إلى لفافات ورق",
+      "start": 3116.37
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3266.81,
+      "id": 24,
+      "original_description": "horseshit",
+      "start": 3265.24
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3347.64,
+      "id": 25,
+      "original_description": "حضن بين رجل وامرأة أجنبيه",
+      "start": 3344.46
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3351.92,
+      "id": 26,
+      "original_description": "crap",
+      "start": 3350.98
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3656.61,
+      "id": 27,
+      "original_description": "god",
+      "start": 3656.08
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3657.06,
+      "id": 28,
+      "original_description": "damn",
+      "start": 3656.08
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3782.64,
+      "id": 29,
+      "original_description": "ass",
+      "start": 3781.74
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4369.68,
+      "id": 30,
+      "original_description": "bastards",
+      "start": 4368.65
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4414.05,
+      "id": 31,
+      "original_description": "stupid",
+      "start": 4413.09
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4417.46,
+      "id": 32,
+      "original_description": "jerk",
+      "start": 4416.68
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4443.39,
+      "id": 33,
+      "original_description": "شخص يضع عين زجاجية",
+      "start": 4429.59
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4812.36,
+      "id": 34,
+      "original_description": "freak",
+      "start": 4811.67
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4835.68,
+      "id": 35,
+      "original_description": "jesus",
+      "start": 4834.98
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4840.16,
+      "id": 36,
+      "original_description": "dipshit",
+      "start": 4839.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4915.11,
+      "id": 37,
+      "original_description": "hell",
+      "start": 4914.4
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4952.6,
+      "id": 38,
+      "original_description": "ass",
+      "start": 4951.9
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5003.84,
+      "id": 39,
+      "original_description": "stupid",
+      "start": 5002.95
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5662.33,
+      "id": 40,
+      "original_description": "ass",
+      "start": 5661.52
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5668.92,
+      "id": 41,
+      "original_description": "hell",
+      "start": 5668.15
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5786.67,
+      "id": 42,
+      "original_description": "damn",
+      "start": 5785.8
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5787.75,
+      "id": 43,
+      "original_description": "damn",
+      "start": 5787.2
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5788.76,
+      "id": 44,
+      "original_description": "damn",
+      "start": 5787.74
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5951.12,
+      "id": 45,
+      "original_description": "hell",
+      "start": 5950.1
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5955.49,
+      "id": 46,
+      "original_description": "pissed",
+      "start": 5954.36
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6499.55,
+      "id": 47,
+      "original_description": "piss",
+      "start": 6498.61
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6539.39,
+      "id": 48,
+      "original_description": "شخص يقوم بعمل اشارة جنسية",
+      "start": 6536.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6671.84,
+      "id": 49,
+      "original_description": "bullshit",
+      "start": 6670.11
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6713.54,
+      "id": 50,
+      "original_description": "asshole",
+      "start": 6712.72
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6985.46,
+      "id": 51,
+      "original_description": "crap",
+      "start": 6984.54
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7016.04,
+      "id": 52,
+      "original_description": "asshole",
+      "start": 7015.24
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 7119.64,
+      "id": 53,
+      "original_description": "شخص يطعن في صدره ويرفع",
+      "start": 7114.63
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 7297.86,
+      "id": 54,
+      "original_description": "سلاح في بطن شخص",
+      "start": 7287.89
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7488.08,
+      "id": 55,
+      "original_description": "hell",
+      "start": 7486.87
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 7798.62,
+      "id": 56,
+      "original_description": "تكسير جمجمة آلة",
+      "start": 7787.77
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 8176.61,
+      "id": 57,
+      "original_description": "hell",
+      "start": 8175.5
+    }
+  ],
+  "genre": "أبطال خارقون، أكشن ومغامرة، خيال علمي، مغامرة فضائية",
+  "pg": "+13",
+  "platforms": {
+    "disney": {
+      "id": "9a136e06-852a-41bf-b71d-fa061cb43225",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-9a136e06-852a-41bf-b71d-fa061cb43225"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/oGnmYZ61rkudhF7nWirXxYOmdQW.jpg",
+  "title": "Avengers: Infinity War",
+  "type": "movie",
+  "year": 2018
+}

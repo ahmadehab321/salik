@@ -1,0 +1,147 @@
+{
+  "episode": 13,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 120.63,
+      "id": 1,
+      "original_description": "screwed",
+      "start": 120.36
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 207.91,
+      "id": 2,
+      "original_description": "damn",
+      "start": 207.64
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 280.79,
+      "id": 3,
+      "original_description": "scrotum",
+      "start": 280.44
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 353.611377,
+      "id": 4,
+      "original_description": "شخص يقول كلام ايحائي",
+      "start": 342.594347
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 392.93,
+      "id": 5,
+      "original_description": "crap",
+      "start": 392.66
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 408.79,
+      "id": 6,
+      "original_description": "stupid",
+      "start": 408.59
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 550.75,
+      "id": 7,
+      "original_description": "stupid",
+      "start": 550.6
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 677.76,
+      "id": 8,
+      "original_description": "boobs",
+      "start": 677.46
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 725.65,
+      "id": 9,
+      "original_description": "stupid",
+      "start": 725.38
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 732.8,
+      "id": 10,
+      "original_description": "stupid",
+      "start": 732.47
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 733.8,
+      "id": 11,
+      "original_description": "stupid",
+      "start": 733.47
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 739.03,
+      "id": 12,
+      "original_description": "suck",
+      "start": 738.76
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 743.18,
+      "id": 13,
+      "original_description": "crap",
+      "start": 742.9
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 782.081251,
+      "id": 14,
+      "original_description": "شخص يقول كلام ايحائي",
+      "start": 777.541393
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1036.09,
+      "id": 15,
+      "original_description": "sucked",
+      "start": 1035.84
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1121.55,
+      "id": 16,
+      "original_description": "suck",
+      "start": 1121.08
+    }
+  ],
+  "parent_series_id": "the-middle",
+  "platforms": {
+    "netflix": {
+      "id": "82170842",
+      "url": "https://www.netflix.com/watch/82170842"
+    },
+    "osnplus": {
+      "id": 68993,
+      "url": "https://osnplus.com/en-eg/episode/the-interview-68993/watch?contentStreamingDeeplinkQueryParam=false"
+    }
+  },
+  "season": 1,
+  "title": "The Middle - S1E13",
+  "type": "episode"
+}

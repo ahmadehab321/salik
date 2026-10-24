@@ -1,0 +1,136 @@
+{
+  "episode": 4,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 10.23,
+      "id": 1,
+      "original_description": "asshole",
+      "start": 9.47
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 12.08,
+      "id": 2,
+      "original_description": "asshole",
+      "start": 11.31
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 24.08,
+      "id": 3,
+      "original_description": "hell",
+      "start": 23.45
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 69.16,
+      "id": 4,
+      "original_description": "shit",
+      "start": 68.61
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 799.35,
+      "id": 5,
+      "original_description": "asshole",
+      "start": 798.38
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 800.77,
+      "id": 6,
+      "original_description": "asshole",
+      "start": 799.8
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 893.58,
+      "id": 7,
+      "original_description": "شواذ يقبلون بعضهم",
+      "start": 871.98
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1105.63,
+      "id": 8,
+      "original_description": "jesus",
+      "start": 1104.92
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1115.76,
+      "id": 9,
+      "original_description": "dope",
+      "start": 1115.16
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1117.87,
+      "id": 10,
+      "original_description": "dope",
+      "start": 1117.29
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1118.48,
+      "id": 11,
+      "original_description": "dope",
+      "start": 1118.1
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1164.78,
+      "id": 12,
+      "original_description": "damn",
+      "start": 1164.18
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1274.59,
+      "id": 13,
+      "original_description": "شخص يقول تعليق شاذ",
+      "start": 1270.41
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1271.99,
+      "id": 14,
+      "original_description": "homosexual",
+      "start": 1270.97
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1408.24,
+      "id": 15,
+      "original_description": "stupid",
+      "start": 1407.71
+    }
+  ],
+  "parent_series_id": "stuart_fails_to_save_the_universe",
+  "platforms": {
+    "osnplus": {
+      "id": "spoiler-stuart-makes-a-wallet-76123",
+      "offset_seconds": 0,
+      "url": "https://osnplus.com/en-eg/series/spoiler-stuart-makes-a-wallet-76123"
+    }
+  },
+  "season": 1,
+  "title": "Stuart Fails to Save The Universe - S1E4",
+  "type": "episode"
+}

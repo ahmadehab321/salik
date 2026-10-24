@@ -1,0 +1,160 @@
+{
+  "episode": 9,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 37.13,
+      "id": 1,
+      "original_description": "asshole",
+      "start": 36.08
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 55.81,
+      "id": 2,
+      "original_description": "ass",
+      "start": 54.95
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 119.2,
+      "id": 3,
+      "original_description": "shit",
+      "start": 118.15
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 151.75,
+      "id": 4,
+      "original_description": "hell",
+      "start": 150.79
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 176.21,
+      "id": 5,
+      "original_description": "idiotic",
+      "start": 175.16
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 177.41,
+      "id": 6,
+      "original_description": "idiotic",
+      "start": 176.44
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 191.29,
+      "id": 7,
+      "original_description": "ass",
+      "start": 190.48
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 263.38,
+      "id": 8,
+      "original_description": "shit",
+      "start": 262.43
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 267.79,
+      "id": 9,
+      "original_description": "hot",
+      "start": 266.93
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 391.7,
+      "id": 10,
+      "original_description": "asshole",
+      "start": 390.67
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 394.19,
+      "id": 11,
+      "original_description": "fuck",
+      "start": 393.6
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 548.2,
+      "id": 12,
+      "original_description": "idiot",
+      "start": 547.4
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 820,
+      "id": 13,
+      "original_description": "bitch",
+      "start": 819.23
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 823.2,
+      "id": 14,
+      "original_description": "dick",
+      "start": 822.11
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 938.32,
+      "id": 15,
+      "original_description": "damn",
+      "start": 937.36
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1049.86,
+      "id": 16,
+      "original_description": "fuck",
+      "start": 1048.71
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1111.68,
+      "id": 17,
+      "original_description": "crap",
+      "start": 1110.52
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1127.8,
+      "id": 18,
+      "original_description": "hell",
+      "start": 1126.78
+    }
+  ],
+  "parent_series_id": "stuart_fails_to_save_the_universe",
+  "platforms": {
+    "osnplus": {
+      "id": "spoiler-we-couldnt-get-a-green-lantern-76994",
+      "offset_seconds": 0,
+      "url": "https://osnplus.com/en-eg/series/spoiler-we-couldnt-get-a-green-lantern-76994"
+    }
+  },
+  "season": 1,
+  "title": "Stuart Fails to Save The Universe - S1E9",
+  "type": "episode"
+}

@@ -570,7 +570,22 @@ const looksLikeSubtitleUrl = (url) => {
     } catch (e) {
         pathOnly = String(url).split(/[?#]/)[0]; // احتياطي لو الـ URL مش صالح لسبب ما
     }
+    // 🐞 إصلاح حرج (اتكشف على شاهد): الترجمة عندهم بتيجي كمقاطع فيديو MP4 مقسّمة (fMP4) بأسماء زي
+    // index_subtitles_25_0_5.mp4 — كلمة "subtitles" في المسار كانت بتخليها تتصنّف ملف ترجمة نصي،
+    // فكنا بنفك الـ binary كنص UTF-8 وننقّيه ونرجّعه binary تاني، وده بيبوّظ الملف (أحجام الـ boxes
+    // بتتغيّر)، فمشغّل شاهد بيحجز ذاكرة بلا حدود لحد ما الصفحة تقع (V8 OOM). أي مقطع ميديا أو
+    // playlist بنستبعده تماماً — دي مش ملفات نصية أصلاً.
+    if (/\.(mp4|m4s|m4v|m4a|m4f|cmft|cmfv|cmfa|ts|aac|mpd|m3u8|f4m|ism|isml)$/i.test(pathOnly)) return false;
     return /subtitle|caption|sidecar|webvtt|timedtext/i.test(pathOnly);
+};
+
+// 🐞 شبكة أمان تانية: ملف "ترجمة" فيه بايت NUL في أوله = binary (مش نص) — منلمسوش خالص
+const nazafaLooksBinary = (buf) => {
+    try {
+        const bytes = new Uint8Array(buf, 0, Math.min(buf.byteLength, 512));
+        for (let i = 0; i < bytes.length; i++) if (bytes[i] === 0) return true;
+    } catch (e) {}
+    return false;
 };
 
 // بيفحص سطر واحد من ملف VTT ويقرر هل هو سطر حوار فعلي (يتفحص/يتفلتر) ولا سطر بنية
@@ -698,6 +713,7 @@ if (!window.__nazafaXhrResponsePatched) {
         // ونرجّعه ArrayBuffer تاني (بـ TextEncoder) بنفس النوع اللي المشغّل متوقعه، عشان القراءة
         // اللاحقة (فك الترميز الفعلي) تشتغل عادي على النسخة المنقّاة.
         if (rawValue instanceof ArrayBuffer) {
+            if (nazafaLooksBinary(rawValue)) return rawValue; // مقطع ميديا مش ملف نصي
             if (xhr.__nazafaCensoredSource !== rawValue) {
                 xhr.__nazafaCensoredSource = rawValue;
                 try {

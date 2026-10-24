@@ -1,0 +1,146 @@
+{
+  "category": "Kids, Animation, Adventure",
+  "description": "فيلم حياة حشرة هو فيلم رسوم متحركة شهير من إنتاج بيكسار ووالت ديزني عام 1998. تدور القصة حول النملة الذكية \"فليك\" الذي يحاول إنقاذ مستعمرته من عصابة الجراد الشرير، فيسافر لطلب المساعدة ويستعين بحشرات سيرك بالخطأ ليواجهوا الظلم معا",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 700.68,
+      "id": 1,
+      "original_description": "غبي",
+      "start": 700.39
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 703.49,
+      "id": 2,
+      "original_description": "غبي",
+      "start": 703.14
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 931.89,
+      "id": 3,
+      "original_description": "زفت",
+      "start": 931.17
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1691.22,
+      "id": 4,
+      "original_description": "مين طلب واحد كاكا",
+      "start": 1687.52
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2073.08,
+      "id": 5,
+      "original_description": "غبي",
+      "start": 2072.72
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 2237.99,
+      "id": 6,
+      "original_description": "رسمة لحرب عنيفة بين الجراد والحشرات",
+      "start": 2229
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 2245.61,
+      "id": 7,
+      "original_description": "رسمة لحرب عنيفة بين الجراد والحشرات",
+      "start": 2238.44
+    },
+    {
+      "action_type": "mute",
+      "category": "violence",
+      "end": 2257.97,
+      "id": 8,
+      "original_description": "\t رسمة لحرب عنيفة بين الجراد والحشرات",
+      "start": 2247.25
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2832.5,
+      "id": 9,
+      "original_description": "نملة تقبل ذكر النمل",
+      "start": 2829.66
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 3476.94,
+      "id": 10,
+      "original_description": "مش هيعرف يروح التواليت لوحده",
+      "start": 3474.58
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3828.42,
+      "id": 11,
+      "original_description": "ملاعين",
+      "start": 3827.75
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5189.53,
+      "id": 12,
+      "original_description": "نملة تقبل ذكر النمل",
+      "start": 5187.39
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5400.09,
+      "id": 13,
+      "original_description": "غبي",
+      "start": 5399.6
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5402.72,
+      "id": 14,
+      "original_description": "غبي",
+      "start": 5402.37
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5409.95,
+      "id": 15,
+      "original_description": "غبي",
+      "start": 5409.61
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5419.8,
+      "id": 16,
+      "original_description": "غبي",
+      "start": 5419.44
+    }
+  ],
+  "genre": "Kids",
+  "pg": "G",
+  "platforms": {
+    "disney": {
+      "id": "c255a738-ee7f-4569-ba89-acacb6e5cefb",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-c255a738-ee7f-4569-ba89-acacb6e5cefb"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/hyLKSwnRxFQoEwAhf0wfDyw11Q4.jpg",
+  "title": "حياة حشرة (مصري)",
+  "type": "movie",
+  "year": 1998
+}

@@ -1,0 +1,434 @@
+{
+  "category": "Romance, Drama",
+  "description": ". تدور قصته حول مراهقين مصابين بمرض \"التليف الكيسي\"، يحاولان بناء علاقة عاطفية رغم إجبارهما طبياً على البقاء متباعدين بمسافة لا تقل عن خمسة أقدام (حوالي متر ونصف) لتجنب انتقال عدوى بكتيرية خطيرة بينهما",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 113.358172,
+      "id": 1,
+      "original_description": "امرأة تخرج حمالة صدر وتشير بإيحاءات جنسية",
+      "start": 97.790999
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 180.474314,
+      "id": 2,
+      "original_description": "فتاة تلقي نكتة اباحية",
+      "start": 177.191302
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 399.01623,
+      "id": 3,
+      "original_description": "قبلة بين حبيبان",
+      "start": 395.586129
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 454.74,
+      "id": 4,
+      "original_description": "ass",
+      "start": 454.62
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 466.890947,
+      "id": 5,
+      "original_description": "امرأة تجلس على حجر حبيبها",
+      "start": 462.31529
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 581.439875,
+      "id": 6,
+      "original_description": "حديث عن الزنا",
+      "start": 567.707101
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 568.8,
+      "id": 7,
+      "original_description": "sex",
+      "start": 568.62
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 571.31,
+      "id": 8,
+      "original_description": "sex",
+      "start": 571.06
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 574.11,
+      "id": 9,
+      "original_description": "sex",
+      "start": 573.56
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 575.58,
+      "id": 10,
+      "original_description": "sex",
+      "start": 575.04
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 576.96,
+      "id": 11,
+      "original_description": "sex",
+      "start": 576.61
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 748.77,
+      "id": 12,
+      "original_description": "shit",
+      "start": 748.51
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 860.835659,
+      "id": 13,
+      "original_description": "رجل شاذ يتحدث عن انفصاله عن شاذ آخر",
+      "start": 840.372689
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 891.657495,
+      "id": 14,
+      "original_description": "شخص يقوم بعمل اشارة جنسية",
+      "start": 888.693214
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 892.7,
+      "id": 15,
+      "original_description": "asshole",
+      "start": 892.06
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1151.68,
+      "id": 16,
+      "original_description": "damn",
+      "start": 1150.88
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1278.09,
+      "id": 17,
+      "original_description": "bullshit",
+      "start": 1277.44
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1279.22,
+      "id": 18,
+      "original_description": "bullshit",
+      "start": 1278.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1376.22,
+      "id": 19,
+      "original_description": "shit",
+      "start": 1373.67
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1401.88,
+      "id": 20,
+      "original_description": "damn",
+      "start": 1401.53
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1425.66,
+      "id": 21,
+      "original_description": "shit",
+      "start": 1425.47
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1458.328268,
+      "id": 22,
+      "original_description": "رجل يتحدث عن كونه شاذ جنسيا",
+      "start": 1438.781143
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1565.58327,
+      "id": 23,
+      "original_description": "فتاة تظهر بملابسها الداخلية",
+      "start": 1548.961131
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1588.07937,
+      "id": 24,
+      "original_description": "شخص يلقي تعليق اباحي",
+      "start": 1582.628272
+    },
+    {
+      "action_type": "blur",
+      "category": "nudity",
+      "end": 1683.68,
+      "id": 25,
+      "original_description": "naked",
+      "start": 1681.61
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 1758.629414,
+      "id": 26,
+      "original_description": "جرح في البطن ",
+      "start": 1756.481291
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1901.84,
+      "id": 27,
+      "original_description": "sex",
+      "start": 1901.55
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2446.74,
+      "id": 28,
+      "original_description": "shit",
+      "start": 2445.61
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2604.73,
+      "id": 29,
+      "original_description": "hell",
+      "start": 2603.82
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2657.03,
+      "id": 30,
+      "original_description": "damned",
+      "start": 2656.52
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2832.93,
+      "id": 31,
+      "original_description": "sexy",
+      "start": 2832.5
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2991.483805,
+      "id": 32,
+      "original_description": "حديث عن علاقات لواط ",
+      "start": 2988.792584
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3083.77,
+      "id": 33,
+      "original_description": "bitch",
+      "start": 3082.81
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3085.47,
+      "id": 34,
+      "original_description": "asshole",
+      "start": 3084.38
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3123.045104,
+      "id": 35,
+      "original_description": "حديث عن الزواج من اللوطييين",
+      "start": 3105.862907
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3227.864957,
+      "id": 36,
+      "original_description": "فتاة تلقي تعليق ايحائي",
+      "start": 3225.30518
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3282.52,
+      "id": 37,
+      "original_description": "shit",
+      "start": 3282.11
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3303.36,
+      "id": 38,
+      "original_description": "fucking",
+      "start": 3302.27
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3371.65,
+      "id": 39,
+      "original_description": "hot",
+      "start": 3371.45
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3723.177757,
+      "id": 40,
+      "original_description": "محاكاة لمس الأعضاء",
+      "start": 3684.333321
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3721.22,
+      "id": 41,
+      "original_description": "sex",
+      "start": 3720.7
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3733.47,
+      "id": 42,
+      "original_description": "sexy",
+      "start": 3733.16
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3736.85,
+      "id": 43,
+      "original_description": "sexy",
+      "start": 3736.52
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3859.793544,
+      "id": 44,
+      "original_description": "رجل وامرأة يخلعان ملابسهما",
+      "start": 3758.903777
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3940.25,
+      "id": 45,
+      "original_description": "shit",
+      "start": 3939.84
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4351.268093,
+      "id": 46,
+      "original_description": "حديث عن اللواط",
+      "start": 4312.120122
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4681.18,
+      "id": 47,
+      "original_description": "fucking",
+      "start": 4680.51
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5284.61,
+      "id": 48,
+      "original_description": "shit",
+      "start": 5283.52
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5357.19,
+      "id": 49,
+      "original_description": "stupid",
+      "start": 5356.94
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5532.825204,
+      "id": 50,
+      "original_description": "رجل يقوم بعمل تنفس اطناعي",
+      "start": 5466.688637
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5909.86,
+      "id": 51,
+      "original_description": "hell",
+      "start": 5909.38
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6071.14,
+      "id": 52,
+      "original_description": "bullshit",
+      "start": 6070.55
+    }
+  ],
+  "genre": "Romance",
+  "pg": "R",
+  "platforms": {
+    "youtube": {
+      "id": "9DAuB3P4PbM",
+      "url": "https://www.youtube.com/watch?v=9DAuB3P4PbM"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/kreTuJBkUjVWePRfhHZuYfhNE1T.jpg",
+  "title": "Five Feet Apart",
+  "type": "movie",
+  "year": 2017
+}

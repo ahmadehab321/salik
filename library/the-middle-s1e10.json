@@ -1,0 +1,75 @@
+{
+  "episode": 10,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 377.07,
+      "id": 1,
+      "original_description": "ass",
+      "start": 376.69
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 396.64,
+      "id": 2,
+      "original_description": "damn",
+      "start": 396.39
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 417.44,
+      "id": 3,
+      "original_description": "seaman",
+      "start": 417.15
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 508.82,
+      "id": 4,
+      "original_description": "pedophile",
+      "start": 508.61
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 688.21,
+      "id": 5,
+      "original_description": "potty",
+      "start": 687.92
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 706.39,
+      "id": 6,
+      "original_description": "stupid",
+      "start": 706.08
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 875.69,
+      "id": 7,
+      "original_description": "suck",
+      "start": 875.33
+    }
+  ],
+  "parent_series_id": "the-middle",
+  "platforms": {
+    "netflix": {
+      "id": "82170839",
+      "url": "https://www.netflix.com/watch/82170839"
+    },
+    "osnplus": {
+      "id": 68992,
+      "url": "https://osnplus.com/en-eg/episode/christmas-68992/watch?contentStreamingDeeplinkQueryParam=false"
+    }
+  },
+  "season": 1,
+  "title": "The Middle - S1E10",
+  "type": "episode"
+}

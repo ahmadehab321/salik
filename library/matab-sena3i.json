@@ -1,0 +1,234 @@
+{
+  "category": "Comedy, Thriller",
+  "description": " فيلم كوميدي مصري تم إنتاجه عام 2006، بطولة أحمد حلمي، ونور، وعزت أبو عوف، وتأليف طارق الأمير وإخراج وائل إحسان. تدور قصة الفيلم حول شاب بسيط يدعى \"ميمي\" يسافر من الإسماعيلية إلى القاهرة بحثاً عن عمل، ليتقاطع طريقه صدفة مع رجل أعمال وابنته الصغيرة بعد أن ينقذها، وتتوالى الأحداث في إطار اجتماعي كوميدي",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 449.72,
+      "id": 1,
+      "original_description": "الكلب",
+      "start": 449.33
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1111.6,
+      "id": 2,
+      "original_description": "شخص يلقي تعليق ايحائي",
+      "start": 1108.12
+    },
+    {
+      "action_type": "blur",
+      "category": "nudity",
+      "end": 1200.78,
+      "id": 3,
+      "original_description": "\"ميمي\" يتعرى",
+      "start": 1198.68
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1420.31,
+      "id": 4,
+      "original_description": "شخص يأخذ حقنة وشخص يلقي تعليق ايحائي باللواط",
+      "start": 1265.78
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 2220.03,
+      "id": 5,
+      "original_description": "ايه ابن الكلب دا",
+      "start": 2217.7
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 2274.68,
+      "id": 6,
+      "original_description": "ياض يا معفن",
+      "start": 2274.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2296.19,
+      "id": 7,
+      "original_description": "الحيوان",
+      "start": 2295.85
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 3270.5,
+      "id": 8,
+      "original_description": "الجربوع المعفن ",
+      "start": 3268.83
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3438.58,
+      "id": 9,
+      "original_description": "حركة زبالة",
+      "start": 3438.16
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3537.63,
+      "id": 10,
+      "original_description": "والنعمة",
+      "start": 3536.94
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3844.45,
+      "id": 11,
+      "original_description": "ابن كلب",
+      "start": 3844.03
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 3989.28,
+      "id": 12,
+      "original_description": "رجل بملابسه الداخلية ويدحن سيجار",
+      "start": 3970.59
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4356.64,
+      "id": 13,
+      "original_description": "اهبل",
+      "start": 4355.99
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4454.55,
+      "id": 14,
+      "original_description": "الزفت",
+      "start": 4454.23
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 5172.79,
+      "id": 15,
+      "original_description": "شباب يشربون المخدرات",
+      "start": 5167.2
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 5187.64,
+      "id": 16,
+      "original_description": "علبة السجائر",
+      "start": 5186.81
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 5233.19,
+      "id": 17,
+      "original_description": "شخصيات تشرب السجائر",
+      "start": 5226.76
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5415.61,
+      "id": 18,
+      "original_description": "الكلب",
+      "start": 5415.15
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5530.17,
+      "id": 19,
+      "original_description": "ابن الأبالسة",
+      "start": 5529.71
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5564.72,
+      "id": 20,
+      "original_description": "الحيوان ",
+      "start": 5564.08
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5567.32,
+      "id": 21,
+      "original_description": "يا نهار اسود",
+      "start": 5566.81
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 5572.78,
+      "id": 22,
+      "original_description": "انت عبيط يالا",
+      "start": 5572.23
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 5614.26,
+      "id": 23,
+      "original_description": "ذكر أنواع مخدرات",
+      "start": 5608.81
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 5635.16,
+      "id": 24,
+      "original_description": "رجل يبصق على شخص",
+      "start": 5634.49
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 6384.45,
+      "id": 25,
+      "original_description": "دي هبلة",
+      "start": 6383.09
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 6397.78,
+      "id": 26,
+      "original_description": "مغازلة",
+      "start": 6393
+    }
+  ],
+  "genre": "Comedy",
+  "pg": "PG",
+  "platforms": {
+    "starzplay": {
+      "id": 793933864045,
+      "url": "https://starzplay.com/ar/movies/matab-senay/793933864045"
+    },
+    "watchit": {
+      "id": 94,
+      "url": "https://www.watchit.com/#/details/movies/94"
+    },
+    "yango": {
+      "id": "6a8cb92c86b642e38cba03123a761017",
+      "url": "https://play.yango.com/ar/movies/film/6a8cb92c86b642e38cba03123a761017"
+    }
+  },
+  "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/7/6/8/8/137688-speed-bump-0-1000-0-1500-crop.jpg",
+  "title": "مطب صناعي",
+  "type": "movie",
+  "year": 2006
+}

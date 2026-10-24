@@ -1,0 +1,280 @@
+{
+  "episode": 5,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 263.96,
+      "id": 1,
+      "original_description": "ass",
+      "start": 263.08
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 531.38,
+      "id": 2,
+      "original_description": "shit",
+      "start": 530.54
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 691.46,
+      "id": 3,
+      "original_description": "fuck",
+      "start": 690.64
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 726.55,
+      "id": 4,
+      "original_description": "امرأة ترقص بملابس مكشوفة",
+      "start": 716.93
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 796.92,
+      "id": 5,
+      "original_description": "امرأة تلبس ملابس مكشوفة",
+      "start": 788.82
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 831.89,
+      "id": 6,
+      "original_description": "امرأة تشرب السجائر",
+      "start": 810.65
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.113,
+        "width": 0.071,
+        "x": 0.516,
+        "y": 0.377
+      },
+      "category": "substance abuse",
+      "end": 901.31,
+      "id": 7,
+      "original_description": "امرأة تشرب السجائر",
+      "start": 895.18
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 981.62,
+      "id": 8,
+      "original_description": "رجل يقبل امرأة",
+      "start": 976.58
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1013.95,
+      "id": 9,
+      "original_description": "رجل يقبل امرأة",
+      "start": 1012.14
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1080.3,
+      "id": 10,
+      "original_description": " امرأة تشرب السجائربعد ممارسة الزنا ",
+      "start": 1013.95
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1088.79,
+      "id": 11,
+      "original_description": "تماثيل عليها ملابس مكشوفة",
+      "start": 1079.87
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.264,
+        "width": 0.126,
+        "x": 0.573,
+        "y": 0.336
+      },
+      "category": "nudity",
+      "end": 1119.52,
+      "id": 12,
+      "original_description": "تماثيل ترتدي ملابس مكشوفة",
+      "start": 1115.19
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1200.28,
+      "id": 13,
+      "original_description": "foolish",
+      "start": 1199.08
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1207.99,
+      "id": 14,
+      "original_description": "ass",
+      "start": 1207.08
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.361,
+        "width": 0.616,
+        "x": 0.224,
+        "y": 0.003
+      },
+      "category": "nudity",
+      "end": 1303.09,
+      "id": 15,
+      "original_description": "مجلة اباحية على الرف",
+      "start": 1286.39
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1735.6,
+      "id": 16,
+      "original_description": "fool",
+      "start": 1734.6
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1759.57,
+      "id": 17,
+      "original_description": "fucking",
+      "start": 1758.4
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1815.02,
+      "id": 18,
+      "original_description": "شخص يشرب السجائر",
+      "start": 1812.05
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2034.85,
+      "id": 19,
+      "original_description": "امرأة مكشوفة الساق ورجل يشرب السجائر",
+      "start": 2023.91
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2170.65,
+      "id": 20,
+      "original_description": "crappy",
+      "start": 2169.8
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.307,
+        "width": 0.274,
+        "x": 0.117,
+        "y": 0.719
+      },
+      "category": "nudity",
+      "end": 2447.22,
+      "id": 21,
+      "original_description": "امرأة مكشوفة الساق",
+      "start": 2434.36
+    },
+    {
+      "action_type": "blur",
+      "category": "substance abuse",
+      "end": 2519.96,
+      "id": 22,
+      "original_description": "رجل وامرأة يشربان الخمر",
+      "start": 2494.16
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2500.17,
+      "id": 23,
+      "original_description": "jesus",
+      "start": 2499.32
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2517.14,
+      "id": 24,
+      "original_description": "goddamn",
+      "start": 2516.06
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2559.93,
+      "id": 25,
+      "original_description": "امرأة تطلب خمر",
+      "start": 2547.69
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2589.88,
+      "id": 26,
+      "original_description": "امرأة تشرب الخمر",
+      "start": 2577.14
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2686.46,
+      "id": 27,
+      "original_description": "fool",
+      "start": 2685.74
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2699.97,
+      "id": 28,
+      "original_description": "رجل يشرب الخمر",
+      "start": 2696.34
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2721.16,
+      "id": 29,
+      "original_description": "شخص يقول تعليق ايحائي",
+      "start": 2715.44
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2716.13,
+      "id": 30,
+      "original_description": "sex",
+      "start": 2715.53
+    }
+  ],
+  "parent_series_id": "the_queen_s_gambit",
+  "platforms": {
+    "Netflix": {
+      "id": "81093613",
+      "offset_seconds": 0,
+      "url": "https://www.netflix.com/title/81093613"
+    }
+  },
+  "season": 1,
+  "title": "The Queen's Gambit - S1E5",
+  "type": "episode"
+}

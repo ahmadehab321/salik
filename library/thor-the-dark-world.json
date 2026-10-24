@@ -1,0 +1,307 @@
+{
+  "addedAt": 1788073057386,
+  "category": "Marvel",
+  "description": "يعود \"ثور\" ليخوض معركة قاسية ضد جنس قديم وقوي يُدعى \"ملائكة الظلام\" بقيادة الانتقامي \"مالكيث\"، الذي يسعى لإعادة الكون إلى الظلام الدامس باستخدام سلاح قديم مدمر يُعرف باسم \"إيثير\". بعد أن تصاب حبيبته \"جين فوستر\" بتلك المادة الغامضة، يجد ثور نفسه مجبراً على اتخاذ مخاطرة كبيرة والتحالف مع شقيقه الماكر \"لوكي\" المحبوس، لخوض رحلة خطيرة ومواجهة هذا التهديد الذي يعرض عالم \"آسغارد\" وكوكب الأرض للدمار.",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 296.76,
+      "id": 1,
+      "original_description": "god",
+      "start": 296.03
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 838.79,
+      "id": 2,
+      "original_description": "sleeping with",
+      "start": 837.16
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 844.56,
+      "id": 3,
+      "original_description": "wine",
+      "start": 843.5
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1004.34,
+      "id": 4,
+      "original_description": "naked",
+      "start": 1003.34
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1518.95,
+      "id": 5,
+      "original_description": "hell",
+      "start": 1517.98
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1524,
+      "id": 6,
+      "original_description": "freaking",
+      "start": 1522.9
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1617.8,
+      "id": 7,
+      "original_description": "fool",
+      "start": 1616.39
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1709.64,
+      "id": 8,
+      "original_description": "shit",
+      "start": 1708.04
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2246.73,
+      "id": 9,
+      "original_description": "رجل يقبل امرأة",
+      "start": 2239.62
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 2912.71,
+      "id": 10,
+      "original_description": "تشويه وجه مالكيث بسبب البرق",
+      "start": 2910.73
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3358.85,
+      "id": 11,
+      "original_description": "stupid",
+      "start": 3358.28
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3380.89,
+      "id": 12,
+      "original_description": "nude",
+      "start": 3379.91
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3664.57,
+      "id": 13,
+      "original_description": "god",
+      "start": 3664.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3743.68,
+      "id": 14,
+      "original_description": "lord",
+      "start": 3742.92
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4185.2,
+      "id": 15,
+      "original_description": "damn",
+      "start": 4184.24
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4187.25,
+      "id": 16,
+      "original_description": "damn",
+      "start": 4186.17
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4277.87,
+      "id": 17,
+      "original_description": "naked",
+      "start": 4276.76
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4302.21,
+      "id": 18,
+      "original_description": "god",
+      "start": 4301.24
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4347.83,
+      "id": 19,
+      "original_description": "hell",
+      "start": 4346.63
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 4476.98,
+      "id": 20,
+      "original_description": "قطع يد ثور",
+      "start": 4475.02
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4524.49,
+      "id": 21,
+      "original_description": "يد ثور مقطوعة",
+      "start": 4521.48
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4581.2,
+      "id": 22,
+      "original_description": "تحول ي ثور المقطوعة إلى سليمة",
+      "start": 4580.73
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4786.42,
+      "id": 23,
+      "original_description": "hell",
+      "start": 4785.38
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4811.11,
+      "id": 24,
+      "original_description": "fool",
+      "start": 4810.21
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4815.33,
+      "id": 25,
+      "original_description": "fool",
+      "start": 4814.36
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4816.4,
+      "id": 26,
+      "original_description": "fool",
+      "start": 4815.51
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5048.67,
+      "id": 27,
+      "original_description": "شخص خالع بنطلونه",
+      "start": 5031.59
+    },
+    {
+      "action_type": "blur",
+      "category": "nudity",
+      "end": 5143.36,
+      "id": 28,
+      "original_description": "الدكتور خالع بنطاله",
+      "start": 5137.03
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5181.33,
+      "id": 29,
+      "original_description": "شخص خلع بنطلونه",
+      "start": 5177.45
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5221.6,
+      "id": 30,
+      "original_description": "shit",
+      "start": 5220.6
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5415.51,
+      "id": 31,
+      "original_description": "hell",
+      "start": 5414.56
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5615.61,
+      "id": 32,
+      "original_description": "امرأة تقبل رجل",
+      "start": 5605
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5638.04,
+      "id": 33,
+      "original_description": "امرأة تفعل شيء جنسي",
+      "start": 5633.07
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 5780.35,
+      "id": 34,
+      "original_description": "طيران ذراع مبتورة",
+      "start": 5777.46
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5891.35,
+      "id": 35,
+      "original_description": "رجل وامرأة يقبلان بعضهما",
+      "start": 5888.84
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6696.88,
+      "id": 36,
+      "original_description": "ثور يقبل امرأة",
+      "start": 6688.36
+    }
+  ],
+  "genre": "أبطال خارقون، أكشن ومغامرة، خيال علمي، فانتازيا",
+  "pg": "+13",
+  "platforms": {
+    "disney": {
+      "id": "7c4f4e28-4152-4f64-90ec-8b7f682c33d4",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-7c4f4e28-4152-4f64-90ec-8b7f682c33d4"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/gRKpFNeghRPLsayN14dC2611o7J.jpg",
+  "title": "Thor: The Dark World",
+  "type": "movie",
+  "year": 2013
+}

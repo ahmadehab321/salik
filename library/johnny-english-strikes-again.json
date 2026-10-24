@@ -1,0 +1,211 @@
+{
+  "addedAt": 1788638787661,
+  "category": "British",
+  "description": "تبدأ الأحداث بعد هجوم إلكتروني يتسبب في كشف هويات جميع العملاء السريين الميدانيين في بريطانيا، مما يضطر جهاز المخابرات لاستدعاء العميل المتقاعد \"جوني إنجليش\"، الذي يعمل حاليًا كمدرس. يجد إنجليش نفسه في مواجهة العالم الرقمي الحديث بتقنياته المتطورة، ويعتمد على أساليبه القديمة والتقليدية لكشف التهديد السيبراني الخفي والعثور على المخترق الشرير، وسط سلسلة من المواقف الكوميدية والمغامرات غير المتوقعة.",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 147.5,
+      "id": 1,
+      "original_description": "bollocks",
+      "start": 145.89
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 157.89,
+      "id": 2,
+      "original_description": "wine",
+      "start": 156.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 450.62,
+      "id": 3,
+      "original_description": "damn",
+      "start": 449.44
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 456.52,
+      "id": 4,
+      "original_description": "whiskey",
+      "start": 455.03
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 478.12,
+      "id": 5,
+      "original_description": "hot",
+      "start": 477.22
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1051.69,
+      "id": 6,
+      "original_description": "شخص يمسح الجهاز بمؤخرته",
+      "start": 1049.4
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1293.68,
+      "id": 7,
+      "original_description": "sexy",
+      "start": 1292.79
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1630.68,
+      "id": 8,
+      "original_description": "gin",
+      "start": 1629.98
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2107.36,
+      "id": 9,
+      "original_description": "jesus",
+      "start": 2106.61
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2107.43,
+      "id": 10,
+      "original_description": "christ",
+      "start": 2106.66
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2122.78,
+      "id": 11,
+      "original_description": "bloody",
+      "start": 2121.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2125.21,
+      "id": 12,
+      "original_description": "vodka",
+      "start": 2124.31
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2774.9,
+      "id": 13,
+      "original_description": "فتاة بفستان يظهر مفاتنها تشرب الخمر",
+      "start": 2256.87
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2328.53,
+      "id": 14,
+      "original_description": "gin",
+      "start": 2327.83
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2330.6,
+      "id": 15,
+      "original_description": "vodka",
+      "start": 2328.86
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2390.16,
+      "id": 16,
+      "original_description": "hot",
+      "start": 2389.42
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3436.8,
+      "id": 17,
+      "original_description": "idiot",
+      "start": 3435.47
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3561.83,
+      "id": 18,
+      "original_description": "crack",
+      "start": 3560.76
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3896.83,
+      "id": 19,
+      "original_description": "arse",
+      "start": 3895.94
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3905.24,
+      "id": 20,
+      "original_description": "imbecile",
+      "start": 3903.79
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4051.51,
+      "id": 21,
+      "original_description": "hell",
+      "start": 4050.58
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4305.1,
+      "id": 22,
+      "original_description": "idiot",
+      "start": 4304.3
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4504.64,
+      "id": 23,
+      "original_description": "damn",
+      "start": 4504.27
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5165.43,
+      "id": 24,
+      "original_description": "ظهور مؤخرة رجل",
+      "start": 5147.31
+    }
+  ],
+  "genre": "كوميديا، أكشن، سخرية تجسسية",
+  "pg": "+13",
+  "platforms": {
+    "tod": {
+      "id": "johnny-english-strikes-again-5058777",
+      "url": "https://www.tod.tv/en/movies/english/johnny-english-strikes-again-5058777"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/w600_and_h900_face/tCBxnZwLiY1BOKw3tH6AxHZdqPh.jpg",
+  "title": "Johnny English Strikes Again",
+  "type": "movie",
+  "year": 2018
+}

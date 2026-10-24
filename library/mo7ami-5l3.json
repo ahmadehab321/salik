@@ -1,0 +1,285 @@
+{
+  "category": "Comedy",
+  "description": "فيلم محامي خلع هو فيلم مصري كوميدي صدر عام 2002، من بطولة هاني رمزي، داليا البحيري، وعلا غانم، وتأليف وحيد حامد. تدور قصة الفيلم حول محامٍ شاب يترافع عن سيدة ثرية تريد خلع زوجها لأسباب طريفة، مما يفتح الباب لسلسلة من القضايا الكوميدية وانتقاد قانون الخلع",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 193.61,
+      "id": 1,
+      "original_description": "مغازلة فتاة",
+      "start": 190.13
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 419.77,
+      "id": 2,
+      "original_description": "فتاة تشرب سجائر",
+      "start": 415.88
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 475.47,
+      "id": 3,
+      "original_description": "حمار",
+      "start": 473.5
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 617.86,
+      "id": 4,
+      "original_description": "حديث عن التحول الجنسي ومغازلة فتيات",
+      "start": 599.36
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 629.66,
+      "id": 5,
+      "original_description": "والنبي",
+      "start": 629.32
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 997.99,
+      "id": 6,
+      "original_description": "حديث عن الصحة الجنسية للزوج",
+      "start": 978.52
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1146.05,
+      "id": 7,
+      "original_description": "صفعات على الوجه",
+      "start": 1140.61
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1254.64,
+      "id": 8,
+      "original_description": "حديث عن لبس المرأة",
+      "start": 1242.6
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1374.88,
+      "id": 9,
+      "original_description": "تحرش بصري لرجل بإمرأة",
+      "start": 1354.15
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1411.32,
+      "id": 10,
+      "original_description": "تحرش بصري لرجل بإمرأة",
+      "start": 1387.21
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1525.66,
+      "id": 11,
+      "original_description": "شخص يشرب الشيشة",
+      "start": 1518.74
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1725.72,
+      "id": 12,
+      "original_description": "بنات ترقص بإغراء",
+      "start": 1715.72
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1841.04,
+      "id": 13,
+      "original_description": "حديث عن صدر المرأة",
+      "start": 1833.99
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2123.45,
+      "id": 14,
+      "original_description": "والنعمة",
+      "start": 2122.56
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 2216.06,
+      "id": 15,
+      "original_description": "شخص يقول تعليق ايحائي",
+      "start": 2213.87
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2635.27,
+      "id": 16,
+      "original_description": "فتاة تشرب السجائر",
+      "start": 2630.11
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2800.92,
+      "id": 17,
+      "original_description": "وحياة أمي",
+      "start": 2635.27
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3270.82,
+      "id": 18,
+      "original_description": "تعليقات ايحائية عن قمصان النوم",
+      "start": 3173.41
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3281.18,
+      "id": 19,
+      "original_description": "اندروير",
+      "start": 3280.51
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 3311.73,
+      "id": 20,
+      "original_description": "تعليق ايحائي عن طول القضيب",
+      "start": 3299.78
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3378.42,
+      "id": 21,
+      "original_description": "تحرش برجل",
+      "start": 3372.28
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3506.95,
+      "id": 22,
+      "original_description": "ايحاءات جنسية بين رجل وامرأته",
+      "start": 3465.17
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3862.66,
+      "id": 23,
+      "original_description": "حمار",
+      "start": 3861.75
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3864.09,
+      "id": 24,
+      "original_description": "حمار",
+      "start": 3863.67
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4246.61,
+      "id": 25,
+      "original_description": "حديث عن فستان مكشوف",
+      "start": 4194.28
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4462.5,
+      "id": 26,
+      "original_description": "يا نهار اسود",
+      "start": 4461.67
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4672.83,
+      "id": 27,
+      "original_description": "ايحاءات جنسية عن صحة الزوج",
+      "start": 4655.15
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 5084.46,
+      "id": 28,
+      "original_description": "حديث عن انواع الخمور",
+      "start": 5054.35
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 5233.78,
+      "id": 29,
+      "original_description": "شخص يشرب الخمر والسجائر",
+      "start": 5212.78
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5484.53,
+      "id": 30,
+      "original_description": "امرأة تقبل رجل",
+      "start": 5483.13
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6116.41,
+      "id": 31,
+      "original_description": "امرأة تلبس البكيني",
+      "start": 6110.38
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6137.96,
+      "id": 32,
+      "original_description": "امرأة تسبح بالبكيني",
+      "start": 6127.7
+    }
+  ],
+  "genre": "Comedy",
+  "pg": "PG-13",
+  "platforms": {
+    "dailymotion": {
+      "id": "x8ivk7d",
+      "offset_seconds": 0,
+      "url": "https://www.dailymotion.com/video/x8ivk7d"
+    },
+    "netflix": {
+      "id": 81323785,
+      "offset_seconds": 0,
+      "url": "https://www.netflix.com/title/81323785"
+    },
+    "shahid": {
+      "id": 85340,
+      "offset_seconds": 22.06,
+      "url": "https://shahid.mbc.net/ar/player/movies/mohami-khola'/id-85340"
+    }
+  },
+  "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/8/4/4/3844-her-divorce-lawyer-0-1000-0-1500-crop.jpg",
+  "title": "محامي خلع",
+  "type": "movie",
+  "year": 2017
+}

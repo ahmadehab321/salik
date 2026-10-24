@@ -1,0 +1,22 @@
+{
+  "description": "مسلسل [الصفارة] هو عمل درامي مصري كوميدي من 15 حلقة، عُرض في موسم رمضان 2023. تدور قصة مسلسل الصفارة حول مرشد سياحي يدعى شفيق يسرق صفارة أثرية للملك توت عنخ آمون تعيده بالزمن 3 دقائق لتغيير حياته، فيقع في مواقف كوميدية ومغامرات غريبة",
+  "genre": "Comedy, Drama",
+  "platforms": {
+    "shahid": {
+      "id": 980315,
+      "url": "https://shahid.mbc.net/ar/player/episodes/%D8%A7%D9%84%D8%B5%D9%81%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%85-1-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9-1/id-980315"
+    },
+    "starzplay": {
+      "id": 648572456358,
+      "url": "https://starzplay.com/ar/watch/series/al-sofara/648572456358/s1e1"
+    },
+    "watchit": {
+      "id": 19256,
+      "url": "https://www.watchit.com/#/details/series/860/1006/19256/play"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/7OyVEHgIzTM6jAzpEblvYZ3a1Dm.jpg",
+  "title": "الصفارة",
+  "type": "series",
+  "year": 2023
+}

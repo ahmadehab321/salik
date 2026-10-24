@@ -1,0 +1,99 @@
+{
+  "episode": 14,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 38.56,
+      "id": 1,
+      "original_description": "idiot",
+      "start": 38.3
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 94.64,
+      "id": 2,
+      "original_description": "رجل يقبل امرأة",
+      "start": 89.48
+    },
+    {
+      "action_type": "mute",
+      "category": "nudity",
+      "end": 123.2,
+      "id": 3,
+      "original_description": "kissed you",
+      "start": 120.14
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 317.63,
+      "id": 4,
+      "original_description": "lame",
+      "start": 317.4
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 347.5,
+      "id": 5,
+      "original_description": "stupid",
+      "start": 347.06
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 524.8,
+      "id": 6,
+      "original_description": "crap",
+      "start": 524.59
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 965.29,
+      "id": 7,
+      "original_description": "crap",
+      "start": 964.98
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 988.08,
+      "id": 8,
+      "original_description": "beer",
+      "start": 987.46
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1151.41,
+      "id": 9,
+      "original_description": "pathetic",
+      "start": 1150.75
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1257.12,
+      "id": 10,
+      "original_description": "butts",
+      "start": 1256.77
+    }
+  ],
+  "parent_series_id": "the-middle",
+  "platforms": {
+    "netflix": {
+      "id": 82170869,
+      "url": "https://www.netflix.com/watch/82170869"
+    },
+    "osnplus": {
+      "id": 69074,
+      "url": "https://osnplus.com/en-eg/episode/valentines-day-ii-69074/watch?contentStreamingDeeplinkQueryParam=false&skipRecap=true"
+    }
+  },
+  "season": 2,
+  "title": "The Middle - S2E14",
+  "type": "episode"
+}

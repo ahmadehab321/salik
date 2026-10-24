@@ -1,0 +1,95 @@
+{
+  "episode": 22,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 73.83,
+      "id": 1,
+      "original_description": "beer",
+      "start": 73.32
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 121.08,
+      "id": 2,
+      "original_description": "dumb",
+      "start": 120.35
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 155.35,
+      "id": 3,
+      "original_description": "beer",
+      "start": 154.9
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 161.98,
+      "id": 4,
+      "original_description": "moronic",
+      "start": 161.26
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 185.29,
+      "id": 5,
+      "original_description": "stupid",
+      "start": 184.74
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 452.53,
+      "id": 6,
+      "original_description": "hot",
+      "start": 452.03
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 469.04,
+      "id": 7,
+      "original_description": "jerk",
+      "start": 468.65
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 984.68,
+      "id": 8,
+      "original_description": "jesus",
+      "start": 983.91
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1029.09,
+      "id": 9,
+      "original_description": "jesus",
+      "start": 1028.25
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1151.78,
+      "id": 10,
+      "original_description": "jerk",
+      "start": 1151.08
+    }
+  ],
+  "parent_series_id": "the-middle",
+  "platforms": {
+    "netflix": {
+      "id": 82170876,
+      "url": "https://www.netflix.com/watch/82170876"
+    }
+  },
+  "season": 2,
+  "title": "The Middle - S2E22",
+  "type": "episode"
+}

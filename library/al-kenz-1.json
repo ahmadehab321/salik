@@ -1,0 +1,214 @@
+{
+  "category": "Drama, History",
+  "description": ". تدور أحداثه عبر أربعة أزمنة مختلفة تشمل العصر الفرعوني، العثماني، فترة الملك فاروق، ويوثقها زمنياً خط رئيسي في منتصف السبعينات حول شاب يعود للأقصر ليكتشف وصية وبرديات والده",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 261.72,
+      "id": 1,
+      "original_description": "ووسخت ..",
+      "start": 260.52
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2324.91,
+      "id": 2,
+      "original_description": "شخص يشرب سجائر",
+      "start": 2321.15
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2338.52,
+      "id": 3,
+      "original_description": "شخص يشرب سجائر",
+      "start": 2335.01
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 3050.37,
+      "id": 4,
+      "original_description": "كلام عن جسم راقصة",
+      "start": 3044.37
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3122.05,
+      "id": 5,
+      "original_description": "رقص فتيات مفاتنهم ظاهرة",
+      "start": 3109.38
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3176.58,
+      "id": 6,
+      "original_description": "رقص فتيات مفاتنهم ظاهرة",
+      "start": 3128.71
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 3494.36,
+      "id": 7,
+      "original_description": "شخص يشرب سجائر",
+      "start": 3490.98
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3555.59,
+      "id": 8,
+      "original_description": "يا ابن الكلب",
+      "start": 3555.51
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3557.52,
+      "id": 9,
+      "original_description": "يا ابن الكلب",
+      "start": 3556.99
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3560.67,
+      "id": 10,
+      "original_description": "يا ولاد الكلب",
+      "start": 3559.91
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4044.16,
+      "id": 11,
+      "original_description": "فتيات يرقصن ومفاتنهم ظاهرة",
+      "start": 3938.86
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4111.91,
+      "id": 12,
+      "original_description": "الحلف بغير الله: أقسم بشرفي",
+      "start": 4111.26
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4215.75,
+      "id": 13,
+      "original_description": "يا ولاد الكلب",
+      "start": 4214.48
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 4945.17,
+      "id": 14,
+      "original_description": "شخص يشرب سجائر",
+      "start": 4941.82
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6325.61,
+      "id": 15,
+      "original_description": "شخص يتحرش بفتاة",
+      "start": 6320
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 6391.23,
+      "id": 16,
+      "original_description": "شخص يشرب سجائر",
+      "start": 6387.16
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 7074.4,
+      "id": 17,
+      "original_description": "شخص يشرب سجائر",
+      "start": 7071.15
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 7542.69,
+      "id": 18,
+      "original_description": "شخص يقول تعليق ايحائي",
+      "start": 7538.76
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7555.23,
+      "id": 19,
+      "original_description": "بوسة",
+      "start": 7553.93
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 8253.81,
+      "id": 20,
+      "original_description": "شخص يشرب الأرجيلة",
+      "start": 8251.52
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 8254.43,
+      "id": 21,
+      "original_description": "يا ليلة نحس",
+      "start": 8253.78
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 8428.25,
+      "id": 22,
+      "original_description": "غبي زي أبوك",
+      "start": 8426.45
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 8792.33,
+      "id": 23,
+      "original_description": "سوء أدب مع الله : وسامح بالنبي",
+      "start": 8790.41
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 9008.68,
+      "id": 24,
+      "original_description": "رجل يقبل رأس امرأة أجنبية",
+      "start": 9007.23
+    }
+  ],
+  "genre": "Drama",
+  "pg": "G",
+  "platforms": {
+    "watchit": {
+      "id": 639,
+      "url": "https://www.watchit.com/#/details/movies/639"
+    },
+    "yango": {
+      "id": "2eaefabef3d54e1794e7757a7f19376b",
+      "url": "https://play.yango.com/ar/movies/film/2eaefabef3d54e1794e7757a7f19376b"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/8yKNunw4tfX5VPPjTSbNUuECKxa.jpg",
+  "title": "الكنز (1): الحقيقة والخيال",
+  "type": "movie",
+  "year": 2017
+}

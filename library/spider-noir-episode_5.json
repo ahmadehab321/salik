@@ -1,0 +1,255 @@
+{
+  "episode": 5,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 38.75,
+      "id": 1,
+      "original_description": "hell",
+      "start": 38.5
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 255.38,
+      "id": 2,
+      "original_description": "jesus",
+      "start": 254.13
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 295.160474,
+      "id": 3,
+      "original_description": "رجل متحول لعنكبوت مقزز",
+      "start": 288.369148
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 299.185029,
+      "id": 4,
+      "original_description": "رجل متحول لعنكبوت مقزز ينقض على شخص",
+      "start": 297.387174
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 311.815523,
+      "id": 5,
+      "original_description": "رجل متحول عنكبوت مقزز",
+      "start": 308.142418
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 806.25,
+      "id": 6,
+      "original_description": "dick",
+      "start": 806.1
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 808.39,
+      "id": 7,
+      "original_description": "dick",
+      "start": 808.02
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 851.3,
+      "id": 8,
+      "original_description": "hell",
+      "start": 851.08
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 854.37,
+      "id": 9,
+      "original_description": "asshole",
+      "start": 853.92
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 889.39,
+      "id": 10,
+      "original_description": "shit",
+      "start": 889.01
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 914.55879,
+      "id": 11,
+      "original_description": "شخص يقول نكتة اباحية",
+      "start": 890.49765
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 938.004852,
+      "id": 12,
+      "original_description": "رجل يتظاهر بتقبيل رجل",
+      "start": 936.766086
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 949.983938,
+      "id": 13,
+      "original_description": "شخص يتم ضربه في منطقة حساسة",
+      "start": 948.207233
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 972.07,
+      "id": 14,
+      "original_description": "bitch",
+      "start": 971.7
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1064.02,
+      "id": 15,
+      "original_description": "piss",
+      "start": 1063.78
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1097.47,
+      "id": 16,
+      "original_description": "piss",
+      "start": 1096.68
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1395.44,
+      "id": 17,
+      "original_description": "negro",
+      "start": 1395.16
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1403.99,
+      "id": 18,
+      "original_description": "hell",
+      "start": 1403.65
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1527.01506,
+      "id": 19,
+      "original_description": "شخص ينظر  إلى صور عارية",
+      "start": 1523.339258
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1539.511252,
+      "id": 20,
+      "original_description": "سخص يتصفح صور عارية",
+      "start": 1535.651792
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1548.84,
+      "id": 21,
+      "original_description": "shit",
+      "start": 1547.84
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1567.44,
+      "id": 22,
+      "original_description": "shit",
+      "start": 1565.94
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1819.230883,
+      "id": 23,
+      "original_description": "رجل يقبل رجل آخر",
+      "start": 1811.691627
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1878.077665,
+      "id": 24,
+      "original_description": "رجل متحول عنكبوت يعض شخص",
+      "start": 1875.434165
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1893.64,
+      "id": 25,
+      "original_description": "hell",
+      "start": 1893.43
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2163.1,
+      "id": 26,
+      "original_description": "kill",
+      "start": 2162.92
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2192.42,
+      "id": 27,
+      "original_description": "kill",
+      "start": 2192.13
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2274.579057,
+      "id": 28,
+      "original_description": "رجل يقبل امرآة ",
+      "start": 2261.946044
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2480.21,
+      "id": 29,
+      "original_description": "stupid",
+      "start": 2479.86
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2524.58,
+      "id": 30,
+      "original_description": "goddamn",
+      "start": 2524.3
+    }
+  ],
+  "parent_series_id": "spider-noir",
+  "platforms": {
+    "amazon": {
+      "id": "amzn1.dv.gti.173fc36d-a1c5-4ae9-9cd0-81e7e4a5478f",
+      "url": "https://www.primevideo.com/region/eu/detail/0TPA7F48GEJVGD8KKM1NC6QQ9Q/ref=atv_hm_hom_c_vEe97o_brws_3_3?jic=8%7CEgRzdm9k"
+    }
+  },
+  "season": 1,
+  "title": "Spider-Noir - S1E5",
+  "type": "episode"
+}

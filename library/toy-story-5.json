@@ -1,0 +1,83 @@
+{
+  "addedAt": 1791018237855,
+  "category": "Cartoon",
+  "description": "تتواجه الألعاب التقليدية بزعامة جيسي مع تهديد جديد يستحوذ على اهتمام طفلتهم \"بوني\"، المتمثل في جهاز لوحي حديث يُدعى \"ليلي باد\".\nيخوض الأصدقاء مغامرة جديدة للتأكيد على قيمة اللعب الواقعي والتواصل الإنساني في عصر التكنولوجيا المتقدمة.",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 319,
+      "id": 1,
+      "original_description": "رجل يقبل امرأة",
+      "start": 315
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 357,
+      "id": 2,
+      "original_description": "تنفس اصطناعي",
+      "start": 345
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2068,
+      "id": 3,
+      "original_description": "رجل يلبس ملابس نسائية",
+      "start": 1885
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2364,
+      "id": 4,
+      "original_description": "شخص يقول تعليق افرازات مقرف",
+      "start": 2361
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3020,
+      "id": 5,
+      "original_description": "لعبة امسح فضلاتك",
+      "start": 3006
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 4198,
+      "id": 6,
+      "original_description": "شخص يلقي تعليق مبتذل",
+      "start": 4194
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5316,
+      "id": 7,
+      "original_description": "تبديل الأدوار الجندرية",
+      "start": 5234
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5415,
+      "id": 8,
+      "original_description": "تبديل الأدوار الجندرية",
+      "start": 5407
+    }
+  ],
+  "genre": "رسوم متحركة، مغامرة، كوميديا، عائلي",
+  "pg": "الكل",
+  "platforms": {
+    "disney": {
+      "id": "c99203fc-eeff-4531-a35e-1f558bedce4f",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-c99203fc-eeff-4531-a35e-1f558bedce4f"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/w600_and_h900_face/b9yODva86tl5Em8cOoKSQQzzAy4.jpg",
+  "title": "Toy Story 5",
+  "type": "movie",
+  "year": 2026
+}

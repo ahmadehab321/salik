@@ -1,0 +1,122 @@
+{
+  "category": "Comedy",
+  "description": " هو عمل كوميدي غامض ذكي. تدور أحداثه حول الراعي جورج الذي يقرأ روايات الجرائم لخرافه كل ليلة. وحين يُعثر عليه مقتولاً، تدرك الخراف الذكية أن عليها تولي القضية بنفسها للبحث عن القاتل،\"تنبيه\": الفيلم يتبنى منظوراً نباتياً يصور ذبح الماشية بشكل سلبي، ويُنصح بمناقشة مفهوم الذبح الشرعي مع الأطفال بعد المشاهدة ",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 947.58,
+      "id": 1,
+      "original_description": "weirdo",
+      "start": 946.42
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1746.62,
+      "id": 2,
+      "original_description": "stupid",
+      "start": 1746.2
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 2067.2306,
+      "id": 3,
+      "original_description": "كلام خاطئ عن الذات الإلهية",
+      "start": 2036.282957
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2040.97,
+      "id": 4,
+      "original_description": "god",
+      "start": 2040.64
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2042.46,
+      "id": 5,
+      "original_description": "god",
+      "start": 2041.96
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2096.62,
+      "id": 6,
+      "original_description": "crap",
+      "start": 2096.06
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 3563.7,
+      "id": 7,
+      "original_description": "stupid",
+      "start": 3563.18
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 4022.75,
+      "id": 8,
+      "original_description": "stupid",
+      "start": 4022.22
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4391.798378,
+      "id": 9,
+      "original_description": "عراك بين خروف وكلبين ",
+      "start": 4376.284227
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 4589.5,
+      "id": 10,
+      "original_description": "stupid",
+      "start": 4588.88
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 4647.16,
+      "id": 11,
+      "original_description": "stupid",
+      "start": 4646.72
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 6116.54,
+      "id": 12,
+      "original_description": "drunk",
+      "start": 6116.26
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 6120.89,
+      "id": 13,
+      "original_description": "drunk",
+      "start": 6120.63
+    }
+  ],
+  "genre": "Comedy, Animation",
+  "pg": "PG",
+  "platforms": {
+    "amazon": {
+      "id": "0QYW7PZS87HQG6LRN4XMD1AJIH",
+      "url": "https://www.primevideo.com/region/eu/detail/0QYW7PZS87HQG6LRN4XMD1AJIH/ref=atv_hm_hom_c_7xW3NA_HS311874_1_1?jic=16%7CCgNhbGwSA2FsbA%3D%3D"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/w600_and_h900_face/2hqxC1MvuQFAv8LdLppNuUHBz1i.jpg",
+  "title": "The Sheep Detectives",
+  "type": "movie",
+  "year": 2026
+}

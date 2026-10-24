@@ -1,0 +1,106 @@
+{
+  "episode": 4,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "nudity",
+      "end": 351.82,
+      "id": 1,
+      "original_description": "رقصتك",
+      "start": 351.45
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 398.09,
+      "id": 2,
+      "original_description": "الرقاصة",
+      "start": 397.62
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 450.91,
+      "id": 3,
+      "original_description": "حديث عن الرقاصة تيجي البيت",
+      "start": 425.98
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 482.86,
+      "id": 4,
+      "original_description": "ايحاءات عن الراقصة",
+      "start": 468.33
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 546.57,
+      "id": 5,
+      "original_description": "ايحاءات عن الراقصة",
+      "start": 543.19
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 665.79,
+      "id": 6,
+      "original_description": "بذمتك",
+      "start": 665.1
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1001.6,
+      "id": 7,
+      "original_description": "ايحاءات عن الراقصة",
+      "start": 985.57
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1347.77,
+      "id": 8,
+      "original_description": "سافل والرقاصة",
+      "start": 1345.59
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1504.05,
+      "id": 9,
+      "original_description": "حديث عن الرقاصة",
+      "start": 1502.91
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1851.19,
+      "id": 10,
+      "original_description": "ايحاءات جنسية عن الراقصة",
+      "start": 1721.93
+    }
+  ],
+  "parent_series_id": "Al-Sofara",
+  "platforms": {
+    "shahid": {
+      "id": "980753",
+      "offset_seconds": 15,
+      "url": "https://shahid.mbc.net/ar/player/episodes/%D8%A7%D9%84%D8%B5%D9%81%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%85-1-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9-1/id-980753"
+    },
+    "starzplay": {
+      "id": "s1e4",
+      "offset_seconds": 0,
+      "url": "https://starzplay.com/ar/watch/series/al-sofara/648572456358/s1e4"
+    },
+    "watchit": {
+      "id": "19325",
+      "offset_seconds": 0,
+      "url": "https://www.watchit.com/#/details/series/860/1006/19325/play"
+    }
+  },
+  "season": 1,
+  "title": "Al-sofara - S1E4",
+  "type": "episode"
+}

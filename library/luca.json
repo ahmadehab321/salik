@@ -1,0 +1,90 @@
+{
+  "category": "Disney",
+  "description": "فيلم الكرتون \"لوكا\" (Luca) من إنتاج ديزني وبيكسار لعام 2021 في أجواء صيفية ساحرة على شواطئ إيطاليا. يحكي قصة فتى صغير هو في الأصل \"كائن بحري\" يتحول إلى شكل بشري عندما يجف، يخوض مغامرة ممتعة لا تُنسى مع أصدقائه على اليابسة محاولاً إخفاء حقيقته وسط البشر",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1214.37,
+      "id": 1,
+      "original_description": "للغبي",
+      "start": 1213.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1723.6,
+      "id": 2,
+      "original_description": "stupido",
+      "start": 1722.84
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1768.34,
+      "id": 3,
+      "original_description": "stupido",
+      "start": 1767.36
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3026.47,
+      "id": 4,
+      "original_description": "صفعة على الوجه وشخص يقول ايه الغباء دا",
+      "start": 3023.29
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3063.11,
+      "id": 5,
+      "original_description": "صفعة على الوجه",
+      "start": 3059.99
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 3101.16,
+      "id": 6,
+      "original_description": "شخص يرسم الصليب على وجهه",
+      "start": 3100.2
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4360.29,
+      "id": 7,
+      "original_description": "غبي",
+      "start": 4359.84
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4376.47,
+      "id": 8,
+      "original_description": "غبي",
+      "start": 4375.98
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4393.24,
+      "id": 9,
+      "original_description": "شخص يتكرع",
+      "start": 4390.87
+    }
+  ],
+  "genre": "Kids, Animation",
+  "pg": "+7",
+  "platforms": {
+    "disney": {
+      "id": "f28b825f-c207-406b-923a-67f85e6d90e0",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-f28b825f-c207-406b-923a-67f85e6d90e0"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/ozDxQoN6W4BDhWQfWGSKsZhGt8w.jpg",
+  "title": "Luca",
+  "type": "movie",
+  "year": 2021
+}

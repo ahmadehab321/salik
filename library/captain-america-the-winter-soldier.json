@@ -1,0 +1,235 @@
+{
+  "addedAt": 1788073334783,
+  "category": "Marvel",
+  "description": "كافح \"ستيف روجرز\" للتكيف مع الحياة في العالم الحديث، ولكنه يجد نفسه متورطاً في شبكة معقدة من المؤامرات والخداع بعد التعرض للهجوم على وكالة \"شيلد\". يتعاون كابتن أمريكا مع \"البلاك ويدو\" وزميله الجديد \"فالكون\" لكشف مؤامرة عميقة تهدد العالم، ليجدوا أنفسهم في مواجهة قاتل محترف وغامض يُدعى \"جندي الشتاء\"، والذي يتبين أنه صديق قديم ومقرب لستيف كان يُعتقد أنه مات في الماضي.",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 392.53,
+      "id": 1,
+      "original_description": "سكين تطعن يد شخص",
+      "start": 389.53
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 763.48,
+      "id": 2,
+      "original_description": "hell",
+      "start": 762.64
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 804,
+      "id": 3,
+      "original_description": "damn",
+      "start": 802.95
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1066.9,
+      "id": 4,
+      "original_description": "damn",
+      "start": 1065.93
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1410.79,
+      "id": 5,
+      "original_description": "hell",
+      "start": 1409.79
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1496.33,
+      "id": 6,
+      "original_description": "damn",
+      "start": 1495.48
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1576.77,
+      "id": 7,
+      "original_description": "dumb",
+      "start": 1575.76
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1577.01,
+      "id": 8,
+      "original_description": "ass",
+      "start": 1576.07
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1600.82,
+      "id": 9,
+      "original_description": "hell",
+      "start": 1599.85
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1706.72,
+      "id": 10,
+      "original_description": "damn",
+      "start": 1705.87
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3395.88,
+      "id": 11,
+      "original_description": "Kiss me",
+      "start": 3394.48
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3408.29,
+      "id": 12,
+      "original_description": "ناتاشا تقبل ستيف",
+      "start": 3399.39
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3456.38,
+      "id": 13,
+      "original_description": "حديث عن التقبيل",
+      "start": 3432.36
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4376.72,
+      "id": 14,
+      "original_description": "hot",
+      "start": 4375.97
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4377.79,
+      "id": 15,
+      "original_description": "hot",
+      "start": 4376.84
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4552.33,
+      "id": 16,
+      "original_description": "damn",
+      "start": 4551.45
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4642.88,
+      "id": 17,
+      "original_description": "shit",
+      "start": 4641.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5016.23,
+      "id": 18,
+      "original_description": "hell",
+      "start": 5015.32
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5188.52,
+      "id": 19,
+      "original_description": "damn",
+      "start": 5187.21
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5199.62,
+      "id": 20,
+      "original_description": "hell",
+      "start": 5198.56
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5826.84,
+      "id": 21,
+      "original_description": "bitch",
+      "start": 5825.77
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6126.56,
+      "id": 22,
+      "original_description": "shit",
+      "start": 6125.78
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6744.8,
+      "id": 23,
+      "original_description": "hell",
+      "start": 6743.96
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 6933.42,
+      "id": 24,
+      "original_description": "شخص يموت برصاصة",
+      "start": 6930.08
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7044.96,
+      "id": 25,
+      "original_description": "bitch",
+      "start": 7043.88
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 7352.01,
+      "id": 26,
+      "original_description": "بروك مشوه ومحروق",
+      "start": 7344.34
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 7552.65,
+      "id": 27,
+      "original_description": "امرأة تقبل رجل",
+      "start": 7546.18
+    }
+  ],
+  "genre": "أبطال خارقون، أكشن ومغامرة، إثارة وتجسس، خيال علمي",
+  "pg": "+13",
+  "platforms": {
+    "disney": {
+      "id": "ef333a5c-b855-4d3e-a7d9-d9e142b6dc7d",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-ef333a5c-b855-4d3e-a7d9-d9e142b6dc7d"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/eEoO2Ns5pAf5vtwAS3UXCUQRLGB.jpg",
+  "title": "Captain America: The Winter Soldier",
+  "type": "movie",
+  "year": 2014
+}

@@ -1,0 +1,475 @@
+{
+  "addedAt": 1789249239984,
+  "category": "Magic",
+  "description": "يعود فريق \"الفرسان الأربعة\" الأصلي للم الشمل مجددًا بعد سنوات من الغياب لخوض عملية سرقة وسحر هي الأعقد في تاريخهم.\nينضم إلى الفريق جيل جديد من السحرة والمخدعين الشباب لمواجهة عدو قوي ومجهول يهدد كشف أسرار منظمة \"العين\" التليدة.\nيستخدم السحرة أحدث التقنيات وأعقد حيل الخدع البصرية المسرحية في مطاردة عالمية لإنجاز المهمة وإبهار الجمهور.",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 76.76,
+      "id": 1,
+      "original_description": "fool",
+      "start": 76.7
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 171.27,
+      "id": 2,
+      "original_description": "fool",
+      "start": 170.53
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 173.93,
+      "id": 3,
+      "original_description": "fool",
+      "start": 173.15
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 385.01,
+      "id": 4,
+      "original_description": "ass",
+      "start": 384.42
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 438.44,
+      "id": 5,
+      "original_description": "freaking",
+      "start": 437.45
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 476.75,
+      "id": 6,
+      "original_description": "fool",
+      "start": 476.09
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 585.91,
+      "id": 7,
+      "original_description": "امرأة مكشوفة الساق",
+      "start": 530.06
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 624.83,
+      "id": 8,
+      "original_description": "beer",
+      "start": 623.93
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 626.63,
+      "id": 9,
+      "original_description": "beer",
+      "start": 625.82
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 679.58,
+      "id": 10,
+      "original_description": "sex",
+      "start": 679
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 869.41,
+      "id": 11,
+      "original_description": "freaking",
+      "start": 868.45
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 871.18,
+      "id": 12,
+      "original_description": "dick",
+      "start": 870.49
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 875.24,
+      "id": 13,
+      "original_description": "dick",
+      "start": 874.09
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1781.33,
+      "id": 14,
+      "original_description": "hell",
+      "start": 1780.73
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1930.03,
+      "id": 15,
+      "original_description": "ass",
+      "start": 1929.34
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1981.87,
+      "id": 16,
+      "original_description": "ضرب على الوجه",
+      "start": 1980.35
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2010.52,
+      "id": 17,
+      "original_description": "ضرب في مكان حساس",
+      "start": 2008.24
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2033.65,
+      "id": 18,
+      "original_description": "bullshit",
+      "start": 2032.28
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2041.87,
+      "id": 19,
+      "original_description": "bullshit",
+      "start": 2041.47
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2042.57,
+      "id": 20,
+      "original_description": "bullshit",
+      "start": 2041.67
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2043.07,
+      "id": 21,
+      "original_description": "bullshit",
+      "start": 2042.37
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2046.42,
+      "id": 22,
+      "original_description": "hell",
+      "start": 2045.43
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3043.12,
+      "id": 23,
+      "original_description": "freak",
+      "start": 3042.39
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3089.22,
+      "id": 24,
+      "original_description": "jesus",
+      "start": 3088.22
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3238.28,
+      "id": 25,
+      "original_description": "whiskey",
+      "start": 3237.84
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3306.64,
+      "id": 26,
+      "original_description": "shit",
+      "start": 3304.91
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3407.65,
+      "id": 27,
+      "original_description": "shit",
+      "start": 3406.89
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3758.8,
+      "id": 28,
+      "original_description": "asshole",
+      "start": 3757.9
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3770,
+      "id": 29,
+      "original_description": "shit",
+      "start": 3769.25
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3815.28,
+      "id": 30,
+      "original_description": "shit",
+      "start": 3814.23
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3888.94,
+      "id": 31,
+      "original_description": "shit",
+      "start": 3887.9
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3977.09,
+      "id": 32,
+      "original_description": "hot",
+      "start": 3976.4
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3983.67,
+      "id": 33,
+      "original_description": "sex",
+      "start": 3982.6
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4002.67,
+      "id": 34,
+      "original_description": "pathetic",
+      "start": 4001.03
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4080.58,
+      "id": 35,
+      "original_description": "كسر ذراع شخص",
+      "start": 4064.43
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4110.42,
+      "id": 36,
+      "original_description": "shit",
+      "start": 4108.26
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4140.04,
+      "id": 37,
+      "original_description": "wine",
+      "start": 4139.22
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4163.27,
+      "id": 38,
+      "original_description": "dick",
+      "start": 4162.41
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4191.48,
+      "id": 39,
+      "original_description": "ذراع مقطوعة تقع",
+      "start": 4184.32
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4190.56,
+      "id": 40,
+      "original_description": "shit",
+      "start": 4189.48
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4224.32,
+      "id": 41,
+      "original_description": "ضرب وجه شرطي",
+      "start": 4218.89
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4332.16,
+      "id": 42,
+      "original_description": "مضاربة قسم الشرطة",
+      "start": 4257.52
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4369.34,
+      "id": 43,
+      "original_description": "shit",
+      "start": 4368.41
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4467.53,
+      "id": 44,
+      "original_description": "bullshit",
+      "start": 4466.23
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4481.81,
+      "id": 45,
+      "original_description": "shit",
+      "start": 4480.9
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4503.65,
+      "id": 46,
+      "original_description": "shit",
+      "start": 4502.43
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4593.43,
+      "id": 47,
+      "original_description": "fool",
+      "start": 4592.36
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4752.74,
+      "id": 48,
+      "original_description": "shit",
+      "start": 4751.68
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4946.82,
+      "id": 49,
+      "original_description": "shit",
+      "start": 4945.49
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4991.77,
+      "id": 50,
+      "original_description": "hell",
+      "start": 4991.03
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5042.43,
+      "id": 51,
+      "original_description": "fuck",
+      "start": 5041.94
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5056.73,
+      "id": 52,
+      "original_description": "shit",
+      "start": 5056.51
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5260.22,
+      "id": 53,
+      "original_description": "damn",
+      "start": 5258.87
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5822.56,
+      "id": 54,
+      "original_description": "pathetic",
+      "start": 5821.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6077.53,
+      "id": 55,
+      "original_description": "damn",
+      "start": 6077.32
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6107.81,
+      "id": 56,
+      "original_description": "رجل يقبل امرأة",
+      "start": 6103.35
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6138.9,
+      "id": 57,
+      "original_description": "crack",
+      "start": 6137.82
+    }
+  ],
+  "genre": "جريمة، إثارة وتجاسر، خفة يد وسحر، غموض",
+  "pg": "+13",
+  "platforms": {
+    "tod": {
+      "id": "now-you-see-me-now-you-don-t-5051386",
+      "url": "https://www.tod.tv/ar/movies/english/watch/now-you-see-me-now-you-don-t-5051386"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/w600_and_h900_face/fwGHnu3MDZjhNez6UKTvjNOWxDL.jpg",
+  "title": "Now You See Me: Now You Don't",
+  "type": "movie",
+  "year": 2025
+}

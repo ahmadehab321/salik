@@ -1,0 +1,290 @@
+{
+  "category": "Comedy, Action",
+  "description": "فيلم \"لا تراجع ولا استسلام (القبضة الدامية)\" هو فيلم كوميدي مصري تم إنتاجه عام 2010، بطولة أحمد مكي، دنيا سمير غانم، وماجد الكدواني. تدور أحداثه حول شاب ساذج يدعى \"حزلقوم\" تستغله الشرطة لينتحل شخصية رجل عصابة ميت للقبض على تاجر مخدرات كبير",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 102.309274,
+      "id": 1,
+      "original_description": "مخدرات وخمور",
+      "start": 54.6286
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 132.721818,
+      "id": 2,
+      "original_description": "شخص يشرب السجائر ويلقي نكتة عن الترامادول",
+      "start": 121.38217
+    },
+    {
+      "action_type": "blur",
+      "category": "substance abuse",
+      "end": 146.9158,
+      "id": 3,
+      "original_description": "شخص يشرب السجائر ويظهر ظل امرأة ",
+      "start": 133.198936
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 154.843572,
+      "id": 4,
+      "original_description": "شخص يشرب سجائر",
+      "start": 153.316794
+    },
+    {
+      "action_type": "mute",
+      "category": "substance abuse",
+      "end": 168.097184,
+      "id": 5,
+      "original_description": "شخص يشرب السجائر",
+      "start": 164.695219
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 249.045525,
+      "id": 6,
+      "original_description": "شخص يبصق",
+      "start": 248.084795
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 405.785507,
+      "id": 7,
+      "original_description": "شخص يأخذ سكينة في حلقه",
+      "start": 404.790441
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 470.921468,
+      "id": 8,
+      "original_description": "ابن الكلب",
+      "start": 469.964279
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1547.862541,
+      "id": 9,
+      "original_description": "الحلف بغير الله: والنعمة الشريفة",
+      "start": 1547.060757
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1830.61978,
+      "id": 10,
+      "original_description": "اين العبيطة",
+      "start": 1829.151889
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1873.353858,
+      "id": 11,
+      "original_description": "السكس",
+      "start": 1872.992713
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1928.540926,
+      "id": 12,
+      "original_description": "والنبي",
+      "start": 1927.766223
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2069.765984,
+      "id": 13,
+      "original_description": "الحلف بغير الله: والنعمة",
+      "start": 2069.321224
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2302.551314,
+      "id": 14,
+      "original_description": "عبيط",
+      "start": 2302.345229
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2609.713027,
+      "id": 15,
+      "original_description": "شخص يقول تعليق ايحائي",
+      "start": 2596.682128
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2975.952291,
+      "id": 16,
+      "original_description": "ملط",
+      "start": 2975.486963
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3108.416725,
+      "id": 17,
+      "original_description": "احيه",
+      "start": 3107.094408
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3173.639968,
+      "id": 18,
+      "original_description": "ابن الصرمة",
+      "start": 3172.851482
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3308.085409,
+      "id": 19,
+      "original_description": "يا نهار اسود",
+      "start": 3307.066286
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 4143.854482,
+      "id": 20,
+      "original_description": "كلام عن الخمرة والنسوان ومخدرات",
+      "start": 4034.404821
+    },
+    {
+      "action_type": "mute",
+      "category": "nudity",
+      "end": 4606.112076,
+      "id": 21,
+      "original_description": "شخص يقول تعليقات ايحائية",
+      "start": 4597.271761
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4740.066884,
+      "id": 22,
+      "original_description": "يا متخلف",
+      "start": 4739.23352
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4804.210444,
+      "id": 23,
+      "original_description": "انا اللي حمار",
+      "start": 4803.782849
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4927.353598,
+      "id": 24,
+      "original_description": "والنبي",
+      "start": 4926.919998
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5196.405032,
+      "id": 25,
+      "original_description": "شخصان يطلعان السلم بشكل اباحي",
+      "start": 5162.903497
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5300.466638,
+      "id": 26,
+      "original_description": "يا نهار اسود",
+      "start": 5294.096074
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 5315.606937,
+      "id": 27,
+      "original_description": "زبالة",
+      "start": 5312.628795
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5645.938066,
+      "id": 28,
+      "original_description": "مزة",
+      "start": 5645.257811
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5682.185322,
+      "id": 29,
+      "original_description": "المزة",
+      "start": 5680.975398
+    },
+    {
+      "action_type": "mute",
+      "category": "violence",
+      "end": 5735.389812,
+      "id": 30,
+      "original_description": "رجل يحترق",
+      "start": 5720.496607
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 5961.791155,
+      "id": 31,
+      "original_description": "الحلف بغير الله: والنبي",
+      "start": 5960.341461
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6184.095425,
+      "id": 32,
+      "original_description": "الكلب",
+      "start": 6183.44149
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 6470.787005,
+      "id": 33,
+      "original_description": "عبيط واهبل",
+      "start": 6466.329318
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6482.745214,
+      "id": 34,
+      "original_description": "عبيط واهبل",
+      "start": 6482.077713
+    }
+  ],
+  "genre": "Comedy",
+  "pg": "PG",
+  "platforms": {
+    "netflix": {
+      "id": 81323774,
+      "url": "https://www.netflix.com/title/81323774"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/w600_and_h900_face/b7gFI5L2thZy3TzXHRU54wgS8Zu.jpg",
+  "title": "لا تراجع ولا استسلام",
+  "type": "movie",
+  "year": 2010
+}

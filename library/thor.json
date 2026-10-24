@@ -1,0 +1,187 @@
+{
+  "addedAt": 1787692508025,
+  "category": "Marvel",
+  "description": "يشعل \"ثور\" الجبار، وهو محارب قوي ولكن مغرور، حربًا قديمة مجددًا بفضل تصرفاته الطائشة. وكنتيجة لذلك، يجرده والده \"أودين\" من قواه وينفيه إلى كوكب الأرض ليعيش بين البشر. وعلى الأرض، يتعين على ثور التعلم من أخطائه واستعادة لياقته وقوته لإيقاف شقيقه الشرير \"لوكي\" من الاستيلاء على عرش \"آسغارد\" وحماية كوكب الأرض من التدمير",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 325.97,
+      "id": 1,
+      "original_description": "شخص مفقوعة عينه",
+      "start": 323.06
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 836.8,
+      "id": 2,
+      "original_description": "god",
+      "start": 836.02
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1280.24,
+      "id": 3,
+      "original_description": "damn",
+      "start": 1279.24
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1687.68,
+      "id": 4,
+      "original_description": "fool",
+      "start": 1686.7
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1698.2,
+      "id": 5,
+      "original_description": "fool",
+      "start": 1696.95
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1716.02,
+      "id": 6,
+      "original_description": "stupidity",
+      "start": 1714.76
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1872.75,
+      "id": 7,
+      "original_description": "freaking",
+      "start": 1871.32
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2088.22,
+      "id": 8,
+      "original_description": "drugs",
+      "start": 2087.2
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2153.16,
+      "id": 9,
+      "original_description": "شخص يشرب الخمر",
+      "start": 2149.95
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 2426.88,
+      "id": 10,
+      "original_description": "\"أودين\" مفقوعة عينه",
+      "start": 2420.43
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2624.08,
+      "id": 11,
+      "original_description": "dumbass",
+      "start": 2622.76
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2744.71,
+      "id": 12,
+      "original_description": "hell",
+      "start": 2743.76
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4046.15,
+      "id": 13,
+      "original_description": "hell",
+      "start": 4045.21
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4068.35,
+      "id": 14,
+      "original_description": "stupid",
+      "start": 4067.16
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 4125.52,
+      "id": 15,
+      "original_description": "شخصان يشربان الخمر",
+      "start": 4099.99
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4173.3,
+      "id": 16,
+      "original_description": "idiotic",
+      "start": 4172.1
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4321.49,
+      "id": 17,
+      "original_description": "god",
+      "start": 4320.51
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4570.39,
+      "id": 18,
+      "original_description": "hell",
+      "start": 4569.92
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4638.09,
+      "id": 19,
+      "original_description": "hell",
+      "start": 4637.6
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5544.97,
+      "id": 20,
+      "original_description": "\"ثور\" يقبل امرأة",
+      "start": 5526.63
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6151.8,
+      "id": 21,
+      "original_description": "ass",
+      "start": 6151.06
+    }
+  ],
+  "genre": "أبطال خارقون، أكشن ومغامرة، خيال",
+  "pg": "PG-13",
+  "platforms": {
+    "disney": {
+      "id": "479d41e3-8438-4ba4-b93d-8223220e069c",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-479d41e3-8438-4ba4-b93d-8223220e069c"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/1FHQvc3OeqlalUkUdAdh1k4xaoO.jpg",
+  "title": "Thor",
+  "type": "movie",
+  "year": 2011
+}

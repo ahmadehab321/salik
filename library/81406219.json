@@ -1,0 +1,82 @@
+{
+  "category": "Crime, Comedy",
+  "description": " \"إينولا\" (ميلي بوبي براون) بعد افتتاح وكالتها الخاصة. تكافح لإثبات نفسها مقارنة بشقيقها الشهير \"شيرلوك\"، فتتولى قضية فتاة عاملة في مصنع كبريت تبحث عن أختها المفقودة، لتكتشف مؤامرة مميتة ترتبط بـ \"موريارتي\"، مما يضطرها للتعاون مع شقيقها. \"تنبيه\": يوجد بعض العنف له علاقة بالحبكة",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1129.0914,
+      "id": 1,
+      "original_description": "بنات تلبس تنورة وترقص على المنصة",
+      "start": 1067.261354
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1621.04,
+      "id": 2,
+      "original_description": "drunk",
+      "start": 1620.82
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2218.106445,
+      "id": 3,
+      "original_description": "ضرب رجل في مكان حساس",
+      "start": 2214.298461
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2421.046367,
+      "id": 4,
+      "original_description": "رجل يرتدي ملابس نساء ومبسوط",
+      "start": 2415.085849
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2436.66,
+      "id": 5,
+      "original_description": "ninny",
+      "start": 2436.45
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5516.366734,
+      "id": 6,
+      "original_description": "بنت قاعدة على حجر رجل",
+      "start": 5512.451764
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5828.168591,
+      "id": 7,
+      "original_description": "رجل يقبل امرأة",
+      "start": 5812.709437
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 6363.525233,
+      "id": 8,
+      "original_description": "حامل يضرب شخص من مكان حساس",
+      "start": 6360.482413
+    }
+  ],
+  "genre": "Crime, Adventure",
+  "pg": 18,
+  "platforms": {
+    "netflix": {
+      "id": "81406219",
+      "url": "https://www.netflix.com/title/81406219"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/dYFIJSGCpZ88Ic7zC14txbQnGX0.jpg",
+  "title": "Enola Holmes 2",
+  "type": "movie",
+  "year": 2022
+}

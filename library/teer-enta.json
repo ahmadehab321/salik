@@ -1,0 +1,386 @@
+{
+  "category": "Comedy, SCI-FI",
+  "description": " كوميديا مصرية صدرت عام 2009، بطولة أحمد مكي، ودنيا سمير غانم، وماجد الكدواني، وإخراج أحمد الجندي. تدور قصته حول طبيب بيطري خجول يلتقي بجنّي يحقق له أمنيات ليتقمص شخصيات مختلفة لكسب قلب الفتاة التي يحبها",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 375.17,
+      "id": 1,
+      "original_description": "المزة",
+      "start": 374.54
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 381.21,
+      "id": 2,
+      "original_description": "الله",
+      "start": 380.83
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 590.28,
+      "id": 3,
+      "original_description": "شخص يشرب سجائر",
+      "start": 581.85
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 625.48,
+      "id": 4,
+      "original_description": "يا حيوان",
+      "start": 624.79
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 628.68,
+      "id": 5,
+      "original_description": "يا كلب",
+      "start": 628.25
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 630.27,
+      "id": 6,
+      "original_description": "يا كلب",
+      "start": 629.66
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1126.41,
+      "id": 7,
+      "original_description": "مشهد الديسكو",
+      "start": 827.33
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1440.64,
+      "id": 8,
+      "original_description": "الحلف بغير الله: والنعمة",
+      "start": 1440.15
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1626.29,
+      "id": 9,
+      "original_description": "بيرة",
+      "start": 1625.78
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1677.71,
+      "id": 10,
+      "original_description": "الدعاء على الغير بذكر الله",
+      "start": 1676.69
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2271.82,
+      "id": 11,
+      "original_description": "شخص يشرب السجائر",
+      "start": 2264.61
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2288.29,
+      "id": 12,
+      "original_description": "what the F....",
+      "start": 2287.51
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2346.66,
+      "id": 13,
+      "original_description": "شخص يعاكس امرأة",
+      "start": 2345.93
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2347.61,
+      "id": 14,
+      "original_description": "المزة",
+      "start": 2346.35
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 2364.23,
+      "id": 15,
+      "original_description": "يا حيوان",
+      "start": 2360.27
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2374.04,
+      "id": 16,
+      "original_description": "المزة",
+      "start": 2373.84
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 2387.98,
+      "id": 17,
+      "original_description": "رجل يلبس قميص عليه مفاتن امرأة",
+      "start": 2385.17
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2494.27,
+      "id": 18,
+      "original_description": "الله",
+      "start": 2491.41
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2498.3,
+      "id": 19,
+      "original_description": "بالذمة",
+      "start": 2497.9
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2505.69,
+      "id": 20,
+      "original_description": "وايشي تاتو",
+      "start": 2504.69
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2879.56,
+      "id": 21,
+      "original_description": "كلب",
+      "start": 2878.48
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2902.4,
+      "id": 22,
+      "original_description": "يا بقرة ",
+      "start": 2901.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2920.81,
+      "id": 23,
+      "original_description": "بنت الكلب",
+      "start": 2920.34
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2929.43,
+      "id": 24,
+      "original_description": "يا بقرة",
+      "start": 2928.64
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 3027.69,
+      "id": 25,
+      "original_description": "شخص يشرب السجائر",
+      "start": 3024.78
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3079.73,
+      "id": 26,
+      "original_description": "بقر",
+      "start": 3079.15
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3131.63,
+      "id": 27,
+      "original_description": "البقر",
+      "start": 3131.07
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3490.23,
+      "id": 28,
+      "original_description": "شخص يدخل على فتاة تخونه",
+      "start": 3466.08
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3598.06,
+      "id": 29,
+      "original_description": "sexy",
+      "start": 3597.68
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 3605.66,
+      "id": 30,
+      "original_description": "كلام عن فتيات بالبكيني",
+      "start": 3601.89
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 3740.98,
+      "id": 31,
+      "original_description": "ايحاء جنسي بالنوم على السرير",
+      "start": 3735.75
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 3768.82,
+      "id": 32,
+      "original_description": "كلام عن ايحاءات في فيديو كليب",
+      "start": 3760.63
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 3801.74,
+      "id": 33,
+      "original_description": "كلا م عن الخمور والرقص",
+      "start": 3799.25
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3829.84,
+      "id": 34,
+      "original_description": "كلام عن تقبيل فتاة",
+      "start": 3820.52
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 4350.06,
+      "id": 35,
+      "original_description": "دا احنا زارنا النبي",
+      "start": 4349.19
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4905.01,
+      "id": 36,
+      "original_description": "sexy",
+      "start": 4904.23
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4915.55,
+      "id": 37,
+      "original_description": "بيرة",
+      "start": 4915.47
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5005.07,
+      "id": 38,
+      "original_description": "حيوان",
+      "start": 5003.7
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5033.47,
+      "id": 39,
+      "original_description": "يا كلب",
+      "start": 5033.37
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 5401.98,
+      "id": 40,
+      "original_description": "شخص يشرب سجائر",
+      "start": 5390.2
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 5471.47,
+      "id": 41,
+      "original_description": "بنت تشرب سجائر",
+      "start": 5451.64
+    },
+    {
+      "action_type": "blur",
+      "category": "substance abuse",
+      "end": 5493.02,
+      "id": 42,
+      "original_description": "شخص يشرب سجائر",
+      "start": 5485.66
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5523.18,
+      "id": 43,
+      "original_description": "shit",
+      "start": 5522.58
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5590.86,
+      "id": 44,
+      "original_description": "بذمتك",
+      "start": 5590.43
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 5909.95,
+      "id": 45,
+      "original_description": "كلام عن الاغتصاب",
+      "start": 5906.93
+    }
+  ],
+  "genre": "Comedy",
+  "pg": "PG-13",
+  "platforms": {
+    "dailymotion": {
+      "id": "x7e2u9x",
+      "url": "https://www.dailymotion.com/video/x7e2u9x"
+    },
+    "netflix": {
+      "id": 81323765,
+      "url": "https://www.netflix.com/title/81323765"
+    },
+    "shahid": {
+      "id": 85342,
+      "url": "https://shahid.mbc.net/ar/movies/%D8%B7%D9%8A%D8%B1-%D8%A5%D9%86%D8%AA/movie-85342"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/zIathHIqM7ylGI13I2uxCGzOl4K.jpg",
+  "title": "طير إنت",
+  "type": "movie",
+  "year": 2009
+}

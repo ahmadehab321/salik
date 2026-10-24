@@ -1,0 +1,1163 @@
+{
+  "addedAt": 1789248229671,
+  "category": "Action",
+  "description": "يُكلف المحقق الصارم \"لي\" القادم من هونغ كونغ بالمرور إلى لوس أنجلوس للتحقيق في حادثة اختطاف ابنة القنصل الصيني.\nترفض المخابرات الأمريكية تدخله وتعين المحقق المحلي الثرثار \"جيمس كارتر\" لتشتيته ومراقبته وإبعاده عن القضية.\nيتجاوز الثنائي اختلافاتهما الثقافية ويتحدان معًا لخوض مطاردات محفوفة بالخطر والكوميديا لإنقاذ الفتاة وإفشال العصابة.",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 94,
+      "id": 1,
+      "original_description": "شخص يشرب السجائر",
+      "start": 85.56
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 125.2,
+      "id": 2,
+      "original_description": "شخص يشرب السجائر",
+      "start": 121.09
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 355.17,
+      "id": 3,
+      "original_description": "stupid",
+      "start": 354.44
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 355.52,
+      "id": 4,
+      "original_description": "fool",
+      "start": 354.47
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 356.4,
+      "id": 5,
+      "original_description": "hell",
+      "start": 355.35
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 361.68,
+      "id": 6,
+      "original_description": "moron",
+      "start": 360.29
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 380.96,
+      "id": 7,
+      "original_description": "shit",
+      "start": 380.06
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 407.9,
+      "id": 8,
+      "original_description": "shit",
+      "start": 406.85
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 411.32,
+      "id": 9,
+      "original_description": "shit",
+      "start": 410.68
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 412.81,
+      "id": 10,
+      "original_description": "hell",
+      "start": 411.91
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 416.84,
+      "id": 11,
+      "original_description": "shit",
+      "start": 415.93
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 419.91,
+      "id": 12,
+      "original_description": "hot",
+      "start": 418.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 449.26,
+      "id": 13,
+      "original_description": "freakin'",
+      "start": 448.26
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 450.2,
+      "id": 14,
+      "original_description": "asshole",
+      "start": 449.44
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 764.15,
+      "id": 15,
+      "original_description": "stupid",
+      "start": 763.24
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 880.93,
+      "id": 16,
+      "original_description": "bullshit",
+      "start": 879.66
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 924.91,
+      "id": 17,
+      "original_description": "goddamn",
+      "start": 923.77
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 938.96,
+      "id": 18,
+      "original_description": "shit",
+      "start": 938.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 939.89,
+      "id": 19,
+      "original_description": "goddamn",
+      "start": 939.08
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1135.26,
+      "id": 20,
+      "original_description": "damn",
+      "start": 1134.33
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1148.52,
+      "id": 21,
+      "original_description": "bullshit",
+      "start": 1147.06
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1174.5,
+      "id": 22,
+      "original_description": "امرأة مكشوفة الساق",
+      "start": 1167.86
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1181.69,
+      "id": 23,
+      "original_description": "امرأة ساقها مكشوفة",
+      "start": 1179.25
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1208.76,
+      "id": 24,
+      "original_description": "shit",
+      "start": 1207.8
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1211.01,
+      "id": 25,
+      "original_description": "bullshit",
+      "start": 1209.85
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1213.01,
+      "id": 26,
+      "original_description": "امرأة مكشوفة الساق",
+      "start": 1211.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1235.85,
+      "id": 27,
+      "original_description": "shit",
+      "start": 1234.76
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1244.25,
+      "id": 28,
+      "original_description": "hell",
+      "start": 1243.28
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1262.99,
+      "id": 29,
+      "original_description": "ass",
+      "start": 1262.14
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1357.08,
+      "id": 30,
+      "original_description": "ass",
+      "start": 1356.38
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1430.53,
+      "id": 31,
+      "original_description": "hell",
+      "start": 1429.51
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1559.46,
+      "id": 32,
+      "original_description": "ass",
+      "start": 1558.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1564.3,
+      "id": 33,
+      "original_description": "ass",
+      "start": 1563.47
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1566.85,
+      "id": 34,
+      "original_description": "shit",
+      "start": 1565.92
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1571.01,
+      "id": 35,
+      "original_description": "shit",
+      "start": 1570.16
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1572.64,
+      "id": 36,
+      "original_description": "shit",
+      "start": 1571.98
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1582.9,
+      "id": 37,
+      "original_description": "shit",
+      "start": 1581.85
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1585.17,
+      "id": 38,
+      "original_description": "hell",
+      "start": 1584.15
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1590.94,
+      "id": 39,
+      "original_description": "shit",
+      "start": 1589.92
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1592.04,
+      "id": 40,
+      "original_description": "shit",
+      "start": 1591.22
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1593.68,
+      "id": 41,
+      "original_description": "shit",
+      "start": 1592.71
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1597.8,
+      "id": 42,
+      "original_description": "ass",
+      "start": 1597.04
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1602.04,
+      "id": 43,
+      "original_description": "ass",
+      "start": 1601.2
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1626.33,
+      "id": 44,
+      "original_description": "ass",
+      "start": 1625.35
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1630.91,
+      "id": 45,
+      "original_description": "damn",
+      "start": 1629.97
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1644.84,
+      "id": 46,
+      "original_description": "hell",
+      "start": 1643.62
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1647.54,
+      "id": 47,
+      "original_description": "goddamn",
+      "start": 1646.37
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1651.68,
+      "id": 48,
+      "original_description": "ass",
+      "start": 1650.81
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1657.21,
+      "id": 49,
+      "original_description": "ass",
+      "start": 1656.31
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1679.16,
+      "id": 50,
+      "original_description": "hell",
+      "start": 1678.14
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1725.67,
+      "id": 51,
+      "original_description": "weed",
+      "start": 1724.37
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1740.55,
+      "id": 52,
+      "original_description": "ass",
+      "start": 1739.67
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1745.09,
+      "id": 53,
+      "original_description": "cigarette",
+      "start": 1743.95
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1745.56,
+      "id": 54,
+      "original_description": "weed",
+      "start": 1744.87
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1747.8,
+      "id": 55,
+      "original_description": "cigarette",
+      "start": 1746.68
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1774.54,
+      "id": 56,
+      "original_description": "goddamn",
+      "start": 1773.27
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1787.7,
+      "id": 57,
+      "original_description": "asses",
+      "start": 1786.75
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1794.76,
+      "id": 58,
+      "original_description": "fool",
+      "start": 1794.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1795.56,
+      "id": 59,
+      "original_description": "fool",
+      "start": 1794.88
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1823.28,
+      "id": 60,
+      "original_description": "goddamn",
+      "start": 1822.43
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1846.16,
+      "id": 61,
+      "original_description": "ass",
+      "start": 1845.55
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1857.24,
+      "id": 62,
+      "original_description": "ass",
+      "start": 1856.49
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1865.2,
+      "id": 63,
+      "original_description": "ass",
+      "start": 1864.48
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1868.37,
+      "id": 64,
+      "original_description": "goddamn",
+      "start": 1867.07
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1869.43,
+      "id": 65,
+      "original_description": "shit",
+      "start": 1868.72
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1871.4,
+      "id": 66,
+      "original_description": "shit",
+      "start": 1870.5
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1973.78,
+      "id": 67,
+      "original_description": "goddamn",
+      "start": 1972.77
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1983.56,
+      "id": 68,
+      "original_description": "ass",
+      "start": 1982.75
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2032.68,
+      "id": 69,
+      "original_description": "امرأة بالبكيني",
+      "start": 2027.22
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2229.38,
+      "id": 70,
+      "original_description": "hell",
+      "start": 2228.32
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2250.61,
+      "id": 71,
+      "original_description": "ass",
+      "start": 2249.76
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2436.39,
+      "id": 72,
+      "original_description": "hell",
+      "start": 2435.56
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2483.65,
+      "id": 73,
+      "original_description": "damn",
+      "start": 2482.28
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2503.6,
+      "id": 74,
+      "original_description": "goddamn",
+      "start": 2502.34
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2641.04,
+      "id": 75,
+      "original_description": "hell",
+      "start": 2640.28
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2665.76,
+      "id": 76,
+      "original_description": "shit",
+      "start": 2664.81
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2687.7,
+      "id": 77,
+      "original_description": "shit",
+      "start": 2686.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2720.4,
+      "id": 78,
+      "original_description": "shit",
+      "start": 2718.42
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2760.62,
+      "id": 79,
+      "original_description": "hell",
+      "start": 2759.79
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2765.86,
+      "id": 80,
+      "original_description": "shit",
+      "start": 2764.85
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2787.15,
+      "id": 81,
+      "original_description": "حضن بين رجل وامرأة أجنبية",
+      "start": 2784.47
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2798.97,
+      "id": 82,
+      "original_description": "شخص يلقي نكتة اباحية",
+      "start": 2790.9
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2816.12,
+      "id": 83,
+      "original_description": "damn",
+      "start": 2815.29
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2822.36,
+      "id": 84,
+      "original_description": "weed",
+      "start": 2821.6
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2829.59,
+      "id": 85,
+      "original_description": "shit",
+      "start": 2829.04
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2851.57,
+      "id": 86,
+      "original_description": "hell",
+      "start": 2850.53
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2873.71,
+      "id": 87,
+      "original_description": "stupid",
+      "start": 2872.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2874.55,
+      "id": 88,
+      "original_description": "stupid",
+      "start": 2873.71
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2895.44,
+      "id": 89,
+      "original_description": "ass",
+      "start": 2894.71
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2897.24,
+      "id": 90,
+      "original_description": "ass",
+      "start": 2896.64
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2904.68,
+      "id": 91,
+      "original_description": "shit",
+      "start": 2903.75
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2943.02,
+      "id": 92,
+      "original_description": "ass",
+      "start": 2942.21
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3042.24,
+      "id": 93,
+      "original_description": "ass",
+      "start": 3041.3
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3160.5,
+      "id": 94,
+      "original_description": "damn",
+      "start": 3159.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3162.84,
+      "id": 95,
+      "original_description": "shit",
+      "start": 3162
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3173.56,
+      "id": 96,
+      "original_description": "shit",
+      "start": 3172.91
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3180.96,
+      "id": 97,
+      "original_description": "bitch",
+      "start": 3179.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3181.98,
+      "id": 98,
+      "original_description": "bitch",
+      "start": 3180.98
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3183.32,
+      "id": 99,
+      "original_description": "bitch",
+      "start": 3182.33
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3206.41,
+      "id": 100,
+      "original_description": "hot",
+      "start": 3205.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3254.6,
+      "id": 101,
+      "original_description": "ass",
+      "start": 3253.72
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3324.67,
+      "id": 102,
+      "original_description": "shit",
+      "start": 3323.82
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3330.49,
+      "id": 103,
+      "original_description": "shitting",
+      "start": 3329.48
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3343.11,
+      "id": 104,
+      "original_description": "ass",
+      "start": 3342.19
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3559.52,
+      "id": 105,
+      "original_description": "shit",
+      "start": 3558.77
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3619.64,
+      "id": 106,
+      "original_description": "hell",
+      "start": 3618.87
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3695.53,
+      "id": 107,
+      "original_description": "ass",
+      "start": 3694.54
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3717.96,
+      "id": 108,
+      "original_description": "ass",
+      "start": 3717.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3770.99,
+      "id": 109,
+      "original_description": "goddamn",
+      "start": 3769.84
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3788.85,
+      "id": 110,
+      "original_description": "jesus",
+      "start": 3788.12
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3997.88,
+      "id": 111,
+      "original_description": "امرأة مكشوفة الساق ترقص",
+      "start": 3990.89
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4014.11,
+      "id": 112,
+      "original_description": "drugs",
+      "start": 4013.06
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4050.65,
+      "id": 113,
+      "original_description": "شخص يقول تعليق ايحائي",
+      "start": 4045.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4108.74,
+      "id": 114,
+      "original_description": "shit",
+      "start": 4107.81
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4119.5,
+      "id": 115,
+      "original_description": "ass",
+      "start": 4118.72
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4305.36,
+      "id": 116,
+      "original_description": "shit",
+      "start": 4304.35
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4363.36,
+      "id": 117,
+      "original_description": "goddamn",
+      "start": 4362.26
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4380.44,
+      "id": 118,
+      "original_description": "shit",
+      "start": 4379.49
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4381.38,
+      "id": 119,
+      "original_description": "hell",
+      "start": 4380.84
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4388.66,
+      "id": 120,
+      "original_description": "ass",
+      "start": 4387.82
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4490.56,
+      "id": 121,
+      "original_description": "ass",
+      "start": 4489.85
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4539.96,
+      "id": 122,
+      "original_description": "goddamn",
+      "start": 4538.85
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4615.61,
+      "id": 123,
+      "original_description": "goddamn",
+      "start": 4614.6
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4616.77,
+      "id": 124,
+      "original_description": "goddamn",
+      "start": 4615.67
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4626.44,
+      "id": 125,
+      "original_description": "ass",
+      "start": 4625.81
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4687.84,
+      "id": 126,
+      "original_description": "damn",
+      "start": 4686.86
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4817.16,
+      "id": 127,
+      "original_description": "shit",
+      "start": 4815.68
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4885.4,
+      "id": 128,
+      "original_description": "ass",
+      "start": 4884.66
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4911.24,
+      "id": 129,
+      "original_description": "ass",
+      "start": 4910.55
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4913.21,
+      "id": 130,
+      "original_description": "ass",
+      "start": 4912.29
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5040.68,
+      "id": 131,
+      "original_description": "shit",
+      "start": 5039.58
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5117.32,
+      "id": 132,
+      "original_description": "shit",
+      "start": 5115.87
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5124.64,
+      "id": 133,
+      "original_description": "hell",
+      "start": 5123.52
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5134.68,
+      "id": 134,
+      "original_description": "shit",
+      "start": 5133.11
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5226.4,
+      "id": 135,
+      "original_description": "ass",
+      "start": 5225.52
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5228.71,
+      "id": 136,
+      "original_description": "ass",
+      "start": 5227.63
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5234.68,
+      "id": 137,
+      "original_description": "bitch",
+      "start": 5233.36
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5291.69,
+      "id": 138,
+      "original_description": "hell",
+      "start": 5290.45
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5333.68,
+      "id": 139,
+      "original_description": "shit",
+      "start": 5332.67
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5393.52,
+      "id": 140,
+      "original_description": "ass",
+      "start": 5392.45
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5395.44,
+      "id": 141,
+      "original_description": "ass",
+      "start": 5394.3
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5404.44,
+      "id": 142,
+      "original_description": "shit",
+      "start": 5403.36
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5421.12,
+      "id": 143,
+      "original_description": "bullshit",
+      "start": 5419.28
+    }
+  ],
+  "genre": "أكشن، كوميديا، جريمة",
+  "pg": "+16",
+  "platforms": {
+    "osnplus": {
+      "id": "22654",
+      "url": "https://osnplus.com/en-eg/movie/22654"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/w600_and_h900_face/rzGRiujinarSgAFLsG613ykbBgL.jpg",
+  "title": "Rush Hour",
+  "type": "movie",
+  "year": 1998
+}

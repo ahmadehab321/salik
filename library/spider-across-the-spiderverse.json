@@ -1,0 +1,146 @@
+{
+  "category": "Kids, Animation, Action",
+  "description": "فيلم Spider-Man: Across the Spider-Verse هو فيلم رسوم متحركة بطل خارق أمريكي صدر عام 2023، ويحكي عن مغامرة المراهق مايلز موراليس عبر الأكوان المتعددة بعد أن يجتمع بغوين ستايسي، ليواجه فريقاً كبيراً لحماية الأكوان بقيادة ميغيل أوهارا، ويدخل معهم في صراع حول مصير شخص أحبه",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 477.13,
+      "id": 1,
+      "original_description": "عبارة \"احمو الأطفال المتحولين جنسيا \" مع الشعار خاصتهم",
+      "start": 473.72
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 815.82,
+      "id": 2,
+      "original_description": "hot",
+      "start": 815.31
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2064.06,
+      "id": 3,
+      "original_description": "butt",
+      "start": 2063.35
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2134.68,
+      "id": 4,
+      "original_description": "stupid",
+      "start": 2134.03
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2139.85,
+      "id": 5,
+      "original_description": "ass",
+      "start": 2139.53
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2768.84,
+      "id": 6,
+      "original_description": "حضن بين رجل وامرأة",
+      "start": 2764.61
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4818.51,
+      "id": 7,
+      "original_description": "butts",
+      "start": 4817.89
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4975.69,
+      "id": 8,
+      "original_description": "bloody",
+      "start": 4974.6
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5175.84,
+      "id": 9,
+      "original_description": "crap",
+      "start": 5175.49
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5186.36,
+      "id": 10,
+      "original_description": "crap",
+      "start": 5185.73
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5240.91,
+      "id": 11,
+      "original_description": "stupid",
+      "start": 5239.9
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5247.52,
+      "id": 12,
+      "original_description": "stupid",
+      "start": 5246.47
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5732.37,
+      "id": 13,
+      "original_description": "damn",
+      "start": 5731.7
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6117.83,
+      "id": 14,
+      "original_description": "jerk",
+      "start": 6117.38
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6546.59,
+      "id": 15,
+      "original_description": "hell",
+      "start": 6546.07
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6592.42,
+      "id": 16,
+      "original_description": "hell",
+      "start": 6591.68
+    }
+  ],
+  "genre": "Kids, Animation",
+  "pg": 10,
+  "platforms": {
+    "netflix": {
+      "id": 81594921,
+      "url": "https://www.netflix.com/title/81594921"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/uUlBggcbl57uuvDAlMm0Tmuli3N.jpg",
+  "title": "Spider-man: Across The Spider Verse",
+  "type": "movie",
+  "year": 2023
+}

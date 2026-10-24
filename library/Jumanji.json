@@ -1,0 +1,71 @@
+{
+  "addedAt": 1789247701400,
+  "category": "classic",
+  "description": "يعثر طفلان على لعبة لوحية غامضة وسحرية في علية منزلهما ويقرران البدء في لعبها.\nيتسبب أول تحريك للأحجار في إطلاق رجل يُدعى \"ألان باريش\" كان محتجزًا داخل اللعبة منذ 26 عامًا، إلى جانب مخاطر كائنات الغابة.\nيضطر الجميع لإكمال اللعبة حتى النهاية لإعادة التوازن وإنهاء الفوضى والمخاطر التي اجتاحت بلدتهم.",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 369.87,
+      "id": 1,
+      "original_description": "jerks",
+      "start": 368.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1290.99,
+      "id": 2,
+      "original_description": "stupid",
+      "start": 1289.86
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3641.22,
+      "id": 3,
+      "original_description": "damn",
+      "start": 3640.64
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5731.79,
+      "id": 4,
+      "original_description": "طفلة تقبل فم طفل",
+      "start": 5726.28
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5751,
+      "id": 5,
+      "original_description": "god",
+      "start": 5749.78
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5768.14,
+      "id": 6,
+      "original_description": "christ",
+      "start": 5766.93
+    }
+  ],
+  "genre": "خيال علمي، مغامرة، عائلي، إثارة",
+  "pg": "+13",
+  "platforms": {
+    "netflix": {
+      "id": "660954",
+      "url": "https://www.netflix.com/title/660954"
+    },
+    "tod": {
+      "id": "jumanji-326252",
+      "url": "https://www.tod.tv/en/movies/english/jumanji-326252"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/w600_and_h900_face/bdHG5Mo83VPobeZZdlSz0Y7HQHB.jpg",
+  "title": "Jumanji",
+  "type": "movie",
+  "year": 1995
+}

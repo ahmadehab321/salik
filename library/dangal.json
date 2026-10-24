@@ -1,0 +1,226 @@
+{
+  "category": "Drama, Action, Thriller",
+  "description": "فيلم دانجال (Dangal) هو فيلم هندي من نوع الدراما والسيرة الذاتية أنتج عام 2016، ويحكي قصة حقيقية ملهمة لمصارع سابق يدعى ماهافير سينغ فوغات وابنتيه جيتا وبابيتا. يركز الفيلم على كفاح الأب لتخطي القيود الاجتماعية وتدريب ابنتيه ليصبحن بطلات في رياضة المصارعة وتحقيق حلمه المفقود بالفوز بميدالية ذهبية للهند",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 121.56,
+      "id": 1,
+      "original_description": "damn",
+      "start": 121.15
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 488.47,
+      "id": 2,
+      "original_description": "مصارعين بلباسهم الداخلي",
+      "start": 361.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 516.39,
+      "id": 3,
+      "original_description": "damn",
+      "start": 516.04
+    },
+    {
+      "action_type": "blur",
+      "category": "nudity",
+      "end": 827.98,
+      "id": 4,
+      "original_description": "مصارعين عوراتهم ظاهرة",
+      "start": 809.95
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 965.17,
+      "id": 5,
+      "original_description": "stupid",
+      "start": 963.94
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 985.4,
+      "id": 6,
+      "original_description": "loser",
+      "start": 985.02
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 987.87,
+      "id": 7,
+      "original_description": "shit",
+      "start": 987.58
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1031.32,
+      "id": 8,
+      "original_description": "loser",
+      "start": 1031.02
+    },
+    {
+      "action_type": "blur",
+      "category": "nudity",
+      "end": 1527.9,
+      "id": 9,
+      "original_description": "مصارعين عوراتهم ظاهرة",
+      "start": 1521.63
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2586.11,
+      "id": 10,
+      "original_description": "صفعة على الوجه",
+      "start": 2585.46
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3016.06,
+      "id": 11,
+      "original_description": "hot",
+      "start": 3015.57
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3186.77,
+      "id": 12,
+      "original_description": "مصارعين عوراتهم ظاهرة",
+      "start": 3081.41
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3338.76,
+      "id": 13,
+      "original_description": "مباراة بين مصارعين عوراتهم ظاهرة",
+      "start": 3200.49
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3362.11,
+      "id": 14,
+      "original_description": "مصارع عوراته ظاهرة",
+      "start": 3344.62
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3424.35,
+      "id": 15,
+      "original_description": "مصارع عوراته ظاهرة",
+      "start": 3405.79
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3508.57,
+      "id": 16,
+      "original_description": "مصارع عوراته ظاهرة",
+      "start": 3431.98
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3524.32,
+      "id": 17,
+      "original_description": "مصارعين عوراتهم ظاهرة",
+      "start": 3520.06
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3542.43,
+      "id": 18,
+      "original_description": "مصارع عوراته ظاهرة",
+      "start": 3537.31
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3552.41,
+      "id": 19,
+      "original_description": "مصارعين عوراتهم ظاهرة",
+      "start": 3546.78
+    },
+    {
+      "action_type": "blur",
+      "category": "nudity",
+      "end": 3562.88,
+      "id": 20,
+      "original_description": "مصارعين عوراتهم ظاهرة",
+      "start": 3559.84
+    },
+    {
+      "action_type": "blur",
+      "category": "nudity",
+      "end": 3570.66,
+      "id": 21,
+      "original_description": "مصارعين عوراتهم ظاهرة",
+      "start": 3565.43
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3684.28,
+      "id": 22,
+      "original_description": "hell",
+      "start": 3683.92
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 6685.47,
+      "id": 23,
+      "original_description": "شخص يشرب الخمر",
+      "start": 6653.65
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6761.7,
+      "id": 24,
+      "original_description": "صور فاضحة لبنات",
+      "start": 6739.36
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6814.02,
+      "id": 25,
+      "original_description": " مع حدبث عن الأفلام الاباحية صور فاضحة لبنات",
+      "start": 6788.24
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6838.93,
+      "id": 26,
+      "original_description": "الخروج من محل الاباحيات وفيه صور لبنات عريانة",
+      "start": 6820.6
+    }
+  ],
+  "genre": "Drama",
+  "pg": "PG-13",
+  "platforms": {
+    "netflix": {
+      "id": 80166185,
+      "url": "https://www.netflix.com/title/80166185"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/cJRPOLEexI7qp2DKtFfCh7YaaUG.jpg",
+  "title": "Dangal",
+  "type": "movie",
+  "year": 2016
+}

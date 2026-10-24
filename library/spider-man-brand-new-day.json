@@ -1,0 +1,427 @@
+{
+  "addedAt": 1788084110467,
+  "category": "Spider-Man",
+  "description": "يعيش بيتر باركر حياة معزولة ومكرسة تمامًا لحماية نيويورك بعد نسَيان الجميع لهويته، مما يؤدي لتطور طفرات شبكية ومخاطر صحية بجسده.\nيضطر بيتر لمواجهة تهديدات جديدة تتجسد في قدرات تخاطرية مرعبة تسعى لكشف ماضيه وتدمير حياته مجددًا.",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 237.14,
+      "id": 1,
+      "original_description": "رجل يقبل امرأة في القطار",
+      "start": 233.22
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 655.43,
+      "id": 2,
+      "original_description": "hell",
+      "start": 654.92
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 660.84,
+      "id": 3,
+      "original_description": "goddamn",
+      "start": 659.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 663.32,
+      "id": 4,
+      "original_description": "hell",
+      "start": 662.38
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 668.36,
+      "id": 5,
+      "original_description": "bullshit",
+      "start": 667.17
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 677.12,
+      "id": 6,
+      "original_description": "dumb",
+      "start": 676.27
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 677.18,
+      "id": 7,
+      "original_description": "dumb",
+      "start": 676.52
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 688.22,
+      "id": 8,
+      "original_description": "jackass",
+      "start": 687.32
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 690.22,
+      "id": 9,
+      "original_description": "freakin'",
+      "start": 688.34
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 926.93,
+      "id": 10,
+      "original_description": "hell",
+      "start": 925.86
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1584.85,
+      "id": 11,
+      "original_description": "damn",
+      "start": 1583.25
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1790.26,
+      "id": 12,
+      "original_description": "beer",
+      "start": 1789.41
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1896.97,
+      "id": 13,
+      "original_description": "رجل يقبل امرأة",
+      "start": 1894.51
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2350.27,
+      "id": 14,
+      "original_description": "hell",
+      "start": 2349.1
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2599,
+      "id": 15,
+      "original_description": "hell",
+      "start": 2598.01
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3472.01,
+      "id": 16,
+      "original_description": "امرأة تقبل رجل",
+      "start": 3463.02
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3762.86,
+      "id": 17,
+      "original_description": "shit",
+      "start": 3762.03
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3790.92,
+      "id": 18,
+      "original_description": "hell",
+      "start": 3790.22
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3791.8,
+      "id": 19,
+      "original_description": "hell",
+      "start": 3790.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3861.6,
+      "id": 20,
+      "original_description": "goddamn",
+      "start": 3860.45
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3869.49,
+      "id": 21,
+      "original_description": "ass",
+      "start": 3868.74
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3871.57,
+      "id": 22,
+      "original_description": "ass",
+      "start": 3870.9
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3878.68,
+      "id": 23,
+      "original_description": "hell",
+      "start": 3877.67
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3885.24,
+      "id": 24,
+      "original_description": "shit",
+      "start": 3884.55
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3886.3,
+      "id": 25,
+      "original_description": "goddamn",
+      "start": 3885.45
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3987.05,
+      "id": 26,
+      "original_description": "shit",
+      "start": 3986.15
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4048.72,
+      "id": 27,
+      "original_description": "jerk",
+      "start": 4048
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4303.48,
+      "id": 28,
+      "original_description": "shit",
+      "start": 4302.34
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4323.94,
+      "id": 29,
+      "original_description": "jesus",
+      "start": 4322.89
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4324.76,
+      "id": 30,
+      "original_description": "christ",
+      "start": 4323.24
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4326.79,
+      "id": 31,
+      "original_description": "shit",
+      "start": 4326.02
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4343.58,
+      "id": 32,
+      "original_description": "horseshit",
+      "start": 4342.14
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4376.43,
+      "id": 33,
+      "original_description": "goddamn",
+      "start": 4375.2
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4593.36,
+      "id": 34,
+      "original_description": "hell",
+      "start": 4592.02
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4606.01,
+      "id": 35,
+      "original_description": "hell",
+      "start": 4605.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4607.94,
+      "id": 36,
+      "original_description": "crap",
+      "start": 4606.77
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4652.79,
+      "id": 37,
+      "original_description": "ass",
+      "start": 4652.14
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4656.22,
+      "id": 38,
+      "original_description": "shit",
+      "start": 4655.6
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4702.14,
+      "id": 39,
+      "original_description": "goddamn",
+      "start": 4701.11
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4732.73,
+      "id": 40,
+      "original_description": "goddamn",
+      "start": 4732.07
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4760.56,
+      "id": 41,
+      "original_description": "bullshit",
+      "start": 4759.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6227.7,
+      "id": 42,
+      "original_description": "horseshit",
+      "start": 6226.2
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6308.91,
+      "id": 43,
+      "original_description": "asshole",
+      "start": 6307.85
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6397.21,
+      "id": 44,
+      "original_description": "hell",
+      "start": 6396.46
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6568.9,
+      "id": 45,
+      "original_description": "goddamn",
+      "start": 6567.33
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 6863.24,
+      "id": 46,
+      "original_description": "نينجا يدخل سيف في بطنه",
+      "start": 6857.33
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6914.86,
+      "id": 47,
+      "original_description": "shit",
+      "start": 6914.08
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6915.86,
+      "id": 48,
+      "original_description": "goddamn",
+      "start": 6914.16
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7683.05,
+      "id": 49,
+      "original_description": "shit",
+      "start": 7682.25
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7706.75,
+      "id": 50,
+      "original_description": "shit",
+      "start": 7705.97
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7761.43,
+      "id": 51,
+      "original_description": "bullshit",
+      "start": 7760.03
+    }
+  ],
+  "genre": "أكشن، خيال علمي، مغامرة، بطل خارق",
+  "pg": "+13",
+  "platforms": {
+    "stremio": {
+      "id": "tt22084616",
+      "url": "https://web.stremio.com/#/detail/movie/tt22084616/tt22084616"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/w600_and_h900_face/jKXCXzWpx1vNdcqGILex0hq27fK.jpg",
+  "title": "Spider-Man: Brand New Day",
+  "type": "movie",
+  "year": 2026
+}

@@ -1,0 +1,191 @@
+{
+  "episode": 8,
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 48.136816,
+      "id": 1,
+      "original_description": "حقن عين شخص",
+      "start": 43.958346
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 66.44,
+      "id": 2,
+      "original_description": "hell",
+      "start": 66
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 417.44,
+      "id": 3,
+      "original_description": "damn",
+      "start": 417.13
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 548.55,
+      "id": 4,
+      "original_description": "shit",
+      "start": 548.25
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 554.39,
+      "id": 5,
+      "original_description": "asshole",
+      "start": 554.13
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 573.62,
+      "id": 6,
+      "original_description": "hell",
+      "start": 573.15
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 782.1,
+      "id": 7,
+      "original_description": "stupid",
+      "start": 781.88
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 929.12,
+      "id": 8,
+      "original_description": "hell",
+      "start": 928.85
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1013.58,
+      "id": 9,
+      "original_description": "hell",
+      "start": 1013.39
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1101.31,
+      "id": 10,
+      "original_description": "drunk",
+      "start": 1100.64
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1148.63,
+      "id": 11,
+      "original_description": "ass",
+      "start": 1148.21
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1186.77,
+      "id": 12,
+      "original_description": "jesus",
+      "start": 1184.47
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1236.31,
+      "id": 13,
+      "original_description": "dick",
+      "start": 1235.92
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1325.27,
+      "id": 14,
+      "original_description": "damn",
+      "start": 1324.96
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1448.78,
+      "id": 15,
+      "original_description": "hell",
+      "start": 1448.38
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1491.66,
+      "id": 16,
+      "original_description": "asses",
+      "start": 1491.46
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1584.34,
+      "id": 17,
+      "original_description": "hell",
+      "start": 1584.14
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1718.38,
+      "id": 18,
+      "original_description": "hell",
+      "start": 1718.02
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2044.31,
+      "id": 19,
+      "original_description": "kill",
+      "start": 2044.03
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2175.52,
+      "id": 20,
+      "original_description": "bastard",
+      "start": 2174.99
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2457.38,
+      "id": 21,
+      "original_description": "hell",
+      "start": 2457.1
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2504.63,
+      "id": 22,
+      "original_description": "crap",
+      "start": 2504.38
+    }
+  ],
+  "parent_series_id": "spider-noir",
+  "platforms": {
+    "amazon": {
+      "id": "amzn1.dv.gti.773e327a-83f4-435e-a6a6-f5a007c81ad6",
+      "url": "https://www.primevideo.com/region/eu/detail/0TPA7F48GEJVGD8KKM1NC6QQ9Q/ref=atv_hm_hom_c_vEe97o_brws_3_3?jic=8%7CEgRzdm9k"
+    }
+  },
+  "season": 1,
+  "title": "Spider-Noir - S1E8",
+  "type": "episode"
+}

@@ -1,0 +1,127 @@
+{
+  "episode": 6,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 327.73,
+      "id": 1,
+      "original_description": "fucking",
+      "start": 327.5
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 497.25,
+      "id": 2,
+      "original_description": "fuck",
+      "start": 496.89
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 852.75,
+      "id": 3,
+      "original_description": "bastard",
+      "start": 852.51
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 864.57,
+      "id": 4,
+      "original_description": "pedo",
+      "start": 864.26
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 946.92,
+      "id": 5,
+      "original_description": "bullshit",
+      "start": 946.65
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1098.805954,
+      "id": 6,
+      "original_description": "طلقة بالرأس ",
+      "start": 1097.153631
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1172.08,
+      "id": 7,
+      "original_description": "fuck",
+      "start": 1171.87
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1259.893174,
+      "id": 8,
+      "original_description": "حضن بين رجل وامرأة",
+      "start": 1241.847875
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1275.902721,
+      "id": 9,
+      "original_description": "jesus",
+      "start": 1275.094559
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1488.96,
+      "id": 10,
+      "original_description": "hell",
+      "start": 1488.65
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1507.61,
+      "id": 11,
+      "original_description": "hell",
+      "start": 1507.28
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1611.893905,
+      "id": 12,
+      "original_description": "حضن بين رجل وامرأة",
+      "start": 1602.805221
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1872.79,
+      "id": 13,
+      "original_description": "shit",
+      "start": 1872.29
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1938.06,
+      "id": 14,
+      "original_description": "shit",
+      "start": 1937.71
+    }
+  ],
+  "parent_series_id": "i-will-find-you",
+  "platforms": {
+    "netflix": {
+      "id": "81785936",
+      "url": "https://www.netflix.com/watch/81785936"
+    }
+  },
+  "season": 1,
+  "title": "I will Find You - S1E6",
+  "type": "episode"
+}

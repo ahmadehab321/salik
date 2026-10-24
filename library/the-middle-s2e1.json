@@ -1,0 +1,59 @@
+{
+  "episode": 1,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 143,
+      "id": 1,
+      "original_description": "hell",
+      "start": 142.76
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 377.76,
+      "id": 2,
+      "original_description": "vomit",
+      "start": 377.51
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 433.52,
+      "id": 3,
+      "original_description": "screwed",
+      "start": 433.28
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 833.18,
+      "id": 4,
+      "original_description": "hell",
+      "start": 832.91
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1137.19,
+      "id": 5,
+      "original_description": "screwed",
+      "start": 1136.87
+    }
+  ],
+  "parent_series_id": "the-middle",
+  "platforms": {
+    "netflix": {
+      "id": "82170855",
+      "url": "https://www.netflix.com/watch/82170855"
+    },
+    "osnplus": {
+      "id": 68504,
+      "url": "https://osnplus.com/en-eg/episode/back-to-school-68504/watch?contentStreamingDeeplinkQueryParam=false"
+    }
+  },
+  "season": 2,
+  "title": "The Middle - S2E1",
+  "type": "episode"
+}

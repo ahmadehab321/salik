@@ -1,0 +1,363 @@
+{
+  "addedAt": 1787230208916,
+  "category": "Fantasy, Comedy, Animation, Action-Adventure",
+  "description": "فيلم Shrek هو فيلم رسوم متحركة كوميدي . يروي قصة غول أخضر يعيش عُزلة هادئة في مستنقعه، لكنها تنقلب عندما تُنفى شخصيات خيالية إلى أرضه، فيخوض مغامرة ساخرة لإنقاذ أميرة واستعادة منزله.",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 128.63,
+      "id": 1,
+      "original_description": "dumb",
+      "start": 127.88
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 143.16,
+      "id": 2,
+      "original_description": "مؤخرة شريك تظهر",
+      "start": 140.72
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 145.02,
+      "id": 3,
+      "original_description": "dumb",
+      "start": 144.64
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 169.44,
+      "id": 4,
+      "original_description": "ضراط في البحيرة",
+      "start": 163.88
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 394.44,
+      "id": 5,
+      "original_description": "damn",
+      "start": 393.84
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 412.62,
+      "id": 6,
+      "original_description": "fool",
+      "start": 411.95
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 547.45,
+      "id": 7,
+      "original_description": "butt",
+      "start": 546.89
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 671.88,
+      "id": 8,
+      "original_description": "freak",
+      "start": 671.53
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1160.99,
+      "id": 9,
+      "original_description": "kiss her",
+      "start": 1157.36
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1254.85,
+      "id": 10,
+      "original_description": "شخص يلقي تعليق ايحائي",
+      "start": 1248.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1475.34,
+      "id": 11,
+      "original_description": "damn",
+      "start": 1474.67
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1482.48,
+      "id": 12,
+      "original_description": "damn",
+      "start": 1481.31
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1489.28,
+      "id": 13,
+      "original_description": "damn",
+      "start": 1488.63
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1499.96,
+      "id": 14,
+      "original_description": "damn",
+      "start": 1499.37
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1513.71,
+      "id": 15,
+      "original_description": "damn",
+      "start": 1513.19
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1611.98,
+      "id": 16,
+      "original_description": "freaks",
+      "start": 1611.41
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1716.5,
+      "id": 17,
+      "original_description": "damn",
+      "start": 1715.9
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1994.58,
+      "id": 18,
+      "original_description": "butt",
+      "start": 1994
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2263.18,
+      "id": 19,
+      "original_description": "ass",
+      "start": 2262.76
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2298.2,
+      "id": 20,
+      "original_description": "شخص يقول تعليق ايحائي",
+      "start": 2279.09
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2326.88,
+      "id": 21,
+      "original_description": "تنين يقبل مؤخرة شريك",
+      "start": 2321.79
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2500.16,
+      "id": 22,
+      "original_description": "kiss me",
+      "start": 2497.7
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2889.88,
+      "id": 23,
+      "original_description": "stupid",
+      "start": 2888.75
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2912.08,
+      "id": 24,
+      "original_description": "stupid",
+      "start": 2911.27
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2976.8,
+      "id": 25,
+      "original_description": "شخص يلمح تلميحا جنسيا",
+      "start": 2974.77
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3095.16,
+      "id": 26,
+      "original_description": "أشخاص يتكرعون",
+      "start": 3081.41
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3122.44,
+      "id": 27,
+      "original_description": "رجل يقبل يد امرأة",
+      "start": 3120.49
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3246.45,
+      "id": 28,
+      "original_description": "butt",
+      "start": 3246.06
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3338.06,
+      "id": 29,
+      "original_description": "رجل وامرأة في وضع مخل",
+      "start": 3321.98
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3400.83,
+      "id": 30,
+      "original_description": "damn",
+      "start": 3399.96
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3452.96,
+      "id": 31,
+      "original_description": "شخص يلقي تعليق ايحائي",
+      "start": 3447.73
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3527.1,
+      "id": 32,
+      "original_description": "شخص يأكل فئران",
+      "start": 3508.69
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3550.98,
+      "id": 33,
+      "original_description": "شخص يمص ذيل الفأر",
+      "start": 3548.33
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4167.12,
+      "id": 34,
+      "original_description": "pathetic",
+      "start": 4165.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4353.42,
+      "id": 35,
+      "original_description": "jackass",
+      "start": 4352.45
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4442.14,
+      "id": 36,
+      "original_description": "stupid",
+      "start": 4441.04
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4578.24,
+      "id": 37,
+      "original_description": "crap",
+      "start": 4577.92
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4674.67,
+      "id": 38,
+      "original_description": "kiss me",
+      "start": 4673.67
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4735.98,
+      "id": 39,
+      "original_description": "morons",
+      "start": 4735.62
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4815.46,
+      "id": 40,
+      "original_description": "رجل يقبل امرأة",
+      "start": 4804.79
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4886.78,
+      "id": 41,
+      "original_description": "رجل يقبل امرأة",
+      "start": 4883.49
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5017.41,
+      "id": 42,
+      "original_description": "freak",
+      "start": 5016.56
+    }
+  ],
+  "genre": "Fantasy, Comedy, Animation, Action-Adventure",
+  "pg": "+7",
+  "platforms": {
+    "amazon": {
+      "id": "0S3P89X75C2DXJ392UIWKUVXDZ",
+      "url": "https://www.primevideo.com/detail/0S3P89X75C2DXJ392UIWKUVXDZ"
+    },
+    "netflix": {
+      "id": 60020686,
+      "url": "https://www.netflix.com/title/60020686"
+    },
+    "osnplus": {
+      "id": "shrek-11195",
+      "url": "https://osnplus.com/en-eg/movie/shrek-11195"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/vQDAFMwOEdo2qSNZEb5uFixNfV0.jpg",
+  "title": "Shrek (1)",
+  "type": "movie",
+  "year": 2001
+}

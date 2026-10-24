@@ -1,0 +1,58 @@
+{
+  "episode": 5,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1729.37,
+      "id": 1,
+      "original_description": "جاموسة",
+      "start": 1728.54
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1846.07,
+      "id": 2,
+      "original_description": "ايحاءات جنسية عن الراقصة",
+      "start": 1840.73
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1850.35,
+      "id": 3,
+      "original_description": "اهتزاز بمعنى ايحائي عن الراقصة",
+      "start": 1849.45
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1888.86,
+      "id": 4,
+      "original_description": "نشد حجرين",
+      "start": 1888.09
+    }
+  ],
+  "parent_series_id": "Al-Sofara",
+  "platforms": {
+    "shahid": {
+      "id": "980864",
+      "offset_seconds": 15,
+      "url": "https://shahid.mbc.net/ar/player/episodes/%D8%A7%D9%84%D8%B5%D9%81%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%85-1-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9-1/id-980864"
+    },
+    "starzplay": {
+      "id": "s1e5",
+      "offset_seconds": 0,
+      "url": "https://starzplay.com/ar/watch/series/al-sofara/648572456358/s1e5"
+    },
+    "watchit": {
+      "id": "19340",
+      "offset_seconds": 0,
+      "url": "https://www.watchit.com/#/details/series/860/1006/19340/play"
+    }
+  },
+  "season": 1,
+  "title": "Al-sofara - S1E5",
+  "type": "episode"
+}

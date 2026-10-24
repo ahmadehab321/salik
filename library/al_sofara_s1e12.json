@@ -1,0 +1,58 @@
+{
+  "episode": 12,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1572.34,
+      "id": 1,
+      "original_description": "يا نهار اسود",
+      "start": 1571.63
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1724.77,
+      "id": 2,
+      "original_description": "انتي كلبة",
+      "start": 1722.35
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1790.64,
+      "id": 3,
+      "original_description": "يا سافلة",
+      "start": 1790.1
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2059.05,
+      "id": 4,
+      "original_description": "يا سافلة",
+      "start": 2058.58
+    }
+  ],
+  "parent_series_id": "Al-Sofara",
+  "platforms": {
+    "shahid": {
+      "id": "981829",
+      "offset_seconds": 15,
+      "url": "https://shahid.mbc.net/ar/player/episodes/%D8%A7%D9%84%D8%B5%D9%81%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%85-1-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9-1/id-981829"
+    },
+    "starzplay": {
+      "id": "s1e12",
+      "offset_seconds": 0,
+      "url": "https://starzplay.com/ar/watch/series/al-sofara/648572456358/s1e12"
+    },
+    "watchit": {
+      "id": "19467",
+      "offset_seconds": 0,
+      "url": "https://www.watchit.com/#/details/series/860/1006/19467/play"
+    }
+  },
+  "season": 1,
+  "title": "Al-sofara - S1E12",
+  "type": "episode"
+}

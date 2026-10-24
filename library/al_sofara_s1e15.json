@@ -1,0 +1,66 @@
+{
+  "episode": 15,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 292.73,
+      "id": 1,
+      "original_description": "والنبي",
+      "start": 292.6
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 800.69,
+      "id": 2,
+      "original_description": "يا نهار اسود",
+      "start": 799.78
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 841.8,
+      "id": 3,
+      "original_description": "انت عبيط يابني",
+      "start": 841.02
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 868.66,
+      "id": 4,
+      "original_description": "الله يخربيتك",
+      "start": 861.21
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1063.68,
+      "id": 5,
+      "original_description": "انت غبي يالا",
+      "start": 1062.92
+    }
+  ],
+  "parent_series_id": "Al-Sofara",
+  "platforms": {
+    "shahid": {
+      "id": "982229",
+      "offset_seconds": 15,
+      "url": "https://shahid.mbc.net/ar/player/episodes/%D8%A7%D9%84%D8%B5%D9%81%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%85-1-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9-1/id-982229"
+    },
+    "starzplay": {
+      "id": "s1e15",
+      "offset_seconds": 0,
+      "url": "https://starzplay.com/ar/watch/series/al-sofara/648572456358/s1e15"
+    },
+    "watchit": {
+      "id": "19525",
+      "offset_seconds": 0,
+      "url": "https://www.watchit.com/#/details/series/860/1006/19525/play"
+    }
+  },
+  "season": 1,
+  "title": "Al-sofara - S1E15",
+  "type": "episode"
+}

@@ -1,0 +1,571 @@
+{
+  "addedAt": 1786352103398,
+  "category": "Drama , Biopic",
+  "description": "فيلم A Beautiful Mind (عقل جميل) صدر عام 2001، وهو فيلم دراما وسيرة ذاتية أمريكي. يروي الفيلم القصة الحقيقية لعالم الرياضيات العبقري \"جون ناش\" الحائز على جائزة نوبل، ويصور صراعه الميرير مع مرض انفصام الشخصية وكفاحه بدعم من زوجته لتجاوز التحديات العقلية وتحقيق إنجازات تاريخية",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 261.92,
+      "id": 1,
+      "original_description": "رجل يشرب السجائر",
+      "start": 259.94
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 306.32,
+      "id": 2,
+      "original_description": "christ",
+      "start": 305.67
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 338.53,
+      "id": 3,
+      "original_description": "bloody",
+      "start": 337.67
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 381.97,
+      "id": 4,
+      "original_description": "cock",
+      "start": 381.41
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 406.03,
+      "id": 5,
+      "original_description": "dick",
+      "start": 405.46
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 429.16,
+      "id": 6,
+      "original_description": "شخص يشرب الخمر",
+      "start": 410.41
+    },
+    {
+      "action_type": "blur",
+      "category": "substance abuse",
+      "end": 478.51,
+      "id": 7,
+      "original_description": "شخصان يشربان الخمر على السطح",
+      "start": 464.74
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 489.13,
+      "id": 8,
+      "original_description": "شخص يشرب الخمر",
+      "start": 486.7
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 532.23,
+      "id": 9,
+      "original_description": "شخص يشرب السجائر",
+      "start": 527.78
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 536.29,
+      "id": 10,
+      "original_description": "شخص يشرب السجائر",
+      "start": 534.9
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 630.18,
+      "id": 11,
+      "original_description": "شخص يشرب السجائر",
+      "start": 629.4
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 636.29,
+      "id": 12,
+      "original_description": "شخص يشرب السجائر",
+      "start": 634.65
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 739.94,
+      "id": 13,
+      "original_description": "شخص يذكر الخمر",
+      "start": 725.32
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 726.44,
+      "id": 14,
+      "original_description": "beer",
+      "start": 726
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 733.81,
+      "id": 15,
+      "original_description": "beer",
+      "start": 733.42
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 737.66,
+      "id": 16,
+      "original_description": "beer",
+      "start": 737.13
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 847.9,
+      "id": 17,
+      "original_description": "شخص يذكر الزنا مع امرأة",
+      "start": 830.28
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 844.63,
+      "id": 18,
+      "original_description": "sex",
+      "start": 844.3
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 850.97,
+      "id": 19,
+      "original_description": "asshole",
+      "start": 850.14
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 1054.69,
+      "id": 20,
+      "original_description": "دم يخرج من رأس \"جون\"",
+      "start": 992.89
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 998.19,
+      "id": 21,
+      "original_description": "jesus",
+      "start": 997.46
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 998.83,
+      "id": 22,
+      "original_description": "christ",
+      "start": 997.85
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1025.09,
+      "id": 23,
+      "original_description": "goddamn",
+      "start": 1024.4
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1026.52,
+      "id": 24,
+      "original_description": "hell",
+      "start": 1025.9
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 1075.16,
+      "id": 25,
+      "original_description": "دم يخرج من رأس \"جون\"",
+      "start": 1060
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1106.35,
+      "id": 26,
+      "original_description": "شخص يشرب الخمر في حانة",
+      "start": 1097.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1105.49,
+      "id": 27,
+      "original_description": "beer",
+      "start": 1105.13
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1107.09,
+      "id": 28,
+      "original_description": "beer",
+      "start": 1106.54
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1118.11,
+      "id": 29,
+      "original_description": "شخص يشرب السجائر",
+      "start": 1115.22
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1199.38,
+      "id": 30,
+      "original_description": "شخص يذكر الزنا",
+      "start": 1195.28
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1228.08,
+      "id": 31,
+      "original_description": "hell",
+      "start": 1227.71
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1419.09,
+      "id": 32,
+      "original_description": "اشخاص يحتفلون بالخمر والسجائر",
+      "start": 1365.34
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1651.94,
+      "id": 33,
+      "original_description": "شخص يشرب السجائر",
+      "start": 1644.53
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1711.19,
+      "id": 34,
+      "original_description": "bastards",
+      "start": 1710.16
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1998.01,
+      "id": 35,
+      "original_description": "شخص يشرب السجائر",
+      "start": 1993.88
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2026.12,
+      "id": 36,
+      "original_description": "damn",
+      "start": 2025.55
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2064.81,
+      "id": 37,
+      "original_description": "idiot",
+      "start": 2064.19
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2360.39,
+      "id": 38,
+      "original_description": "god",
+      "start": 2359.83
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2421.72,
+      "id": 39,
+      "original_description": "ذكر نوع الخمر",
+      "start": 2401.61
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2747.04,
+      "id": 40,
+      "original_description": "sex",
+      "start": 2746.5
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2782.25,
+      "id": 41,
+      "original_description": "حديث عن الزنا وامرأة تقبل رجل",
+      "start": 2751.19
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2870.83,
+      "id": 42,
+      "original_description": "bloody",
+      "start": 2869.85
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3071.3,
+      "id": 43,
+      "original_description": "رجل يقبل امرأة",
+      "start": 3068.64
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3207.28,
+      "id": 44,
+      "original_description": "goddamn",
+      "start": 3206.41
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3848.69,
+      "id": 45,
+      "original_description": "hell",
+      "start": 3848.06
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3926.15,
+      "id": 46,
+      "original_description": "bitch",
+      "start": 3925.61
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4085.74,
+      "id": 47,
+      "original_description": "صفعة على الوجه",
+      "start": 4084.86
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 4413.78,
+      "id": 48,
+      "original_description": "جرح في يد \"جون\"",
+      "start": 4408.13
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 4434.23,
+      "id": 49,
+      "original_description": "جرح في يد \"جون\"",
+      "start": 4423.8
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4506.23,
+      "id": 50,
+      "original_description": "hell",
+      "start": 4505.54
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4706.46,
+      "id": 51,
+      "original_description": "امرأة تقبل رجل",
+      "start": 4704.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4753.35,
+      "id": 52,
+      "original_description": "jesus",
+      "start": 4752.75
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4753.67,
+      "id": 53,
+      "original_description": "christ",
+      "start": 4753.02
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5025.45,
+      "id": 54,
+      "original_description": "امرأة تقبل رجل في السرير",
+      "start": 4993.26
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5321.07,
+      "id": 55,
+      "original_description": "bullshit",
+      "start": 5320.48
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5578.18,
+      "id": 56,
+      "original_description": "pathetic",
+      "start": 5577.38
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5578.81,
+      "id": 57,
+      "original_description": "shit",
+      "start": 5578.24
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5581.19,
+      "id": 58,
+      "original_description": "christ",
+      "start": 5580.14
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 5652.81,
+      "id": 59,
+      "original_description": "شخص يشرب السجائر",
+      "start": 5646.3
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6073.49,
+      "id": 60,
+      "original_description": "jesus",
+      "start": 6072.67
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6074.06,
+      "id": 61,
+      "original_description": "christ",
+      "start": 6073.15
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6252.91,
+      "id": 62,
+      "original_description": "shit",
+      "start": 6251.81
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6253.63,
+      "id": 63,
+      "original_description": "shit",
+      "start": 6252.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6482.85,
+      "id": 64,
+      "original_description": "pathetic",
+      "start": 6481.63
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6484.77,
+      "id": 65,
+      "original_description": "pathetic",
+      "start": 6483.73
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6931.12,
+      "id": 66,
+      "original_description": "stupidity",
+      "start": 6930.19
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7022.61,
+      "id": 67,
+      "original_description": "naked",
+      "start": 7021.97
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 7318.53,
+      "id": 68,
+      "original_description": "رجل يقبل امرأة",
+      "start": 7316.26
+    }
+  ],
+  "genre": "Drama, Biopic",
+  "pg": "PG-13",
+  "platforms": {
+    "beinconnect": {
+      "id": 5286916,
+      "url": "https://connect.bein.com/vod/movies/5286916"
+    },
+    "shahid": {
+      "id": 2616555527,
+      "url": "https://shahid.mbc.net/ar/movies/A-Beautiful-Mind/movie-2616555527"
+    },
+    "tod": {
+      "id": 5029870,
+      "url": "https://www.tod.tv/en/movies/english/a-beautiful-mind-5029870"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/g96vXzmXfgiojyydruw2KDcABPS.jpg",
+  "title": "A Beautiful Mind",
+  "type": "movie",
+  "year": 2001
+}

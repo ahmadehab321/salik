@@ -1,0 +1,343 @@
+{
+  "episode": 7,
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 22.13,
+      "id": 1,
+      "original_description": "حفلة خمور ومخدرات ورقص",
+      "start": 11.1
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 40,
+      "id": 2,
+      "original_description": "fuck",
+      "start": 39.59
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 104.6,
+      "id": 3,
+      "original_description": "تحدث عن التحرش بمعلم",
+      "start": 100.19
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 103.55,
+      "id": 4,
+      "original_description": "arse",
+      "start": 103.28
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 134.6,
+      "id": 5,
+      "original_description": "christ",
+      "start": 133.52
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 274.7,
+      "id": 6,
+      "original_description": "piss",
+      "start": 273.72
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 278.36,
+      "id": 7,
+      "original_description": "stupid",
+      "start": 277.89
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 286.52,
+      "id": 8,
+      "original_description": "shit",
+      "start": 286.14
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 470.32,
+      "id": 9,
+      "original_description": "حديث عن الشواذ",
+      "start": 449.14
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 527.24,
+      "id": 10,
+      "original_description": "one night stand",
+      "start": 524.2
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 582.68,
+      "id": 11,
+      "original_description": "pregnant",
+      "start": 581.52
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 735.39,
+      "id": 12,
+      "original_description": "shit",
+      "start": 735
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 774.72,
+      "id": 13,
+      "original_description": "fuck",
+      "start": 774.04
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 852.99,
+      "id": 14,
+      "original_description": "crap",
+      "start": 852.78
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 987.84,
+      "id": 15,
+      "original_description": "beer",
+      "start": 987.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1098.92,
+      "id": 16,
+      "original_description": "naked",
+      "start": 1094.04
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1109.32,
+      "id": 17,
+      "original_description": "jesus",
+      "start": 1108.75
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1171.21,
+      "id": 18,
+      "original_description": "fucking",
+      "start": 1170.56
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1477.03,
+      "id": 19,
+      "original_description": "fuck",
+      "start": 1476.68
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1478.85,
+      "id": 20,
+      "original_description": "fuck",
+      "start": 1478.5
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1506.2,
+      "id": 21,
+      "original_description": "fuckers",
+      "start": 1505.38
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1520.42,
+      "id": 22,
+      "original_description": "shit",
+      "start": 1520.06
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1522.4,
+      "id": 23,
+      "original_description": "fuck",
+      "start": 1522.04
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1562.28,
+      "id": 24,
+      "original_description": "bollocks",
+      "start": 1561.11
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1704.99,
+      "id": 25,
+      "original_description": "prick",
+      "start": 1704.52
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1774.85,
+      "id": 26,
+      "original_description": "prick",
+      "start": 1774.16
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1789.32,
+      "id": 27,
+      "original_description": "dickhead",
+      "start": 1788.04
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1793.88,
+      "id": 28,
+      "original_description": "fuckwit",
+      "start": 1792.2
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1917.55,
+      "id": 29,
+      "original_description": "shit",
+      "start": 1917.28
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1977.36,
+      "id": 30,
+      "original_description": "shit",
+      "start": 1976.08
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2046.79,
+      "id": 31,
+      "original_description": "fucking",
+      "start": 2046.4
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2055.3,
+      "id": 32,
+      "original_description": "fuck",
+      "start": 2054.91
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2056.17,
+      "id": 33,
+      "original_description": "fuck",
+      "start": 2055.78
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 2064.02,
+      "id": 34,
+      "original_description": "banging you",
+      "start": 2061.52
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2107.92,
+      "id": 35,
+      "original_description": "crap",
+      "start": 2107.68
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2169.68,
+      "id": 36,
+      "original_description": "shit",
+      "start": 2169.36
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2191.57,
+      "id": 37,
+      "original_description": "fucked",
+      "start": 2190.64
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2251.96,
+      "id": 38,
+      "original_description": "shit",
+      "start": 2251.13
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2283.2,
+      "id": 39,
+      "original_description": "jesus",
+      "start": 2282.47
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 2458.02,
+      "id": 40,
+      "original_description": "شخص له نصف وجه مشوه",
+      "start": 2454.92
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2619.41,
+      "id": 41,
+      "original_description": "شخص له نصف وجه مشوه",
+      "start": 2617.2
+    }
+  ],
+  "parent_series_id": "safe",
+  "platforms": {
+    "netflix": {
+      "id": "80202427",
+      "url": "https://www.netflix.com/watch/80202427"
+    }
+  },
+  "season": 1,
+  "title": "safe - S1E7",
+  "type": "episode"
+}

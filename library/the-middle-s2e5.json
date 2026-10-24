@@ -1,0 +1,43 @@
+{
+  "episode": 5,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 13.65,
+      "id": 1,
+      "original_description": "butts",
+      "start": 13.27
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 40.99,
+      "id": 2,
+      "original_description": "stupid",
+      "start": 40.56
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 528.021991,
+      "id": 3,
+      "original_description": "كلام عن التحرش اللفظي",
+      "start": 505.244518
+    }
+  ],
+  "parent_series_id": "the-middle",
+  "platforms": {
+    "netflix": {
+      "id": 82170860,
+      "url": "https://www.netflix.com/watch/82170860"
+    },
+    "osnplus": {
+      "id": 68508,
+      "url": "https://osnplus.com/en-eg/episode/foreign-exchange-68508/watch?contentStreamingDeeplinkQueryParam=false&skipRecap=true"
+    }
+  },
+  "season": 2,
+  "title": "The Middle - S2E5",
+  "type": "episode"
+}

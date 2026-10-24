@@ -1,0 +1,53 @@
+{
+  "category": "Musical, Fantasy, Comedy",
+  "description": "فيلم علاء الدين (2019) هو نسخة حية (لايف أكشن) من إنتاج ديزني، صدر في مايو 2019، وأخرجه غاي ريتشي. يروي قصة لص لطيف يقع في حب أميرة ويجد مصباحاً سحرياً مع جني كوميدي لمنع وزير شرير من حكم المدينة",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3443.434103,
+      "id": 1,
+      "original_description": " تشبه الرجال بالنساء ",
+      "reason": "تشبه الرجال بالنساء",
+      "start": 3424.335541
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 3497.432758,
+      "id": 2,
+      "original_description": "اميرة مثيرة",
+      "start": 3496.612422
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4822,
+      "id": 3,
+      "original_description": "رجل وامرأة يقبلان بعضهما على الشرفة",
+      "reason": "رجل وامرأة يقبلان بعضهما على الشرفة",
+      "start": 4812
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 7154.558492,
+      "id": 4,
+      "original_description": "رجل وامرأة يقبلان بعضهما كثيرا",
+      "reason": "رجل وامرآ يقبلان بعضهما طويلا",
+      "start": 7136.137431
+    }
+  ],
+  "genre": "Action, Fantasy, Comedy, Musical, Adventure",
+  "pg": "PG",
+  "platforms": {
+    "disney": {
+      "id": "9b5b36b5-d285-4ab1-9c9d-03a1d6609433",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-9b5b36b5-d285-4ab1-9c9d-03a1d6609433"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/3iYQTLGoy7QnjcUYRJy4YrAgGvp.jpg",
+  "title": "Aladdin",
+  "type": "movie",
+  "year": "2019"
+}

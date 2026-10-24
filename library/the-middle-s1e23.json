@@ -1,0 +1,35 @@
+{
+  "episode": 23,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 188.85,
+      "id": 1,
+      "original_description": "jesus",
+      "start": 188.46
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1195.586557,
+      "id": 2,
+      "original_description": "بنات يخلعون ملابسهم ويسبحون",
+      "start": 1171.523555
+    }
+  ],
+  "parent_series_id": "the-middle",
+  "platforms": {
+    "netflix": {
+      "id": "82170853",
+      "url": "https://www.netflix.com/watch/82170853"
+    },
+    "osnplus": {
+      "id": 69005,
+      "url": "https://osnplus.com/en-eg/episode/signals-69005/watch?contentStreamingDeeplinkQueryParam=false"
+    }
+  },
+  "season": 1,
+  "title": "The Middle - S1E23",
+  "type": "episode"
+}

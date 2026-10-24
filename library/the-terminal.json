@@ -1,0 +1,262 @@
+{
+  "category": "Romance, Comedy, Drama",
+  "description": "فيلم The Terminal (المحطة) هو فيلم كوميديا دراما أمريكي من إنتاج عام 2004، أخرجه ستيفن سبيلبرغ وبطولة توم هانكس وكاثرين زيتا جونز. تدور قصة الفيلم حول رجل مسافر يصبح عالقاً داخل مطار دولي، وتكوين صداقات جديدة، والعيش داخل صالة المطار لفترة طويلة",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1104.64,
+      "id": 1,
+      "original_description": "jesus",
+      "start": 1104.24
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1302.21,
+      "id": 2,
+      "original_description": "hell",
+      "start": 1301.86
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1594.9,
+      "id": 3,
+      "original_description": "shit",
+      "start": 1594.15
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1607.6,
+      "id": 4,
+      "original_description": "shit",
+      "start": 1606.41
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1647.44,
+      "id": 5,
+      "original_description": "رجل يقبل امرأة",
+      "start": 1643.88
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2108.27,
+      "id": 6,
+      "original_description": "رجل يقبل امرأة",
+      "start": 2105.48
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2203.98,
+      "id": 7,
+      "original_description": "حديث جنسي عن امرأة",
+      "start": 2190.43
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2382.25,
+      "id": 8,
+      "original_description": "shit",
+      "start": 2381.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2712.4,
+      "id": 9,
+      "original_description": "damn",
+      "start": 2711.89
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2788.04,
+      "id": 10,
+      "original_description": "assholes",
+      "start": 2786.99
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2822.64,
+      "id": 11,
+      "original_description": "sex",
+      "start": 2822.41
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3216.26,
+      "id": 12,
+      "original_description": "جزء من أسفل الظهر ظاهر",
+      "start": 3212.21
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3353.07,
+      "id": 13,
+      "original_description": "ass",
+      "start": 3352.75
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 3361.64,
+      "id": 14,
+      "original_description": "شخص يشرب السجائر",
+      "start": 3359.89
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3468.33,
+      "id": 15,
+      "original_description": "اخراج ملابس داخلية لإمرأة",
+      "start": 3438.19
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3494.05,
+      "id": 16,
+      "original_description": "ass",
+      "start": 3493.86
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4247.61,
+      "id": 17,
+      "original_description": "ass",
+      "start": 4247.38
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4508.52,
+      "id": 18,
+      "original_description": "sex",
+      "start": 4508.23
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4922.03,
+      "id": 19,
+      "original_description": "dumb",
+      "start": 4921.5
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4932.42,
+      "id": 20,
+      "original_description": "shit",
+      "start": 4932.1
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5007.86,
+      "id": 21,
+      "original_description": "hell",
+      "start": 5007.46
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5143.56,
+      "id": 22,
+      "original_description": "امرأة تقبل رجل",
+      "start": 5139.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5198.93,
+      "id": 23,
+      "original_description": "idiot",
+      "start": 5198.56
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5831.36,
+      "id": 24,
+      "original_description": "رجل وامرأة يقبلان بعضهما",
+      "start": 5822.44
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5894.35,
+      "id": 25,
+      "original_description": "حضن بين رجل وامرأة",
+      "start": 5892.23
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5904.17,
+      "id": 26,
+      "original_description": "حضن بين رجل وامرأة",
+      "start": 5901.64
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6012.33,
+      "id": 27,
+      "original_description": "رجل يقبل امرأة",
+      "start": 6007.3
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6270.81,
+      "id": 28,
+      "original_description": "fool",
+      "start": 6270.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6455.09,
+      "id": 29,
+      "original_description": "hell",
+      "start": 6454.84
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6584.28,
+      "id": 30,
+      "original_description": "goddammit",
+      "start": 6581.54
+    }
+  ],
+  "genre": "Comedy, Romance, Drama",
+  "pg": "PG-13",
+  "platforms": {
+    "shahid": {
+      "id": 407355,
+      "url": "https://shahid.mbc.net/ar/player/movies/the-terminal/id-407355"
+    },
+    "tod": {
+      "id": 320909,
+      "url": "https://www.tod.tv/en/movies/english/the-terminal-320909"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/2Oypgov6zsFbJUJlUjDhxdJgEVj.jpg",
+  "title": "The Terminal",
+  "type": "movie",
+  "year": 2004
+}

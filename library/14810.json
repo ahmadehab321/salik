@@ -1,0 +1,202 @@
+{
+  "category": "Kids, Animation",
+  "description": "فيلم رسوم متحركة كوميدي يدور حول \"باتمان\" الذي يعيش حياة منعزلة. لإيقاف خطط \"الجوكر\" للسيطرة على مدينة \"غوثام\"، يتوجب عليه التخلي عن أسلوب العمل الفردي، وتقبل المساعدة من فريقه المكون من \"روبن\" والشرطية \"باربرا غوردون\"، لتعلم قيمة العمل الجما",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 535.270809,
+      "id": 1,
+      "original_description": " معجبة تريد تقبيل باتمان",
+      "start": 524.286468
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 895.323276,
+      "id": 2,
+      "original_description": "شخص يخلع ثيابه ويلبس الروب",
+      "start": 888.008629
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 968.04,
+      "id": 3,
+      "original_description": "stupid",
+      "start": 967.38
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1441.5,
+      "id": 4,
+      "original_description": "dick",
+      "start": 1441.33
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1685.94,
+      "id": 5,
+      "original_description": "playboy",
+      "start": 1685.45
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2451.17,
+      "id": 6,
+      "original_description": "dick",
+      "start": 2450.86
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 3213.53,
+      "id": 7,
+      "original_description": "stroke",
+      "start": 3213.29
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3459.95285,
+      "id": 8,
+      "original_description": "تعليقات تنمرية على شخص",
+      "start": 3454.125498
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3701.286209,
+      "id": 9,
+      "original_description": "قطة تحترق",
+      "start": 3699.362869
+    },
+    {
+      "action_type": "skip",
+      "category": "Language",
+      "end": 3733.884006,
+      "id": 10,
+      "original_description": "شخص يقول نكتة أبيحة",
+      "start": 3728.598029
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 3794.61,
+      "id": 11,
+      "original_description": "stupid",
+      "start": 3794.25
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 3953.15,
+      "id": 12,
+      "original_description": "ugly",
+      "start": 3952.87
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 4035.59,
+      "id": 13,
+      "original_description": "dick",
+      "start": 4035.41
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 4053.68,
+      "id": 14,
+      "original_description": "dick",
+      "start": 4053.36
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 4074.61,
+      "id": 15,
+      "original_description": "dick",
+      "start": 4074.25
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 4086.88,
+      "id": 16,
+      "original_description": "dick",
+      "start": 4085.83
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 4529.99,
+      "id": 17,
+      "original_description": "stupid",
+      "start": 4529.71
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 4793.79,
+      "id": 18,
+      "original_description": "dick",
+      "start": 4793.37
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4865.263644,
+      "id": 19,
+      "original_description": "بنت تلبس ملابس كاشفة",
+      "start": 4860.370672
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 4885.19,
+      "id": 20,
+      "original_description": "dick",
+      "start": 4884.62
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 4889.76,
+      "id": 21,
+      "original_description": "dick",
+      "start": 4888.13
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 4904.65,
+      "id": 22,
+      "original_description": "dick",
+      "start": 4904.15
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5474.690976,
+      "id": 23,
+      "original_description": "شخص يخلع ثيابه ويلبس الروب",
+      "start": 5472.187546
+    }
+  ],
+  "genre": "Action, Kids",
+  "pg": "PG",
+  "platforms": {
+    "osnplus": {
+      "id": "14810",
+      "url": "https://osnplus.com/en-eg/movie/the-lego-batman-movie-14810"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/w600_and_h900_face/snGwr2gag4Fcgx2OGmH9otl6ofW.jpg",
+  "title": "The Lego Batman",
+  "type": "movie",
+  "year": 2017
+}

@@ -1,0 +1,14 @@
+{
+  "description": "مسلسل دراما غموض وإثارة بريطاني قصير من موسم واحد يضم 8 حلقات، يدور حول طبيب جراح أرمل يبحث عن ابنته المراهقة المفقودة فيكتشف أسراراً مظلمة وصادمة عن المقربين منه في حيه السكني الراقي",
+  "genre": "Drama",
+  "platforms": {
+    "netflix": {
+      "id": 80201500,
+      "url": "https://www.netflix.com/title/80201500"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/2LWWJBWhq8GAgqfpeFe7giSNUkj.jpg",
+  "title": "Safe",
+  "type": "series",
+  "year": 2018
+}

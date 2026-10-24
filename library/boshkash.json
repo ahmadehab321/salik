@@ -1,0 +1,330 @@
+{
+  "category": "Comedy",
+  "description": " تدور قصة الفيلم حول حارس مرمى فاشل يتحول إلى سمسار لاعبين، يعتمد على سلسلة برقبته يؤمن أنها سر حظه السعيد، وتتوالى المواقف الكوميدية بعد فقدانه لها وعمله مع رجل أعمال فاسد",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 373.99,
+      "id": 1,
+      "original_description": "اغتصاب",
+      "start": 372.42
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 382.26,
+      "id": 2,
+      "original_description": "الكلاب ، الكلاب",
+      "start": 380.64
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 424.36,
+      "id": 3,
+      "original_description": "الزفت ، يا حيوان ، نهارك طين",
+      "start": 411.82
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 958.17,
+      "id": 4,
+      "original_description": "مشهد لعب القمار",
+      "start": 938.98
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1199.54,
+      "id": 5,
+      "original_description": "حديث عن أنواع الخمور",
+      "start": 1188.14
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1530.06,
+      "id": 6,
+      "original_description": "فردة جزمة",
+      "start": 1526.88
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1678.96,
+      "id": 7,
+      "original_description": "شخص يشرب سجائر",
+      "start": 1668.52
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1807.04,
+      "id": 8,
+      "original_description": "انت غبي",
+      "start": 1806.28
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1886.55,
+      "id": 9,
+      "original_description": "يومك اسود",
+      "start": 1881.27
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 2020.05,
+      "id": 10,
+      "original_description": "انت مال ابوك",
+      "start": 2019.33
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2106.69,
+      "id": 11,
+      "original_description": "شخص يبصق على شخص ",
+      "start": 2105.77
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2239.08,
+      "id": 12,
+      "original_description": "fu*kin",
+      "start": 2238.6
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2242.86,
+      "id": 13,
+      "original_description": "fu*kinm",
+      "start": 2242.26
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2243.56,
+      "id": 14,
+      "original_description": "fu*kinm",
+      "start": 2243.24
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2253.28,
+      "id": 15,
+      "original_description": "يا حيوان",
+      "start": 2252.5
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 2256.87,
+      "id": 16,
+      "original_description": "انا حيوان ",
+      "start": 2253.23
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 2283.91,
+      "id": 17,
+      "original_description": "حقير ، كلب عويل ",
+      "start": 2279.23
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2751.86,
+      "id": 18,
+      "original_description": "شخص يصفع نفسه",
+      "start": 2751.37
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3300.43,
+      "id": 19,
+      "original_description": "يا حيوان يا ابن الكلب",
+      "start": 3299.24
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3842.43,
+      "id": 20,
+      "original_description": "لا والنبي",
+      "start": 3841.79
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4041.73,
+      "id": 21,
+      "original_description": "الحلف بغير الله: وحياتك",
+      "start": 4041.21
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 4365.23,
+      "id": 22,
+      "original_description": "شخص يشرب السجائر بعصبية",
+      "start": 4361.73
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 4387.68,
+      "id": 23,
+      "original_description": "شخص يشرب السجائر بعصبية",
+      "start": 4376.3
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4485.21,
+      "id": 24,
+      "original_description": "يا واطية",
+      "start": 4484.37
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4496.14,
+      "id": 25,
+      "original_description": "يا ناقص",
+      "start": 4495.5
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4525.92,
+      "id": 26,
+      "original_description": "شخص يلقي تعليق ايحائي",
+      "start": 4522.76
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 4842.43,
+      "id": 27,
+      "original_description": "شخص يشعل سيجارة",
+      "start": 4836.99
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 4921.92,
+      "id": 28,
+      "original_description": "الكلاب ",
+      "start": 4920.27
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 5058.15,
+      "id": 29,
+      "original_description": "جثة \"بكر\"مقتولة بسكين",
+      "start": 5052.99
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 5074.13,
+      "id": 30,
+      "original_description": "جثة \"بكر\"مقتولة بسكين",
+      "start": 5069.05
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 5092.08,
+      "id": 31,
+      "original_description": "جثة \"بكر\"مقتولة بسكين",
+      "start": 5080.44
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5126.11,
+      "id": 32,
+      "original_description": "يا سفلة ، واطيين",
+      "start": 5124.27
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5168.41,
+      "id": 33,
+      "original_description": "النتن",
+      "start": 5168.02
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 5194.06,
+      "id": 34,
+      "original_description": "شباب يتبولون في الزنزانة",
+      "start": 5190.55
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 5362.52,
+      "id": 35,
+      "original_description": "للجحش",
+      "start": 5362.02
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 5368.56,
+      "id": 36,
+      "original_description": "شباب يشربون السجائر",
+      "start": 5363.84
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 5594.36,
+      "id": 37,
+      "original_description": "شخص مقتول",
+      "start": 5593.02
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5610.83,
+      "id": 38,
+      "original_description": "الكلاب ، الكلاب",
+      "start": 5609.89
+    }
+  ],
+  "genre": "Comedy",
+  "pg": "PG",
+  "platforms": {
+    "starzplay": {
+      "id": 480556584262,
+      "url": "https://starzplay.com/ar/movies/boshkash/480556584262"
+    },
+    "watchit": {
+      "id": 81,
+      "url": "https://www.watchit.com/#/details/movies/81"
+    },
+    "yango": {
+      "id": "4f158f1839bc445892514603d9d82a7f",
+      "url": "https://play.yango.com/ar/movies/film/4f158f1839bc445892514603d9d82a7f"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/nXgcGxqScIOTDXytjCGGzsdDWV9.jpg",
+  "title": "بوشكاش",
+  "type": "movie",
+  "year": 2008
+}

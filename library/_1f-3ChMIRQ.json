@@ -1,0 +1,690 @@
+{
+  "category": "Drama",
+  "description": "فيلم إثارة وسيرة ذاتية للمخرج أوليفر ستون. يروي القصة الحقيقية لموظف وكالة الأمن القومي الأميركي (NSA) إدوارد سنودن، الذي كشف عن برامج التجسس والمراقبة الجماعية غير القانونية التي تستهدف بيانات ملايين المواطنين العاديين، مما دفعه ليصبح هارباً ومطلوباً للعدالة",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 305.39,
+      "id": 1,
+      "original_description": "hell",
+      "start": 305.11
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 307.99,
+      "id": 2,
+      "original_description": "fucking",
+      "start": 307.64
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 311.18,
+      "id": 3,
+      "original_description": "pathetic",
+      "start": 310.73
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 315.81,
+      "id": 4,
+      "original_description": "ass",
+      "start": 315.6
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 318.65,
+      "id": 5,
+      "original_description": "fuck",
+      "start": 318.39
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 331.64,
+      "id": 6,
+      "original_description": "dick",
+      "start": 331.24
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 332.96,
+      "id": 7,
+      "original_description": "fuck",
+      "start": 332.56
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 352.34,
+      "id": 8,
+      "original_description": "fuck",
+      "start": 350.27
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 358.61,
+      "id": 9,
+      "original_description": "fuck",
+      "start": 358.09
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 897.388023,
+      "id": 10,
+      "original_description": "رجل وامرأة يقبلان بعضهما على الشاشة",
+      "start": 894.370411
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 907.178652,
+      "id": 11,
+      "original_description": "تقبيل على الشاشة",
+      "start": 903.794654
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 923.907308,
+      "id": 12,
+      "original_description": "حضن بين رجل وامرأة",
+      "start": 921.541986
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1072.5,
+      "id": 13,
+      "original_description": "moron",
+      "start": 1072.15
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1074.08,
+      "id": 14,
+      "original_description": "moron",
+      "start": 1073.8
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1134.413773,
+      "id": 15,
+      "original_description": "قبلة بين رجل ومرأة",
+      "start": 1120.10646
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1224.57,
+      "id": 16,
+      "original_description": "hell",
+      "start": 1224.24
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1308.71,
+      "id": 17,
+      "original_description": "fucking",
+      "start": 1308.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1315.63,
+      "id": 18,
+      "original_description": "stupid",
+      "start": 1315.25
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1484.4,
+      "id": 19,
+      "original_description": "horseshit",
+      "start": 1483.64
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1892.47,
+      "id": 20,
+      "original_description": "damn",
+      "start": 1892.17
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1898.91,
+      "id": 21,
+      "original_description": "ass",
+      "start": 1898.79
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2080.65,
+      "id": 22,
+      "original_description": "fool",
+      "start": 2079.78
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2209.79,
+      "id": 23,
+      "original_description": "shitty",
+      "start": 2209.28
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2252.92,
+      "id": 24,
+      "original_description": "shit",
+      "start": 2252.68
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2273.84032,
+      "id": 25,
+      "original_description": "تجسس على امرأة تخلع ثيابها",
+      "start": 2261.876144
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2287.25,
+      "id": 26,
+      "original_description": "bitch",
+      "start": 2286.77
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2324.82,
+      "id": 27,
+      "original_description": "ass",
+      "start": 2324.57
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2363.075832,
+      "id": 28,
+      "original_description": "كلام عن رجل يزني باثنتين",
+      "start": 2359.676055
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2492.090412,
+      "id": 29,
+      "original_description": "مشهد البار خمور وراقصات التعري",
+      "start": 2380.693603
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2512.66,
+      "id": 30,
+      "original_description": "fuck",
+      "start": 2512.32
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2562.27,
+      "id": 31,
+      "original_description": "fucked",
+      "start": 2561.68
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2562.86,
+      "id": 32,
+      "original_description": "shit",
+      "start": 2562.47
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2663.206039,
+      "id": 33,
+      "original_description": "رجل ينام مع امرأة ويزنون",
+      "start": 2581.906592
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 2600.73,
+      "id": 34,
+      "original_description": "قبلة بين رجل وامرأة",
+      "start": 2595.71
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2717.05,
+      "id": 35,
+      "original_description": "shit",
+      "start": 2716.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2769.59,
+      "id": 36,
+      "original_description": "bullshit",
+      "start": 2768.71
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2882.609905,
+      "id": 37,
+      "original_description": "رجل وامرأة في وضع حميمي",
+      "start": 2852.061991
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2944.214042,
+      "id": 38,
+      "original_description": "قبلة بين رجل وامرأة  ",
+      "start": 2927.45897
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3300.32,
+      "id": 39,
+      "original_description": "sex",
+      "start": 3300.03
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3586.750091,
+      "id": 40,
+      "original_description": "فتاة تتصفح صور لها وهي عارية",
+      "start": 3528.513237
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3575.72,
+      "id": 41,
+      "original_description": "nude",
+      "start": 3575.36
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3584.4,
+      "id": 42,
+      "original_description": "boobs",
+      "start": 3584.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3607.97,
+      "id": 43,
+      "original_description": "fucking",
+      "start": 3607.34
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3620.71,
+      "id": 44,
+      "original_description": "fucking",
+      "start": 3620.28
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3644.85,
+      "id": 45,
+      "original_description": "fuck",
+      "start": 3644.06
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3647.16,
+      "id": 46,
+      "original_description": "fucking",
+      "start": 3646.82
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3664.32,
+      "id": 47,
+      "original_description": "fucking",
+      "start": 3663.86
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3665.26,
+      "id": 48,
+      "original_description": "fucking",
+      "start": 3664.79
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3665.78,
+      "id": 49,
+      "original_description": "bullshit",
+      "start": 3665.26
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3674.05,
+      "id": 50,
+      "original_description": "fucking",
+      "start": 3673.54
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3753.991728,
+      "id": 51,
+      "original_description": "تعليم رقص التعري على البارات",
+      "start": 3737.468012
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3776.005354,
+      "id": 52,
+      "original_description": "تقبيل رجل لحبيبته",
+      "start": 3773.11857
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4137.14,
+      "id": 53,
+      "original_description": "beer",
+      "start": 4136.59
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4320.29,
+      "id": 54,
+      "original_description": "shit",
+      "start": 4319.81
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4537.43,
+      "id": 55,
+      "original_description": "bullshit",
+      "start": 4536.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4545.01,
+      "id": 56,
+      "original_description": "fucking",
+      "start": 4544.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4549.19,
+      "id": 57,
+      "original_description": "goddammit",
+      "start": 4548.62
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4580.25,
+      "id": 58,
+      "original_description": "damn",
+      "start": 4579.94
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4581.47,
+      "id": 59,
+      "original_description": "fucking",
+      "start": 4581.09
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4662.93,
+      "id": 60,
+      "original_description": "hell",
+      "start": 4662.62
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4684.32,
+      "id": 61,
+      "original_description": "shit",
+      "start": 4684.14
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4686.04,
+      "id": 62,
+      "original_description": "jesus",
+      "start": 4685.54
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4776.85,
+      "id": 63,
+      "original_description": "ass",
+      "start": 4776.67
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4990.6,
+      "id": 64,
+      "original_description": "fucking",
+      "start": 4990.21
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5026.77,
+      "id": 65,
+      "original_description": "bullshit",
+      "start": 5025.33
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5132.34,
+      "id": 66,
+      "original_description": "shit",
+      "start": 5132.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5148.83,
+      "id": 67,
+      "original_description": "fuck",
+      "start": 5148.59
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5251.7,
+      "id": 68,
+      "original_description": "fucking",
+      "start": 5250.8
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5268.46,
+      "id": 69,
+      "original_description": "fuck",
+      "start": 5268.12
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5355.038199,
+      "id": 70,
+      "original_description": "صورة لفتاة عارية ومشاهد زنا",
+      "start": 5343.927945
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5345.18,
+      "id": 71,
+      "original_description": "fucking",
+      "start": 5344.37
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5648.493274,
+      "id": 72,
+      "original_description": "امرأة تقبل رجل",
+      "start": 5643.434456
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5886.46,
+      "id": 73,
+      "original_description": "jesus",
+      "start": 5886.09
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5886.9,
+      "id": 74,
+      "original_description": "christ",
+      "start": 5886.46
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5889.86,
+      "id": 75,
+      "original_description": "bastards",
+      "start": 5888.89
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5909.96,
+      "id": 76,
+      "original_description": "fucking",
+      "start": 5909.45
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5913.85,
+      "id": 77,
+      "original_description": "fucking",
+      "start": 5913.35
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6067.05,
+      "id": 78,
+      "original_description": "idiots",
+      "start": 6066.79
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6067.9,
+      "id": 79,
+      "original_description": "bullshit",
+      "start": 6067.56
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6069.94,
+      "id": 80,
+      "original_description": "fucking",
+      "start": 6069.64
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6730.8,
+      "id": 81,
+      "original_description": "shit",
+      "start": 6730.35
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6750.03,
+      "id": 82,
+      "original_description": "shit",
+      "start": 6749.58
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6784.24,
+      "id": 83,
+      "original_description": "shitty",
+      "start": 6783.71
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 7068.332812,
+      "id": 84,
+      "original_description": "شخص يقوم بإشارة جنسية",
+      "start": 7066.311845
+    }
+  ],
+  "genre": "Thriller, Documentary",
+  "pg": "R",
+  "platforms": {
+    "youtube": {
+      "id": "_1f-3ChMIRQ",
+      "url": "https://www.youtube.com/watch?v=_1f-3ChMIRQ"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/w600_and_h900_face/yfK7zxNL63VWfluFuoUaJj5PdNw.jpg",
+  "title": "Snowden",
+  "type": "movie",
+  "year": 2016
+}

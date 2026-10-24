@@ -1,0 +1,178 @@
+{
+  "category": "Comedy,Romance",
+  "description": "عمل كوميدي اجتماعي مصري من بطولة أحمد حلمي ودنيا سمير غانم وإخراج شريف عرفة. تدور أحداثه حول \"مجدي\"، رسام الكاريكاتير البدين، الذي يعاني من الوحدة وتجنب المجتمع بسبب وزنه. تتغير حياته عندما يتواصل مع صديقة طفولته \"دينا\"، مما يدفعه لخوض رحلة لتغيير نمط حياته.",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 119.297537,
+      "id": 1,
+      "original_description": "يا نهار اسود",
+      "start": 117.615054
+    },
+    {
+      "action_type": "mute",
+      "category": "violence",
+      "end": 191.449157,
+      "id": 2,
+      "original_description": "صوت ضراط",
+      "start": 190.876614
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 242.459226,
+      "id": 3,
+      "original_description": "شخص يخلع سرواله",
+      "start": 238.964365
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 312.739743,
+      "id": 4,
+      "original_description": "مزة",
+      "start": 312.360152
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 561.328014,
+      "id": 5,
+      "original_description": "خروج مومس من منزل الجار ومغازلتها في المصعد",
+      "start": 432.531731
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 686.68117,
+      "id": 6,
+      "original_description": "حمير وبهايم",
+      "start": 680.992247
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 691.422996,
+      "id": 7,
+      "original_description": "asshole",
+      "start": 690.29137
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 692.215385,
+      "id": 8,
+      "original_description": "bitch",
+      "start": 691.90657
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 693.65526,
+      "id": 9,
+      "original_description": "bitch",
+      "start": 693.265997
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 873.695125,
+      "id": 10,
+      "original_description": "تحدث عن فتاة بشكل جنسي",
+      "start": 851.384719
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1215.767489,
+      "id": 11,
+      "original_description": "امرأة تشرب السجائر وتتحدث عن التخصيب والرجم والتزاوج",
+      "start": 1153.114754
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2439.254647,
+      "id": 12,
+      "original_description": "والنبي",
+      "start": 2438.640548
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 3591.116764,
+      "id": 13,
+      "original_description": "تهكم على سماع خطبة الموت",
+      "start": 3559.665828
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 5144.080895,
+      "id": 14,
+      "original_description": "تهكم عن المرأة المحجبة ",
+      "start": 5090.590657
+    },
+    {
+      "action_type": "mute",
+      "category": "violence",
+      "end": 5444.433005,
+      "id": 15,
+      "original_description": "صوت ضرطة",
+      "start": 5443.041307
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 6187.527716,
+      "id": 16,
+      "original_description": "تهديد لشخص بسكين",
+      "start": 6181.222423
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6256.227465,
+      "id": 17,
+      "original_description": "المزة",
+      "start": 6255.503537
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6266.640212,
+      "id": 18,
+      "original_description": "عبيط",
+      "start": 6266.096722
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 7013.314094,
+      "id": 19,
+      "original_description": "تهكم عن الموت",
+      "start": 7004.336933
+    }
+  ],
+  "genre": "Comedy",
+  "pg": "PG",
+  "platforms": {
+    "starzplay": {
+      "id": 459257896429,
+      "url": "https://starzplay.com/ar/movies/x-large/459257896429"
+    },
+    "watchit": {
+      "id": "movies-86",
+      "url": "https://www.watchit.com/watch/ar/movies/%D8%A7%D9%83%D8%B3-%D9%84%D8%A7%D8%B1%D8%AC/movies-86"
+    },
+    "youtube": {
+      "id": "z78lAbi35MU",
+      "url": "https://www.youtube.com/watch?v=z78lAbi35MU"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/w600_and_h900_face/dBK3YVsY27F7VYWXdSrXqot947K.jpg",
+  "title": "اكس لارج",
+  "type": "movie",
+  "year": 2011
+}

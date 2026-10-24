@@ -1,0 +1,590 @@
+{
+  "category": "Horror, SCI-FI",
+  "description": " تحفة سينمائية للمخرج ريدلي سكوت، يدمج بين الرعب والخيال العلمي. تدور أحداثه حول طاقم سفينة الشحن الفضائية \"نوسترومو\"، الذين يلبون نداء استغاثة غامض ليكتشفوا بالخطأ كائنًا فضائيًا طفيليًا وقاتلًا، ليبدأ صراع مرعب من أجل البقاء داخل الفضاء المظلم، وقد اشتهر بشعاره: \"في الفضاء، لا أحد يستطيع سماع صراخك",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 630.84,
+      "id": 1,
+      "original_description": "hell",
+      "start": 630.43
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 635.59,
+      "id": 2,
+      "original_description": "hell",
+      "start": 635.27
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 647.45,
+      "id": 3,
+      "original_description": "damn",
+      "start": 647.17
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 653.15,
+      "id": 4,
+      "original_description": "shit",
+      "start": 652.88
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 931.36,
+      "id": 5,
+      "original_description": "hell",
+      "start": 930.84
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1033.76,
+      "id": 6,
+      "original_description": "hell",
+      "start": 1033.21
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1105.93,
+      "id": 7,
+      "original_description": "fuck",
+      "start": 1105.66
+    },
+    {
+      "action_type": "blur",
+      "category": "substance abuse",
+      "end": 1128.537322,
+      "id": 8,
+      "original_description": "ِشرب سجائر",
+      "start": 1122.658201
+    },
+    {
+      "action_type": "blur",
+      "category": "substance abuse",
+      "end": 1209.883489,
+      "id": 9,
+      "original_description": "امرأة تشرب سجارة",
+      "start": 1195.851427
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1289.64,
+      "id": 10,
+      "original_description": "goddamn",
+      "start": 1288.6
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1344.6,
+      "id": 11,
+      "original_description": "fuck",
+      "start": 1344.16
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1362.81,
+      "id": 12,
+      "original_description": "bitch",
+      "start": 1362.11
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1375.75,
+      "id": 13,
+      "original_description": "goddamn",
+      "start": 1374.93
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1541.46,
+      "id": 14,
+      "original_description": "shit",
+      "start": 1540.46
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1791.77,
+      "id": 15,
+      "original_description": "hell",
+      "start": 1791.32
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1897.61,
+      "id": 16,
+      "original_description": "goddamn",
+      "start": 1897.07
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1902.81,
+      "id": 17,
+      "original_description": "hell",
+      "start": 1902.19
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2155.45,
+      "id": 18,
+      "original_description": "goddamn",
+      "start": 2154.78
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2219.2,
+      "id": 19,
+      "original_description": "hell",
+      "start": 2218.69
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2327.21,
+      "id": 20,
+      "original_description": "hell",
+      "start": 2326.56
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2385.08,
+      "id": 21,
+      "original_description": "goddamn",
+      "start": 2384.53
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2502.88,
+      "id": 22,
+      "original_description": "damn",
+      "start": 2502.42
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2518.99,
+      "id": 23,
+      "original_description": "damn",
+      "start": 2518.59
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2660.57,
+      "id": 24,
+      "original_description": "bitch",
+      "start": 2660.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2932.54,
+      "id": 25,
+      "original_description": "damn",
+      "start": 2931.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3019.82,
+      "id": 26,
+      "original_description": "hell",
+      "start": 3019.56
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3054.31,
+      "id": 27,
+      "original_description": "hell",
+      "start": 3054.07
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3084.39,
+      "id": 28,
+      "original_description": "christ",
+      "start": 3083.98
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 3384.243848,
+      "id": 29,
+      "original_description": "مخلوق فضائي يخرج من بطن شخص",
+      "start": 3366.475063
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3516.65,
+      "id": 30,
+      "original_description": "damn",
+      "start": 3516.31
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3524.18,
+      "id": 31,
+      "original_description": "bastard",
+      "start": 3523.65
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3649.81,
+      "id": 32,
+      "original_description": "shit",
+      "start": 3647.77
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3686.77,
+      "id": 33,
+      "original_description": "ass",
+      "start": 3686.41
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3781.7,
+      "id": 34,
+      "original_description": "hell",
+      "start": 3781.31
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3821.93,
+      "id": 35,
+      "original_description": "crap",
+      "start": 3821.16
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 4083.863074,
+      "id": 36,
+      "original_description": "مخلوق فضائي يأكل شخص",
+      "start": 4077.660454
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4140.19,
+      "id": 37,
+      "original_description": "bitch",
+      "start": 4139.6
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 4141.930362,
+      "id": 38,
+      "original_description": "امرأة تشرب سجائر بتوتر",
+      "start": 4140.185922
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4596.47,
+      "id": 39,
+      "original_description": "hell",
+      "start": 4596.14
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4607.91,
+      "id": 40,
+      "original_description": "goddamn",
+      "start": 4607.56
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4635.77,
+      "id": 41,
+      "original_description": "fuck",
+      "start": 4635.47
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4816.69,
+      "id": 42,
+      "original_description": "goddamn",
+      "start": 4816.01
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4978.430961,
+      "id": 43,
+      "original_description": "صور لبنات عريانة",
+      "start": 4920.111423
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4962.29,
+      "id": 44,
+      "original_description": "hell",
+      "start": 4961.84
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 5099.876002,
+      "id": 45,
+      "original_description": "قطع رأس الروبوت",
+      "start": 4992.218251
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5015.76,
+      "id": 46,
+      "original_description": "jesus",
+      "start": 5013.76
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5021.51,
+      "id": 47,
+      "original_description": "goddamn",
+      "start": 5020.69
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5034.45,
+      "id": 48,
+      "original_description": "shit",
+      "start": 5033.47
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5037.17,
+      "id": 49,
+      "original_description": "fucking",
+      "start": 5036.72
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5047.58,
+      "id": 50,
+      "original_description": "jesus",
+      "start": 5046.2
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5056.18,
+      "id": 51,
+      "original_description": "goddamn",
+      "start": 5055.61
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 5113.221362,
+      "id": 52,
+      "original_description": "التحدث مع رأس الروبوت",
+      "start": 5102.526227
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 5135.267293,
+      "id": 53,
+      "original_description": "رأس الروبوت",
+      "start": 5119.452596
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5137.94,
+      "id": 54,
+      "original_description": "damn",
+      "start": 5137.53
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 5154.853141,
+      "id": 55,
+      "original_description": "رأس الروبوت 2",
+      "start": 5140.493357
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5141.89,
+      "id": 56,
+      "original_description": "bitch",
+      "start": 5141.37
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5156.52,
+      "id": 57,
+      "original_description": "bullshit",
+      "start": 5155.5
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 5219.54786,
+      "id": 58,
+      "original_description": "رأس الروبوت 3",
+      "start": 5156.976196
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 5256.650934,
+      "id": 59,
+      "original_description": "حرق رأس الروبوت",
+      "start": 5238.813635
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5261.88,
+      "id": 60,
+      "original_description": "bullshit",
+      "start": 5261.13
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5295.85,
+      "id": 61,
+      "original_description": "fucker",
+      "start": 5295.32
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5521.88,
+      "id": 62,
+      "original_description": "goddamn",
+      "start": 5520.1
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5570.87,
+      "id": 63,
+      "original_description": "christ",
+      "start": 5570.39
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 5628.140208,
+      "id": 64,
+      "original_description": "مخلوق فضائي يقتل شخص",
+      "start": 5598.624731
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 5679.375695,
+      "id": 65,
+      "original_description": "جثث مقتولة على يد المخلوق الفضائي",
+      "start": 5673.992456
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5961.58,
+      "id": 66,
+      "original_description": "bitch",
+      "start": 5960.3
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5982.01,
+      "id": 67,
+      "original_description": "goddamn",
+      "start": 5980.39
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6250.58,
+      "id": 68,
+      "original_description": "bitch",
+      "start": 6249.73
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6403.245653,
+      "id": 69,
+      "original_description": "فتاة تقلع ملابسها",
+      "start": 6351.833478
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6419.389143,
+      "id": 70,
+      "original_description": "فتاة عارية تهرب من الشرير",
+      "start": 6414.5
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6501.949462,
+      "id": 71,
+      "original_description": "فتاة تلبس رائد فضاء",
+      "start": 6482.971785
+    }
+  ],
+  "genre": "Horror, SCI-FI",
+  "pg": "R",
+  "platforms": {
+    "disney": {
+      "id": "27389b6b-bf27-45a6-afdf-cef0fe723cff",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-27389b6b-bf27-45a6-afdf-cef0fe723cff"
+    },
+    "tod": {
+      "id": 5009866,
+      "url": "https://www.tod.tv/en/movies/english/alien-5009866"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/bk9GVjN4kxmGekswNigaa5YIdr5.jpg",
+  "title": "Alien",
+  "type": "movie",
+  "year": 1979
+}

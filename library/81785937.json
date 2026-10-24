@@ -1,0 +1,95 @@
+{
+  "episode": 7,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 149.42,
+      "id": 1,
+      "original_description": "hell",
+      "start": 149.17
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 160.99,
+      "id": 2,
+      "original_description": "hell",
+      "start": 160.72
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 275.61,
+      "id": 3,
+      "original_description": "hell",
+      "start": 275.39
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 287.83,
+      "id": 4,
+      "original_description": "hell",
+      "start": 287.61
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 843.56,
+      "id": 5,
+      "original_description": "fuck",
+      "start": 843.36
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1228.93,
+      "id": 6,
+      "original_description": "hell",
+      "start": 1228.71
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1230.92,
+      "id": 7,
+      "original_description": "damn",
+      "start": 1230.7
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1291.074519,
+      "id": 8,
+      "original_description": "حضن بين رجل وامرآة",
+      "start": 1275.534633
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1828.62,
+      "id": 9,
+      "original_description": "fuck",
+      "start": 1827.77
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1839.15677,
+      "id": 10,
+      "original_description": "دم يخرج من رأس شخص",
+      "start": 1832.764393
+    }
+  ],
+  "parent_series_id": "i-will-find-you",
+  "platforms": {
+    "netflix": {
+      "id": "81785937",
+      "url": "https://www.netflix.com/watch/81785937"
+    }
+  },
+  "season": 1,
+  "title": "I will Find You - S1E7",
+  "type": "episode"
+}

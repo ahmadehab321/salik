@@ -1,0 +1,43 @@
+{
+  "episode": 24,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 284.61,
+      "id": 1,
+      "original_description": "stupid",
+      "start": 284.27
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 711.42,
+      "id": 2,
+      "original_description": "damn",
+      "start": 711.25
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 946.79,
+      "id": 3,
+      "original_description": "stupid",
+      "start": 946.55
+    }
+  ],
+  "parent_series_id": "the-middle",
+  "platforms": {
+    "netflix": {
+      "id": "82170854",
+      "url": "https://www.netflix.com/watch/82170854"
+    },
+    "osnplus": {
+      "id": 69006,
+      "url": "https://osnplus.com/en-eg/episode/average-rules-69006/watch?contentStreamingDeeplinkQueryParam=false"
+    }
+  },
+  "season": 1,
+  "title": "The Middle - S1E24",
+  "type": "episode"
+}

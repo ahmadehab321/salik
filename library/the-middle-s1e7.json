@@ -1,0 +1,115 @@
+{
+  "episode": 7,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 81.04,
+      "id": 1,
+      "original_description": "crap",
+      "start": 80.81
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 337.25,
+      "id": 2,
+      "original_description": "ass",
+      "start": 337.06
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 339.68,
+      "id": 3,
+      "original_description": "ass",
+      "start": 339.34
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 569.58,
+      "id": 4,
+      "original_description": "damn",
+      "start": 569.25
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 572.72,
+      "id": 5,
+      "original_description": "hell",
+      "start": 572.5
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 577.08,
+      "id": 6,
+      "original_description": "damn",
+      "start": 576.92
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 582.73,
+      "id": 7,
+      "original_description": "screw",
+      "start": 582.33
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 601.04,
+      "id": 8,
+      "original_description": "hell",
+      "start": 600.76
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 617.38,
+      "id": 9,
+      "original_description": "damn",
+      "start": 617.14
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 869.21,
+      "id": 10,
+      "original_description": "hell",
+      "start": 868.96
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 888.08,
+      "id": 11,
+      "original_description": "jackass",
+      "start": 887.52
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1004.79,
+      "id": 12,
+      "original_description": "screwed",
+      "start": 1004.24
+    }
+  ],
+  "parent_series_id": "the-middle",
+  "platforms": {
+    "netflix": {
+      "id": "82170838",
+      "url": "https://www.netflix.com/watch/82170838"
+    },
+    "osnplus": {
+      "id": 68991,
+      "url": "https://osnplus.com/en-eg/episode/the-scratch-68991/watch?contentStreamingDeeplinkQueryParam=false"
+    }
+  },
+  "season": 1,
+  "title": "The Middle - S1E7",
+  "type": "episode"
+}

@@ -1,0 +1,179 @@
+{
+  "addedAt": 1787045873812,
+  "category": "Fantasy, Action-Adventure",
+  "description": "فيلم Pirates of the Caribbean: Dead Men Tell No Tales (الرجال الأموات لا يحكون حكايات)، ويعرف أيضاً بـ \"ثأر سالازار\"،. يواجه الكابتن جاك سبارو أشباح قراصنة مرعبة بقيادة عدوه القديم الكابتن سالازار الهارب من مثلث الشيطان لقتل كل قراصنة البحر",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 373.3,
+      "id": 1,
+      "original_description": "pathetic",
+      "start": 372.03
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 744.25,
+      "id": 2,
+      "original_description": "hell",
+      "start": 743.45
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1006.12,
+      "id": 3,
+      "original_description": "شخص يشرب الخمر",
+      "start": 1002.2
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1031.89,
+      "id": 4,
+      "original_description": "امرأة تخون زوجها",
+      "start": 1008.71
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1708.4,
+      "id": 5,
+      "original_description": "bugger",
+      "start": 1707.36
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2033.16,
+      "id": 6,
+      "original_description": "bugger",
+      "start": 2032.08
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2529.1,
+      "id": 7,
+      "original_description": "beer",
+      "start": 2528.27
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2654.05,
+      "id": 8,
+      "original_description": "رقاب اشخاص",
+      "start": 2649.78
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2764.25,
+      "id": 9,
+      "original_description": "رقاب اشخاص",
+      "start": 2759.88
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4189.59,
+      "id": 10,
+      "original_description": "مشهد الهورولوجي",
+      "start": 4160.62
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4240.75,
+      "id": 11,
+      "original_description": "stupid",
+      "start": 4239.89
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4315.67,
+      "id": 12,
+      "original_description": "شخص يقول تعليق ايحائي",
+      "start": 4296
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4366.25,
+      "id": 13,
+      "original_description": "حديث ايحائي عن امرأة",
+      "start": 4362.27
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4537.32,
+      "id": 14,
+      "original_description": "هجوم القرش",
+      "start": 4412.74
+    },
+    {
+      "action_type": "mute",
+      "category": "violence",
+      "end": 4797.72,
+      "id": 15,
+      "original_description": "صوت شخر لرجل",
+      "start": 4796.67
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4918.23,
+      "id": 16,
+      "original_description": "بوسة مقرفة",
+      "start": 4900.53
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 5482.33,
+      "id": 17,
+      "original_description": "حديث عن الخمر",
+      "start": 5479.19
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6346.07,
+      "id": 18,
+      "original_description": "piss",
+      "start": 6345.06
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6920.43,
+      "id": 19,
+      "original_description": "رجل يقبل امرأة",
+      "start": 6912.74
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 7047.7,
+      "id": 20,
+      "original_description": "رجل يقبل امرأة",
+      "start": 7044.14
+    }
+  ],
+  "genre": "Fantasy, Action-Adventure",
+  "pg": "PG-13",
+  "platforms": {
+    "disney": {
+      "id": "b54fbbdc-6a0c-4e84-9d6d-7b44bd808038",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-b54fbbdc-6a0c-4e84-9d6d-7b44bd808038"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/zTCbq9Awvysb5SQja9sg2V9VHCq.jpg",
+  "title": "Pirates of The Caribbean (5): Dead Men Tell No Tales",
+  "type": "movie",
+  "year": 2017
+}

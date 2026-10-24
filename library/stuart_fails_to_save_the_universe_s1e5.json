@@ -1,0 +1,256 @@
+{
+  "episode": 5,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 37.25,
+      "id": 1,
+      "original_description": "dope",
+      "start": 36.65
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 51.32,
+      "id": 2,
+      "original_description": "damn",
+      "start": 50.29
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 64.12,
+      "id": 3,
+      "original_description": "stupid",
+      "start": 63.6
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 92.13,
+      "id": 4,
+      "original_description": "hell",
+      "start": 91.54
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 98.44,
+      "id": 5,
+      "original_description": "sleep with",
+      "start": 97.72
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 102.61,
+      "id": 6,
+      "original_description": "sleep with",
+      "start": 101.67
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 103.2,
+      "id": 7,
+      "original_description": "sex",
+      "start": 102.85
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 209.46,
+      "id": 8,
+      "original_description": "مشاركة السرير",
+      "start": 200.87
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 236.5,
+      "id": 9,
+      "original_description": "hell",
+      "start": 235.94
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 243.2,
+      "id": 10,
+      "original_description": "idiot",
+      "start": 242.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 318.3,
+      "id": 11,
+      "original_description": "sex",
+      "start": 317.75
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 328.32,
+      "id": 12,
+      "original_description": "fuck",
+      "start": 327.91
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 353.17,
+      "id": 13,
+      "original_description": "sex",
+      "start": 352.63
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 409.59,
+      "id": 14,
+      "original_description": "ايحاءات جنسية ",
+      "start": 378.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 420.76,
+      "id": 15,
+      "original_description": "shit",
+      "start": 420.35
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 435.4,
+      "id": 16,
+      "original_description": "shit",
+      "start": 434.99
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 449.96,
+      "id": 17,
+      "original_description": "shit",
+      "start": 449.56
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 475.41,
+      "id": 18,
+      "original_description": "شخص يضع يده في البراز",
+      "start": 455.71
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 537.72,
+      "id": 19,
+      "original_description": "shit",
+      "start": 537.33
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 649.73,
+      "id": 20,
+      "original_description": "stupid",
+      "start": 649.03
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 662.32,
+      "id": 21,
+      "original_description": "porn",
+      "start": 661.83
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 664.76,
+      "id": 22,
+      "original_description": "cheat on",
+      "start": 662.84
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 691.46,
+      "id": 23,
+      "original_description": "shit",
+      "start": 690.9
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 729.56,
+      "id": 24,
+      "original_description": "sex",
+      "start": 729.01
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 808.84,
+      "id": 25,
+      "original_description": "شخص يستحم مع امرأتين",
+      "start": 756.41
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 793.76,
+      "id": 26,
+      "original_description": "pussies",
+      "start": 793.24
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 872.08,
+      "id": 27,
+      "original_description": "shit",
+      "start": 871.47
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 898.8,
+      "id": 28,
+      "original_description": "bullshit",
+      "start": 898.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 908.2,
+      "id": 29,
+      "original_description": "damn",
+      "start": 907.12
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 994.9,
+      "id": 30,
+      "original_description": "شخص يلقي تعليق جنسي",
+      "start": 988.81
+    }
+  ],
+  "parent_series_id": "stuart_fails_to_save_the_universe",
+  "platforms": {
+    "osnplus": {
+      "id": "spoiler-gary-works-for-ups-76316",
+      "offset_seconds": 0,
+      "url": "https://osnplus.com/en-eg/series/spoiler-gary-works-for-ups-76316"
+    }
+  },
+  "season": 1,
+  "title": "Stuart Fails to Save The Universe - S1E5",
+  "type": "episode"
+}

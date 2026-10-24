@@ -1,0 +1,154 @@
+{
+  "category": "Comedy",
+  "description": " حول \"فريد عز الدين\"، وهو شاب ثري ومدلل يعيش حياة مترفة بعيداً عن أي مسؤولية. تتغير حياته عندما يهرب والده رجل الأعمال خارج البلاد لاتهامه في قضايا فساد مالي، تاركاً ابنه يواجه السلطات ليجد نفسه متهماً ومطارداً في رحلة هروب مليئة بالمواقف الكوميدية",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 650.930955,
+      "id": 1,
+      "original_description": "حيوان",
+      "start": 650.367433
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 930.821579,
+      "id": 2,
+      "original_description": "شخص يتنمر على لون شخص",
+      "start": 927.363713
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 991.637854,
+      "id": 3,
+      "original_description": "التحدث عن أنواع الخمر وتقبيل فتاة",
+      "start": 979.615893
+    },
+    {
+      "action_type": "mute",
+      "category": "nudity",
+      "end": 1221.212698,
+      "id": 4,
+      "original_description": "رجل وامرأة في الساونا ",
+      "start": 1217.338219
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1804.134342,
+      "id": 5,
+      "original_description": "رجل يتبول ",
+      "start": 1797.937169
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1946.207551,
+      "id": 6,
+      "original_description": "رجل يشرب الخمر والسجائر",
+      "start": 1934.06271
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2459.106267,
+      "id": 7,
+      "original_description": "شعر ايحائي عن التغزل ببنت متزوجة",
+      "start": 2426.875583
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 2520.917229,
+      "id": 8,
+      "original_description": "شعر عن بنت متزوجة",
+      "start": 2497.367928
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2660.761006,
+      "id": 9,
+      "original_description": "يا دون يا كلب",
+      "start": 2659.469558
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 3233.103939,
+      "id": 10,
+      "original_description": "رجل يدخن السيجار",
+      "start": 3204.541077
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3375.750006,
+      "id": 11,
+      "original_description": "امرأة تعلم الرقص ",
+      "start": 3311.050623
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 3526.851157,
+      "id": 12,
+      "original_description": "تنمر واهانة على لون الشخص",
+      "start": 3511.467861
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3651.56743,
+      "id": 13,
+      "original_description": "اهبل",
+      "start": 3651.198224
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3730.386639,
+      "id": 14,
+      "original_description": "رقص اغرائي ",
+      "start": 3715.117548
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4033.353602,
+      "id": 15,
+      "original_description": "فتاة تحضن شاب",
+      "start": 4027.759737
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5210.123087,
+      "id": 16,
+      "original_description": "رقص اغرائي في حفلة",
+      "start": 5054.082399
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5467.165515,
+      "id": 17,
+      "original_description": "رقص اغرائي في مضاربة",
+      "start": 5455.032853
+    }
+  ],
+  "genre": "Comedy, Action",
+  "pg": "PG",
+  "platforms": {
+    "youtube": {
+      "id": "G1tFlghyYrA",
+      "url": "https://www.youtube.com/watch?v=G1tFlghyYrA"
+    }
+  },
+  "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/8/4/3/2/8/184328-son-of-wealth-0-1000-0-1500-crop.jpg",
+  "title": "ابن عز",
+  "type": "movie",
+  "year": 2001
+}

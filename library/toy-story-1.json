@@ -1,0 +1,122 @@
+{
+  "category": "Action, Adventure, kids, animation",
+  "description": "فيلم \"حكاية لعبة\" (Toy Story 1) هو أول فيلم رسوم متحركة في التاريخ يصنع بالكامل باستخدام الحاسوب. صدر عام 1995 من إنتاج بيكسار وديزني، وتدور قصة الفيلم حول الغيرة بين دمية وودي القديمة ودمية باز يطير الحديثة قبل أن يصبحا صديقين لحماية بعضهما",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 92.37,
+      "id": 1,
+      "original_description": "يا نهار اسود",
+      "start": 91.12
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 293.95,
+      "id": 2,
+      "original_description": "يا اهبل يا متخلف ، عبيط",
+      "start": 286.74
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 479.73,
+      "id": 3,
+      "original_description": "شخص يلقي تعليق ايحائي",
+      "start": 474.87
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 534.55,
+      "id": 4,
+      "original_description": "غباوة",
+      "start": 534.2
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 797.62,
+      "id": 5,
+      "original_description": "برص",
+      "start": 797.2
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1512.4,
+      "id": 6,
+      "original_description": "يا عبيط",
+      "start": 1511.73
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1964.56,
+      "id": 7,
+      "original_description": "العبيطة",
+      "start": 1963.98
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2094.96,
+      "id": 8,
+      "original_description": "عبيط",
+      "start": 2094.24
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2347.52,
+      "id": 9,
+      "original_description": "يا مهابيل",
+      "start": 2346.94
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3874.62,
+      "id": 10,
+      "original_description": "عبيط",
+      "start": 3874.07
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4573.64,
+      "id": 11,
+      "original_description": "امرأة تقبل رجلا خارج الشاشة ",
+      "start": 4568.11
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4611.55,
+      "id": 12,
+      "original_description": "وودي يخرج وجهه ملي بالبوس",
+      "start": 4592.83
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4626.09,
+      "id": 13,
+      "original_description": "وودي وجهه ملي بالبوس",
+      "start": 4622.78
+    }
+  ],
+  "genre": "Action, Kids",
+  "pg": "PG",
+  "platforms": {
+    "disney": {
+      "id": "f6174ebf-cb92-453c-a52b-62bb3576e402",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-f6174ebf-cb92-453c-a52b-62bb3576e402"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/rqSNdPCgJf1kw9o32RfejOmoIoK.jpg",
+  "title": "حكاية لعبة 1",
+  "type": "movie",
+  "year": 1995
+}

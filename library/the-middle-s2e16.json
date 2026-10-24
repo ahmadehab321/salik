@@ -1,0 +1,67 @@
+{
+  "episode": 16,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 179.46,
+      "id": 1,
+      "original_description": "damn",
+      "start": 178.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 349.51,
+      "id": 2,
+      "original_description": "beer",
+      "start": 349.3
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 648.51,
+      "id": 3,
+      "original_description": "idiot",
+      "start": 648.16
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 720.98,
+      "id": 4,
+      "original_description": "breasts",
+      "start": 720.53
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 892.04,
+      "id": 5,
+      "original_description": "freak",
+      "start": 891.78
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 907.82,
+      "id": 6,
+      "original_description": "freak",
+      "start": 907.47
+    }
+  ],
+  "parent_series_id": "the-middle",
+  "platforms": {
+    "netflix": {
+      "id": 82170870,
+      "url": "https://www.netflix.com/watch/82170870"
+    },
+    "osnplus": {
+      "id": 69075,
+      "url": "https://osnplus.com/en-eg/episode/hecks-on-a-plane-69075/watch?contentStreamingDeeplinkQueryParam=false"
+    }
+  },
+  "season": 2,
+  "title": "The Middle - S2E16",
+  "type": "episode"
+}

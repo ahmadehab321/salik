@@ -1,0 +1,107 @@
+{
+  "addedAt": 1790448905075,
+  "category": "Cartoon",
+  "description": "يتردد \"نيك دالي\" (ابن الحارس السابق لاري) في تسلم مهام والده كحارس ليلي لمتحف التاريخ الطبيعي خلال العطلة الصيفية.\nيعود الشرير القديم \"كامونراه\" للحياة مجددًا بعد أن ينجح في فتح البوابة المؤدية إلى العالم السفلي للسيطرة على العالم.\nيتحتم على نيك التغلب على شكوكه واستجمام شجاعته بالتعاون مع أصدقائه المعروضات القدماء لإحباط خطة كامونراه وإنقاذ المتحف.",
+  "filters": [
+    {
+      "action_type": "blur",
+      "category": "nudity",
+      "end": 524,
+      "id": 1,
+      "original_description": "حين يتم خبط \"نك\" في الخزانة يظهر علم المثليين",
+      "start": 522
+    },
+    {
+      "action_type": "blur",
+      "category": "nudity",
+      "end": 580,
+      "id": 2,
+      "original_description": "ظهور علم المثليين وراء \"نك\" وميا",
+      "start": 574
+    },
+    {
+      "action_type": "blur",
+      "category": "nudity",
+      "end": 763,
+      "id": 3,
+      "original_description": "ظهور علم المثليين",
+      "start": 741
+    },
+    {
+      "action_type": "blur",
+      "category": "nudity",
+      "end": 775,
+      "id": 4,
+      "original_description": "ظهور علم المثليين",
+      "start": 771
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1540,
+      "id": 5,
+      "original_description": "غبية",
+      "start": 1539
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2062,
+      "id": 6,
+      "original_description": "تمثال امرأة عارية",
+      "start": 2056
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2182,
+      "id": 7,
+      "original_description": "غبية",
+      "start": 2181
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2236,
+      "id": 8,
+      "original_description": "اغبياء",
+      "start": 2235
+    },
+    {
+      "action_type": "mute",
+      "category": "violence",
+      "end": 2782,
+      "id": 9,
+      "original_description": "شخص يضرط",
+      "start": 2781.5
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3519,
+      "id": 10,
+      "original_description": "متخلف",
+      "start": 3517.5
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4090,
+      "id": 11,
+      "original_description": "الغبي",
+      "start": 4089
+    }
+  ],
+  "genre": "رسوم متحركة، كوميديا، مغامرة، خيال، عائلي",
+  "pg": "+7",
+  "platforms": {
+    "disney": {
+      "id": "f092640b-ba1b-4a1a-ade7-5232dc2d82fe",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-f092640b-ba1b-4a1a-ade7-5232dc2d82fe"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/w600_and_h900_face/zo5iCQFZRgpLldUnOHcCHT943Sq.jpg",
+  "title": "Night at the Museum (4) : Kahmunrah Rises Again",
+  "type": "movie",
+  "year": 2022
+}

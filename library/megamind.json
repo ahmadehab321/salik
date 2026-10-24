@@ -1,0 +1,155 @@
+{
+  "addedAt": 1791017620390,
+  "category": "Dreamworks",
+  "description": "ينجح الشرير العبقري \"ميجامايند\" في هزيمة خصمه البطل \"مترومان\"، لكنه يشعر بالملل وفقدان الشغف بدون منافسة.\nيقرر خلق بطل جديد لمواجهته، لكن خطته تنقلب ضده عندما يقرر البطل الجديد التدمير بدلاً من الخير.",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 39.03,
+      "id": 1,
+      "original_description": "butt",
+      "start": 38.03
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 289.36,
+      "id": 2,
+      "original_description": "freak",
+      "start": 288.04
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 462.25,
+      "id": 3,
+      "original_description": "freaking",
+      "start": 461.1
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 538.14,
+      "id": 4,
+      "original_description": "fools",
+      "start": 537
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 633.34,
+      "id": 5,
+      "original_description": "امرأة تقبل قدم رجل",
+      "start": 631.79
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1604.81,
+      "id": 6,
+      "original_description": "stupid",
+      "start": 1604
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2063.85,
+      "id": 7,
+      "original_description": "fools",
+      "start": 2062.69
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2420.2,
+      "id": 8,
+      "original_description": "freaking",
+      "start": 2418.96
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2458.54,
+      "id": 9,
+      "original_description": "شخص يقوم بعمل ايحائي",
+      "start": 2453.46
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3042.12,
+      "id": 10,
+      "original_description": "butt",
+      "start": 3041.22
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3060.4,
+      "id": 11,
+      "original_description": "butt",
+      "start": 3059.66
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3144.48,
+      "id": 12,
+      "original_description": "رجل يقبل امرأة",
+      "start": 3117.83
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3557.36,
+      "id": 13,
+      "original_description": "freak",
+      "start": 3556.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3604.26,
+      "id": 14,
+      "original_description": "fool",
+      "start": 3603.3
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3637.84,
+      "id": 15,
+      "original_description": "\"ميغاميند\" يُقذف من مؤخرة روبوت",
+      "start": 3636.78
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4652.47,
+      "id": 16,
+      "original_description": "fool",
+      "start": 4651.51
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4656.88,
+      "id": 17,
+      "original_description": "fool",
+      "start": 4655.76
+    }
+  ],
+  "genre": "رسوم متحركة، أكشن، كوميديا، خيال علمي، عائلي",
+  "pg": "+7",
+  "platforms": {
+    "osnplus": {
+      "id": "12444",
+      "url": "https://osnplus.com/ar-eg/movie/megamind-12444"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/w600_and_h900_face/kH2acwtiiwHsgARlFM653miKOvn.jpg",
+  "title": "Megamind",
+  "type": "movie",
+  "year": 2010
+}

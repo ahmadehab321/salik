@@ -1,0 +1,174 @@
+{
+  "category": "Comedy",
+  "description": "فيلم جواز بقرار جمهوري هو فيلم كوميدي مصري إنتاج عام 2001، بطولة هاني رمزي وحنان ترك، وإخراج خالد يوسف. تدور قصة الفيلم حول موظف بسيط يرسل دعوة زفاف لرئيس الجمهورية، لتنقلب حياته رأساً على عقب حين يفاجأ بموافقة الرئيس على حضور الحفل",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 232.26,
+      "id": 1,
+      "original_description": "يا نهار اسود",
+      "start": 231.71
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 346.46,
+      "id": 2,
+      "original_description": "ابن المجنونة",
+      "start": 346.37
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 505.49,
+      "id": 3,
+      "original_description": "والنبي",
+      "start": 504.96
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 551.79,
+      "id": 4,
+      "original_description": "تنمر على سمينين",
+      "start": 536.48
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 566.68,
+      "id": 5,
+      "original_description": "يا ولاد الحرامية",
+      "start": 566.04
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 628.87,
+      "id": 6,
+      "original_description": "صفعة على الوجه",
+      "start": 628.06
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 631.88,
+      "id": 7,
+      "original_description": "صفعة على الوجه",
+      "start": 631.48
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 693.38,
+      "id": 8,
+      "original_description": "صفعة على الوجه",
+      "start": 690.91
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1748.88,
+      "id": 9,
+      "original_description": "وحياة كل الأولياء",
+      "start": 1747.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2708.47,
+      "id": 10,
+      "original_description": "والنبي",
+      "start": 2707.45
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2805.53,
+      "id": 11,
+      "original_description": "معفن",
+      "start": 2804.99
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2899.51,
+      "id": 12,
+      "original_description": "بنت كلب",
+      "start": 2899.01
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 3447.83,
+      "id": 13,
+      "original_description": "شخص يشرب السجائر",
+      "start": 3446.03
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3598.76,
+      "id": 14,
+      "original_description": "يا موكوس",
+      "start": 3598.17
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4973.37,
+      "id": 15,
+      "original_description": "حضن بين رجل وخطيبته",
+      "start": 4949.38
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5000.86,
+      "id": 16,
+      "original_description": "يا نهار اسود",
+      "start": 5000.47
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5054.66,
+      "id": 17,
+      "original_description": "يا نهار اسود",
+      "start": 5054.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5107.08,
+      "id": 18,
+      "original_description": "بنت كلب",
+      "start": 5106.6
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 5629.48,
+      "id": 19,
+      "original_description": "شخص يأخذ حبة للصحة الجنسية",
+      "start": 5606.42
+    }
+  ],
+  "genre": "Comedy",
+  "pg": "PG",
+  "platforms": {
+    "watchit": {
+      "id": 1236,
+      "url": "https://www.watchit.com/#/details/movies/1236"
+    },
+    "youtube": {
+      "id": "0swRO-gi-18",
+      "url": "https://www.youtube.com/watch?v=0swRO-gi-18"
+    }
+  },
+  "poster_url": "https://media0106.elcinema.com/uploads/_640x_7b3909cf72bce782632f06e36da52df92fedeeb175d2731a7075da44c1568035.jpg",
+  "title": "جواز بقرار جمهوري",
+  "type": "movie",
+  "year": 2001
+}

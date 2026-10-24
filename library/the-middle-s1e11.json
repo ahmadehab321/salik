@@ -1,0 +1,67 @@
+{
+  "episode": 11,
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 10.522965,
+      "id": 1,
+      "original_description": "اشكال ضالة",
+      "start": 8.26418
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 56.85,
+      "id": 2,
+      "original_description": "crap",
+      "start": 56.58
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 231.82,
+      "id": 3,
+      "original_description": "sucked",
+      "start": 231.4
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 256.7,
+      "id": 4,
+      "original_description": "stupid",
+      "start": 256.33
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 257.45,
+      "id": 5,
+      "original_description": "ugly",
+      "start": 257.07
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1137.3,
+      "id": 6,
+      "original_description": "hell",
+      "start": 1137.04
+    }
+  ],
+  "parent_series_id": "the-middle",
+  "platforms": {
+    "netflix": {
+      "id": "82170841",
+      "url": "https://www.netflix.com/watch/82170841"
+    },
+    "osnplus": {
+      "id": 68981,
+      "url": "https://osnplus.com/en-eg/episode/the-jeans-68981/watch?contentStreamingDeeplinkQueryParam=false"
+    }
+  },
+  "season": 1,
+  "title": "The Middle - S1E11",
+  "type": "episode"
+}

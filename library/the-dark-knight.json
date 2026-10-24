@@ -1,0 +1,621 @@
+{
+  "addedAt": 1786988752544,
+  "category": "Action, Thriller",
+  "description": "دور الأحداث حول تعاون \"باتمان\" مع المفتش \"جوردون\" والمدعي العام \"هارفي دينت\" للقضاء على المافيا. تنقلب موازين المدينة بظهور \"الجوكر\" الذي ينشر الرعب ويسعى لكسر القواعد، مما يضع \"باتمان\" في معضلات أخلاقية قاسية لتحديد مصير المدينة",
+  "filters": [
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 733.761668,
+      "id": 1,
+      "original_description": "جرح غائر",
+      "start": 731.9
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 974.11,
+      "id": 2,
+      "original_description": "hell",
+      "start": 973.83
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1234.33,
+      "id": 3,
+      "original_description": "scum",
+      "start": 1234.09
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1315.22,
+      "id": 4,
+      "original_description": "hell",
+      "start": 1314.79
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1324.97,
+      "id": 5,
+      "original_description": "stupid",
+      "start": 1324.6
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1452.22,
+      "id": 6,
+      "original_description": "damn",
+      "start": 1451.53
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1537.42,
+      "id": 7,
+      "original_description": "shit",
+      "start": 1536.91
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1600.6,
+      "id": 8,
+      "original_description": "scum",
+      "start": 1600.32
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1628.25,
+      "id": 9,
+      "original_description": "ugly",
+      "start": 1627.94
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1691.374297,
+      "id": 10,
+      "original_description": "بنات تلبس بكيني على مركب",
+      "start": 1684.017629
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1697.311826,
+      "id": 11,
+      "original_description": "رجل يشير لبنت تلبس البكيني",
+      "start": 1695.595096
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2317.19,
+      "id": 12,
+      "original_description": "pot",
+      "start": 2316.66
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2506.67,
+      "id": 13,
+      "original_description": "jesus",
+      "start": 2505.38
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2537.56,
+      "id": 14,
+      "original_description": "scum",
+      "start": 2537.22
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2570.3,
+      "id": 15,
+      "original_description": "scum",
+      "start": 2570.04
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2880.016887,
+      "id": 16,
+      "original_description": "رجل يدخل على اثنين كانا يمارسان الجنس",
+      "start": 2868.907338
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3663.385525,
+      "id": 17,
+      "original_description": "حضن بين رجل وامرأة",
+      "start": 3658.85429
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3990.003647,
+      "id": 18,
+      "original_description": "رجل يقبل امرأة",
+      "start": 3977.408078
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4257.081679,
+      "id": 19,
+      "original_description": "امرأة تقبل رجل ",
+      "start": 4253.409054
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 4494.89,
+      "id": 20,
+      "original_description": "hell",
+      "start": 4494.42
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 4498.62,
+      "id": 21,
+      "original_description": "damn",
+      "start": 4498.37
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 4538.56,
+      "id": 22,
+      "original_description": "jesus",
+      "start": 4538.33
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 4562.83,
+      "id": 23,
+      "original_description": "hell",
+      "start": 4562.49
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 4970.43,
+      "id": 24,
+      "original_description": "bitch",
+      "start": 4970.2
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 4994.45,
+      "id": 25,
+      "original_description": "ass",
+      "start": 4994.1
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 5169.687526,
+      "id": 26,
+      "original_description": "ضرب شخص في الزجاج",
+      "start": 5167.381039
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 5173.831552,
+      "id": 27,
+      "original_description": "ضرب شخص وتعذيبه",
+      "start": 5172.13119
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 5314.35,
+      "id": 28,
+      "original_description": "leper",
+      "start": 5313.92
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 5395.968411,
+      "id": 29,
+      "original_description": "جرح شخص في بطنه",
+      "start": 5391.265857
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 5447.788905,
+      "id": 30,
+      "original_description": "جرح شخص في بطنه تليفون",
+      "start": 5445.737558
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 5450.966337,
+      "id": 31,
+      "original_description": "تليفون يرن في بطن شخص",
+      "start": 5448.371014
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 5454.959327,
+      "id": 32,
+      "original_description": "انفجار في قسم الشرطة",
+      "start": 5452.891251
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 5530.010304,
+      "id": 33,
+      "original_description": "رجل يحرق وجهه",
+      "start": 5523.978599
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 5566.69,
+      "id": 34,
+      "original_description": "shit",
+      "start": 5565.6
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 5657.03,
+      "id": 35,
+      "original_description": "damn",
+      "start": 5656.75
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 5849.685803,
+      "id": 36,
+      "original_description": "ظهور ذو الوجهين بنصف وجه محروق 1",
+      "start": 5840.081103
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 5927.46,
+      "id": 37,
+      "original_description": "hell",
+      "start": 5927.09
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 6183.604561,
+      "id": 38,
+      "original_description": "ظهور ذو الوجهين 2",
+      "start": 6177.674384
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 6190.210284,
+      "id": 39,
+      "original_description": "ذو الوجهين 3 بالوجه المحروق",
+      "start": 6184.959395
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 6198.494762,
+      "id": 40,
+      "original_description": "ذو الوجهين 4 ",
+      "start": 6194.506885
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 6210.081984,
+      "id": 41,
+      "original_description": "ذو الوجهين 5",
+      "start": 6204.172652
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 6219.279037,
+      "id": 42,
+      "original_description": "ذو الوجهين 6",
+      "start": 6215.271828
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 6224.738921,
+      "id": 43,
+      "original_description": "ذو الوجهين 7",
+      "start": 6220.390431
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 6234.722105,
+      "id": 44,
+      "original_description": "ذو الوجهين 8",
+      "start": 6229.697433
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 6247.488402,
+      "id": 45,
+      "original_description": "ذو الوجهين 9",
+      "start": 6244.343062
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 6254.695011,
+      "id": 46,
+      "original_description": "ذو الوجهين 10",
+      "start": 6250.571594
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 6257.464637,
+      "id": 47,
+      "original_description": "ذو الوجهين 11",
+      "start": 6254.922463
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 6340.147825,
+      "id": 48,
+      "original_description": "ذو الوجهين 12",
+      "start": 6333.999834
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 6343.652119,
+      "id": 49,
+      "original_description": "ذو الوجهين 13",
+      "start": 6340.959076
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 6351.674503,
+      "id": 50,
+      "original_description": "ذو الوجهين 14",
+      "start": 6347.498188
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 6372.310642,
+      "id": 51,
+      "original_description": "ذو الوجهين 15",
+      "start": 6361.672136
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 6377.36952,
+      "id": 52,
+      "original_description": "ذو الوجهين 16",
+      "start": 6374.088104
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 6380.993838,
+      "id": 53,
+      "original_description": "ذو الوجهين 17",
+      "start": 6377.156343
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 6385.800409,
+      "id": 54,
+      "original_description": "ذو الوجهين 18",
+      "start": 6381.573716
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 6389.204819,
+      "id": 55,
+      "original_description": "ذو الوجهين 19",
+      "start": 6385.587156
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 6652.999171,
+      "id": 56,
+      "original_description": "ذو الوجهين 20",
+      "start": 6619.651002
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 6850.394452,
+      "id": 57,
+      "original_description": "ذو الوجهين 21",
+      "start": 6787.939606
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 6885.76,
+      "id": 58,
+      "original_description": "jesus",
+      "start": 6885.43
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 6909.9,
+      "id": 59,
+      "original_description": "jesus",
+      "start": 6909.53
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 7060.51,
+      "id": 60,
+      "original_description": "jesus",
+      "start": 7059.98
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 7081.702611,
+      "id": 61,
+      "original_description": "ظهور ذو الوجهين 22",
+      "start": 7076.588139
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 7106.401991,
+      "id": 62,
+      "original_description": "ذو الوجهين 23",
+      "start": 7085.445261
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 7456.029925,
+      "id": 63,
+      "original_description": "قتال بين شخص وكلاب",
+      "start": 7435.405378
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 7807.651988,
+      "id": 64,
+      "original_description": "ذو الوجهين 24",
+      "start": 7804.121984
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 7861.305609,
+      "id": 65,
+      "original_description": "ذو الوجهين 25",
+      "start": 7855.271371
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 7904.716459,
+      "id": 66,
+      "original_description": "ذو الوجهين 26",
+      "start": 7864.162026
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 7924.506028,
+      "id": 67,
+      "original_description": "ذو الوجهين 27",
+      "start": 7910.788935
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 8000.680179,
+      "id": 68,
+      "original_description": "ذو الوجهين 28",
+      "start": 7926.09859
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 7958.8,
+      "id": 69,
+      "original_description": "ugly",
+      "start": 7958.43
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 8030.479975,
+      "id": 70,
+      "original_description": "ذو الوجهين 29",
+      "start": 8026.831649
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 8037.478214,
+      "id": 71,
+      "original_description": "ذو الوجهين 30",
+      "start": 8033.005521
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 8113.15376,
+      "id": 72,
+      "original_description": "ذو الوجهين 31",
+      "start": 8107.428505
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 8121.725978,
+      "id": 73,
+      "original_description": "ذو الوجهين 32",
+      "start": 8116.936483
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 8155.614472,
+      "id": 74,
+      "original_description": "ذو الوجهين 33",
+      "start": 8149.834072
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 8226.58,
+      "id": 75,
+      "original_description": "goddamn",
+      "start": 8226.15
+    }
+  ],
+  "platforms": {
+    "osnplus": {
+      "id": 22632,
+      "url": "https://osnplus.com/en-ae/movie/the-dark-knight-22632"
+    },
+    "shahid": {
+      "id": 2464982527,
+      "url": "https://shahid.mbc.net/ar/player/movies/The-Dark-Knight/id-2464982527"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/6Z9znq1IxwknrdPbXyr7NJJPhpP.jpg",
+  "title": "The Dark Knight",
+  "type": "movie",
+  "year": 2008
+}

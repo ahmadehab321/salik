@@ -1,0 +1,50 @@
+{
+  "category": "Drama, Kids, Action, Adventure, Musical",
+  "description": "فيلم موفاسا: الأسد الملك (Mufasa: The Lion King)  تمت فلترة النسخة العربية المصرية هو عمل سينمائي من إنتاج ديزني وإخراج باري جينكينز، صدر في ديسمبر 2024. يروي الفيلم قصة صعود موفاسا من شبل يتيم وضائع إلى ملك أسطوري، مسلطاً الضوء على علاقته المعقدة بأخيه تاكا (الذي أصبح لاحقاً سكار)",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1227.97,
+      "id": 1,
+      "original_description": "عبيط",
+      "start": 1227.45
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1614.83,
+      "id": 2,
+      "original_description": "كلب",
+      "start": 1614.03
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 6457.61,
+      "id": 3,
+      "original_description": "أساطير وثنية قديمة، التحدث مع الملوك العظام",
+      "start": 6440.66
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 6549.88,
+      "id": 4,
+      "original_description": "ظهور موفاسا في السحاب",
+      "start": 6528.8
+    }
+  ],
+  "genre": "Action, Drama, Kids, Adventure, Musical",
+  "pg": "PG",
+  "platforms": {
+    "disney": {
+      "id": "be4719cc-b491-4593-b5a7-d8658976c0b9",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-be4719cc-b491-4593-b5a7-d8658976c0b9"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/hoKepNyJj5BtQvmAR2BtM1DkDcj.jpg",
+  "title": "موفاسا: الأسد الملك (مصري)",
+  "type": "movie",
+  "year": 2024
+}

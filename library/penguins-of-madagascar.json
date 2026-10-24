@@ -1,0 +1,287 @@
+{
+  "addedAt": 1787554282847,
+  "category": "Dreamworks",
+  "description": "Penguins of Madagascar هو عمل رسوم متحركة كوميدي من إنتاج دريم ووركس ، يتبع أربعة بطاريق عملاء هم سكيبر، كوالسكي، ريكو، وبرايفيت. يتحد البطاريق مع منظمة سرية لإنقاذ العالم من خطط شريرة.",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 96.12,
+      "id": 1,
+      "original_description": "مؤخراتهم",
+      "start": 94.72
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 652.23,
+      "id": 2,
+      "original_description": "بطريقان شواذ يقبلان بعضهما",
+      "start": 646.72
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1795.36,
+      "id": 3,
+      "original_description": "pathetic",
+      "start": 1794.28
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1797.92,
+      "id": 4,
+      "original_description": "pathetic",
+      "start": 1797.09
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1942.17,
+      "id": 5,
+      "original_description": "سكيبر عليه حمالة صدر",
+      "start": 1940.2
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1974.71,
+      "id": 6,
+      "original_description": "freak",
+      "start": 1973.87
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2424.53,
+      "id": 7,
+      "original_description": "بطريق يلبس بكيني",
+      "start": 2408.11
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2438.85,
+      "id": 8,
+      "original_description": "بطريق يمسح الزجاج بمؤخرته",
+      "start": 2435.42
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2462.77,
+      "id": 9,
+      "original_description": "وضع بطريق البكيني",
+      "start": 2456.48
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2509.49,
+      "id": 10,
+      "original_description": "بطريق البكيني يتم شفطه",
+      "start": 2497.66
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2714.94,
+      "id": 11,
+      "original_description": "كواليسكي يتقيء وريكو يأكله",
+      "start": 2697.88
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2832.38,
+      "id": 12,
+      "original_description": "بطاريق تلبس البكيني",
+      "start": 2828.64
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2845.5,
+      "id": 13,
+      "original_description": "بطريق يضع وشم ، وآخر يلبس بكيني",
+      "start": 2840.7
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2881.35,
+      "id": 14,
+      "original_description": "بطاريق تلبس البكيني",
+      "start": 2852.51
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2889.53,
+      "id": 15,
+      "original_description": "بطاريق تلبس البكيني",
+      "start": 2882.42
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2901.16,
+      "id": 16,
+      "original_description": "بطاريق تلبس البكيني",
+      "start": 2899.16
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2930.7,
+      "id": 17,
+      "original_description": "بطاريق تلبس البكيني",
+      "start": 2916.29
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3044.13,
+      "id": 18,
+      "original_description": "شخص يقول تعليق ايحائي",
+      "start": 3043.25
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3092.56,
+      "id": 19,
+      "original_description": "صفع مؤخرة بطريق",
+      "start": 3089.58
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3313.28,
+      "id": 20,
+      "original_description": "صفع وجه ومؤخرة بطريق",
+      "start": 3299.38
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3398.75,
+      "id": 21,
+      "original_description": "شخص يضع جوز هند كحمالة صدر",
+      "start": 3387.39
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3607.36,
+      "id": 22,
+      "original_description": "ظهور مؤخرة البطريق",
+      "start": 3602.1
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3613.28,
+      "id": 23,
+      "original_description": "برايفت مؤخرته ظاهرة",
+      "start": 3611.53
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3617.38,
+      "id": 24,
+      "original_description": "برايفت مؤخرته ظاهرة",
+      "start": 3614.59
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3753.62,
+      "id": 25,
+      "original_description": "برايفت مؤخرته ظاهرة",
+      "start": 3747.48
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3772.59,
+      "id": 26,
+      "original_description": "freaks",
+      "start": 3771.51
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3866.22,
+      "id": 27,
+      "original_description": "مؤخرة برايفت تظهر",
+      "start": 3859.14
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4075.58,
+      "id": 28,
+      "original_description": "بطريق يأكل قطة",
+      "start": 4070.93
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4113.48,
+      "id": 29,
+      "original_description": "ظهور مؤخرة برايفت",
+      "start": 4110.97
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4250.07,
+      "id": 30,
+      "original_description": "butt",
+      "start": 4249.37
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4390.93,
+      "id": 31,
+      "original_description": "يتم ضربهم في اماكن حساسة",
+      "start": 4386.9
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4739.8,
+      "id": 32,
+      "original_description": "بطريق يلبس البكيني في كرة زجاجية",
+      "start": 4735.77
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4810.01,
+      "id": 33,
+      "original_description": "البطريق يبوس البومة",
+      "start": 4798.16
+    }
+  ],
+  "genre": "Animation, Adventure",
+  "pg": "PG",
+  "platforms": {
+    "amazon": {
+      "id": "0Q38J8NHZL3Z6CIVKNP991FN8H",
+      "url": "https://www.primevideo.com/detail/0Q38J8NHZL3Z6CIVKNP991FN8H"
+    },
+    "osnplus": {
+      "id": "17856",
+      "url": "https://osnplus.com/en-eg/movie/17856"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/qLSmVgC6DX59h4oPpB25ZF8d7OK.jpg",
+  "title": "Penguins of Madagascar",
+  "type": "movie",
+  "year": 2014
+}

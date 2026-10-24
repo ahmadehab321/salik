@@ -1,0 +1,430 @@
+{
+  "category": "Drama , Comedy",
+  "description": "عسل أسود هو فيلم كوميدي اجتماعي مصري أنتج عام 2010، بطولة أحمد حلمي وتأليف خالد دياب وإخراج خالد مرعي. تدور أحداثه حول شاب هاجر لأمريكا طفلاً وعاد بعد 20 عاماً ليصطدم بتغيرات الواقع المصري، ويناقش قضايا الهوية والانتماء بمواقف تجمع بين الكوميديا والمرارة",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 735.75,
+      "id": 1,
+      "original_description": "shit",
+      "start": 735.26
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 880.92,
+      "id": 2,
+      "original_description": "يا ابن الحرامية",
+      "start": 879.65
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1255.69,
+      "id": 3,
+      "original_description": "حصان يتبول فيقول شخص hell",
+      "start": 1253.51
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1387.58,
+      "id": 4,
+      "original_description": "shit",
+      "start": 1386.75
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1460.47,
+      "id": 5,
+      "original_description": "shit , hell",
+      "start": 1458.66
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1465.81,
+      "id": 6,
+      "original_description": "shit",
+      "start": 1465.19
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1588.42,
+      "id": 7,
+      "original_description": "shit",
+      "start": 1587.75
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1701.48,
+      "id": 8,
+      "original_description": "واطي",
+      "start": 1697.43
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1827.99,
+      "id": 9,
+      "original_description": "شخص يفتح الباب عاري ويقول shit",
+      "start": 1825.51
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2269.3,
+      "id": 10,
+      "original_description": "بالجزمة",
+      "start": 2268.76
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 2413.32,
+      "id": 11,
+      "original_description": "shit",
+      "start": 2409.88
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2711.75,
+      "id": 12,
+      "original_description": "drugs",
+      "start": 2711.36
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2957.59,
+      "id": 13,
+      "original_description": "يا جزمة",
+      "start": 2956.88
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3224.97,
+      "id": 14,
+      "original_description": "shit",
+      "start": 3224.23
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3265.74,
+      "id": 15,
+      "original_description": "شخص يشم رائحة جورب ",
+      "start": 3261.43
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3288.18,
+      "id": 16,
+      "original_description": "شخص يصفع وجه شخص",
+      "start": 3286.85
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 3320.33,
+      "id": 17,
+      "original_description": "shit",
+      "start": 3318.65
+    },
+    {
+      "action_type": "mute",
+      "category": "violence",
+      "end": 3496.46,
+      "id": 18,
+      "original_description": "شخاف",
+      "start": 3496.04
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 3666.27,
+      "id": 19,
+      "original_description": "انت هتصاحبني",
+      "start": 3660.48
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 3678.31,
+      "id": 20,
+      "original_description": "التانية دي كبيرة من يومها",
+      "start": 3676.57
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3739.97,
+      "id": 21,
+      "original_description": "شخص يصفع شخص ويقول shit",
+      "start": 3738.56
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3882.75,
+      "id": 22,
+      "original_description": "shit",
+      "start": 3882.29
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 3894.31,
+      "id": 23,
+      "original_description": "oh shit",
+      "start": 3893.56
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3935.63,
+      "id": 24,
+      "original_description": "زبالة",
+      "start": 3935.28
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3937.79,
+      "id": 25,
+      "original_description": "زبالة",
+      "start": 3937.49
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3948.4,
+      "id": 26,
+      "original_description": "زبالة",
+      "start": 3947.85
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3955.8,
+      "id": 27,
+      "original_description": "الزبالة",
+      "start": 3955.38
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3970.57,
+      "id": 28,
+      "original_description": "Shit",
+      "start": 3970.22
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 4097.61,
+      "id": 29,
+      "original_description": "رجل يلبس خمار",
+      "start": 4014.44
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4520.98,
+      "id": 30,
+      "original_description": "شخص يصفع شخص",
+      "start": 4520.28
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4586.34,
+      "id": 31,
+      "original_description": "shit",
+      "start": 4585.69
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 4807.59,
+      "id": 32,
+      "original_description": "تنمر على شخص بسبب وزنه",
+      "start": 4805.87
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4844.68,
+      "id": 33,
+      "original_description": "شخص يصفع طفل",
+      "start": 4844.08
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4921.2,
+      "id": 34,
+      "original_description": "امك",
+      "start": 4921.18
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5041.68,
+      "id": 35,
+      "original_description": "متحرش الأسانسير",
+      "start": 4975.19
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 5134.09,
+      "id": 36,
+      "original_description": "oh shit",
+      "start": 5132.74
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 5270.05,
+      "id": 37,
+      "original_description": "shit",
+      "start": 5265.7
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 5276.39,
+      "id": 38,
+      "original_description": "زبالة",
+      "start": 5274.46
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 5283.86,
+      "id": 39,
+      "original_description": "زبالة",
+      "start": 5283.22
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 5335.79,
+      "id": 40,
+      "original_description": "hell , حيوان ،shit",
+      "start": 5331.19
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 5561.38,
+      "id": 41,
+      "original_description": "واطي اوي",
+      "start": 5558.95
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5639.39,
+      "id": 42,
+      "original_description": "زفت",
+      "start": 5638.98
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 5965.97,
+      "id": 43,
+      "original_description": "shit",
+      "start": 5964.56
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6184.79,
+      "id": 44,
+      "original_description": "جزمة",
+      "start": 6184.36
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6293.3,
+      "id": 45,
+      "original_description": "shit",
+      "start": 6292.21
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 6643.43,
+      "id": 46,
+      "original_description": "قيء",
+      "start": 6608.39
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 6615.03,
+      "id": 47,
+      "original_description": "يا كلب",
+      "start": 6614.43
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 7394.61,
+      "id": 48,
+      "original_description": "وحياة أمي العيانة",
+      "start": 7392.67
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 7439.99,
+      "id": 49,
+      "original_description": "زفت",
+      "start": 7439.43
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 7450.95,
+      "id": 50,
+      "original_description": "زفت",
+      "start": 7445.53
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7575.57,
+      "id": 51,
+      "original_description": "زبالة",
+      "start": 7574.92
+    }
+  ],
+  "genre": "Comedy, Drama",
+  "pg": "PG",
+  "platforms": {
+    "watchit": {
+      "id": 79,
+      "url": "https://www.watchit.com/#/details/movies/79"
+    },
+    "yango": {
+      "id": "8e0590feff894795b2aab9468af3f18a",
+      "url": "https://play.yango.com/ar/movies/film/8e0590feff894795b2aab9468af3f18a"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/7IRqRKyPth00lITljHES4zAsdyk.jpg",
+  "title": "عسل اسود",
+  "type": "movie",
+  "year": 2010
+}

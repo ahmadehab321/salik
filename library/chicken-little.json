@@ -1,0 +1,43 @@
+{
+  "addedAt": 1786438860002,
+  "category": "Comedy, Sci-Fi",
+  "description": "فيلم فروج القلة (المعروف بالإنجليزية بـ Chicken Little) هو فيلم رسوم متحركة من إنتاج ديزني عام 2005. يحكي قصة كتكوت صغير يسبب الذعر للبلدة بعد أن ظن أن السماء تسقط، وبعد أن يفقد ثقة الجميع، يحاول استعادة مكانته عندما يتعرض كوكب الأرض لغزو فضائي حقيقي بمساعدة أصدقائه",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3360.65,
+      "id": 1,
+      "original_description": "شخص يخرج من أنفه بشكل قذر",
+      "start": 3351.21
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3733.95,
+      "id": 2,
+      "original_description": "الفروج يقبل البطة",
+      "start": 3727.08
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4204.05,
+      "id": 3,
+      "original_description": "الخنزير يقبل الثعلبة",
+      "start": 4202.38
+    }
+  ],
+  "genre": "Comedy, Sci-Fi",
+  "pg": "PG",
+  "platforms": {
+    "disney": {
+      "id": "08bc9ce4-7e46-4383-a500-fd5305bb8f2e",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-08bc9ce4-7e46-4383-a500-fd5305bb8f2e"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/vlTA9nDnYbI0LEe2Ja9m3NLc379.jpg",
+  "title": "Chicken Little",
+  "type": "movie",
+  "year": 2005
+}

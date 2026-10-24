@@ -1,0 +1,303 @@
+{
+  "addedAt": 1786988752545,
+  "category": "Crime, Action",
+  "description": "فيلم \"نهوض فارس الظلام\" (The Dark Knight Rises) الصادر عام 2012، هو الجزء الأخير من ثلاثية باتمان للمخرج كريستوفر نولان. تدور أحداثه بعد مرور 8 سنوات من السلام، حين يظهر الإرهابي القوي \"باين\" لتهديد مدينة جوثام، مما يجبر بروس واين (باتمان) على ترك عزلته ومواجهة خطر مميت يهدف لتدمير المدينة",
+  "filters": [
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 474.36,
+      "id": 1,
+      "original_description": "ظهور وجه ذو الوجهين",
+      "start": 472.91
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 483.69,
+      "id": 2,
+      "original_description": "ظهور وجه ذو الوجهين",
+      "start": 482.61
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1827.52,
+      "id": 3,
+      "original_description": "creep",
+      "start": 1825.83
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2073.84,
+      "id": 4,
+      "original_description": "امرأة تقبل رجل",
+      "start": 2069.39
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2302.09,
+      "id": 5,
+      "original_description": "hell",
+      "start": 2301.31
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2656.79,
+      "id": 6,
+      "original_description": "hell",
+      "start": 2656.22
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2765.66,
+      "id": 7,
+      "original_description": "bitch",
+      "start": 2765.04
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2881.03,
+      "id": 8,
+      "original_description": "dumb",
+      "start": 2880.38
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2959.27,
+      "id": 9,
+      "original_description": "ذكر نوع خمر الشامبانيا",
+      "start": 2956.05
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2978.18,
+      "id": 10,
+      "original_description": "dumb",
+      "start": 2977.46
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2978.47,
+      "id": 11,
+      "original_description": "bitch",
+      "start": 2977.84
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2980.63,
+      "id": 12,
+      "original_description": "dumb",
+      "start": 2980.22
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2981.92,
+      "id": 13,
+      "original_description": "dumb",
+      "start": 2981.21
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3658.82,
+      "id": 14,
+      "original_description": "hell",
+      "start": 3658.19
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3664.26,
+      "id": 15,
+      "original_description": "sleeping with",
+      "start": 3663.24
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3675.91,
+      "id": 16,
+      "original_description": "hell",
+      "start": 3675.09
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3767.35,
+      "id": 17,
+      "original_description": "damn",
+      "start": 3766.75
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4025.71,
+      "id": 18,
+      "original_description": "امرأة تقبل رجل",
+      "start": 3941.38
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 4517.5,
+      "id": 19,
+      "original_description": "\"بروس\" مضروب على وجهه بوحشية",
+      "start": 4481.27
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4526.34,
+      "id": 20,
+      "original_description": "hell",
+      "start": 4525.72
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 4593.17,
+      "id": 21,
+      "original_description": "\"بروس\" مضروب على وجهه بوحشية",
+      "start": 4548.64
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4773.76,
+      "id": 22,
+      "original_description": "hell",
+      "start": 4773.22
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5011.04,
+      "id": 23,
+      "original_description": "jesus",
+      "start": 5010.24
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5240.07,
+      "id": 24,
+      "original_description": "jesus",
+      "start": 5239.14
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5496.6,
+      "id": 25,
+      "original_description": "hell",
+      "start": 5496
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5503.59,
+      "id": 26,
+      "original_description": "hell",
+      "start": 5503.11
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6252.85,
+      "id": 27,
+      "original_description": "hell",
+      "start": 6252.03
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 6512.93,
+      "id": 28,
+      "original_description": "اشخاص معلقين ومشنوقين",
+      "start": 6508.91
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6845.5,
+      "id": 29,
+      "original_description": "damn",
+      "start": 6844.84
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6931.56,
+      "id": 30,
+      "original_description": "bastard",
+      "start": 6930.68
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7121.41,
+      "id": 31,
+      "original_description": "hell",
+      "start": 7120.84
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7987.91,
+      "id": 32,
+      "original_description": "hell",
+      "start": 7987.19
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 8328.52,
+      "id": 33,
+      "original_description": "idiots",
+      "start": 8327.4
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 8330.53,
+      "id": 34,
+      "original_description": "bitches",
+      "start": 8329.62
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 8576.85,
+      "id": 35,
+      "original_description": "امرأة تقبل رجل",
+      "start": 8571.71
+    }
+  ],
+  "genre": "Action, Crime",
+  "pg": "PG-15",
+  "platforms": {
+    "osnplus": {
+      "id": 21059,
+      "url": "https://osnplus.com/en-eg/movie/21059"
+    },
+    "shahid": {
+      "id": 2418889527,
+      "url": "https://shahid.mbc.net/ar/player/movies/the-dark-knight-rises/id-2418889527"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/gDQLSmVsPxvOmQIAVFcl6Akn7Nh.jpg",
+  "title": "The Dark Knight Rises",
+  "type": "movie",
+  "year": 2012
+}

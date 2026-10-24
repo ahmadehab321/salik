@@ -1,0 +1,963 @@
+{
+  "addedAt": 1789248566715,
+  "category": "jackie chan",
+  "description": "يتعرض السفير الصيني لمحاولة اغتيال في لوس أنجلوس بعد أن يوشك على كشف هوية قادة عصابات \"التراياد\" السرية.\nيسافر المحققان \"لي\" و\"كارتر\" إلى باريس لتتبع خيوط الجريمة وحماية امرأة تمتلك المعلومات الوحيدة لإسقاط المنظمة.\nيخوض الثنائي مواجهات حامية في قلب العاصمة الفرنسية لمطاردة العصابة وكشف خيانة غير متوقعة في صفوف معارفهم.",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 96.45,
+      "id": 1,
+      "original_description": "hell",
+      "start": 95.72
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 98.29,
+      "id": 2,
+      "original_description": "hell",
+      "start": 97.26
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 100.56,
+      "id": 3,
+      "original_description": "goddamn",
+      "start": 99.44
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 103.93,
+      "id": 4,
+      "original_description": "shit",
+      "start": 102.96
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 166.76,
+      "id": 5,
+      "original_description": "مؤخرتين على المشهد",
+      "start": 138.76
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 140.67,
+      "id": 6,
+      "original_description": "bullshit",
+      "start": 139.29
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 154.57,
+      "id": 7,
+      "original_description": "damn",
+      "start": 153.75
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 246.18,
+      "id": 8,
+      "original_description": "drugs",
+      "start": 245
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 246.97,
+      "id": 9,
+      "original_description": "sex",
+      "start": 245.98
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 376.9,
+      "id": 10,
+      "original_description": "asses",
+      "start": 376.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 378.96,
+      "id": 11,
+      "original_description": "shit",
+      "start": 378.06
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 427.15,
+      "id": 12,
+      "original_description": "hell",
+      "start": 426.18
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 432.08,
+      "id": 13,
+      "original_description": "hell",
+      "start": 431.05
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 437.57,
+      "id": 14,
+      "original_description": "ass",
+      "start": 436.69
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 554.2,
+      "id": 15,
+      "original_description": "ass",
+      "start": 553.29
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 572.93,
+      "id": 16,
+      "original_description": "damn",
+      "start": 572.23
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 611.77,
+      "id": 17,
+      "original_description": "shit",
+      "start": 610.94
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 760.06,
+      "id": 18,
+      "original_description": "dope",
+      "start": 759.25
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 828.43,
+      "id": 19,
+      "original_description": "god",
+      "start": 827.35
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 860.72,
+      "id": 20,
+      "original_description": "damn",
+      "start": 858.6
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 885.62,
+      "id": 21,
+      "original_description": "hell",
+      "start": 884.73
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 930.22,
+      "id": 22,
+      "original_description": "shit",
+      "start": 929.08
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 958.07,
+      "id": 23,
+      "original_description": "hell",
+      "start": 957.18
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 983.27,
+      "id": 24,
+      "original_description": "damn",
+      "start": 982.35
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1003.81,
+      "id": 25,
+      "original_description": "ass",
+      "start": 1003
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1008.22,
+      "id": 26,
+      "original_description": "ass",
+      "start": 1007.32
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1010.3,
+      "id": 27,
+      "original_description": "ass",
+      "start": 1009.72
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1037.11,
+      "id": 28,
+      "original_description": "hell",
+      "start": 1036.23
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1039.41,
+      "id": 29,
+      "original_description": "damn",
+      "start": 1038.24
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1064.18,
+      "id": 30,
+      "original_description": "damn",
+      "start": 1063.19
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1108.39,
+      "id": 31,
+      "original_description": "شخص يضع مسدسه في مؤخرة شخص",
+      "start": 1102.88
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1106.53,
+      "id": 32,
+      "original_description": "ass",
+      "start": 1105.58
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1129.3,
+      "id": 33,
+      "original_description": "damn",
+      "start": 1128.62
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1204.98,
+      "id": 34,
+      "original_description": "hell",
+      "start": 1204.46
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1220.21,
+      "id": 35,
+      "original_description": "hell",
+      "start": 1219.35
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1236.2,
+      "id": 36,
+      "original_description": "hell",
+      "start": 1235.1
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1310.01,
+      "id": 37,
+      "original_description": "whore",
+      "start": 1308.91
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1350.83,
+      "id": 38,
+      "original_description": "asshole",
+      "start": 1349.81
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1392.15,
+      "id": 39,
+      "original_description": "damn",
+      "start": 1390.15
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1401.78,
+      "id": 40,
+      "original_description": "lord",
+      "start": 1400.92
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1557.1,
+      "id": 41,
+      "original_description": "naked",
+      "start": 1556.05
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1640.73,
+      "id": 42,
+      "original_description": "goddamn",
+      "start": 1638.78
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1661.82,
+      "id": 43,
+      "original_description": "stupid",
+      "start": 1660.71
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1695.99,
+      "id": 44,
+      "original_description": "shit",
+      "start": 1694.84
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1707.53,
+      "id": 45,
+      "original_description": "شخص يشرب السجائر",
+      "start": 1705.06
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1736.12,
+      "id": 46,
+      "original_description": "pathetic",
+      "start": 1734.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1758.98,
+      "id": 47,
+      "original_description": "hell",
+      "start": 1758.07
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1925.46,
+      "id": 48,
+      "original_description": "لعب القمار وامرأة مكشوفة الصدر",
+      "start": 1846.6
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1891.32,
+      "id": 49,
+      "original_description": "naked",
+      "start": 1890.25
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2030.04,
+      "id": 50,
+      "original_description": "لعب القمار",
+      "start": 1973.82
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2147.73,
+      "id": 51,
+      "original_description": "مضاربة الكازينو",
+      "start": 2080.24
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2128.11,
+      "id": 52,
+      "original_description": "ass",
+      "start": 2127.15
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2142.56,
+      "id": 53,
+      "original_description": "freak",
+      "start": 2141.59
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2227.88,
+      "id": 54,
+      "original_description": "shit",
+      "start": 2226.92
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2313.06,
+      "id": 55,
+      "original_description": "damn",
+      "start": 2312.08
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2326.09,
+      "id": 56,
+      "original_description": "مضاربة المطاردة",
+      "start": 2318.74
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2435.8,
+      "id": 57,
+      "original_description": "badass",
+      "start": 2434.83
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2436.68,
+      "id": 58,
+      "original_description": "hell",
+      "start": 2435.79
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2472.11,
+      "id": 59,
+      "original_description": "hell",
+      "start": 2471.1
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2492.51,
+      "id": 60,
+      "original_description": "shit",
+      "start": 2492.15
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2500.02,
+      "id": 61,
+      "original_description": "hell",
+      "start": 2499.46
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2553.52,
+      "id": 62,
+      "original_description": "shit",
+      "start": 2552.56
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2555.14,
+      "id": 63,
+      "original_description": "ass",
+      "start": 2554.45
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2568.02,
+      "id": 64,
+      "original_description": "hell",
+      "start": 2566.93
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2571.47,
+      "id": 65,
+      "original_description": "damn",
+      "start": 2570.43
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2572.84,
+      "id": 66,
+      "original_description": "pissed",
+      "start": 2571.51
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2938.13,
+      "id": 67,
+      "original_description": "فتيات مكشوفة عوراتهم",
+      "start": 2871.71
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3020.75,
+      "id": 68,
+      "original_description": "فتيات عرايا",
+      "start": 2973.14
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3003.6,
+      "id": 69,
+      "original_description": "lord",
+      "start": 3002.73
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3257.58,
+      "id": 70,
+      "original_description": "فتيات تخلع ملابسها",
+      "start": 3059.59
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3299.62,
+      "id": 71,
+      "original_description": "shit",
+      "start": 3298.65
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3353.92,
+      "id": 72,
+      "original_description": "امرأة تخلع ملابسها",
+      "start": 3312.66
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3326.52,
+      "id": 73,
+      "original_description": "wine",
+      "start": 3325.56
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3590.73,
+      "id": 74,
+      "original_description": "رجل وامرأة يرتكبان الزنا",
+      "start": 3376.32
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3554.37,
+      "id": 75,
+      "original_description": "shit",
+      "start": 3553.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3554.95,
+      "id": 76,
+      "original_description": "damn",
+      "start": 3553.67
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3571.09,
+      "id": 77,
+      "original_description": "damn",
+      "start": 3569.35
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3586.92,
+      "id": 78,
+      "original_description": "damn",
+      "start": 3586.41
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3587.96,
+      "id": 79,
+      "original_description": "damn",
+      "start": 3586.95
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3590.26,
+      "id": 80,
+      "original_description": "damn",
+      "start": 3589.32
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 3607.1,
+      "id": 81,
+      "original_description": "gay",
+      "start": 3603.63
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3620.16,
+      "id": 82,
+      "original_description": "crack",
+      "start": 3619.22
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3624.03,
+      "id": 83,
+      "original_description": "stupid",
+      "start": 3623.18
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3626.2,
+      "id": 84,
+      "original_description": "stupid",
+      "start": 3625.19
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3627.95,
+      "id": 85,
+      "original_description": "crack",
+      "start": 3627.18
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3636.38,
+      "id": 86,
+      "original_description": "صفعة على الوجه",
+      "start": 3635.36
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3663.64,
+      "id": 87,
+      "original_description": "jesus",
+      "start": 3662.46
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3666.5,
+      "id": 88,
+      "original_description": "damn",
+      "start": 3665.49
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3680.12,
+      "id": 89,
+      "original_description": "شخص يقول تعليق ايحائي",
+      "start": 3673.54
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3679.8,
+      "id": 90,
+      "original_description": "ass",
+      "start": 3679.07
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3722.15,
+      "id": 91,
+      "original_description": "damn",
+      "start": 3721.22
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3737.43,
+      "id": 92,
+      "original_description": "shit",
+      "start": 3736.51
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3739.71,
+      "id": 93,
+      "original_description": "hell",
+      "start": 3738.74
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4135.83,
+      "id": 94,
+      "original_description": "hell",
+      "start": 4134.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4143.26,
+      "id": 95,
+      "original_description": "damn",
+      "start": 4142.63
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4145.09,
+      "id": 96,
+      "original_description": "damn",
+      "start": 4144.1
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4161.54,
+      "id": 97,
+      "original_description": "damn",
+      "start": 4160.35
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4169.02,
+      "id": 98,
+      "original_description": "shit",
+      "start": 4167.53
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4170.37,
+      "id": 99,
+      "original_description": "damn",
+      "start": 4169.06
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4189.07,
+      "id": 100,
+      "original_description": "ass",
+      "start": 4188.23
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4240.54,
+      "id": 101,
+      "original_description": "ass",
+      "start": 4239.66
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4277.62,
+      "id": 102,
+      "original_description": "hell",
+      "start": 4276.53
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4422.81,
+      "id": 103,
+      "original_description": "مضاربة برج ايفيل",
+      "start": 4297.62
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4354.57,
+      "id": 104,
+      "original_description": "god",
+      "start": 4353.33
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4527.02,
+      "id": 105,
+      "original_description": "hell",
+      "start": 4525.92
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4601.15,
+      "id": 106,
+      "original_description": "ass",
+      "start": 4600.49
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4608.29,
+      "id": 107,
+      "original_description": "shit",
+      "start": 4607.4
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4669.13,
+      "id": 108,
+      "original_description": "مضاربة تحت العلم",
+      "start": 4654.69
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4746.28,
+      "id": 109,
+      "original_description": "lord",
+      "start": 4745.35
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4747.65,
+      "id": 110,
+      "original_description": "jesus",
+      "start": 4746.66
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4823.57,
+      "id": 111,
+      "original_description": "رجل يقبل امرأة",
+      "start": 4821.14
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4859.28,
+      "id": 112,
+      "original_description": "shit",
+      "start": 4858.37
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4860.02,
+      "id": 113,
+      "original_description": "butt",
+      "start": 4859.32
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4949.14,
+      "id": 114,
+      "original_description": "shit",
+      "start": 4948.35
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4966.33,
+      "id": 115,
+      "original_description": "damn",
+      "start": 4965.37
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5042.22,
+      "id": 116,
+      "original_description": "damn",
+      "start": 5041.35
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5151.2,
+      "id": 117,
+      "original_description": "wine",
+      "start": 5150.07
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5204.54,
+      "id": 118,
+      "original_description": "crap",
+      "start": 5203.61
+    }
+  ],
+  "genre": "أكشن، كوميديا، جريمة",
+  "pg": "+16",
+  "platforms": {
+    "stremio": {
+      "id": "tt0293564",
+      "url": "https://web.stremio.com/#/detail/movie/tt0293564/tt0293564"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/w600_and_h900_face/8gzvXpNyquTYzmBv94XZvWjJ7KW.jpg",
+  "title": "Rush Hour 3",
+  "type": "movie",
+  "year": 2007
+}

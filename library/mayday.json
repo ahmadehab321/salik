@@ -1,0 +1,499 @@
+{
+  "addedAt": 1788848300615,
+  "category": "Apple TV",
+  "description": "خلال الحرب الباردة يتحطم طيار حربي أمريكي بطائرته التجسسية داخل الأراضي السوفيتية. يجد نفسه مطاردًا خلف خطوط العدو، فيضطر للتحالف مع عميل روسي غريب الأطوار للهروب والعودة إلى موطنه. .",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 69.33,
+      "id": 1,
+      "original_description": "damn",
+      "start": 67.6
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 272.78,
+      "id": 2,
+      "original_description": "damn",
+      "start": 272.27
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 287.34,
+      "id": 3,
+      "original_description": "hell",
+      "start": 286.41
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 321.27,
+      "id": 4,
+      "original_description": "shit",
+      "start": 319.93
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 419,
+      "id": 5,
+      "original_description": "dick",
+      "start": 418.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 425.46,
+      "id": 6,
+      "original_description": "fool",
+      "start": 424.61
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 694.82,
+      "id": 7,
+      "original_description": "beer",
+      "start": 693.89
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 724.2,
+      "id": 8,
+      "original_description": "jesus",
+      "start": 723.34
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 725.44,
+      "id": 9,
+      "original_description": "hell",
+      "start": 724.97
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1005.85,
+      "id": 10,
+      "original_description": "damn",
+      "start": 1004.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1418.75,
+      "id": 11,
+      "original_description": "shit",
+      "start": 1417.65
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1461.65,
+      "id": 12,
+      "original_description": "fool",
+      "start": 1460.47
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1729.97,
+      "id": 13,
+      "original_description": "حرق يد شخص",
+      "start": 1724.81
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1743.67,
+      "id": 14,
+      "original_description": "شخص يطفئ يده المشتعلة في الثلج",
+      "start": 1736.93
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1914.96,
+      "id": 15,
+      "original_description": "صفع شخص على الوجه",
+      "start": 1912.98
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2012.3,
+      "id": 16,
+      "original_description": "مضاربة الحانة",
+      "start": 1929.72
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2139.58,
+      "id": 17,
+      "original_description": "hell",
+      "start": 2138.69
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2510.34,
+      "id": 18,
+      "original_description": "christ",
+      "start": 2509.34
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2719.05,
+      "id": 19,
+      "original_description": "asshole",
+      "start": 2718.02
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2764.3,
+      "id": 20,
+      "original_description": "god",
+      "start": 2763.52
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2920.26,
+      "id": 21,
+      "original_description": "شخص يشرب الخمر",
+      "start": 2911.34
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2952.76,
+      "id": 22,
+      "original_description": "شخص يشرب السجائر",
+      "start": 2940.69
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2969.8,
+      "id": 23,
+      "original_description": "hell",
+      "start": 2968.85
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2997.2,
+      "id": 24,
+      "original_description": "goddamn",
+      "start": 2995.99
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3037.41,
+      "id": 25,
+      "original_description": "jesus",
+      "start": 3035.95
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3140.76,
+      "id": 26,
+      "original_description": "vodka",
+      "start": 3139.93
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3528.67,
+      "id": 27,
+      "original_description": "sexual",
+      "start": 3526.78
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3610.17,
+      "id": 28,
+      "original_description": "مشهد العشيقة",
+      "start": 3565.95
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3575.05,
+      "id": 29,
+      "original_description": "shit",
+      "start": 3574.11
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3615.36,
+      "id": 30,
+      "original_description": "wine",
+      "start": 3614.51
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3694.44,
+      "id": 31,
+      "original_description": "hell",
+      "start": 3693.56
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4319.07,
+      "id": 32,
+      "original_description": "مشهد المرأة الشاذة",
+      "start": 4285.57
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4398.12,
+      "id": 33,
+      "original_description": "حديث عن المرأة الشاذة",
+      "start": 4372.34
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4527.96,
+      "id": 34,
+      "original_description": "صورة المرأة الشاذة مع امرأة اخرى",
+      "start": 4522.47
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4546.58,
+      "id": 35,
+      "original_description": "bullshit",
+      "start": 4545.27
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4642.66,
+      "id": 36,
+      "original_description": "bastard",
+      "start": 4641.76
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4834.41,
+      "id": 37,
+      "original_description": "fools",
+      "start": 4833.46
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4836.62,
+      "id": 38,
+      "original_description": "shit",
+      "start": 4835.77
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4860.84,
+      "id": 39,
+      "original_description": "goddamn",
+      "start": 4859.86
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4900.36,
+      "id": 40,
+      "original_description": "شخص يغرز قلم في عنق شخص",
+      "start": 4897.77
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5117.69,
+      "id": 41,
+      "original_description": "pissed",
+      "start": 5116.65
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5121.08,
+      "id": 42,
+      "original_description": "piss",
+      "start": 5120.16
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5221.43,
+      "id": 43,
+      "original_description": "ass",
+      "start": 5220.5
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5229.99,
+      "id": 44,
+      "original_description": "shit",
+      "start": 5229.56
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5232.94,
+      "id": 45,
+      "original_description": "ass",
+      "start": 5232.14
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5239.15,
+      "id": 46,
+      "original_description": "ass",
+      "start": 5237.9
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5242.8,
+      "id": 47,
+      "original_description": "ass",
+      "start": 5242.32
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5243.58,
+      "id": 48,
+      "original_description": "ass",
+      "start": 5242.6
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5279.49,
+      "id": 49,
+      "original_description": "ass",
+      "start": 5278.94
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5279.94,
+      "id": 50,
+      "original_description": "ass",
+      "start": 5278.94
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5287.88,
+      "id": 51,
+      "original_description": "ass",
+      "start": 5287.24
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5288.43,
+      "id": 52,
+      "original_description": "ass",
+      "start": 5287.28
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 5458.06,
+      "id": 53,
+      "original_description": "مضاربة الطائرة",
+      "start": 5444.36
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 5562.2,
+      "id": 54,
+      "original_description": "مضاربة الطائرة وهي تطير",
+      "start": 5476.08
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5509.42,
+      "id": 55,
+      "original_description": "fool",
+      "start": 5508.53
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5604.84,
+      "id": 56,
+      "original_description": "shit",
+      "start": 5603.97
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5821.5,
+      "id": 57,
+      "original_description": "goddamn",
+      "start": 5820.31
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5980.85,
+      "id": 58,
+      "original_description": "damning",
+      "start": 5979.8
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5982.19,
+      "id": 59,
+      "original_description": "damning",
+      "start": 5981.34
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6064.16,
+      "id": 60,
+      "original_description": "fucking",
+      "start": 6062.67
+    }
+  ],
+  "genre": "أكشن ومغامرة، كوميديا، مغامرة حقبة الثمانينيات",
+  "pg": "+13",
+  "platforms": {
+    "appletv": {
+      "id": "umc.cmc.shin43vzfoz3h4ggx41z8rf",
+      "url": "https://tv.apple.com/eg/movie/mayday/umc.cmc.shin43vzfoz3h4ggx41z8rf?ctx_agid=a66ed4cf"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
+  "title": "Mayday",
+  "type": "movie",
+  "year": 2026
+}

@@ -1,0 +1,215 @@
+{
+  "addedAt": 1787417008676,
+  "category": "andrew phase",
+  "description": "فيلم The Amazing Spider-Man هو فيلم بطل خارق أمريكي ، يروي قصة الشاب بيتر باركر الذي يحاول كشف أسرار اختفاء والديه، ليحصل على قوى خارقة بعد تعرضه للفظ لحمة عنكبوت، ويواجه الشرير السحلية لإنقاذ المدينة",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 323.09,
+      "id": 1,
+      "original_description": "رجل وامرأة يقبلان بعضهما",
+      "start": 309.5
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 375.16,
+      "id": 2,
+      "original_description": "مضاربة فلاش وبيتر",
+      "start": 364.49
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 431.14,
+      "id": 3,
+      "original_description": "stupid",
+      "start": 430.19
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 502.87,
+      "id": 4,
+      "original_description": "stupid",
+      "start": 502.14
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 504.79,
+      "id": 5,
+      "original_description": "stupid",
+      "start": 504.17
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 783.18,
+      "id": 6,
+      "original_description": "hell",
+      "start": 782.74
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1420.92,
+      "id": 7,
+      "original_description": "beer",
+      "start": 1420.34
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1476.31,
+      "id": 8,
+      "original_description": "خلع ملابس امرأة ومضاربة",
+      "start": 1421.19
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1437.58,
+      "id": 9,
+      "original_description": "freakin'",
+      "start": 1436.55
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2521.73,
+      "id": 10,
+      "original_description": "hell",
+      "start": 2521.15
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2768.81,
+      "id": 11,
+      "original_description": "jesus",
+      "start": 2767.5
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2894.48,
+      "id": 12,
+      "original_description": "حضن بين رجل وامرأة",
+      "start": 2888.95
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3391.13,
+      "id": 13,
+      "original_description": "hell",
+      "start": 3390.5
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3401.12,
+      "id": 14,
+      "original_description": "اصابة في مكان حساس",
+      "start": 3399.55
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3550.58,
+      "id": 15,
+      "original_description": "damn",
+      "start": 3549.91
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4144.48,
+      "id": 16,
+      "original_description": "asses",
+      "start": 4144.11
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4304.73,
+      "id": 17,
+      "original_description": "رجل يقبل امرأة",
+      "start": 4284.91
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4791.37,
+      "id": 18,
+      "original_description": "kissing you",
+      "start": 4790.04
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4966.2,
+      "id": 19,
+      "original_description": "الفأر المحقون اصبح ضخما ويأكل الفأر الآخر",
+      "start": 4962.64
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5462.12,
+      "id": 20,
+      "original_description": "بيتر يحاول تقبيل غوين",
+      "start": 5432.89
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5987.68,
+      "id": 21,
+      "original_description": "pathetic",
+      "start": 5986.48
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 6107.18,
+      "id": 22,
+      "original_description": "اشخاص يتحولون إلى عظاءات",
+      "start": 6098.39
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6513.68,
+      "id": 23,
+      "original_description": "hell",
+      "start": 6513.13
+    }
+  ],
+  "genre": "Sci-Fi, Action-Adventure",
+  "pg": "PG-13",
+  "platforms": {
+    "disney": {
+      "id": "f43ffe63-2c96-4b6c-8fae-84d0d22d6466",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-f43ffe63-2c96-4b6c-8fae-84d0d22d6466"
+    },
+    "shahid": {
+      "id": "1019063",
+      "url": "https://shahid.mbc.net/ar/movies/The-Amazing-Spider-Man/movie-1019063"
+    },
+    "starzplay": {
+      "id": "33626664140",
+      "url": "https://starzplay.com/ar/movies/the-amazing-spiderman/33626664140"
+    },
+    "tod": {
+      "id": "the-amazing-spider-man-321213",
+      "url": "https://www.tod.tv/en/movies/english/the-amazing-spider-man-321213"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/as7Ls1ngpJDu3XB3X5vCkWH6iAn.jpg",
+  "title": "The Amazing Spider-Man",
+  "type": "movie",
+  "year": 2012
+}

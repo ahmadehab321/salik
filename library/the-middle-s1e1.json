@@ -1,0 +1,163 @@
+{
+  "episode": 1,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 14.19,
+      "id": 1,
+      "original_description": "damn",
+      "start": 13.84
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 293.23,
+      "id": 2,
+      "original_description": "pedophile",
+      "start": 292.99
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 297.12,
+      "id": 3,
+      "original_description": "pedophile",
+      "start": 296.69
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 459.66,
+      "id": 4,
+      "original_description": "sucked",
+      "start": 459.14
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 601.753493,
+      "id": 5,
+      "original_description": "شخص يخلع سرواله",
+      "start": 596.801864
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 610.403678,
+      "id": 6,
+      "original_description": "طفل يتحرش بمعلمته",
+      "start": 605.354125
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 745.26,
+      "id": 7,
+      "original_description": "damn",
+      "start": 744.81
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 760.62,
+      "id": 8,
+      "original_description": "hell",
+      "start": 760.43
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 763.81,
+      "id": 9,
+      "original_description": "moron",
+      "start": 763.58
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 765.16,
+      "id": 10,
+      "original_description": "moron",
+      "start": 764.94
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 779.4,
+      "id": 11,
+      "original_description": "moron",
+      "start": 778.5
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 780.62,
+      "id": 12,
+      "original_description": "damn",
+      "start": 780.22
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 806.99,
+      "id": 13,
+      "original_description": "damn",
+      "start": 806.64
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 840.16,
+      "id": 14,
+      "original_description": "screwed",
+      "start": 839.91
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 862.8,
+      "id": 15,
+      "original_description": "god",
+      "start": 862.18
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 955.51,
+      "id": 16,
+      "original_description": "hell",
+      "start": 955.33
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1125.88,
+      "id": 17,
+      "original_description": "dummy",
+      "start": 1125.7
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1140.95,
+      "id": 18,
+      "original_description": "damn",
+      "start": 1140.57
+    }
+  ],
+  "parent_series_id": "the-middle",
+  "platforms": {
+    "netflix": {
+      "id": "82170831",
+      "url": "https://www.netflix.com/watch/82170831"
+    },
+    "osnplus": {
+      "id": "68986",
+      "url": "https://osnplus.com/en-eg/episode/pilot-68986/watch?contentStreamingDeeplinkQueryParam=false"
+    }
+  },
+  "season": 1,
+  "title": "The Middle - S1E1",
+  "type": "episode"
+}

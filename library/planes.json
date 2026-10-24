@@ -1,0 +1,50 @@
+{
+  "category": "Animation, Comedy, Action-Adventure",
+  "description": "فيلم الطائرات (Planes) هو فيلم رسوم متحركة كرتوني من إنتاج ديزني عام 2013. يروي قصة طائرة رش زراعي صغيرة تحلم بالمشاركة في سباق طيران كبير حول العالم، رغم أنها تعاني من خوف شديد من المرتفعات",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1691.12,
+      "id": 1,
+      "original_description": "يا حلاوة المروحة",
+      "start": 1688.32
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1956,
+      "id": 2,
+      "original_description": "الصاروخ",
+      "start": 1954.69
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3422.87,
+      "id": 3,
+      "original_description": "طيارة تبوس طيارة وتلقي تعليق ايحائي",
+      "start": 3402.86
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4374.25,
+      "id": 4,
+      "original_description": "مغازلة رجل وامرأة",
+      "start": 4362.81
+    }
+  ],
+  "genre": "Animation, Comedy, Action-Adventure",
+  "pg": "+7",
+  "platforms": {
+    "disney": {
+      "id": "74940d13-6593-4d63-bfab-0f9104a33ed1",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-74940d13-6593-4d63-bfab-0f9104a33ed1"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/PPrlnb4lf483HB2mCuh7cv7vgR.jpg",
+  "title": "Planes",
+  "type": "movie",
+  "year": 2013
+}

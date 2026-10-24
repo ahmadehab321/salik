@@ -1,0 +1,208 @@
+{
+  "episode": 8,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 28.08,
+      "id": 1,
+      "original_description": "hell",
+      "start": 27.35
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 40.55,
+      "id": 2,
+      "original_description": "ass",
+      "start": 39.64
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 67.16,
+      "id": 3,
+      "original_description": "shit",
+      "start": 66.31
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 70.6,
+      "id": 4,
+      "original_description": "fuck",
+      "start": 69.74
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 192.02,
+      "id": 5,
+      "original_description": " شخص يتحدث عن اعضاءه",
+      "start": 187.22
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 273.95,
+      "id": 6,
+      "original_description": "asshole",
+      "start": 272.9
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 326.44,
+      "id": 7,
+      "original_description": "شخص مصاب في بطنه",
+      "start": 322.07
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 356.12,
+      "id": 8,
+      "original_description": "shit",
+      "start": 355.18
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 381.05,
+      "id": 9,
+      "original_description": "ass",
+      "start": 380.15
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 384.06,
+      "id": 10,
+      "original_description": "سوء ادب مع الله",
+      "start": 381.31
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 446.67,
+      "id": 11,
+      "original_description": "شخص يتم قتله بطلقات",
+      "start": 427.95
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 537.46,
+      "id": 12,
+      "original_description": "damn",
+      "start": 536.96
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 544.31,
+      "id": 13,
+      "original_description": "رجل يقبل امرأة",
+      "start": 540.35
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 599.07,
+      "id": 14,
+      "original_description": "shitting",
+      "start": 598.07
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 624.67,
+      "id": 15,
+      "original_description": "beer",
+      "start": 623.69
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 658.04,
+      "id": 16,
+      "original_description": "bastards",
+      "start": 657.18
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 668.08,
+      "id": 17,
+      "original_description": "hell",
+      "start": 667.15
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 745.68,
+      "id": 18,
+      "original_description": "shit",
+      "start": 744.75
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 746.51,
+      "id": 19,
+      "original_description": "shit",
+      "start": 745.59
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 747.32,
+      "id": 20,
+      "original_description": "shit",
+      "start": 746.6
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 748.35,
+      "id": 21,
+      "original_description": "shit",
+      "start": 747.51
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 987.28,
+      "id": 22,
+      "original_description": "ass",
+      "start": 986.65
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1078.04,
+      "id": 23,
+      "original_description": "shit",
+      "start": 1076.99
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1143.33,
+      "id": 24,
+      "original_description": "hell",
+      "start": 1142.32
+    }
+  ],
+  "parent_series_id": "stuart_fails_to_save_the_universe",
+  "platforms": {
+    "osnplus": {
+      "id": "spoiler-were-as-confused-as-you-are-76874",
+      "offset_seconds": 0,
+      "url": "https://osnplus.com/en-eg/series/spoiler-were-as-confused-as-you-are-76874"
+    }
+  },
+  "season": 1,
+  "title": "Stuart Fails to Save The Universe - S1E8",
+  "type": "episode"
+}

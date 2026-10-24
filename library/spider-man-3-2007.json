@@ -1,0 +1,227 @@
+{
+  "addedAt": 1787404375275,
+  "category": "Hollywood",
+  "description": "فيلم Spider-Man 3 هو فيلم بطل خارق للمخرج سام رايمي. يواجه فيه بيتر باركر كيانًا غامضًا من الفضاء يحوّل بزّته وسلوكه إلى السواد، ليصطدم بأعداء جُدد مثل الرجل الرملي وفينوم، بينما يحاول الموازنة بين حياته وعلاقته مع ماري جين",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 543.05,
+      "id": 1,
+      "original_description": "رجل يقبل امرأة",
+      "start": 538.48
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1390.8,
+      "id": 2,
+      "original_description": "شخص يتحول إلى الرمل",
+      "start": 1378.93
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1876.92,
+      "id": 3,
+      "original_description": "عارضة ازياء صدرها ظاهر",
+      "start": 1867.35
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2082.03,
+      "id": 4,
+      "original_description": "moron",
+      "start": 2081.48
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2082.39,
+      "id": 5,
+      "original_description": "moron",
+      "start": 2082.15
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2152.38,
+      "id": 6,
+      "original_description": "dumbest",
+      "start": 2151.39
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2411.29,
+      "id": 7,
+      "original_description": "سيدات عوراتهم ظاهرة",
+      "start": 2409.21
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2679.54,
+      "id": 8,
+      "original_description": "بوسة بين رجل وامرأة",
+      "start": 2678.45
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2774.03,
+      "id": 9,
+      "original_description": "Kiss him",
+      "start": 2772.55
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2776.75,
+      "id": 10,
+      "original_description": "Kiss him",
+      "start": 2774.15
+    },
+    {
+      "action_type": "mute",
+      "category": "nudity",
+      "end": 2782.71,
+      "id": 11,
+      "original_description": "Kiss her",
+      "start": 2781.19
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2791.78,
+      "id": 12,
+      "original_description": "تقبيل ستايسي لسبايدرمان",
+      "start": 2786.51
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2984.01,
+      "id": 13,
+      "original_description": "ماري ترى ستايسي تقبل سبايدر مان",
+      "start": 2980.51
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3552.03,
+      "id": 14,
+      "original_description": "stupid",
+      "start": 3551.64
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3552.51,
+      "id": 15,
+      "original_description": "stupid",
+      "start": 3552.27
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3884.31,
+      "id": 16,
+      "original_description": "hell",
+      "start": 3883.71
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4516.63,
+      "id": 17,
+      "original_description": "ماري تقبل هاري",
+      "start": 4512.25
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4546.46,
+      "id": 18,
+      "original_description": "شخص يشرب الخمر",
+      "start": 4541.38
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5082.03,
+      "id": 19,
+      "original_description": "ass",
+      "start": 5081.7
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5082.23,
+      "id": 20,
+      "original_description": "ass",
+      "start": 5082.06
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5535.69,
+      "id": 21,
+      "original_description": "hot",
+      "start": 5535.05
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5639.51,
+      "id": 22,
+      "original_description": "hot",
+      "start": 5638.99
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5670.84,
+      "id": 23,
+      "original_description": "رجل وامرأة يرقصون مقاربين",
+      "start": 5647.66
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6567.42,
+      "id": 24,
+      "original_description": "شخص يقول تعليق ايحائي",
+      "start": 6561.01
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 7129.16,
+      "id": 25,
+      "original_description": "خنجرين يخترقان هاري",
+      "start": 7120.33
+    }
+  ],
+  "genre": "Action-Adventure",
+  "pg": "PG-13",
+  "platforms": {
+    "shahid": {
+      "id": "1019075",
+      "url": "https://shahid.mbc.net/ar/player/movies/spider-man-3/id-1019075"
+    },
+    "starzplay": {
+      "id": "652725800439",
+      "url": "https://starzplay.com/ar/movies/spiderman-3/652725800439"
+    },
+    "tod": {
+      "id": "spider-man-3-253546",
+      "url": "https://www.tod.tv/en/movies/english/spider-man-3-253546"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/6nlLQ5IzxsRgOJsdSfgfh9N6Ccl.jpg",
+  "title": "Spider-Man 3",
+  "type": "movie",
+  "year": 2007
+}

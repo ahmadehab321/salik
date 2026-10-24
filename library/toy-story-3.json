@@ -1,0 +1,82 @@
+{
+  "category": "Animation, Kids",
+  "description": "فيلم Toy Story 3 هو فيلم رسوم متحركة من إنتاج استوديوهات بيكسار وتوزيع ديزني عام 2010. تدور قصته حول كبر سن الطفل آندي واستعداده للذهاب إلى الجامعة، والخطأ الذي يقع بالتبرع بألعابه إلى مركز رعاية، مما يودع مرحلة الطفول",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1458.4,
+      "id": 1,
+      "original_description": "ديسكو",
+      "start": 1458.12
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1572.61,
+      "id": 2,
+      "original_description": "امرأة تجلس على حجر رجل",
+      "start": 1569.91
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1977.03,
+      "id": 3,
+      "original_description": "شخص يضع عين دمية في منخاره",
+      "start": 1975.17
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3698.31,
+      "id": 4,
+      "original_description": "وحياتي",
+      "start": 3697.3
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3942.75,
+      "id": 5,
+      "original_description": "امتعاض من رجل يلبس كعب",
+      "start": 3935.58
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4422.33,
+      "id": 6,
+      "original_description": "حضن بين رجل وامرأة",
+      "start": 4419.5
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4646.16,
+      "id": 7,
+      "original_description": "حضن بين رجل وامرأة",
+      "start": 4638.98
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5566.36,
+      "id": 8,
+      "original_description": "دمية ذكر تقبل دمية أنثى",
+      "start": 5564.67
+    }
+  ],
+  "genre": "Action. Kids",
+  "pg": "G",
+  "platforms": {
+    "disney": {
+      "id": "95e7b2ce-5f45-4923-976d-b7e9968a7357",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-95e7b2ce-5f45-4923-976d-b7e9968a7357"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/ykPCtZfuFntm6hKe1BXs7JcpYwN.jpg",
+  "title": "حكاية لعبة 3",
+  "type": "movie",
+  "year": 2010
+}

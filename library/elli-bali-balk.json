@@ -1,0 +1,346 @@
+{
+  "category": "Comedy",
+  "description": " هو فيلم كوميدي مصري صدر عام 2003، بطولة الفنان محمد سعد، عبلة كامل، وحسن حسني. تدور قصته حول تبديل مخ المسجل \"اللمبي\" ومأمور السجن الصارم \"رياض المنفلوطي\" في إطار ساخر ومضحك بعد محاولة هروب فاشلة",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 278.4,
+      "id": 1,
+      "original_description": "كلام سكس",
+      "start": 277.58
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 301.73,
+      "id": 2,
+      "original_description": "معفنة",
+      "start": 300.04
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 345.27,
+      "id": 3,
+      "original_description": "حيوان",
+      "start": 344.55
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 355.12,
+      "id": 4,
+      "original_description": "وحياة أبوك",
+      "start": 354.7
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 388.31,
+      "id": 5,
+      "original_description": "الغباوة بتاعت أبوك",
+      "start": 387.07
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 587.73,
+      "id": 6,
+      "original_description": "تنمر على العريس والعروسة",
+      "start": 586.28
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 878.42,
+      "id": 7,
+      "original_description": "الكلب",
+      "start": 877.94
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 912.67,
+      "id": 8,
+      "original_description": "يا واطي",
+      "start": 910.8
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 963.48,
+      "id": 9,
+      "original_description": "يا كلب",
+      "start": 962.77
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1071.81,
+      "id": 10,
+      "original_description": "البنت مش عارف أبوسها",
+      "start": 1069.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1081.55,
+      "id": 11,
+      "original_description": "يا كلب",
+      "start": 1080.79
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1305.33,
+      "id": 12,
+      "original_description": "الحيوان",
+      "start": 1304.97
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1340.7,
+      "id": 13,
+      "original_description": "يانهار اسود",
+      "start": 1336.83
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1347.32,
+      "id": 14,
+      "original_description": "يانهار اسود",
+      "start": 1346.28
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1635.7,
+      "id": 15,
+      "original_description": "عبيط",
+      "start": 1635.37
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1731.16,
+      "id": 16,
+      "original_description": "عبيط",
+      "start": 1730.84
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1829.27,
+      "id": 17,
+      "original_description": "ايحاءات عن الشواذ",
+      "start": 1803.81
+    },
+    {
+      "action_type": "blur",
+      "category": "language",
+      "end": 1879.72,
+      "id": 18,
+      "original_description": "\"اللمبي\" يرى شباب يشربون المخدرات ويتحدثون عن الهروب من السجن",
+      "start": 1829.27
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1848.88,
+      "id": 19,
+      "original_description": "الجوينت",
+      "start": 1848.46
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 2001.84,
+      "id": 20,
+      "original_description": "يا نهار اسود",
+      "start": 1999.07
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2058.32,
+      "id": 21,
+      "original_description": "حارة معفنة",
+      "start": 2057.56
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2061.18,
+      "id": 22,
+      "original_description": "يا ولاد الكلب",
+      "start": 2060.14
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2171.15,
+      "id": 23,
+      "original_description": "ابن الكلب",
+      "start": 2170.66
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2284.8,
+      "id": 24,
+      "original_description": "سيدة تشرب السجائر",
+      "start": 2281.92
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2778.56,
+      "id": 25,
+      "original_description": "يا نهار اسود",
+      "start": 2777.79
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2869.84,
+      "id": 26,
+      "original_description": "المزة",
+      "start": 2869.33
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2880.75,
+      "id": 27,
+      "original_description": "يا نهار اسود",
+      "start": 2880.05
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 3030.5,
+      "id": 28,
+      "original_description": "تنمر على شخص اسود",
+      "start": 3023.97
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3221.43,
+      "id": 29,
+      "original_description": "شخص يصفع نفسه",
+      "start": 3219.8
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3618.48,
+      "id": 30,
+      "original_description": "يا حمار",
+      "start": 3617.06
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3900.32,
+      "id": 31,
+      "original_description": "يشم كولة",
+      "start": 3899.77
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4027.29,
+      "id": 32,
+      "original_description": "اللعب بالأكل بطريقة مقززة",
+      "start": 4013.82
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4106.35,
+      "id": 33,
+      "original_description": "تنمر على شخص بسبب لونه",
+      "start": 4105.59
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4206.37,
+      "id": 34,
+      "original_description": "حمار",
+      "start": 4205.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4211.41,
+      "id": 35,
+      "original_description": "الحمار",
+      "start": 4211.15
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 5063.38,
+      "id": 36,
+      "original_description": "مزة حلوة طحن",
+      "start": 5060.83
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 5563.92,
+      "id": 37,
+      "original_description": "شخص يشرب الشيشة",
+      "start": 5541.7
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6052.98,
+      "id": 38,
+      "original_description": "يا غبي",
+      "start": 6052.43
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6125.18,
+      "id": 39,
+      "original_description": "سنيني السودة",
+      "start": 6124.7
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6332.62,
+      "id": 40,
+      "original_description": "غبي !",
+      "start": 6331.77
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6595,
+      "id": 41,
+      "original_description": "shit",
+      "start": 6594.54
+    }
+  ],
+  "genre": "Comedy",
+  "pg": "G",
+  "platforms": {
+    "watchit": {
+      "id": 77,
+      "url": "https://www.watchit.com/#/details/movies/77"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/txstnOjizjPhtTeVN8pyY8OU8lZ.jpg",
+  "title": "اللي بالي بالك",
+  "type": "movie",
+  "year": 2003
+}

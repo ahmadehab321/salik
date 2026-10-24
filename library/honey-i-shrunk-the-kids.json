@@ -1,0 +1,203 @@
+{
+  "addedAt": 1789246859553,
+  "category": "classic",
+  "description": "يقوم مخترع غريب الأطوار بابتكار آلة لتقليص الأجسام، ولكنها تطلق أشعتها بالخطأ على أبنائه وأبناء الجيران ليصبحوا بحجم النمل.\nيتم إلقاء الأطفال بالخطأ مع القمامة في الفناء الخلفي للمنزل، فيجدون أنفسهم في مواجهة حديقة تحولت إلى غابة مرعبة ومملوءة بالمخاطر.\nيخوض الأطفال مغامرة شاقة مليئة بالتحديات والحشرات الضخمة للعودة إلى المنزل وإلغاء تأثير التقالص.",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 192.38,
+      "id": 1,
+      "original_description": "god",
+      "start": 191.49
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 559,
+      "id": 2,
+      "original_description": "رجل يقبل امرأة",
+      "start": 558
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1084.93,
+      "id": 3,
+      "original_description": "cigarette",
+      "start": 1083.9
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1155.25,
+      "id": 4,
+      "original_description": "dope",
+      "start": 1154.4
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1444.54,
+      "id": 5,
+      "original_description": "hell",
+      "start": 1443.47
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1491.98,
+      "id": 6,
+      "original_description": "hell",
+      "start": 1490.91
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1512.48,
+      "id": 7,
+      "original_description": "crack",
+      "start": 1511.58
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2026.96,
+      "id": 8,
+      "original_description": "dope",
+      "start": 2026.21
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2063.89,
+      "id": 9,
+      "original_description": "hell",
+      "start": 2063
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2170.83,
+      "id": 10,
+      "original_description": "stupid",
+      "start": 2169.69
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2172.88,
+      "id": 11,
+      "original_description": "stupid",
+      "start": 2171.9
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2175.92,
+      "id": 12,
+      "original_description": "stupid",
+      "start": 2174.78
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2291.82,
+      "id": 13,
+      "original_description": "stupid",
+      "start": 2290.73
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2873,
+      "id": 14,
+      "original_description": "اجراء التنفس الاصطناعي",
+      "start": 2846
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2937.15,
+      "id": 15,
+      "original_description": "hell",
+      "start": 2936.23
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3250.04,
+      "id": 16,
+      "original_description": "hell",
+      "start": 3249.23
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3755.32,
+      "id": 17,
+      "original_description": "hell",
+      "start": 3754.35
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3771.07,
+      "id": 18,
+      "original_description": "dumb",
+      "start": 3770.64
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 3823,
+      "id": 19,
+      "original_description": "شخص يشرب السجائر",
+      "start": 3800
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3948.08,
+      "id": 20,
+      "original_description": "idiot",
+      "start": 3947.23
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4342.04,
+      "id": 21,
+      "original_description": "stupid",
+      "start": 4340.84
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4361,
+      "id": 22,
+      "original_description": "امرأة تقبل رجل",
+      "start": 4345
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5194,
+      "id": 23,
+      "original_description": "رجل وامرأة يقبلان بعضهما",
+      "start": 5190
+    }
+  ],
+  "genre": "خيال علمي، كوميديا، مغامرة عائلية",
+  "pg": "+13",
+  "platforms": {
+    "disney": {
+      "id": "d3bd4647-6ecf-4aac-a4a5-6a9e7aa84580",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-d3bd4647-6ecf-4aac-a4a5-6a9e7aa84580"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/omQOzahi2NIeiYznNxHFDvNbvo6.jpg",
+  "title": "Honey, I Shrunk the Kids",
+  "type": "movie",
+  "year": 1989
+}

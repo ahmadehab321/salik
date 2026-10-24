@@ -1,0 +1,283 @@
+{
+  "addedAt": 1787692508027,
+  "category": "Marvel",
+  "description": "عندما يظهر \"لوكي\" الشرير محاولاً فرض سيطرته على كوكب الأرض واستعباد البشرية بمساعدة جيش من الفضائيين، يُضطر \"نيك فيوري\" مدير وكالة \"شيلد\" لحشد أعظم الأبطال الخارقين في العالم وتشكيل فريق واحد يُدعى \"المنتقمون\". يتعين على آيرون مان، وكابتن أمريكا، وثور، وهالك، والبلاك ويدو، وهوك آي التغلب على اختلافاتهم والعمل معاً لإيقاف هذا التهديد الشامل وإنقاذ العالم من الدمار.",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 839.81,
+      "id": 1,
+      "original_description": "moron",
+      "start": 839.04
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 996.63,
+      "id": 2,
+      "original_description": "hell",
+      "start": 995.49
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1210.2,
+      "id": 3,
+      "original_description": "freaks",
+      "start": 1209.27
+    },
+    {
+      "action_type": "blur",
+      "category": "nudity",
+      "end": 1515.88,
+      "id": 4,
+      "original_description": "بيبر مكشوفة الساق",
+      "start": 1509
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1602.66,
+      "id": 5,
+      "original_description": "بيبر ساقها مكشوف",
+      "start": 1600.73
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1662.49,
+      "id": 6,
+      "original_description": "بيبر تقبل توني",
+      "start": 1651.93
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3408.88,
+      "id": 7,
+      "original_description": "weed",
+      "start": 3408.32
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3957.2,
+      "id": 8,
+      "original_description": "pathetic",
+      "start": 3955.84
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4206.88,
+      "id": 9,
+      "original_description": "damn",
+      "start": 4205.84
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4312.28,
+      "id": 10,
+      "original_description": "freak",
+      "start": 4311.29
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4896.76,
+      "id": 11,
+      "original_description": "hell",
+      "start": 4896.09
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5285.49,
+      "id": 12,
+      "original_description": "god",
+      "start": 5284.52
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5507.68,
+      "id": 13,
+      "original_description": "hell",
+      "start": 5506.72
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5524.47,
+      "id": 14,
+      "original_description": "ass",
+      "start": 5523.31
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5524.88,
+      "id": 15,
+      "original_description": "nude",
+      "start": 5523.77
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5740.16,
+      "id": 16,
+      "original_description": "idiot",
+      "start": 5739.24
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5808.48,
+      "id": 17,
+      "original_description": "bitch",
+      "start": 5807.25
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 6013.82,
+      "id": 18,
+      "original_description": "شخص يشرب الخمر",
+      "start": 6002.74
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6037.04,
+      "id": 19,
+      "original_description": "piss",
+      "start": 6036.07
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6064.93,
+      "id": 20,
+      "original_description": "damn",
+      "start": 6063.93
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6129.41,
+      "id": 21,
+      "original_description": "pissed",
+      "start": 6128.25
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6566.09,
+      "id": 22,
+      "original_description": "hell",
+      "start": 6565.44
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6600.61,
+      "id": 23,
+      "original_description": "hell",
+      "start": 6599.54
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6779.08,
+      "id": 24,
+      "original_description": "bastards",
+      "start": 6777.99
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6860.24,
+      "id": 25,
+      "original_description": "damn",
+      "start": 6859.49
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6943.56,
+      "id": 26,
+      "original_description": "damn",
+      "start": 6942.8
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7143.58,
+      "id": 27,
+      "original_description": "stupid",
+      "start": 7142.7
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7143.78,
+      "id": 28,
+      "original_description": "ass",
+      "start": 7142.98
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7215.49,
+      "id": 29,
+      "original_description": "god",
+      "start": 7214.56
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7230.68,
+      "id": 30,
+      "original_description": "god",
+      "start": 7229.37
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7707.72,
+      "id": 31,
+      "original_description": "hell",
+      "start": 7706.71
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7866.95,
+      "id": 32,
+      "original_description": "god",
+      "start": 7866.04
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 7981.95,
+      "id": 33,
+      "original_description": "بيبر مكشوفة الساق وتقبل توني",
+      "start": 7970.18
+    }
+  ],
+  "genre": "أبطال خارقون، أكشن ومغامرة، خيال علمي",
+  "pg": "+13",
+  "platforms": {
+    "disney": {
+      "id": "d2ab699b-67da-4906-a7a4-5bc542c953cf",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-d2ab699b-67da-4906-a7a4-5bc542c953cf"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/zS3LZZlcXI5LL30DmWgrzKrCqvz.jpg",
+  "title": "The Avengers",
+  "type": "movie",
+  "year": 2012
+}

@@ -1,0 +1,207 @@
+{
+  "episode": 4,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 20.56,
+      "id": 1,
+      "original_description": "bastard",
+      "start": 20.21
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 62.44,
+      "id": 2,
+      "original_description": "goddamn",
+      "start": 61.69
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 377.65,
+      "id": 3,
+      "original_description": "goddamn",
+      "start": 376.58
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 382.69,
+      "id": 4,
+      "original_description": "goddamn",
+      "start": 382.24
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 385.51,
+      "id": 5,
+      "original_description": "jesus",
+      "start": 384.72
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 411.23,
+      "id": 6,
+      "original_description": "bullshit",
+      "start": 411.13
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 431.06,
+      "id": 7,
+      "original_description": "shit",
+      "start": 430.2
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 516.85,
+      "id": 8,
+      "original_description": "gal",
+      "start": 516.57
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1683.02,
+      "id": 9,
+      "original_description": "drunk",
+      "start": 1682.45
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1775.86,
+      "id": 10,
+      "original_description": "damn",
+      "start": 1775
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1846.43,
+      "id": 11,
+      "original_description": "shit",
+      "start": 1844.59
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1884.44,
+      "id": 12,
+      "original_description": "shit",
+      "start": 1883.83
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1957.71,
+      "id": 13,
+      "original_description": "asshole",
+      "start": 1957
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1959.46,
+      "id": 14,
+      "original_description": "asshole",
+      "start": 1959.12
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2109.32,
+      "id": 15,
+      "original_description": "hell",
+      "start": 2109.17
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2208.71,
+      "id": 16,
+      "original_description": "shit",
+      "start": 2208.1
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2212.67,
+      "id": 17,
+      "original_description": "damn",
+      "start": 2212.37
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2259.67,
+      "id": 18,
+      "original_description": "shit",
+      "start": 2259.3
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2262.75,
+      "id": 19,
+      "original_description": "hell",
+      "start": 2262.47
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2278.88,
+      "id": 20,
+      "original_description": "ass",
+      "start": 2278.44
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2282.89,
+      "id": 21,
+      "original_description": "jesus",
+      "start": 2282.53
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2387.43,
+      "id": 22,
+      "original_description": "goddamn",
+      "start": 2387.07
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2393.29,
+      "id": 23,
+      "original_description": "damn",
+      "start": 2392.68
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2652.54764,
+      "id": 24,
+      "original_description": "امرأة تقبل رجلا",
+      "start": 2647.195872
+    }
+  ],
+  "parent_series_id": "spider-noir",
+  "platforms": {
+    "amazon": {
+      "id": "amzn1.dv.gti.984c26f8-021f-4d28-a4ce-ea78b10ff952",
+      "url": "https://www.primevideo.com/region/eu/detail/0TPA7F48GEJVGD8KKM1NC6QQ9Q/ref=atv_hm_hom_c_vEe97o_brws_3_3?jic=8%7CEgRzdm9k"
+    }
+  },
+  "season": 1,
+  "title": "Spider-Noir - S1E4",
+  "type": "episode"
+}

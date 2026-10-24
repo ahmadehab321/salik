@@ -1,0 +1,107 @@
+{
+  "addedAt": 1790074708378,
+  "category": "Disney",
+  "description": "يسأم الشرير \"رالف\" من لعب دور المدمّر المنبوذ في لعبة الأركيد الخاصة به طوال 30 عاماً بينما يتلقى البطل \"فيليكس\" المديح والميداليات. يقرر رالف الهروب والتسلل عبر ألعاب الفيديو الأخرى للفوز بميدالية تثبت أنه يستحق أن يكون بطلاً.\nيتسبب خروجه في إطلاق خطر يهدد صالة الألعاب بأكملها، ويتعرف خلال رحلته على التسابقية المشاكسة \"فانيلوبي\" التي تحتاجه بقدر ما يحتاجها.",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 270,
+      "id": 1,
+      "original_description": "امرأة مكشوفة الساق",
+      "start": 265
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 330,
+      "id": 2,
+      "original_description": "شخص يقتلع قلب زومبي",
+      "start": 324
+    },
+    {
+      "action_type": "blur",
+      "category": "nudity",
+      "end": 337,
+      "id": 3,
+      "original_description": "امرأة مكشوفة عورتها",
+      "start": 330
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 556,
+      "id": 4,
+      "original_description": "موسيقى مصاحبة للخمور",
+      "start": 542
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 615,
+      "id": 5,
+      "original_description": "موسيقى مصاحبة للخمور",
+      "start": 591
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1888,
+      "id": 6,
+      "original_description": "غبي",
+      "start": 1887
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2874,
+      "id": 7,
+      "original_description": "عدة صفعات على الوجه",
+      "start": 2825
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5198,
+      "id": 8,
+      "original_description": "اغبياء",
+      "start": 5197
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5244,
+      "id": 9,
+      "original_description": "رجل يقبل امرأة",
+      "start": 5235
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5537,
+      "id": 10,
+      "original_description": "رجل يقبل امرأة",
+      "start": 5534
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5543,
+      "id": 11,
+      "original_description": "امرأة تقبل رجل",
+      "start": 5542
+    }
+  ],
+  "genre": "رسوم متحركة، كوميديا، مغامرة، خيال، عائلي",
+  "pg": "+7",
+  "platforms": {
+    "disney": {
+      "id": "0cde80b0-5085-447b-b65e-c81a713a90f0",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-0cde80b0-5085-447b-b65e-c81a713a90f0"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/v3VRTYl2vHJqMvCu29p6QHPuYsJ.jpg",
+  "title": "Wreck-It Ralph",
+  "type": "movie",
+  "year": 2012
+}

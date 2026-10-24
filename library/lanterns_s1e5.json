@@ -1,0 +1,520 @@
+{
+  "episode": 5,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 25.08,
+      "id": 1,
+      "original_description": "fuck",
+      "start": 23.6
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 34.24,
+      "id": 2,
+      "original_description": "fuck",
+      "start": 32.92
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 51.36,
+      "id": 3,
+      "original_description": "fuck",
+      "start": 50.04
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 143.84,
+      "id": 4,
+      "original_description": "fucking",
+      "start": 142.82
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 176.04,
+      "id": 5,
+      "original_description": "شخص تنكسر رقبته",
+      "start": 174.37
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 177.06,
+      "id": 6,
+      "original_description": "jesus",
+      "start": 176.04
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 177.52,
+      "id": 7,
+      "original_description": "fuck",
+      "start": 176.66
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 190.22,
+      "id": 8,
+      "original_description": "fucking",
+      "start": 189.49
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 269.57,
+      "id": 9,
+      "original_description": "امرأة تقطع خنصرها",
+      "start": 241.85
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 422.04,
+      "id": 10,
+      "original_description": "fuck",
+      "start": 421.4
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 423.97,
+      "id": 11,
+      "original_description": "fuck",
+      "start": 423.32
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 440.74,
+      "id": 12,
+      "original_description": "jesus",
+      "start": 439.99
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 441.15,
+      "id": 13,
+      "original_description": "christ",
+      "start": 440.34
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 458.6,
+      "id": 14,
+      "original_description": "fucking",
+      "start": 457.77
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 478.43,
+      "id": 15,
+      "original_description": "bastards",
+      "start": 477.38
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 491.85,
+      "id": 16,
+      "original_description": "fuck",
+      "start": 490.76
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 494.96,
+      "id": 17,
+      "original_description": "shit",
+      "start": 494.07
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 617.16,
+      "id": 18,
+      "original_description": "fuck",
+      "start": 615.8
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 625.8,
+      "id": 19,
+      "original_description": "fuck",
+      "start": 624.48
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 689.54,
+      "id": 20,
+      "original_description": "damn",
+      "start": 688.76
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 718.21,
+      "id": 21,
+      "original_description": "fuck",
+      "start": 717.47
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 728.21,
+      "id": 22,
+      "original_description": "fuck",
+      "start": 727.37
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 730.21,
+      "id": 23,
+      "original_description": "jesus",
+      "start": 729.8
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 730.46,
+      "id": 24,
+      "original_description": "christ",
+      "start": 729.81
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 751.36,
+      "id": 25,
+      "original_description": "fucking",
+      "start": 750.5
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 770.45,
+      "id": 26,
+      "original_description": "fucking",
+      "start": 769.4
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 805.96,
+      "id": 27,
+      "original_description": "fucking",
+      "start": 804.72
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 879.46,
+      "id": 28,
+      "original_description": "fucking",
+      "start": 878.44
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1062.47,
+      "id": 29,
+      "original_description": "جثة رجل مصاب بطلق ناري في راسه",
+      "start": 1042.47
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1127.12,
+      "id": 30,
+      "original_description": "fuck",
+      "start": 1126.56
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1206.44,
+      "id": 31,
+      "original_description": "bastards",
+      "start": 1205.38
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1270.24,
+      "id": 32,
+      "original_description": "حديث عن الجماع الجنسي",
+      "start": 1213.39
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1229.5,
+      "id": 33,
+      "original_description": "sexual",
+      "start": 1228.64
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1443.78,
+      "id": 34,
+      "original_description": "شخص مشوه",
+      "start": 1335.22
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 1709.46,
+      "id": 35,
+      "original_description": "شخص ينفجر",
+      "start": 1708.6
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1865.76,
+      "id": 36,
+      "original_description": "شخص يطعن شخص ويشرحه",
+      "start": 1834.08
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1864.29,
+      "id": 37,
+      "original_description": "fucking",
+      "start": 1863.27
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1873.06,
+      "id": 38,
+      "original_description": "شخص يقوم بعمل اشارة جنسية",
+      "start": 1868.63
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1882.92,
+      "id": 39,
+      "original_description": "fuck",
+      "start": 1882.14
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1889.11,
+      "id": 40,
+      "original_description": "fuckin'",
+      "start": 1888.24
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1924.78,
+      "id": 41,
+      "original_description": "شخص يشنق شخص",
+      "start": 1906.55
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1987.48,
+      "id": 42,
+      "original_description": "butt",
+      "start": 1986.9
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1987.82,
+      "id": 43,
+      "original_description": "naked",
+      "start": 1987.18
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1992.08,
+      "id": 44,
+      "original_description": "hell",
+      "start": 1991.66
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2061.36,
+      "id": 45,
+      "original_description": "fuck",
+      "start": 2060.55
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2085.69,
+      "id": 46,
+      "original_description": "fuckin'",
+      "start": 2084.84
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2112.52,
+      "id": 47,
+      "original_description": "fuck",
+      "start": 2110.96
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2141.19,
+      "id": 48,
+      "original_description": "يد مقطوعة",
+      "start": 2135.33
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2146.76,
+      "id": 49,
+      "original_description": "bitch",
+      "start": 2145.78
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2181.86,
+      "id": 50,
+      "original_description": "يد مقطوعة",
+      "start": 2176.97
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2181.4,
+      "id": 51,
+      "original_description": "shit",
+      "start": 2180.7
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2206.63,
+      "id": 52,
+      "original_description": "fuck",
+      "start": 2206.03
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2208.32,
+      "id": 53,
+      "original_description": "fucking",
+      "start": 2207.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2210.5,
+      "id": 54,
+      "original_description": "fucking",
+      "start": 2209.56
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2277.08,
+      "id": 55,
+      "original_description": "مضاربة الموتيل",
+      "start": 2210.64
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2237.04,
+      "id": 56,
+      "original_description": "fuck",
+      "start": 2235.44
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2264.13,
+      "id": 57,
+      "original_description": "fucking",
+      "start": 2263.18
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2394.76,
+      "id": 58,
+      "original_description": "طلقة في الرأس",
+      "start": 2394.4
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2440.53,
+      "id": 59,
+      "original_description": "قدم مقطوعة",
+      "start": 2428.25
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 2529.36,
+      "id": 60,
+      "original_description": "قلبها يتحول إلى كرسيتال",
+      "start": 2524.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2774.76,
+      "id": 61,
+      "original_description": "shitstorm",
+      "start": 2773.08
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2814.06,
+      "id": 62,
+      "original_description": "رجل يشرب الخمر",
+      "start": 2807.87
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2898.5,
+      "id": 63,
+      "original_description": "damn",
+      "start": 2897.85
+    }
+  ],
+  "parent_series_id": "lanterns",
+  "platforms": {
+    "osnplus": {
+      "id": "lights-out-76948",
+      "offset_seconds": 0,
+      "url": "https://osnplus.com/en-eg/episode/lights-out-76948/watch"
+    }
+  },
+  "season": 1,
+  "title": "Lanterns - S1E5",
+  "type": "episode"
+}

@@ -1,0 +1,147 @@
+{
+  "episode": 12,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 54.97,
+      "id": 1,
+      "original_description": "fat",
+      "start": 54.38
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 120.19,
+      "id": 2,
+      "original_description": "hell",
+      "start": 119.91
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 142.13,
+      "id": 3,
+      "original_description": "hell",
+      "start": 141.88
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 246.39,
+      "id": 4,
+      "original_description": "stupid",
+      "start": 245.92
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 325.23,
+      "id": 5,
+      "original_description": "stupid",
+      "start": 324.92
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 325.9,
+      "id": 6,
+      "original_description": "stupid",
+      "start": 325.57
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 648.779765,
+      "id": 7,
+      "original_description": "امرأة تفتح لرجل بالبكيني",
+      "start": 564.7568
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 730.41917,
+      "id": 8,
+      "original_description": "كلام عن الأثداء",
+      "start": 692.357393
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 693.24,
+      "id": 9,
+      "original_description": "boob",
+      "start": 692.78
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 697.09,
+      "id": 10,
+      "original_description": "boobs",
+      "start": 696.79
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 718.76,
+      "id": 11,
+      "original_description": "hell",
+      "start": 718.57
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 849.1,
+      "id": 12,
+      "original_description": "boob",
+      "start": 848.76
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 901.57,
+      "id": 13,
+      "original_description": "meth",
+      "start": 901.29
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1058.72,
+      "id": 14,
+      "original_description": "damn",
+      "start": 1058.51
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1106.58,
+      "id": 15,
+      "original_description": "damn",
+      "start": 1106.21
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1251.61,
+      "id": 16,
+      "original_description": "poop",
+      "start": 1251.33
+    }
+  ],
+  "parent_series_id": "the-middle",
+  "platforms": {
+    "netflix": {
+      "id": "82170843",
+      "url": "https://www.netflix.com/watch/82170843"
+    },
+    "osnplus": {
+      "id": 68999,
+      "url": "https://osnplus.com/en-eg/episode/the-neighbor-68999/watch?contentStreamingDeeplinkQueryParam=false"
+    }
+  },
+  "season": 1,
+  "title": "The Middle - S1E12",
+  "type": "episode"
+}

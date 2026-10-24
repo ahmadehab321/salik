@@ -1,0 +1,830 @@
+{
+  "category": "Action, Sci-Fi",
+  "description": "فيلم \"المبيد 2: يوم الحساب\" (Terminator 2: Judgment Day) هو فيلم حركة وخيال علمي أمريكي صدر عام 1991 وأخرجه جيمس كاميرون. تدور قصة الفيلم حول إرسال آلة إلكترونية (سايبورغ) لحماية سارة كونور وابنها جون من آلة مدمرة أحدث وأكثر تطوراً.",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 566.04,
+      "id": 1,
+      "original_description": "رجل يشرب السيجار",
+      "start": 562.62
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 588.81,
+      "id": 2,
+      "original_description": "شخص يحترق من البوتجاز",
+      "start": 585.08
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 751.98,
+      "id": 3,
+      "original_description": "goddamn",
+      "start": 750.92
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 872.65,
+      "id": 4,
+      "original_description": "شخص يأخذ المسدس وهو عاري",
+      "start": 861.65
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 955.41,
+      "id": 5,
+      "original_description": "dicks",
+      "start": 954.69
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 959.09,
+      "id": 6,
+      "original_description": "goddamn",
+      "start": 958.11
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 964.75,
+      "id": 7,
+      "original_description": "butt",
+      "start": 963.97
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 988.02,
+      "id": 8,
+      "original_description": "ass",
+      "start": 987.4
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1276.09,
+      "id": 9,
+      "original_description": "shit",
+      "start": 1274.84
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1278.66,
+      "id": 10,
+      "original_description": "loser",
+      "start": 1277.93
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1378.45,
+      "id": 11,
+      "original_description": "moron",
+      "start": 1377.4
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1388.42,
+      "id": 12,
+      "original_description": "fuckin'",
+      "start": 1387.27
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1411.29,
+      "id": 13,
+      "original_description": "fucking",
+      "start": 1410.35
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1673.88,
+      "id": 14,
+      "original_description": "naked",
+      "start": 1673.04
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1694.05,
+      "id": 15,
+      "original_description": "bitch",
+      "start": 1693.5
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1700.62,
+      "id": 16,
+      "original_description": "bitch",
+      "start": 1699.75
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2071.85,
+      "id": 17,
+      "original_description": "shit",
+      "start": 2070.74
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2077.27,
+      "id": 18,
+      "original_description": "goddamn",
+      "start": 2075.52
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2405.9,
+      "id": 19,
+      "original_description": "shit",
+      "start": 2405.19
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2428.44,
+      "id": 20,
+      "original_description": "shit",
+      "start": 2427.33
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2521.11,
+      "id": 21,
+      "original_description": "hell",
+      "start": 2520.36
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2558.39,
+      "id": 22,
+      "original_description": "dicks",
+      "start": 2557.54
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2563.26,
+      "id": 23,
+      "original_description": "shit",
+      "start": 2562.42
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2604.81,
+      "id": 24,
+      "original_description": "hell",
+      "start": 2604.04
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2605.91,
+      "id": 25,
+      "original_description": "goddamn",
+      "start": 2604.86
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2610.67,
+      "id": 26,
+      "original_description": "shit",
+      "start": 2610.03
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2615.28,
+      "id": 27,
+      "original_description": "fucking",
+      "start": 2614.48
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 2635.8,
+      "id": 28,
+      "original_description": "\"تود \"ميت ",
+      "start": 2630.69
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2860.09,
+      "id": 29,
+      "original_description": "bullshit",
+      "start": 2859.1
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2902.2,
+      "id": 30,
+      "original_description": "shit",
+      "start": 2901.62
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2908.46,
+      "id": 31,
+      "original_description": "fuck",
+      "start": 2907.84
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2913.41,
+      "id": 32,
+      "original_description": "goddamn",
+      "start": 2912.46
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2915.75,
+      "id": 33,
+      "original_description": "damn",
+      "start": 2914.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2933.96,
+      "id": 34,
+      "original_description": "hell",
+      "start": 2933.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2977.67,
+      "id": 35,
+      "original_description": "fuck",
+      "start": 2976.79
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3002.61,
+      "id": 36,
+      "original_description": "douche",
+      "start": 3001.61
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3029.69,
+      "id": 37,
+      "original_description": "jesus",
+      "start": 3029.1
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3135.42,
+      "id": 38,
+      "original_description": "شخص يلحس امرأة",
+      "start": 3119.28
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3328.26,
+      "id": 39,
+      "original_description": "beer",
+      "start": 3327.74
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3342.67,
+      "id": 40,
+      "original_description": "شخص يصاب في عينه",
+      "start": 3334
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3615.95,
+      "id": 41,
+      "original_description": "hell",
+      "start": 3615.17
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3618.42,
+      "id": 42,
+      "original_description": "bitch",
+      "start": 3617.53
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3622.59,
+      "id": 43,
+      "original_description": "bastard",
+      "start": 3621.68
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3654.53,
+      "id": 44,
+      "original_description": "bitch",
+      "start": 3653.35
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3676.38,
+      "id": 45,
+      "original_description": "fuck",
+      "start": 3675.47
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3692.24,
+      "id": 46,
+      "original_description": "shit",
+      "start": 3691.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3699.35,
+      "id": 47,
+      "original_description": "shit",
+      "start": 3698.49
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3931.42,
+      "id": 48,
+      "original_description": "آلي ينفجر وجهه",
+      "start": 3920.45
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3952.55,
+      "id": 49,
+      "original_description": "fuck",
+      "start": 3951.83
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3953.75,
+      "id": 50,
+      "original_description": "fuck",
+      "start": 3953.04
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4240.1,
+      "id": 51,
+      "original_description": "stupid",
+      "start": 4239.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4243.61,
+      "id": 52,
+      "original_description": "damnit",
+      "start": 4242.79
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 4450.73,
+      "id": 53,
+      "original_description": "امرأة تشرب سجائر",
+      "start": 4442.85
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4518.3,
+      "id": 54,
+      "original_description": "shit",
+      "start": 4517.51
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4702.53,
+      "id": 55,
+      "original_description": "jesus",
+      "start": 4700.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4864.52,
+      "id": 56,
+      "original_description": "goddamn",
+      "start": 4863.57
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4870.12,
+      "id": 57,
+      "original_description": "حضن بين رجل وامرأة",
+      "start": 4864.13
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4880.8,
+      "id": 58,
+      "original_description": "fucking",
+      "start": 4879.99
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 4963.25,
+      "id": 59,
+      "original_description": "تقطيب جرح",
+      "start": 4956.72
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4967.82,
+      "id": 60,
+      "original_description": "shit",
+      "start": 4967.03
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 5375.22,
+      "id": 61,
+      "original_description": "اشخاص يحترقون",
+      "start": 5334.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5501.08,
+      "id": 62,
+      "original_description": "shit",
+      "start": 5499.63
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5654.43,
+      "id": 63,
+      "original_description": "jesus",
+      "start": 5653.5
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5680.88,
+      "id": 64,
+      "original_description": "fucking",
+      "start": 5679.61
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5686.14,
+      "id": 65,
+      "original_description": "bitch",
+      "start": 5685.13
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5706.89,
+      "id": 66,
+      "original_description": "motherfucker",
+      "start": 5705.45
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5771.17,
+      "id": 67,
+      "original_description": "shit",
+      "start": 5770.43
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 5918.84,
+      "id": 68,
+      "original_description": "المدمر يسلخ يده ليبين ذراعه الآلية",
+      "start": 5913.08
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5995.41,
+      "id": 69,
+      "original_description": "fucking",
+      "start": 5994.4
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6082.47,
+      "id": 70,
+      "original_description": "bitch",
+      "start": 6081.51
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6088.58,
+      "id": 71,
+      "original_description": "motherfuckers",
+      "start": 6086.97
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6243.68,
+      "id": 72,
+      "original_description": "shit",
+      "start": 6242.4
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6272.92,
+      "id": 73,
+      "original_description": "damn",
+      "start": 6271.85
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6525.16,
+      "id": 74,
+      "original_description": "shit",
+      "start": 6523.95
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6593.27,
+      "id": 75,
+      "original_description": "shit",
+      "start": 6592.32
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6594.83,
+      "id": 76,
+      "original_description": "damn",
+      "start": 6593.87
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6623.09,
+      "id": 77,
+      "original_description": "shit",
+      "start": 6622.11
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6861.58,
+      "id": 78,
+      "original_description": "shit",
+      "start": 6860.46
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6863.37,
+      "id": 79,
+      "original_description": "shit",
+      "start": 6862.82
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7152.29,
+      "id": 80,
+      "original_description": "shit",
+      "start": 7151.58
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7215.49,
+      "id": 81,
+      "original_description": "shit",
+      "start": 7214.28
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7435.2,
+      "id": 82,
+      "original_description": "goddamn",
+      "start": 7433.93
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7472.9,
+      "id": 83,
+      "original_description": "shit",
+      "start": 7472.07
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7499.93,
+      "id": 84,
+      "original_description": "hell",
+      "start": 7498.95
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7574.46,
+      "id": 85,
+      "original_description": "hell",
+      "start": 7573.85
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7597.87,
+      "id": 86,
+      "original_description": "shit",
+      "start": 7596.28
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7688.26,
+      "id": 87,
+      "original_description": "hell",
+      "start": 7687.53
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7954.39,
+      "id": 88,
+      "original_description": "hot",
+      "start": 7953.72
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 8107.99,
+      "id": 89,
+      "original_description": "مضاربة بين اللأليين",
+      "start": 8025.07
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 8221.93,
+      "id": 90,
+      "original_description": "fuck",
+      "start": 8220.88
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 8344.09,
+      "id": 91,
+      "original_description": "تكسير الروبوت",
+      "start": 8261.39
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 8412.83,
+      "id": 92,
+      "original_description": "وجه الروبوت دامي",
+      "start": 8375.44
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 8530.62,
+      "id": 93,
+      "original_description": "قتل الروبوت ويصبح اشلاء",
+      "start": 8503.74
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 8628.1,
+      "id": 94,
+      "original_description": "وجه الروبوت باين",
+      "start": 8595.92
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 8684.3,
+      "id": 95,
+      "original_description": "هيكل الروبوت ظاهر بشكل فج",
+      "start": 8632.81
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 8653.81,
+      "id": 96,
+      "original_description": "shit",
+      "start": 8652.78
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 8698.59,
+      "id": 97,
+      "original_description": "هيكل الروبوت ظاهر بشكل فج",
+      "start": 8695.48
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 8705.86,
+      "id": 98,
+      "original_description": "هيكل الروبوت ظاهر بشكل فج",
+      "start": 8700.28
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 8720.8,
+      "id": 99,
+      "original_description": "هيكل الروبوت ظاهر بشكل فج",
+      "start": 8714.56
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 8852.88,
+      "id": 100,
+      "original_description": "هيكل الروبوت ظاهر بشكل فج",
+      "start": 8755.95
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 9226.32,
+      "id": 101,
+      "original_description": "bitch",
+      "start": 9225.59
+    }
+  ],
+  "genre": "Action, Sci-Fi",
+  "pg": 15,
+  "platforms": {
+    "netflix": {
+      "id": 60028202,
+      "url": "https://www.netflix.com/title/60028202"
+    },
+    "starzplay": {
+      "id": 731108392291,
+      "url": "https://starzplay.com/ar/movies/terminator-2-judgment-day/731108392291"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/5M0j0B18abtBI5gi2RhfjjurTqb.jpg",
+  "title": "The Terminator 2: Judgement Day",
+  "type": "movie",
+  "year": 1991
+}

@@ -1,0 +1,75 @@
+{
+  "episode": 18,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 9.09,
+      "id": 1,
+      "original_description": "playboy",
+      "start": 8.48
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 27.76,
+      "id": 2,
+      "original_description": "stupid",
+      "start": 27.53
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 260.07,
+      "id": 3,
+      "original_description": "drunk",
+      "start": 259.88
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 287.02,
+      "id": 4,
+      "original_description": "screwed",
+      "start": 286.57
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 290.09,
+      "id": 5,
+      "original_description": "drunk",
+      "start": 289.69
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 322.64,
+      "id": 6,
+      "original_description": "beer",
+      "start": 322.25
+    },
+    {
+      "action_type": "skip",
+      "category": "Language",
+      "end": 1020.106549,
+      "id": 7,
+      "original_description": "كلام عن التحول الجنسي",
+      "start": 1016.357467
+    }
+  ],
+  "parent_series_id": "the-middle",
+  "platforms": {
+    "netflix": {
+      "id": "82170847",
+      "url": "https://www.netflix.com/watch/82170847"
+    },
+    "osnplus": {
+      "id": 69000,
+      "url": "https://osnplus.com/en-eg/episode/the-fun-house-69000/watch?contentStreamingDeeplinkQueryParam=false"
+    }
+  },
+  "season": 1,
+  "title": "The Middle - S1E18",
+  "type": "episode"
+}

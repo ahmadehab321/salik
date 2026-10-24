@@ -1,0 +1,95 @@
+{
+  "episode": 23,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 26.31,
+      "id": 1,
+      "original_description": "damn",
+      "start": 25.89
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 136.9,
+      "id": 2,
+      "original_description": "hot",
+      "start": 136.41
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 237.69,
+      "id": 3,
+      "original_description": "crap",
+      "start": 237.29
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 490.81,
+      "id": 4,
+      "original_description": "damn",
+      "start": 490.19
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 523.8,
+      "id": 5,
+      "original_description": "stupid",
+      "start": 523.05
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 538.04,
+      "id": 6,
+      "original_description": "damn",
+      "start": 537.32
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 864.73,
+      "id": 7,
+      "original_description": "butt",
+      "start": 863.93
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 889.4,
+      "id": 8,
+      "original_description": "hot",
+      "start": 888.83
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 891.09,
+      "id": 9,
+      "original_description": "hot",
+      "start": 890.61
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1112.63,
+      "id": 10,
+      "original_description": "بنات تلبس البكيني",
+      "start": 1097.64
+    }
+  ],
+  "parent_series_id": "the-middle",
+  "platforms": {
+    "netflix": {
+      "id": 82170877,
+      "url": "https://www.netflix.com/watch/82170877"
+    }
+  },
+  "season": 2,
+  "title": "The Middle - S2E23",
+  "type": "episode"
+}

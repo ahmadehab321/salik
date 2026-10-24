@@ -1,0 +1,50 @@
+{
+  "category": "Kids, Animation",
+  "description": "فيلم رسوم متحركة أمريكي صدر عام 2019 من إنتاج بيكسار وتوزيع ديزني. تدور قصة الفيلم حول انضمام لعبة جديدة تدعى \"فوركي\" إلى طفلة جديدة تسمى بوني، ومغامرة وودي وبز يطير لأجل إرجاعه بعد هروبه، ولقاء وودي بصديقته القديمة بو بيب",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2415.21,
+      "id": 1,
+      "original_description": "الحلف بغير الله: بحق صداقتنا",
+      "start": 2413.42
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3267.27,
+      "id": 2,
+      "original_description": "الحلف بغير الله: وحياتك",
+      "start": 3266.71
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3403.57,
+      "id": 3,
+      "original_description": "عبيطة",
+      "start": 3402.85
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3407.18,
+      "id": 4,
+      "original_description": "العبيطة",
+      "start": 3406.79
+    }
+  ],
+  "genre": "Kids , Animation",
+  "pg": "G",
+  "platforms": {
+    "disney": {
+      "id": "97d822a3-7dad-4d85-8350-ce4f8642511e",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-97d822a3-7dad-4d85-8350-ce4f8642511e"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/f6jognnAZ0VjqIiduAp2aX4LlIK.jpg",
+  "title": "حكاية لعبة 4",
+  "type": "movie",
+  "year": 2019
+}

@@ -1,0 +1,191 @@
+{
+  "addedAt": 1787259450747,
+  "category": "Dreamworks",
+  "description": "فيلم Shrek Forever After هو فيلم رسوم متحركة صدر عام 2010، وهو الجزء الرابع والأخير من سلسلة أفلام Shrek الشهيرة. يدور حول أزمة منتصف العمر التي يمر بها الغول Shrek وحنينه لأيامه القديمة قبل أن يصبح أباً وزوجاً مستقراً",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 246.96,
+      "id": 1,
+      "original_description": "شريك وفيونا يقبلان بعضهما",
+      "start": 234.9
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 294.18,
+      "id": 2,
+      "original_description": "الغول يقبل الغولة",
+      "start": 290.95
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 366.83,
+      "id": 3,
+      "original_description": "الغول يقبل الغولة",
+      "start": 363.64
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 388.56,
+      "id": 4,
+      "original_description": "اطفال يتجشأون",
+      "start": 378.65
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 415.94,
+      "id": 5,
+      "original_description": "اطفال يتجشأون",
+      "start": 412.46
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 425.57,
+      "id": 6,
+      "original_description": "اطفال يتجشأون",
+      "start": 424.63
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 535.14,
+      "id": 7,
+      "original_description": "الحمار يبوس التنين",
+      "start": 534.53
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 612.82,
+      "id": 8,
+      "original_description": "الشخص المتحول جنسيا",
+      "start": 609.05
+    },
+    {
+      "action_type": "mute",
+      "category": "nudity",
+      "end": 2883.05,
+      "id": 9,
+      "original_description": "kiss me",
+      "start": 2880.42
+    },
+    {
+      "action_type": "mute",
+      "category": "nudity",
+      "end": 2908.03,
+      "id": 10,
+      "original_description": "kiss me",
+      "start": 2904.86
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2941.19,
+      "id": 11,
+      "original_description": "الغول يحاول تقبيل الغولة",
+      "start": 2940.48
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3708.96,
+      "id": 12,
+      "original_description": "الغولة تقبل الغول",
+      "start": 3701.72
+    },
+    {
+      "action_type": "mute",
+      "category": "nudity",
+      "end": 3739.94,
+      "id": 13,
+      "original_description": "kiss you",
+      "start": 3737.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3818.52,
+      "id": 14,
+      "original_description": "hell",
+      "start": 3817.74
+    },
+    {
+      "action_type": "mute",
+      "category": "nudity",
+      "end": 3847.39,
+      "id": 15,
+      "original_description": "Kiss me",
+      "start": 3846.09
+    },
+    {
+      "action_type": "mute",
+      "category": "nudity",
+      "end": 3937.68,
+      "id": 16,
+      "original_description": "kissed her",
+      "start": 3935.18
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4325.26,
+      "id": 17,
+      "original_description": "fool",
+      "start": 4324.57
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4538.06,
+      "id": 18,
+      "original_description": "الغولة تقبل الغول",
+      "start": 4528.33
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4553.84,
+      "id": 19,
+      "original_description": "hot",
+      "start": 4553.48
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4694.05,
+      "id": 20,
+      "original_description": "الغول والغولة يقبلان بعضهما",
+      "start": 4689.14
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4714.97,
+      "id": 21,
+      "original_description": "الغول يقبل الغولة",
+      "start": 4713.73
+    }
+  ],
+  "genre": "Fantasy, Comedy, Animation",
+  "pg": "+7",
+  "platforms": {
+    "amazon": {
+      "id": "amzn1.dv.gti.26b0a83f-e566-51f0-1570-4b2627ea0511",
+      "url": "https://www.primevideo.com/detail?gti=amzn1.dv.gti.26b0a83f-e566-51f0-1570-4b2627ea0511"
+    },
+    "osnplus": {
+      "id": "20942",
+      "url": "https://osnplus.com/en-eg/movie/20942"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/7OuZwCgkZSXLH6fyIzy1ogao8I7.jpg",
+  "title": "Shrek (4) : Forever After",
+  "type": "movie",
+  "year": 2010
+}

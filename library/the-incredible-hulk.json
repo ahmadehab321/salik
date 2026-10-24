@@ -1,0 +1,251 @@
+{
+  "addedAt": 1787692508024,
+  "category": "Marvel",
+  "description": "يعيش العالم \"بروس بانر\" في الخفاء، محاولاً البحث عن علاج للجرعة العالية من أشعة جاما التي سممت خلاياه وتتسبب في تحوله إلى وحش غاضب ومدمّر يُدعى \"هالك\". وأثناء محاولته الهرب من الجيش الأمريكي بقيادة الجنرال \"روس\" الذي يسعى لاستغلال قوته كسلاح عسكري، يواجه بانر تهديدًا جديدًا وأكثر خطورة يُدعى \"أبوميشن\" (Abomination)، مما يضطره لإطلاق سراح الوحش بداخلة للحماية وإنقاذ المدينة.",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 158.2,
+      "id": 1,
+      "original_description": "شخص يشرب السجائر",
+      "start": 142.75
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 591.84,
+      "id": 2,
+      "original_description": "shit",
+      "start": 590.84
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 711.06,
+      "id": 3,
+      "original_description": "damn",
+      "start": 709.5
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1025.09,
+      "id": 4,
+      "original_description": "damn",
+      "start": 1023.98
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1061.11,
+      "id": 5,
+      "original_description": "سيدة تغير ملابسها",
+      "start": 1057.44
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1807.58,
+      "id": 6,
+      "original_description": "crap",
+      "start": 1806.61
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1827.39,
+      "id": 7,
+      "original_description": "crack",
+      "start": 1826.41
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1839.07,
+      "id": 8,
+      "original_description": "pissing",
+      "start": 1838.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2267.6,
+      "id": 9,
+      "original_description": "hell",
+      "start": 2266.65
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2845.66,
+      "id": 10,
+      "original_description": "شخص يأخذ حقنتين في رقبته",
+      "start": 2826.95
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2927.78,
+      "id": 11,
+      "original_description": "damn",
+      "start": 2927.39
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3154.9,
+      "id": 12,
+      "original_description": "asses",
+      "start": 3153.95
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3417.33,
+      "id": 13,
+      "original_description": "goddamn",
+      "start": 3416
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3810.53,
+      "id": 14,
+      "original_description": "يستحم في البانيو",
+      "start": 3800.19
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4018.7,
+      "id": 15,
+      "original_description": "رجل وامرأة يرتكبان الزنا",
+      "start": 3953.05
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 4022.14,
+      "id": 16,
+      "original_description": "شخص يشرب السجائر",
+      "start": 4018.7
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4071.83,
+      "id": 17,
+      "original_description": "pissed",
+      "start": 4071.2
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4138.58,
+      "id": 18,
+      "original_description": "damn",
+      "start": 4137.67
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4384.05,
+      "id": 19,
+      "original_description": "asshole",
+      "start": 4382.55
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4591.85,
+      "id": 20,
+      "original_description": "stupid",
+      "start": 4590.8
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5052.92,
+      "id": 21,
+      "original_description": "freak",
+      "start": 5051.75
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5063.52,
+      "id": 22,
+      "original_description": "bitch",
+      "start": 5062.5
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5290.98,
+      "id": 23,
+      "original_description": "damn",
+      "start": 5290.62
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5296.68,
+      "id": 24,
+      "original_description": "hell",
+      "start": 5295.65
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5505.16,
+      "id": 25,
+      "original_description": "رجل وامرأة يقبلان بعضهما",
+      "start": 5498
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5522.73,
+      "id": 26,
+      "original_description": "shit",
+      "start": 5521.54
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5675.38,
+      "id": 27,
+      "original_description": "damn",
+      "start": 5674.6
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 6288.7,
+      "id": 28,
+      "original_description": "شخص يشرب الخمر والسجائر في حانة",
+      "start": 6264.59
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6296.08,
+      "id": 29,
+      "original_description": "beer",
+      "start": 6294.88
+    }
+  ],
+  "genre": "أبطال خارقون، أكشن ومغامرة، خيال علمي",
+  "pg": "PG-13",
+  "platforms": {
+    "disney": {
+      "id": "30d00f7b-331a-4f43-b9e1-1989d39cb1a3",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-30d00f7b-331a-4f43-b9e1-1989d39cb1a3"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/783TC3fhSq7kMyWdPfuHZp9SfSR.jpg",
+  "title": "The Incredible Hulk",
+  "type": "movie",
+  "year": 2008
+}

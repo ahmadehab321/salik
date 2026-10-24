@@ -1,0 +1,179 @@
+{
+  "episode": 12,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 40.55,
+      "id": 1,
+      "original_description": "hell",
+      "start": 40.18
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 117.9,
+      "id": 2,
+      "original_description": "stupid",
+      "start": 117.61
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 122.48,
+      "id": 3,
+      "original_description": "sex",
+      "start": 122.29
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 124.07,
+      "id": 4,
+      "original_description": "sex",
+      "start": 123.93
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 444.39,
+      "id": 5,
+      "original_description": "damn",
+      "start": 444.11
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 491.88,
+      "id": 6,
+      "original_description": "stupid",
+      "start": 491.33
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 492.41,
+      "id": 7,
+      "original_description": "stupid",
+      "start": 491.88
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 585.09,
+      "id": 8,
+      "original_description": "stupid",
+      "start": 584.63
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 585.56,
+      "id": 9,
+      "original_description": "stupid",
+      "start": 585.09
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 661.53,
+      "id": 10,
+      "original_description": "stupid",
+      "start": 661.06
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 663.8,
+      "id": 11,
+      "original_description": "hell",
+      "start": 663.62
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 672.63,
+      "id": 12,
+      "original_description": "stupid",
+      "start": 672.16
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 829.18,
+      "id": 13,
+      "original_description": "stupid",
+      "start": 828.65
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 853.58,
+      "id": 14,
+      "original_description": "butt",
+      "start": 853.32
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1049.57,
+      "id": 15,
+      "original_description": "stupid",
+      "start": 1049.13
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1150.6,
+      "id": 16,
+      "original_description": "damn",
+      "start": 1150.29
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1161.1,
+      "id": 17,
+      "original_description": "crappy",
+      "start": 1160.68
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1199.62,
+      "id": 18,
+      "original_description": "hell",
+      "start": 1199.31
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1219.43,
+      "id": 19,
+      "original_description": "hell",
+      "start": 1219.22
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1221.66,
+      "id": 20,
+      "original_description": "crap",
+      "start": 1221.45
+    }
+  ],
+  "parent_series_id": "the-middle",
+  "platforms": {
+    "netflix": {
+      "id": 82170866,
+      "url": "https://www.netflix.com/watch/82170866"
+    },
+    "osnplus": {
+      "id": 69079,
+      "url": "https://osnplus.com/en-eg/episode/the-big-chill-69079/watch?contentStreamingDeeplinkQueryParam=false&skipRecap=true"
+    }
+  },
+  "season": 2,
+  "title": "The Middle-S2E12",
+  "type": "episode"
+}

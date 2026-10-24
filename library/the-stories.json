@@ -1,0 +1,507 @@
+{
+  "addedAt": 1789678288717,
+  "category": "Egyptian",
+  "description": "يدور الفيلم - المستوحى من قصة حقيقية - حول عازف بيانو مصري ترابط بعلاقة بريدية مع فتاة نمساوية لأكثر من 15 عاماً، مدفوعاً بحلمه الموسيقي وسط تحولات سياسية واجتماعية شهدتها مصر حتى الثمانينيات.",
+  "filters": [
+    {
+      "action_type": "blur",
+      "category": "substance abuse",
+      "end": 147.13,
+      "id": 1,
+      "original_description": "\"الخال\" يشرب السجائر",
+      "start": 144.61
+    },
+    {
+      "action_type": "blur",
+      "category": "substance abuse",
+      "end": 157.7,
+      "id": 2,
+      "original_description": "\"الخال\" يشرب السجائر",
+      "start": 150.46
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 153.13,
+      "id": 3,
+      "original_description": "مخه جزمة",
+      "start": 152.72
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 227.85,
+      "id": 4,
+      "original_description": "شخص يشرب السجائر",
+      "start": 224.54
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 304.92,
+      "id": 5,
+      "original_description": "شخص يشرب السجائر",
+      "start": 301.02
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 395.11,
+      "id": 6,
+      "original_description": "يخرب بيتك",
+      "start": 394.24
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 470.03,
+      "id": 7,
+      "original_description": "الأهبل",
+      "start": 469.7
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 500.76,
+      "id": 8,
+      "original_description": "اشخاص يشربون السجائر",
+      "start": 494.06
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 513.85,
+      "id": 9,
+      "original_description": "شخص يشرب السجائر",
+      "start": 506.73
+    },
+    {
+      "action_type": "blur",
+      "category": "substance abuse",
+      "end": 558.81,
+      "id": 10,
+      "original_description": "الخال يشرب السجائر",
+      "start": 531.7
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 597.47,
+      "id": 11,
+      "original_description": "stupid",
+      "start": 596.86
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 754.91,
+      "id": 12,
+      "original_description": "شخص يشرب السجائر ويقول نهار اسوح",
+      "start": 751.62
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 765.34,
+      "id": 13,
+      "original_description": "يخرب بيتك",
+      "start": 764.82
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 890.07,
+      "id": 14,
+      "original_description": "شخص يشرب السجائر",
+      "start": 882.28
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 910.56,
+      "id": 15,
+      "original_description": "شخص يشرب السجائر",
+      "start": 908.51
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 939.47,
+      "id": 16,
+      "original_description": "شخص يشرب السجائر",
+      "start": 929.58
+    },
+    {
+      "action_type": "blur",
+      "category": "substance abuse",
+      "end": 962.18,
+      "id": 17,
+      "original_description": "\"الخال\" يشرب السجائر",
+      "start": 960.18
+    },
+    {
+      "action_type": "blur",
+      "category": "substance abuse",
+      "end": 1298.8,
+      "id": 18,
+      "original_description": "\"الخال\" يشرب السجائر",
+      "start": 1280.76
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1298.78,
+      "id": 19,
+      "original_description": "وسخ",
+      "start": 1298.11
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1323.63,
+      "id": 20,
+      "original_description": "زفت",
+      "start": 1318.6
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1348.11,
+      "id": 21,
+      "original_description": "شخص يشرب السجائر وينظ إلى مضاربة",
+      "start": 1346.66
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1360.62,
+      "id": 22,
+      "original_description": "وسخ",
+      "start": 1359.95
+    },
+    {
+      "action_type": "blur",
+      "category": "substance abuse",
+      "end": 1522.42,
+      "id": 23,
+      "original_description": "الاعلامي يشرب السجائر بتوتر",
+      "start": 1514.17
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1742.54,
+      "id": 24,
+      "original_description": "شخص يشرب السيغار",
+      "start": 1740.05
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1792.13,
+      "id": 25,
+      "original_description": "شخص يشرب السيغار",
+      "start": 1785.77
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1930.3,
+      "id": 26,
+      "original_description": "شخص يشرب سيجارة",
+      "start": 1928.11
+    },
+    {
+      "action_type": "blur",
+      "category": "substance abuse",
+      "end": 2031.97,
+      "id": 27,
+      "original_description": "شخص يشرب سيجارة",
+      "start": 1933.25
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2127.47,
+      "id": 28,
+      "original_description": "شخص يشرب سيجارة",
+      "start": 2124.51
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2154.24,
+      "id": 29,
+      "original_description": "العبيط",
+      "start": 2153.72
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2160.97,
+      "id": 30,
+      "original_description": "اب يشتم ابنه",
+      "start": 2158.65
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2165.11,
+      "id": 31,
+      "original_description": "الهبل",
+      "start": 2164.02
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2168.87,
+      "id": 32,
+      "original_description": "هبل",
+      "start": 2168.02
+    },
+    {
+      "action_type": "blur",
+      "category": "substance abuse",
+      "end": 2241.94,
+      "id": 33,
+      "original_description": "رجال يشربون السجائر",
+      "start": 2235.84
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2363.01,
+      "id": 34,
+      "original_description": "حانة يتم شرب فيها الخمر ورجل يقبل امرأة",
+      "start": 2251.38
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2380.7,
+      "id": 35,
+      "original_description": "امرأة تقبل رجل",
+      "start": 2377.87
+    },
+    {
+      "action_type": "blur",
+      "category": "substance abuse",
+      "end": 2441.34,
+      "id": 36,
+      "original_description": "شخص يشرب السجائر بجواره",
+      "start": 2437.65
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2463.73,
+      "id": 37,
+      "original_description": "شخص يشرب السجائر",
+      "start": 2452.1
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2540.21,
+      "id": 38,
+      "original_description": "يا غبي",
+      "start": 2539.54
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2707.15,
+      "id": 39,
+      "original_description": "المعلم يشرب سجائر",
+      "start": 2699.96
+    },
+    {
+      "action_type": "blur",
+      "category": "substance abuse",
+      "end": 2975.87,
+      "id": 40,
+      "original_description": "شخص يشرب السجائر",
+      "start": 2972.86
+    },
+    {
+      "action_type": "blur",
+      "category": "substance abuse",
+      "end": 2984.87,
+      "id": 41,
+      "original_description": "شخص يشرب السجائر",
+      "start": 2979.93
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3066.53,
+      "id": 42,
+      "original_description": "حضن بين رجل وامرأة اجنبية",
+      "start": 3035.68
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 3154.19,
+      "id": 43,
+      "original_description": "رجال يشربون السجائر",
+      "start": 3130.24
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3199.07,
+      "id": 44,
+      "original_description": "داهية",
+      "start": 3198.19
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3264.74,
+      "id": 45,
+      "original_description": "زفت",
+      "start": 3264.11
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 3353.08,
+      "id": 46,
+      "original_description": "اشخاص يشربون السجائر",
+      "start": 3291.35
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 3417.71,
+      "id": 47,
+      "original_description": "شخص يشرب السجائر",
+      "start": 3405.01
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 3446.9,
+      "id": 48,
+      "original_description": "شخص يشرب السجائر",
+      "start": 3435.12
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 3592.78,
+      "id": 49,
+      "original_description": "موسيقى مصاحبة للسجائر",
+      "start": 3449.82
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 3668.46,
+      "id": 50,
+      "original_description": "شخص يشرب السجائر",
+      "start": 3659.48
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3754.4,
+      "id": 51,
+      "original_description": "عبيط",
+      "start": 3754.24
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3925.41,
+      "id": 52,
+      "original_description": "شغب الانفتاح",
+      "start": 3860.57
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4176.4,
+      "id": 53,
+      "original_description": "امرأة تحضن رجل اجنبي",
+      "start": 4165.79
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 4285.37,
+      "id": 54,
+      "original_description": "شخصان يشربان السجائر",
+      "start": 4268.3
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 4346.33,
+      "id": 55,
+      "original_description": "شخصان يشربان السجائر",
+      "start": 4339.74
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4733.35,
+      "id": 56,
+      "original_description": "صفعة على الوجه",
+      "start": 4732.05
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4758.1,
+      "id": 57,
+      "original_description": "زفت",
+      "start": 4757.29
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 5379.36,
+      "id": 58,
+      "original_description": "شخص يشرب السجائر",
+      "start": 5375.4
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5587.3,
+      "id": 59,
+      "original_description": "يا اهطل",
+      "start": 5586.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5745.43,
+      "id": 60,
+      "original_description": "عبيط",
+      "start": 5744.12
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6350.41,
+      "id": 61,
+      "original_description": "رجل يقبل امرأة",
+      "start": 6343.23
+    }
+  ],
+  "genre": "دراما، تاريخي، إنساني، سيرة مستوحاة",
+  "pg": "+16",
+  "platforms": {
+    "shahid": {
+      "id": "49924037233785",
+      "url": "https://shahid.mbc.net/ar/movies/%D8%A7%D9%84%D9%82%D8%B5%D8%B5/movie-49924037233785"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/dckdFbD6JShS8fsP4RSPQPnWUHj.jpg",
+  "title": "القصص",
+  "type": "movie",
+  "year": 2026
+}

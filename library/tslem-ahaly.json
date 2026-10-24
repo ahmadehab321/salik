@@ -1,0 +1,450 @@
+{
+  "category": "Comedy, Action",
+  "description": "فيلم تسليم أهالي هو فيلم كوميدي مصري صدر في أغسطس 2022، من إخراج خالد الحلفاوي، وبطولة دنيا سمير غانم وهشام ماجد، ويعد آخر ظهور سينمائي للفنانة الراحلة دلال عبد العزيز. تدور قصة الفيلم في إطار كوميدي حول طبيب وامرأة تحيا مواقف طريفة بعد زواج والديهما وتورط العائلتين في عصابة لتهريب الألماس",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 216.17,
+      "id": 1,
+      "original_description": "عرة",
+      "start": 215.26
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 216.52,
+      "id": 2,
+      "original_description": "إتفو",
+      "start": 215.67
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 226.07,
+      "id": 3,
+      "original_description": "الحيوان",
+      "start": 224.76
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 726.69,
+      "id": 4,
+      "original_description": "ايحاءات جنسية عن الزواج",
+      "start": 707.3
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1074.23,
+      "id": 5,
+      "original_description": "والنبي",
+      "start": 1073.39
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1146.43,
+      "id": 6,
+      "original_description": "حمارة",
+      "start": 1145.65
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1732.36,
+      "id": 7,
+      "original_description": "كلب",
+      "start": 1731.49
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1818.54,
+      "id": 8,
+      "original_description": "يا نهار اسود",
+      "start": 1817.52
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1825.4,
+      "id": 9,
+      "original_description": "جهلة",
+      "start": 1824.86
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1844.08,
+      "id": 10,
+      "original_description": "شخص يشرب الخمر",
+      "start": 1825.67
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2108.72,
+      "id": 11,
+      "original_description": "والنبي",
+      "start": 2108.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2157.92,
+      "id": 12,
+      "original_description": "حقير",
+      "start": 2157.05
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2159.68,
+      "id": 13,
+      "original_description": "حقير",
+      "start": 2158.93
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2185.96,
+      "id": 14,
+      "original_description": "الكلب",
+      "start": 2184.98
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2187.17,
+      "id": 15,
+      "original_description": "زبالة",
+      "start": 2186.04
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2210.46,
+      "id": 16,
+      "original_description": "والنبي",
+      "start": 2209.48
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2474.87,
+      "id": 17,
+      "original_description": "يخرب بيتك",
+      "start": 2473.8
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2594.3,
+      "id": 18,
+      "original_description": "دم يخرج من رأس شخص",
+      "start": 2565.55
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2586.28,
+      "id": 19,
+      "original_description": "يخرب بيتك",
+      "start": 2585.38
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2587.33,
+      "id": 20,
+      "original_description": "والنبي",
+      "start": 2586.47
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2588.03,
+      "id": 21,
+      "original_description": "والنبي",
+      "start": 2587.18
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2643.07,
+      "id": 22,
+      "original_description": "مضاربة فوكس وخليل في المستشفى",
+      "start": 2623.27
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2821.08,
+      "id": 23,
+      "original_description": "وحياه امك",
+      "start": 2820.22
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2873.04,
+      "id": 24,
+      "original_description": "الكلبة",
+      "start": 2871.82
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 2899.97,
+      "id": 25,
+      "original_description": "انت لا بترحم ولا عايز رحمة ربنا تنزل",
+      "start": 2898.22
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2995.56,
+      "id": 26,
+      "original_description": "ايحاءات جنسية عن الزواج",
+      "start": 2973.04
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3198.5,
+      "id": 27,
+      "original_description": "والنبي",
+      "start": 3197.66
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3278.2,
+      "id": 28,
+      "original_description": "ساعة سودا",
+      "start": 3277.87
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3402.52,
+      "id": 29,
+      "original_description": "يا لهوي",
+      "start": 3401.24
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3512.12,
+      "id": 30,
+      "original_description": "والنبي",
+      "start": 3511.24
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3589.41,
+      "id": 31,
+      "original_description": "غبية",
+      "start": 3588.62
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3590.64,
+      "id": 32,
+      "original_description": "بذمتك",
+      "start": 3590.21
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3603.9,
+      "id": 33,
+      "original_description": "غبية",
+      "start": 3603.16
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3604.44,
+      "id": 34,
+      "original_description": "غبية",
+      "start": 3603.58
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3679.86,
+      "id": 35,
+      "original_description": "غبية",
+      "start": 3679.09
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3680.56,
+      "id": 36,
+      "original_description": "يا نهار اسود",
+      "start": 3679.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3709.64,
+      "id": 37,
+      "original_description": "يا نهار اسود",
+      "start": 3707.42
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4006.21,
+      "id": 38,
+      "original_description": "صفعة على الوجه",
+      "start": 4005.11
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4014.46,
+      "id": 39,
+      "original_description": "الله يخرب بيتك",
+      "start": 4012.56
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4014.46,
+      "id": 40,
+      "original_description": "يخرب بيتك",
+      "start": 4013.03
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 4132.67,
+      "id": 41,
+      "original_description": "شخص يشرب الشيشة",
+      "start": 4119.59
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4418.57,
+      "id": 42,
+      "original_description": "وديني",
+      "start": 4417.71
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4445.96,
+      "id": 43,
+      "original_description": "والنبي",
+      "start": 4444.66
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4522.6,
+      "id": 44,
+      "original_description": "يخرب بيتك",
+      "start": 4521.76
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5334.97,
+      "id": 45,
+      "original_description": "عبيطة",
+      "start": 5334.04
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5758.08,
+      "id": 46,
+      "original_description": "والنبي",
+      "start": 5757.36
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5758.59,
+      "id": 47,
+      "original_description": "والنبي",
+      "start": 5757.58
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5940.88,
+      "id": 48,
+      "original_description": "ملعون",
+      "start": 5939.9
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5952.19,
+      "id": 49,
+      "original_description": "كلب",
+      "start": 5951.44
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5959.57,
+      "id": 50,
+      "original_description": "والنبي",
+      "start": 5959
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 6021.1,
+      "id": 51,
+      "original_description": "الدعاء على الغير",
+      "start": 6016.74
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6031.33,
+      "id": 52,
+      "original_description": "والنبي",
+      "start": 6030.76
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6031.71,
+      "id": 53,
+      "original_description": "والنبي",
+      "start": 6030.83
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6070.47,
+      "id": 54,
+      "original_description": "غبي",
+      "start": 6067.5
+    }
+  ],
+  "genre": "Comedy, Action",
+  "pg": "PG-13",
+  "platforms": {
+    "netflix": {
+      "id": "81641264",
+      "url": "https://www.netflix.com/title/81641264"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/3gA0DiFwY6Zh9XoHTGop28vMHdo.jpg",
+  "title": "تسليم أهالي",
+  "type": "movie",
+  "year": 2022
+}

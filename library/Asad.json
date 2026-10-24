@@ -1,0 +1,507 @@
+{
+  "addedAt": 1787779707941,
+  "category": "Egyptian",
+  "description": "تدور أحداث الفيلم في إطار ملحمي تاريخي خلال القرن التاسع عشر عن شاب يُدعى \"أسد\" ويرفض الاستسلام للعبودية والظلم. تشتعل الأحداث وتصل إلى ذروتها عندما تنشأ قصة حب بينه وبين امرأة حرة، مما يضعه في مواجهة مباشرة مع الأسياد؛ لتتحول معاناته المقاومة إلى شرارة ثورة عارمة يقودها للمطالبة بالحرية والمساواة.",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 446.92,
+      "id": 1,
+      "original_description": "شخص يتم شوي ذراعه",
+      "start": 442.8
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 997.84,
+      "id": 2,
+      "original_description": "متخلفين",
+      "start": 996.88
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1151.45,
+      "id": 3,
+      "original_description": "الكلب",
+      "start": 1150.97
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1469.35,
+      "id": 4,
+      "original_description": "جثث مرمية في النهر",
+      "start": 1457.43
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1497.23,
+      "id": 5,
+      "original_description": "شخص يشرب الشيشة",
+      "start": 1492.93
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1538.57,
+      "id": 6,
+      "original_description": "شخص يشرب الشيشة",
+      "start": 1532.51
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1736.38,
+      "id": 7,
+      "original_description": "القنوط من الدعاء : عمري ما دعيت ربنا انك تبقي مراتي ، عشان حتى الدعاء المفروض انه الواحد يدعي بحاجة انها تحصل",
+      "start": 1726.57
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1769.52,
+      "id": 8,
+      "original_description": "زوج عاري",
+      "start": 1748.05
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1984.88,
+      "id": 9,
+      "original_description": "نخصيه",
+      "start": 1984.03
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2016.56,
+      "id": 10,
+      "original_description": "شخص يجر عبد بطوق",
+      "start": 2009.62
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2041.55,
+      "id": 11,
+      "original_description": "قيء امرأة",
+      "start": 2039.38
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2055.79,
+      "id": 12,
+      "original_description": "انت مال اهلك",
+      "start": 2055.05
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2340.68,
+      "id": 13,
+      "original_description": "سحل عبد بربطه وراء حصان",
+      "start": 2303.75
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2352.95,
+      "id": 14,
+      "original_description": "\"اسد\" مسحول ومضرج بالدماء",
+      "start": 2347.75
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2352.95,
+      "id": 15,
+      "original_description": "كلب",
+      "start": 2351.92
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2362.82,
+      "id": 16,
+      "original_description": "رجل يصفع امرأة",
+      "start": 2360.75
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2389.79,
+      "id": 17,
+      "original_description": "اسد مضرج بالدماء",
+      "start": 2386.14
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2417.17,
+      "id": 18,
+      "original_description": "\"أسد\" مجروح باصابات في وجهه",
+      "start": 2393.12
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2464.37,
+      "id": 19,
+      "original_description": "إخصاء \"أسد\"",
+      "start": 2431.23
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2500.51,
+      "id": 20,
+      "original_description": "محاولة إجهاض ليلى",
+      "start": 2487.48
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2589.57,
+      "id": 21,
+      "original_description": "\"أسد\" مرمي في زريبة",
+      "start": 2535.15
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2664.89,
+      "id": 22,
+      "original_description": "ولادة \"ليلى",
+      "start": 2654.41
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2786.87,
+      "id": 23,
+      "original_description": "نساء يرقصن",
+      "start": 2778.58
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2870.34,
+      "id": 24,
+      "original_description": "البهائم",
+      "start": 2869.76
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2937.94,
+      "id": 25,
+      "original_description": "تلاوة القرآن والمعازف في الخلفية",
+      "start": 2929.5
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3088.55,
+      "id": 26,
+      "original_description": "تعليق \"اسد\" في الفرح",
+      "start": 3019.15
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3352.88,
+      "id": 27,
+      "original_description": "شخص يذبح شخص",
+      "start": 3351.49
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3436.59,
+      "id": 28,
+      "original_description": "مضاربة \"اسد\" بالسيوف",
+      "start": 3401.34
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 3637.33,
+      "id": 29,
+      "original_description": "شخص يشرب الخمر",
+      "start": 3633.78
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4468.12,
+      "id": 30,
+      "original_description": "محروس يصاب بطلقة",
+      "start": 4465.13
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4482.67,
+      "id": 31,
+      "original_description": "جرح رصاصة في صدر محروس",
+      "start": 4470.97
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4693.48,
+      "id": 32,
+      "original_description": "مضاربة \"أسد\" عند المشنقة",
+      "start": 4686.61
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4729.95,
+      "id": 33,
+      "original_description": "جثة \"درية\"",
+      "start": 4723.97
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4780.11,
+      "id": 34,
+      "original_description": "جثة شخص مقتول بسيفين",
+      "start": 4771.75
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4791.94,
+      "id": 35,
+      "original_description": "جثة شخص في رأسه فأس",
+      "start": 4782.61
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4794.8,
+      "id": 36,
+      "original_description": "شخص يجلد شخص",
+      "start": 4792.38
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4808.59,
+      "id": 37,
+      "original_description": "\"اسد\" يقطع رقبة شخص",
+      "start": 4805.01
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4839.01,
+      "id": 38,
+      "original_description": "حرق عبيد أحياء",
+      "start": 4833.25
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4930.9,
+      "id": 39,
+      "original_description": "اصابة خادمة أخرى برصاصة",
+      "start": 4929.67
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 5273.89,
+      "id": 40,
+      "original_description": "عبد متسلسل مضرج بالدماء",
+      "start": 5230.08
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 5446.04,
+      "id": 41,
+      "original_description": "حمامة مصابة تصارع الموت",
+      "start": 5428.83
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 5567.27,
+      "id": 42,
+      "original_description": "طعن شخص في رأسه",
+      "start": 5564.75
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 5619.46,
+      "id": 43,
+      "original_description": "طعن شخص في رقبته",
+      "start": 5617.38
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 5647.97,
+      "id": 44,
+      "original_description": "حرق احياء",
+      "start": 5634.69
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 5700.96,
+      "id": 45,
+      "original_description": "غرق اطفال صغار",
+      "start": 5674.32
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 6045.29,
+      "id": 46,
+      "original_description": "قتل عائلة عبيد",
+      "start": 6027.89
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 6076.38,
+      "id": 47,
+      "original_description": "اصابة شخص في أذنه",
+      "start": 6074.68
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 6146.39,
+      "id": 48,
+      "original_description": "ثورة \"أسد\"",
+      "start": 6097.02
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 6160.01,
+      "id": 49,
+      "original_description": "أسد يطير رقبة شخص",
+      "start": 6158.11
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 6172.64,
+      "id": 50,
+      "original_description": "مضاربات بالسيوف",
+      "start": 6163.09
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 6244.62,
+      "id": 51,
+      "original_description": "شخص ذراعه مقطوعة وينزف",
+      "start": 6235.47
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 6286.31,
+      "id": 52,
+      "original_description": "شخص يتسحل",
+      "start": 6268.89
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 6289.17,
+      "id": 53,
+      "original_description": "\"النخاس\" يطعن في صدره",
+      "start": 6287.23
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 6374.86,
+      "id": 54,
+      "original_description": "شخص يخصي ويشنق شخص",
+      "start": 6350.68
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 6410.5,
+      "id": 55,
+      "original_description": "شخص مشنوق",
+      "start": 6378.31
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 6814.32,
+      "id": 56,
+      "original_description": "سقوط ضحايا العبيد",
+      "start": 6790.17
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 6840.19,
+      "id": 57,
+      "original_description": "سقوط \"عوض\"",
+      "start": 6836.36
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 6882.01,
+      "id": 58,
+      "original_description": "قدم مصابة تنزف دم",
+      "start": 6874.08
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 6923.29,
+      "id": 59,
+      "original_description": "اصابة \"اسد\" برصاصة في صدره",
+      "start": 6919.48
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 6949.92,
+      "id": 60,
+      "original_description": "دم يخرج من صدر شخص",
+      "start": 6945.05
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 6964.59,
+      "id": 61,
+      "original_description": "قيء دم",
+      "start": 6957.9
+    }
+  ],
+  "genre": "دراما تاريخية، أكشن، مغامرة",
+  "pg": "+18",
+  "platforms": {
+    "yango": {
+      "id": "6e6607e71ab743caaa507130aea42b69",
+      "url": "https://play.yango.com/ar/play/6e6607e71ab743caaa507130aea42b69"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/jsm08DuftiIxPrnIXDm0SMD3m5M.jpg",
+  "title": "أسد",
+  "type": "movie",
+  "year": 2026
+}

@@ -1,0 +1,211 @@
+{
+  "addedAt": 1787692508022,
+  "category": "Marvel",
+  "description": "تدور أحداث فيلم Captain Marvel في التسعينيات حول طيارة سلاح الجو \"كارول دانفرز\" التي تكتسب قدرات خارقة وتصبح من أقوى أبطال الكون أثناء تورط الأرض في حرب بين عرقين فضائيين.تستعيد \"كارول\" ذكرياتها وتتوصل لماضيها الحقيقي لتوظف قوتها الجبارة في حماية المجرة.",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 915.12,
+      "id": 1,
+      "original_description": "hell",
+      "start": 914.44
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 970.81,
+      "id": 2,
+      "original_description": "butts",
+      "start": 970
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1521.12,
+      "id": 3,
+      "original_description": "فتاة بملابس البحر",
+      "start": 1517.21
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1537.68,
+      "id": 4,
+      "original_description": "فتاة بملابس البحر",
+      "start": 1533.76
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 2062.4,
+      "id": 5,
+      "original_description": "السكرول ميت ومضرج بالدماء",
+      "start": 2060.02
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 2069.79,
+      "id": 6,
+      "original_description": "السكرول ميت ومضرج بالدماء",
+      "start": 2068.18
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2148.08,
+      "id": 7,
+      "original_description": "freak",
+      "start": 2146.88
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2158.15,
+      "id": 8,
+      "original_description": "مانيكان عريان",
+      "start": 2155.3
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2236.16,
+      "id": 9,
+      "original_description": "شخص يعطي تلميحا جنسيا وهو يرفع الغطاء",
+      "start": 2231.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2243.98,
+      "id": 10,
+      "original_description": "bastards",
+      "start": 2242.71
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3470.65,
+      "id": 11,
+      "original_description": "shit",
+      "start": 3469.69
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3640.34,
+      "id": 12,
+      "original_description": "damn",
+      "start": 3639.48
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3805.8,
+      "id": 13,
+      "original_description": "hell",
+      "start": 3804.73
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3820.07,
+      "id": 14,
+      "original_description": "ugly-ass",
+      "start": 3819.62
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3883.68,
+      "id": 15,
+      "original_description": "شخص يقول تلميح جنسي",
+      "start": 3874.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3882.96,
+      "id": 16,
+      "original_description": "ass",
+      "start": 3881.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3982.68,
+      "id": 17,
+      "original_description": "hell",
+      "start": 3981.78
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4103.32,
+      "id": 18,
+      "original_description": "damn",
+      "start": 4102.16
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4434.8,
+      "id": 19,
+      "original_description": "ass",
+      "start": 4433.99
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4796.37,
+      "id": 20,
+      "original_description": "freak",
+      "start": 4795.29
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5758.49,
+      "id": 21,
+      "original_description": "damn",
+      "start": 5757.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6040.89,
+      "id": 22,
+      "original_description": "hell",
+      "start": 6039.89
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6374.6,
+      "id": 23,
+      "original_description": "motherfucker",
+      "start": 6373.16
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6926.8,
+      "id": 24,
+      "original_description": "hell",
+      "start": 6925.88
+    }
+  ],
+  "genre": "Action-Adventure, Sci-Fi, Dark Comedy",
+  "pg": "PG-13",
+  "platforms": {
+    "disney": {
+      "id": "1e383a14-1ea6-4345-9ab8-fd37618669af",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-1e383a14-1ea6-4345-9ab8-fd37618669af"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/54eFYVcYjJ9QhICSREBZFgnA9F0.jpg",
+  "title": "Captain Marvel",
+  "type": "movie",
+  "year": 2019
+}

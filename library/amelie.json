@@ -1,0 +1,266 @@
+{
+  "category": "Comedy, Drama",
+  "description": "فيلم أميلي (Amélie) هو فيلم رومانسي كوميدي فرنسي إنتاج عام 2001 من إخراج جان بيير جونيه وبطولة أودري توتو، ويحكي قصة فتاة خجولة تعيش في باريس تقرر سرّاً صنع السعادة لمن حولها.",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 82.33,
+      "id": 1,
+      "original_description": "شخص عاري حامل",
+      "start": 77.14
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 240.14,
+      "id": 2,
+      "original_description": "فتاة عارية تستحم",
+      "start": 236.78
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 441.95,
+      "id": 3,
+      "original_description": "fools",
+      "start": 441.54
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 698.22,
+      "id": 4,
+      "original_description": "رجل وامرأة يزنيان",
+      "start": 689.65
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 795.59,
+      "id": 5,
+      "original_description": "جماع الأزواج",
+      "start": 782.43
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 828.48,
+      "id": 6,
+      "original_description": "orgasm",
+      "start": 827.83
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 959.7,
+      "id": 7,
+      "original_description": "حديث عن زنا الرجل والمرأة",
+      "start": 944.24
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1840.8,
+      "id": 8,
+      "original_description": "hot",
+      "start": 1840.5
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1893.21,
+      "id": 9,
+      "original_description": "شخص يطلب شرب الخمر",
+      "start": 1889.41
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2458.1,
+      "id": 10,
+      "original_description": "حديث عن الزنا مع شخص",
+      "start": 2448.79
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2606.63,
+      "id": 11,
+      "original_description": "stupid",
+      "start": 2606.1
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3047.3,
+      "id": 12,
+      "original_description": "morons",
+      "start": 3046.81
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3146.8,
+      "id": 13,
+      "original_description": "crap",
+      "start": 3146.4
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3147.73,
+      "id": 14,
+      "original_description": "crap",
+      "start": 3147.36
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 3226.62,
+      "id": 15,
+      "original_description": "حديث عن أخذ المخدرات أثناء الحمل",
+      "start": 3222.48
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3508.62,
+      "id": 16,
+      "original_description": "حديث عن العمل الاباحي",
+      "start": 3490.77
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3740.61,
+      "id": 17,
+      "original_description": "شخص يلمس صدر سيدة",
+      "start": 3734.31
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3781.9,
+      "id": 18,
+      "original_description": "moron",
+      "start": 3781.11
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3859.84,
+      "id": 19,
+      "original_description": "رجل يزني مع امرأة",
+      "start": 3787.13
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3792.46,
+      "id": 20,
+      "original_description": "moron",
+      "start": 3791.94
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3912.36,
+      "id": 21,
+      "original_description": "فتاة تدخل محل اباحيات",
+      "start": 3889.68
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4136.96,
+      "id": 22,
+      "original_description": "شخص يقول تعليق ايحائي",
+      "start": 4134.42
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4351.4,
+      "id": 23,
+      "original_description": "dope",
+      "start": 4350.38
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4479.59,
+      "id": 24,
+      "original_description": "fool",
+      "start": 4479.14
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4570.18,
+      "id": 25,
+      "original_description": "محل الاباحيات",
+      "start": 4525.93
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 4897.48,
+      "id": 26,
+      "original_description": "شخص يشرب الخمور",
+      "start": 4887.83
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5086.99,
+      "id": 27,
+      "original_description": "امرأة تقبل فم صورة ",
+      "start": 5084.42
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5409.42,
+      "id": 28,
+      "original_description": "محل الاباحيات",
+      "start": 5401.34
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5432.8,
+      "id": 29,
+      "original_description": "محل الاباحيات",
+      "start": 5417.02
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5864.47,
+      "id": 30,
+      "original_description": "عاهرة في محل الاباحيات",
+      "start": 5804.9
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6606.43,
+      "id": 31,
+      "original_description": "امرأة تقبل رجل",
+      "start": 6491.17
+    }
+  ],
+  "genre": "Comedy",
+  "pg": 18,
+  "platforms": {
+    "osnplus": {
+      "id": 63456,
+      "url": "https://osnplus.com/en-eg/movie/amelie-63456/watch?contentStreamingDeeplinkQueryParam=false"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/7X5SiN272lua3FF0irf7pciS0vn.jpg",
+  "title": "Amélie",
+  "type": "movie",
+  "year": 2001
+}

@@ -1,0 +1,298 @@
+{
+  "category": "Comedy, Romance",
+  "description": "فيلم \"طلقني\" هو عمل كوميدي اجتماعي مصري من بطولة كريم محمود عبد العزيز ودينا الشربيني، تدور أحداثه حول زوجين ينفصلان بعد خلافات، لكن يقع الزوج في أزمة مالية تهدده بالسجن، مما يجعله يطلب المساعدة من طليقته وتبدأ المواقف الكوميدية بينهما",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 142.71,
+      "id": 1,
+      "original_description": "الكلب الواطي",
+      "start": 140.84
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 158.26,
+      "id": 2,
+      "original_description": "الحيوان",
+      "start": 157.37
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 242.59,
+      "id": 3,
+      "original_description": "تحرش بصري بفتاة",
+      "start": 238.98
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 379.74,
+      "id": 4,
+      "original_description": "فتاة بملابس البحر",
+      "start": 337.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 446.65,
+      "id": 5,
+      "original_description": "الكلب",
+      "start": 446.21
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 811.3,
+      "id": 6,
+      "original_description": "الحيوان",
+      "start": 810.5
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1416.14,
+      "id": 7,
+      "original_description": "يا نهار اسود",
+      "start": 1415.27
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2042.24,
+      "id": 8,
+      "original_description": "وسخ",
+      "start": 2041.61
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2044.89,
+      "id": 9,
+      "original_description": "يخربيت امك",
+      "start": 2044.1
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2073.1,
+      "id": 10,
+      "original_description": "الحلف بغير الله: وشرف امي",
+      "start": 2072.07
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2077.96,
+      "id": 11,
+      "original_description": "الحلف بغير الله: وشرف امك",
+      "start": 2077
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2083.42,
+      "id": 12,
+      "original_description": "شتائم: ولاد الجاحدة",
+      "start": 2082.48
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2092.68,
+      "id": 13,
+      "original_description": "شتائم: يا بهايم يا ولاد البهايم",
+      "start": 2090.68
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2105,
+      "id": 14,
+      "original_description": "يا روح امك",
+      "start": 2103.99
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2108.91,
+      "id": 15,
+      "original_description": "بأوسخ جزمة",
+      "start": 2108.03
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2139.06,
+      "id": 16,
+      "original_description": "يا مرة",
+      "start": 2138.4
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2255.95,
+      "id": 17,
+      "original_description": "أنتن",
+      "start": 2255.21
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2425.03,
+      "id": 18,
+      "original_description": "وحياة أمك",
+      "start": 2424.37
+    },
+    {
+      "action_type": "mute",
+      "category": "substance abuse",
+      "end": 2778.63,
+      "id": 19,
+      "original_description": "شخص يشرب سجارة حشيش",
+      "start": 2775.75
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3260.37,
+      "id": 20,
+      "original_description": "غباء",
+      "start": 3259.64
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3520.23,
+      "id": 21,
+      "original_description": "يدخل شخص البار ",
+      "start": 3445.99
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3660.05,
+      "id": 22,
+      "original_description": "خمور ونساء في البار",
+      "start": 3530.3
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 3782.45,
+      "id": 23,
+      "original_description": "شخص مخمور",
+      "start": 3684.95
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3737.1,
+      "id": 24,
+      "original_description": "رجل يقبل امرأة",
+      "start": 3736.18
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4214.69,
+      "id": 25,
+      "original_description": "حيوان",
+      "start": 4214.02
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4248.31,
+      "id": 26,
+      "original_description": "يا متخلف",
+      "start": 4247.3
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4248.31,
+      "id": 27,
+      "original_description": "الحلف بغير الله: ورحمة أمي",
+      "start": 4357.38
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4611.18,
+      "id": 28,
+      "original_description": "بنت تلبس لبس يبرز صدرها وظهرها",
+      "start": 4540.76
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 5131.96,
+      "id": 29,
+      "original_description": "تحرش بامرأة",
+      "start": 5118.79
+    },
+    {
+      "action_type": "blur",
+      "category": "nudity",
+      "end": 5175.18,
+      "id": 30,
+      "original_description": "\"جميلة\" تلبس لبس يبرز مفاتنها",
+      "start": 5152.62
+    },
+    {
+      "action_type": "blur",
+      "category": "nudity",
+      "end": 5217.48,
+      "id": 31,
+      "original_description": "\"جميلة\" تلبس لبس يبرز مفاتنها",
+      "start": 5199.93
+    },
+    {
+      "action_type": "blur",
+      "category": "nudity",
+      "end": 5386.13,
+      "id": 32,
+      "original_description": "\"جميلة\" تلبس لبس يبرز مفاتنها",
+      "start": 5221.78
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 5823.9,
+      "id": 33,
+      "original_description": "يا نهار اسود ، يا ولاد الكلب",
+      "start": 5821.53
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5828.53,
+      "id": 34,
+      "original_description": "الحيوان",
+      "start": 5827.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5830.68,
+      "id": 35,
+      "original_description": "اوسخ",
+      "start": 5830.18
+    }
+  ],
+  "genre": "Comedy",
+  "pg": 18,
+  "platforms": {
+    "yango": {
+      "id": "735538de91d44fac8e4e8f4ec5223a70",
+      "url": "https://play.yango.com/ar/movies/film/735538de91d44fac8e4e8f4ec5223a70"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/w600_and_h900_face/uDPVi84WZrtj0MHjWjleEuyYSJu.jpg",
+  "title": "طلقني",
+  "type": "movie",
+  "year": 2025
+}

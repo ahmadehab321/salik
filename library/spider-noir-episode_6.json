@@ -1,0 +1,119 @@
+{
+  "episode": 6,
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 16.8117,
+      "id": 1,
+      "original_description": "متحول عنكبوت مقزز",
+      "start": 14.252556
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 29.05,
+      "id": 2,
+      "original_description": "hell",
+      "start": 28.85
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 55.516636,
+      "id": 3,
+      "original_description": "امرأة تقبل رجل",
+      "start": 53.08906
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 152.53,
+      "id": 4,
+      "original_description": "hell",
+      "start": 151.78
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 630.441974,
+      "id": 5,
+      "original_description": "متحول يعض شخص",
+      "start": 629.553447
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1204.213849,
+      "id": 6,
+      "original_description": "هلاوس بصرية مخيفة",
+      "start": 1181.198504
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1259.9,
+      "id": 7,
+      "original_description": "bitch",
+      "start": 1259.57
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1606.8,
+      "id": 8,
+      "original_description": "goddamn",
+      "start": 1606.28
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2014.331547,
+      "id": 9,
+      "original_description": "مشهد جرح بالغ",
+      "start": 2010.529756
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2149.94,
+      "id": 10,
+      "original_description": "bastard",
+      "start": 2149.59
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2193.48,
+      "id": 11,
+      "original_description": "shit",
+      "start": 2193.11
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2197.03,
+      "id": 12,
+      "original_description": "stupid",
+      "start": 2196.85
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2211.82,
+      "id": 13,
+      "original_description": "hell",
+      "start": 2211.23
+    }
+  ],
+  "parent_series_id": "spider-noir",
+  "platforms": {
+    "amazon": {
+      "id": "amzn1.dv.gti.eae9e0bd-ebfe-4dc2-8c60-9fd19109422c",
+      "url": "https://www.primevideo.com/region/eu/detail/0TPA7F48GEJVGD8KKM1NC6QQ9Q/ref=atv_hm_hom_c_vEe97o_brws_3_3?jic=8%7CEgRzdm9k"
+    }
+  },
+  "season": 1,
+  "title": "Spider-Noir - S1E6",
+  "type": "episode"
+}

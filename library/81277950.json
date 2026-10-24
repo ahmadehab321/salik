@@ -1,0 +1,154 @@
+{
+  "category": "Crime, Comedy",
+  "description": "مل مغامرات وغموض مشوق يروي قصة \"إينولا\" المراهقة الذكية والشقيقة الصغرى للمُتحري الشهير \"شيرلوك هولمز\". تذهب في رحلة جريئة إلى لندن للبحث عن والدتها المُختفية، لتجد نفسها متورطة في إنقاذ لورد هارب وحل مؤامرة سياسية تهدد البلاد \"تنبيه\": يوجد بعض المشاهد العنيفة التي لها علاقة بالحبكة.",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 416.23,
+      "id": 1,
+      "original_description": "hell",
+      "start": 415.92
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 468.57,
+      "id": 2,
+      "original_description": "hell",
+      "start": 468.31
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 526.2,
+      "id": 3,
+      "original_description": "god",
+      "start": 525.65
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 990.285614,
+      "id": 4,
+      "original_description": "شخص يقول تعليق عري",
+      "start": 983.341458
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1009.04,
+      "id": 5,
+      "original_description": "damn",
+      "start": 1008.72
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1810.1,
+      "id": 6,
+      "original_description": "hell",
+      "start": 1809.73
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2272.57,
+      "id": 7,
+      "original_description": "stupid",
+      "start": 2272.26
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2290.29,
+      "id": 8,
+      "original_description": "pot",
+      "start": 2289.92
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2372.746158,
+      "id": 9,
+      "original_description": "لبس يظهر مفاتن المرأة",
+      "start": 2333.463318
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2983.228504,
+      "id": 10,
+      "original_description": "رجل يغرق امرأة",
+      "start": 2975.653922
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3000.10024,
+      "id": 11,
+      "original_description": "غرق وتعذيب رجل لامرأة",
+      "start": 2989.739575
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 3557.17,
+      "id": 12,
+      "original_description": "shag",
+      "start": 3556.73
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 4481.52,
+      "id": 13,
+      "original_description": "murder",
+      "start": 4481.14
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5344.370364,
+      "id": 14,
+      "original_description": "امرأة تحضن رجل",
+      "start": 5337.867873
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 5909.786943,
+      "id": 15,
+      "original_description": "خنق شخص بجنزير",
+      "start": 5894.617349
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 5963.028924,
+      "id": 16,
+      "original_description": "فتح رأس شخص والدم يسيل",
+      "start": 5957.937663
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6178.813122,
+      "id": 17,
+      "original_description": "حضن رجل لامرأة",
+      "start": 6156.145979
+    }
+  ],
+  "genre": "Crime, Adventure",
+  "pg": "PG-13",
+  "platforms": {
+    "netflix": {
+      "id": "81277950",
+      "url": "https://www.netflix.com/title/81277950"
+    }
+  },
+  "poster_url": "https://upload.wikimedia.org/wikipedia/ar/e/e5/Enola_Holmes_poster_araby.png",
+  "title": "Enola Holmes 1",
+  "type": "movie",
+  "year": 2020
+}

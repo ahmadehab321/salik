@@ -1,0 +1,238 @@
+{
+  "episode": 4,
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 486.99,
+      "id": 1,
+      "original_description": " فتاة تشرب السجائر والخمر وترتكب الزنا",
+      "start": 73.23
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 237.5,
+      "id": 2,
+      "original_description": "jesus",
+      "start": 236.58
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 522.45,
+      "id": 3,
+      "original_description": "امرأة تشرب الخمر",
+      "start": 495.84
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 627.2,
+      "id": 4,
+      "original_description": "beer",
+      "start": 626.52
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 808.58,
+      "id": 5,
+      "original_description": "fucking",
+      "start": 808.01
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.83,
+        "width": 0.668,
+        "x": 0.138,
+        "y": 0.165
+      },
+      "category": "nudity",
+      "end": 826.1,
+      "id": 6,
+      "original_description": "امرأة تلبس ملابس مكشوفة",
+      "start": 810.46
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.593,
+        "width": 0.304,
+        "x": 0.344,
+        "y": 0.406
+      },
+      "category": "nudity",
+      "end": 839.27,
+      "id": 7,
+      "original_description": "امرأة ترتدي ملابس مكشوفة",
+      "start": 835.08
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 906.11,
+      "id": 8,
+      "original_description": "امرأة ترتدي ملابس مكشوفة",
+      "start": 887.58
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 941.33,
+      "id": 9,
+      "original_description": "امرأة ترتدي ملابس مكشوفة",
+      "start": 917.16
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 989.19,
+      "id": 10,
+      "original_description": "امرأة ترتدي ملابس مكشوفة",
+      "start": 968.44
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1150.17,
+      "id": 11,
+      "original_description": "shit",
+      "start": 1148.54
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1215.43,
+      "id": 12,
+      "original_description": "امرأة بالبكيني",
+      "start": 1187.78
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1286.52,
+      "id": 13,
+      "original_description": "امرأة بالبكيني",
+      "start": 1262.74
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.344,
+        "width": 0.169,
+        "x": 0.507,
+        "y": 0.308
+      },
+      "category": "substance abuse",
+      "end": 1385.11,
+      "id": 14,
+      "original_description": "امرأة تشرب السجائر",
+      "start": 1381.66
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.589,
+        "width": 0.271,
+        "x": 0.219,
+        "y": 0.352
+      },
+      "category": "substance abuse",
+      "end": 1420.1,
+      "id": 15,
+      "original_description": "امرأة تشرب السجائر",
+      "start": 1397.38
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2194.21,
+      "id": 16,
+      "original_description": "امرأة ترتدي ملابس مكشوفة",
+      "start": 2170.16
+    },
+    {
+      "action_type": "blur",
+      "category": "nudity",
+      "end": 2273.12,
+      "id": 17,
+      "original_description": "امرأة بالبكيني",
+      "start": 2258.53
+    },
+    {
+      "action_type": "blur",
+      "category": "nudity",
+      "end": 2363.61,
+      "id": 18,
+      "original_description": "امرأة تخلع ملابسها",
+      "start": 2327.25
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.661,
+        "width": 0.359,
+        "x": 0.189,
+        "y": 0.336
+      },
+      "category": "nudity",
+      "end": 2390.56,
+      "id": 19,
+      "original_description": "امرأة بملابس مكشوفة",
+      "start": 2372.99
+    },
+    {
+      "action_type": "blur",
+      "category": "nudity",
+      "end": 2394.01,
+      "id": 20,
+      "original_description": "امرأة بملابس مكشوفة",
+      "start": 2390.56
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2408.54,
+      "id": 21,
+      "original_description": "امرأة بملابس مكشوفة",
+      "start": 2396.49
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2513.14,
+      "id": 22,
+      "original_description": "امراة مكشوفة الساق",
+      "start": 2507.98
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2661.97,
+      "id": 23,
+      "original_description": "امرأة بملابس مكشوفة",
+      "start": 2646.62
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2738.24,
+      "id": 24,
+      "original_description": "امرأة تشرب الخمر",
+      "start": 2723.3
+    }
+  ],
+  "parent_series_id": "the_queen_s_gambit",
+  "platforms": {
+    "Netflix": {
+      "id": "81093612",
+      "offset_seconds": 0,
+      "url": "https://www.netflix.com/title/81093612"
+    }
+  },
+  "season": 1,
+  "title": "The Queen's Gambit - S1E4",
+  "type": "episode"
+}

@@ -1,0 +1,35 @@
+{
+  "episode": 17,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 809.95,
+      "id": 1,
+      "original_description": "beer",
+      "start": 809.71
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 979.58,
+      "id": 2,
+      "original_description": "freaking",
+      "start": 978.9
+    }
+  ],
+  "parent_series_id": "the-middle",
+  "platforms": {
+    "netflix": {
+      "id": 82170871,
+      "url": "https://www.netflix.com/watch/82170871"
+    },
+    "osnplus": {
+      "id": 69083,
+      "url": "https://osnplus.com/en-eg/episode/the-math-class-69083/watch?contentStreamingDeeplinkQueryParam=false"
+    }
+  },
+  "season": 2,
+  "title": "The Middle - S2E17",
+  "type": "episode"
+}

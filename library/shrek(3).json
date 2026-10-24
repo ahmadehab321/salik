@@ -1,0 +1,315 @@
+{
+  "addedAt": 1787247690130,
+  "category": "Dreamworks",
+  "description": "فيلم شريك الثالث (إنجليزي: Shrek the Third) هو فيلم رسوم متحركة كوميدي صدر عام 2007 من إنتاج دريم ووركس. تدور قصة الفيلم حول محاولة شريك الهروب من تولّي حكم مملكة \"بعيداً جداً\" بعد مرض الملك، للبحث عن وريث آخر للعرش وهو آرتي، بينما يخطط الأمير الوسيم للانقلاب",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 289.38,
+      "id": 1,
+      "original_description": "الغول عاري",
+      "start": 285.56
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 375.69,
+      "id": 2,
+      "original_description": "twit",
+      "start": 374.71
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 454.09,
+      "id": 3,
+      "original_description": "الغول يقوم بتصرفات جنسية",
+      "start": 402.46
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 414.45,
+      "id": 4,
+      "original_description": "butt",
+      "start": 413.6
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 670.13,
+      "id": 5,
+      "original_description": "fool",
+      "start": 669.58
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 742.08,
+      "id": 6,
+      "original_description": "ذبابة تقف عل عين الضفدع",
+      "start": 739.35
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1041.87,
+      "id": 7,
+      "original_description": "losers",
+      "start": 1041.05
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1108.37,
+      "id": 8,
+      "original_description": "قط أولعوبان",
+      "start": 1096.41
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1186.65,
+      "id": 9,
+      "original_description": "الغول يقبل الغولة",
+      "start": 1185.93
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2085.36,
+      "id": 10,
+      "original_description": "الشخص المتحول جنسيا",
+      "start": 2071.2
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2221.22,
+      "id": 11,
+      "original_description": "freaks",
+      "start": 2220.1
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2380.09,
+      "id": 12,
+      "original_description": "idiot",
+      "start": 2379.43
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2473.64,
+      "id": 13,
+      "original_description": "loser",
+      "start": 2472.7
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2521.93,
+      "id": 14,
+      "original_description": "loser",
+      "start": 2521.1
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2607.81,
+      "id": 15,
+      "original_description": "dope",
+      "start": 2607.26
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2798.54,
+      "id": 16,
+      "original_description": "lame",
+      "start": 2797.71
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2799.99,
+      "id": 17,
+      "original_description": "lame",
+      "start": 2799.21
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3030.53,
+      "id": 18,
+      "original_description": "حديث الشخص المتحول جنسيا",
+      "start": 3022.72
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3023.98,
+      "id": 19,
+      "original_description": "jerk",
+      "start": 3023.2
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3083.32,
+      "id": 20,
+      "original_description": "رجل يقبل امراة",
+      "start": 3080.59
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3690.56,
+      "id": 21,
+      "original_description": "pathetic",
+      "start": 3689.56
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3724.19,
+      "id": 22,
+      "original_description": "fool",
+      "start": 3723.54
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3738.48,
+      "id": 23,
+      "original_description": "loser",
+      "start": 3737.65
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3884.88,
+      "id": 24,
+      "original_description": "حديث الشخص المتحول جنسيا",
+      "start": 3881
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3923.87,
+      "id": 25,
+      "original_description": "freaks",
+      "start": 3922.92
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3939.98,
+      "id": 26,
+      "original_description": "متحول جنسي يتكلم",
+      "start": 3938.85
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3987.22,
+      "id": 27,
+      "original_description": "حمالة صدر تحترق",
+      "start": 3973.63
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4190.31,
+      "id": 28,
+      "original_description": "اغراء متحول جنسي",
+      "start": 4180.05
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4518.43,
+      "id": 29,
+      "original_description": "كيكة تخرج فضلات",
+      "start": 4515.69
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4569.3,
+      "id": 30,
+      "original_description": "morons",
+      "start": 4568.48
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4595.72,
+      "id": 31,
+      "original_description": "loser",
+      "start": 4594.54
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4832.52,
+      "id": 32,
+      "original_description": "الغول يقبل الغولة",
+      "start": 4824.17
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4849.41,
+      "id": 33,
+      "original_description": "الغول يقبل الغولة",
+      "start": 4847.69
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4869.63,
+      "id": 34,
+      "original_description": "creep",
+      "start": 4868.71
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4883.87,
+      "id": 35,
+      "original_description": "غول يضرط",
+      "start": 4880.29
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4931.93,
+      "id": 36,
+      "original_description": "اشخاص يتكرعون ويضرطون",
+      "start": 4928.46
+    }
+  ],
+  "genre": "Fantasy, Animation, Action-Adventure, Comedy",
+  "pg": "+7",
+  "platforms": {
+    "amazon": {
+      "id": "0O2RU7CTQU55NQ35MAND6AXCOG",
+      "url": "https://www.primevideo.com/region/eu/detail/0O2RU7CTQU55NQ35MAND6AXCOG"
+    },
+    "netflix": {
+      "id": 70047102,
+      "url": "https://www.netflix.com/title/70047102"
+    },
+    "osnplus": {
+      "id": "shrek-the-third-16009",
+      "url": "https://osnplus.com/en-eg/movie/shrek-the-third-16009"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/t3bVJm42Dr9VB6ZOr8rrLZ0V2kR.jpg",
+  "title": "Shrek (3) : The Third",
+  "type": "movie",
+  "year": 2007
+}

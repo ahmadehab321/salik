@@ -1,0 +1,200 @@
+{
+  "episode": 3,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 54.57,
+      "id": 1,
+      "original_description": "hell",
+      "start": 54.06
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 240.37,
+      "id": 2,
+      "original_description": "hell",
+      "start": 239.55
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 348.94,
+      "id": 3,
+      "original_description": "شخص يلقي تعليق ايحائي",
+      "start": 339.88
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 443.04,
+      "id": 4,
+      "original_description": "hell",
+      "start": 442.42
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 571.16,
+      "id": 5,
+      "original_description": "shit",
+      "start": 570.55
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 584.98,
+      "id": 6,
+      "original_description": "damn",
+      "start": 584.39
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 725.11,
+      "id": 7,
+      "original_description": "damn",
+      "start": 724.08
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 739.89,
+      "id": 8,
+      "original_description": "shit",
+      "start": 738.95
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 740.79,
+      "id": 9,
+      "original_description": "shit",
+      "start": 739.84
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 741.48,
+      "id": 10,
+      "original_description": "shit",
+      "start": 740.73
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 782.44,
+      "id": 11,
+      "original_description": "يعبدونني",
+      "start": 777.69
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 800.92,
+      "id": 12,
+      "original_description": "stupid",
+      "start": 799.91
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 802.37,
+      "id": 13,
+      "original_description": "stupid",
+      "start": 801.24
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 811.05,
+      "id": 14,
+      "original_description": "bitchy",
+      "start": 810.34
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 839.19,
+      "id": 15,
+      "original_description": "shitty",
+      "start": 838.52
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 839.74,
+      "id": 16,
+      "original_description": "fucking",
+      "start": 838.84
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 853.6,
+      "id": 17,
+      "original_description": "hell",
+      "start": 852.97
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 899.47,
+      "id": 18,
+      "original_description": "idiot",
+      "start": 898.74
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 960.22,
+      "id": 19,
+      "original_description": "رجل يقبل امرأة",
+      "start": 956.58
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 972.56,
+      "id": 20,
+      "original_description": "دهس شخص",
+      "start": 970.29
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 982.03,
+      "id": 21,
+      "original_description": "امرأة تسقط ميتة",
+      "start": 981.19
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 988.9,
+      "id": 22,
+      "original_description": "دهس أشخاص مع دمهم",
+      "start": 987.28
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1019.68,
+      "id": 23,
+      "original_description": "shit",
+      "start": 1018.2
+    }
+  ],
+  "parent_series_id": "stuart_fails_to_save_the_universe",
+  "platforms": {
+    "osnplus": {
+      "id": "spolier-bert-is-magic-75897",
+      "offset_seconds": 0,
+      "url": "https://osnplus.com/en-eg/series/spolier-bert-is-magic-75897"
+    }
+  },
+  "season": 1,
+  "title": "Stuart Fails to Save The Universe - S1E3",
+  "type": "episode"
+}

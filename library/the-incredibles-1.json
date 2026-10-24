@@ -1,0 +1,99 @@
+{
+  "addedAt": 1790069304701,
+  "category": "Disney",
+  "description": "يُحظر نشاط الأبطال الخارقين حكوميًا، فيضطر \"صبحي شبار\" (مستر إنكريدبل) وعائلته للعيش في الخفاء كحياة طبيعية ومملة.\nيتلقى صبحي مهمة سرية غامضة تعيده لعالم البطولات، لكنه يقع في فخ ومؤامرة تدبرها شخصية حاقدة.\nتتحد العائلة بأكملها وتستخدم قدراتها الخارقة في رحلة مليئة بالخطر والأكشن لإنقاذه وإحباط المخطط الشرير.",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 605,
+      "id": 1,
+      "original_description": "رجل يقبل امرأة",
+      "start": 599
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2497,
+      "id": 2,
+      "original_description": "امرأة تقبل رجل",
+      "start": 2488
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2514,
+      "id": 3,
+      "original_description": "رجل يقرص مؤخرة امرأة",
+      "start": 2510
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2554,
+      "id": 4,
+      "original_description": "رجل وامرأة يتبادلان القبل",
+      "start": 2521
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2580,
+      "id": 5,
+      "original_description": "امرأة تقبل رجل",
+      "start": 2579
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2820,
+      "id": 6,
+      "original_description": "رجل يقبل امرأة",
+      "start": 2818
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3114.5,
+      "id": 7,
+      "original_description": "عامل زي الكلب",
+      "start": 3113
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5004,
+      "id": 8,
+      "original_description": "حضن بين رجل وامرأة أجنبية",
+      "start": 4998
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5023,
+      "id": 9,
+      "original_description": "رجل يسحب امرأة ويقبلها",
+      "start": 5012
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5814,
+      "id": 10,
+      "original_description": "امرأة تقبل رجل",
+      "start": 5810
+    }
+  ],
+  "genre": "رسوم متحركة، أكشن، مغامرة، عائلي",
+  "pg": "+7",
+  "platforms": {
+    "disney": {
+      "id": "850b6e92-07ea-4211-b3c3-cbbf1de045fa",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-850b6e92-07ea-4211-b3c3-cbbf1de045fa"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/w600_and_h900_face/kPGk8NGY9cAp8pMTybwon5aKerj.jpg",
+  "title": "The Incredibles",
+  "type": "movie",
+  "year": 2004
+}

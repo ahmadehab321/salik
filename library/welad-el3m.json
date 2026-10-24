@@ -1,0 +1,183 @@
+{
+  "category": "Action, Drama",
+  "description": "فيلم ولاد العم هو فيلم تشويق وإثارة مصري إنتاج عام 2009، يروي قصة ضابط مخابرات مصري يُكلف بمهمة في إسرائيل لإنقاذ زوجة مصرية وطفليها بعد أن خدعها زوجها ضابط الموساد وأهربها إلى هناك",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 850.59,
+      "id": 1,
+      "original_description": "يا ابن الكلب",
+      "start": 849.74
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2064.85,
+      "id": 2,
+      "original_description": "بعبدك",
+      "start": 2063.91
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3050.71,
+      "id": 3,
+      "original_description": "ايحاءات جنسية",
+      "start": 3012.87
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 3467.7,
+      "id": 4,
+      "original_description": "سيدة تشرب السجائر",
+      "start": 3461.88
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 3526.28,
+      "id": 5,
+      "original_description": "سيدة تشرب السجائر",
+      "start": 3522.78
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 3689.14,
+      "id": 6,
+      "original_description": "رجل يقبل امرأة ",
+      "start": 3643.94
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5365.2,
+      "id": 7,
+      "original_description": "الحقيرة",
+      "start": 5364.87
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5371.07,
+      "id": 8,
+      "original_description": "بنت ستين كلب",
+      "start": 5370.27
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5686.62,
+      "id": 9,
+      "original_description": "يا حيوان",
+      "start": 5685.93
+    },
+    {
+      "action_type": "blur",
+      "category": "language",
+      "end": 5840.63,
+      "id": 10,
+      "original_description": "كلاب الشوارع",
+      "start": 5840.54
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5876.97,
+      "id": 11,
+      "original_description": "وسخ",
+      "start": 5876.44
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6106.13,
+      "id": 12,
+      "original_description": "وش فقر",
+      "start": 6105.46
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 6200.26,
+      "id": 13,
+      "original_description": "مضاربة بين شخصين ودم",
+      "start": 6166.21
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 6740.36,
+      "id": 14,
+      "original_description": "اصابة \"سلوى\" بطلق ناري",
+      "start": 6739.66
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6747.17,
+      "id": 15,
+      "original_description": "الواطي",
+      "start": 6746.86
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 6850.15,
+      "id": 16,
+      "original_description": "مضاربة عزت ",
+      "start": 6781.89
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6839.72,
+      "id": 17,
+      "original_description": "وحياة امك ",
+      "start": 6838.85
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 6878.25,
+      "id": 18,
+      "original_description": "ضرب رأس \"دانيال\" في الحائط",
+      "start": 6858.79
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6898.92,
+      "id": 19,
+      "original_description": "ده كلب",
+      "start": 6898.75
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 6943.58,
+      "id": 20,
+      "original_description": "\"دانيال\" يحرق حيا ",
+      "start": 6907.39
+    }
+  ],
+  "genre": "Action",
+  "pg": "PG",
+  "platforms": {
+    "watchit": {
+      "id": 99,
+      "offset_seconds": -0.65,
+      "url": "https://www.watchit.com/#/details/movies/99"
+    },
+    "yango": {
+      "id": "836a546c0dd842648ff2d7b064dc3334",
+      "url": "https://play.yango.com/ar/movies/film/836a546c0dd842648ff2d7b064dc3334"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/zxmbaArDd8zHovKbc8s4Cvqx6y1.jpg",
+  "title": "ولاد العم",
+  "type": "movie",
+  "year": 2009
+}

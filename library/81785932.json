@@ -1,0 +1,207 @@
+{
+  "episode": 2,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 54.93,
+      "id": 1,
+      "original_description": "goddamn",
+      "start": 54.62
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 55.65,
+      "id": 2,
+      "original_description": "goddamn",
+      "start": 55.33
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 107.82,
+      "id": 3,
+      "original_description": "hell",
+      "start": 107.47
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 122.24,
+      "id": 4,
+      "original_description": "shit",
+      "start": 122
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 219.17,
+      "id": 5,
+      "original_description": "hell",
+      "start": 218.93
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 242.88,
+      "id": 6,
+      "original_description": "shit",
+      "start": 241.98
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 337.69,
+      "id": 7,
+      "original_description": "damn",
+      "start": 337.12
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 448.65,
+      "id": 8,
+      "original_description": "stupid",
+      "start": 448.2
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 498.31,
+      "id": 9,
+      "original_description": "hell",
+      "start": 498.02
+    },
+    {
+      "action_type": "skip",
+      "category": "Language",
+      "end": 791.97,
+      "id": 10,
+      "original_description": "hell",
+      "start": 791.78
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 887.73,
+      "id": 11,
+      "original_description": "goddamn",
+      "start": 887.49
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1051.98,
+      "id": 12,
+      "original_description": "shit",
+      "start": 1051.54
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1079.8,
+      "id": 13,
+      "original_description": "ass",
+      "start": 1079.54
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1159.13,
+      "id": 14,
+      "original_description": "ass",
+      "start": 1158.94
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1201.52,
+      "id": 15,
+      "original_description": "asshole",
+      "start": 1201.17
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1213.42,
+      "id": 16,
+      "original_description": "hell",
+      "start": 1213.23
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1233.7,
+      "id": 17,
+      "original_description": "goddamn",
+      "start": 1233.38
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1235.64,
+      "id": 18,
+      "original_description": "goddamn",
+      "start": 1235.31
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1347.02,
+      "id": 19,
+      "original_description": "damn",
+      "start": 1346.29
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1485.05,
+      "id": 20,
+      "original_description": "shitting",
+      "start": 1484.68
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1546.09,
+      "id": 21,
+      "original_description": "sexual",
+      "start": 1545.7
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1980.35,
+      "id": 22,
+      "original_description": "goddamn",
+      "start": 1979.96
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2181.004495,
+      "id": 23,
+      "original_description": "تعاطي خمور",
+      "start": 2176.858915
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2290.578807,
+      "id": 24,
+      "original_description": "شخص يطلب كأسا من الخمر",
+      "start": 2284.22936
+    }
+  ],
+  "parent_series_id": "i-will-find-you",
+  "platforms": {
+    "netflix": {
+      "id": "81785932",
+      "url": "https://www.netflix.com/watch/81785932"
+    }
+  },
+  "season": 1,
+  "title": "I will Find You - S1E2",
+  "type": "episode"
+}

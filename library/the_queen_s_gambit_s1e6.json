@@ -1,0 +1,548 @@
+{
+  "episode": 6,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 24.17,
+      "id": 1,
+      "original_description": "hell",
+      "start": 23.23
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 107.52,
+      "id": 2,
+      "original_description": "hot",
+      "start": 106.52
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 200.39,
+      "id": 3,
+      "original_description": "امرأة مكشوفة الساق",
+      "start": 192.4
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 269.82,
+      "id": 4,
+      "original_description": "امرأة مكشوفة الساق",
+      "start": 214.16
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.1,
+        "width": 0.1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "category": "nudity",
+      "end": 286.34,
+      "id": 5,
+      "original_description": "امرأة مكشوفة الساق",
+      "start": 279.42
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.479,
+        "width": 0.168,
+        "x": 0.6,
+        "y": 0.454
+      },
+      "category": "nudity",
+      "end": 302.48,
+      "id": 6,
+      "original_description": "امرأة مكشوفة الساق",
+      "start": 291.74
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 338.42,
+      "id": 7,
+      "original_description": "امرأة مكشوفة الساق",
+      "start": 327.86
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 628.46,
+      "id": 8,
+      "original_description": "freaks",
+      "start": 627.67
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 655.16,
+      "id": 9,
+      "original_description": "jesus",
+      "start": 654.38
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 739.89,
+      "id": 10,
+      "original_description": "امرأة تشرب السجائر",
+      "start": 734.36
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 805.03,
+      "id": 11,
+      "original_description": "شخص يلقي تعليق ايحائي",
+      "start": 798.11
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 903.71,
+      "id": 12,
+      "original_description": "hot",
+      "start": 902.98
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 906.71,
+      "id": 13,
+      "original_description": "امرأة تشرب السجائر",
+      "start": 905.1
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 939.45,
+      "id": 14,
+      "original_description": "امرأة تشرب الخمر",
+      "start": 934.81
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1174.2,
+      "id": 15,
+      "original_description": "حضن بين رجل وامرأة أجنبية",
+      "start": 1033.44
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1182.59,
+      "id": 16,
+      "original_description": "رجل وامرأة يرتكبان الزنا",
+      "start": 1080.2
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.435,
+        "width": 0.315,
+        "x": 0.209,
+        "y": 0.533
+      },
+      "category": "nudity",
+      "end": 1184.92,
+      "id": 17,
+      "original_description": "امرأة مكشوفة الساق",
+      "start": 1182.33
+    },
+    {
+      "action_type": "blur",
+      "category": "nudity",
+      "end": 1200.13,
+      "id": 18,
+      "original_description": "تماثيل  عريانة",
+      "start": 1192.97
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.644,
+        "width": 0.229,
+        "x": 0.286,
+        "y": 0.357
+      },
+      "category": "nudity",
+      "end": 1472.53,
+      "id": 19,
+      "original_description": "امرأة مكشوفة الساق",
+      "start": 1454.35
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1560.61,
+      "id": 20,
+      "original_description": "امرأة تشرب السجائر",
+      "start": 1557.75
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.392,
+        "width": 0.306,
+        "x": 0.276,
+        "y": 0.647
+      },
+      "category": "substance abuse",
+      "end": 1573.42,
+      "id": 21,
+      "original_description": "امرأة تشرب السجائر",
+      "start": 1563.88
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1749.66,
+      "id": 22,
+      "original_description": "امرأة تشرب السجائر والخمر",
+      "start": 1573.41
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1689.29,
+      "id": 23,
+      "original_description": "fuck",
+      "start": 1688.54
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1694.2,
+      "id": 24,
+      "original_description": "fuck",
+      "start": 1693.26
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1726.6,
+      "id": 25,
+      "original_description": "stupid",
+      "start": 1725.11
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2054.7,
+      "id": 26,
+      "original_description": "fucking",
+      "start": 2053.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2101.19,
+      "id": 27,
+      "original_description": "dick",
+      "start": 2100.23
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2235.24,
+      "id": 28,
+      "original_description": "shit",
+      "start": 2234.31
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2236.12,
+      "id": 29,
+      "original_description": "goddamn",
+      "start": 2235.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2246,
+      "id": 30,
+      "original_description": "pathetic",
+      "start": 2244.54
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2257.62,
+      "id": 31,
+      "original_description": "pathetic",
+      "start": 2256.67
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2262.26,
+      "id": 32,
+      "original_description": "pathetic",
+      "start": 2261.67
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2266.21,
+      "id": 33,
+      "original_description": "pathetic",
+      "start": 2265.22
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2351.75,
+      "id": 34,
+      "original_description": "امرأة مكشوفة الساق",
+      "start": 2343.38
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2378.11,
+      "id": 35,
+      "original_description": "امرأة مكشوفة الساق",
+      "start": 2372.59
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2517.33,
+      "id": 36,
+      "original_description": "christ",
+      "start": 2516.42
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2542.08,
+      "id": 37,
+      "original_description": "christ",
+      "start": 2540.92
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.458,
+        "width": 0.314,
+        "x": 0.217,
+        "y": 0.424
+      },
+      "category": "substance abuse",
+      "end": 2563.58,
+      "id": 38,
+      "original_description": "امرأة تشرب السجائر",
+      "start": 2557.06
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2565.54,
+      "id": 39,
+      "original_description": "jesus",
+      "start": 2564.53
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.364,
+        "width": 0.196,
+        "x": 0.335,
+        "y": 0.636
+      },
+      "category": "substance abuse",
+      "end": 2580.52,
+      "id": 40,
+      "original_description": "امرأة تشرب السجائر",
+      "start": 2577.13
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2601.34,
+      "id": 41,
+      "original_description": "امرأة تنفخ السجائر",
+      "start": 2596.62
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2611.29,
+      "id": 42,
+      "original_description": "jesus",
+      "start": 2610.33
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2820.14,
+      "id": 43,
+      "original_description": "امرأة تشرب الخمر",
+      "start": 2812.17
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2974.97,
+      "id": 44,
+      "original_description": "امرأة بملابس مكشوفة",
+      "start": 2835.92
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3105.79,
+      "id": 45,
+      "original_description": "shit",
+      "start": 3104.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3108.63,
+      "id": 46,
+      "original_description": "fuck",
+      "start": 3107.79
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3121.79,
+      "id": 47,
+      "original_description": "shit",
+      "start": 3120.99
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3212,
+      "id": 48,
+      "original_description": "shit",
+      "start": 3211.08
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 3239.57,
+      "id": 49,
+      "original_description": "امرأة تشعل سجائر",
+      "start": 3229.02
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3232.71,
+      "id": 50,
+      "original_description": "goddamnit",
+      "start": 3231.83
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.71,
+        "width": 0.247,
+        "x": 0.584,
+        "y": 0.153
+      },
+      "category": "substance abuse",
+      "end": 3248.18,
+      "id": 51,
+      "original_description": "تغبيش سجائر",
+      "start": 3243.42
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 3427.02,
+      "id": 52,
+      "original_description": "امرأة تشرب سجائر",
+      "start": 3247.8
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.566,
+        "width": 0.355,
+        "x": 0.537,
+        "y": 0.358
+      },
+      "category": "substance abuse",
+      "end": 3255.98,
+      "id": 53,
+      "original_description": "تغبيش دخان سجائر",
+      "start": 3254.59
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.436,
+        "width": 0.413,
+        "x": 0.356,
+        "y": 0.381
+      },
+      "category": "substance abuse",
+      "end": 3279.56,
+      "id": 54,
+      "original_description": "سجائر",
+      "start": 3276.45
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3410.47,
+      "id": 55,
+      "original_description": "damn",
+      "start": 3409.29
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3419.57,
+      "id": 56,
+      "original_description": "jesus",
+      "start": 3418.63
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3420.6,
+      "id": 57,
+      "original_description": "fucking",
+      "start": 3418.87
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3421.29,
+      "id": 58,
+      "original_description": "christ",
+      "start": 3419.9
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3425.02,
+      "id": 59,
+      "original_description": "hell",
+      "start": 3423.64
+    }
+  ],
+  "parent_series_id": "the_queen_s_gambit",
+  "platforms": {
+    "Netflix": {
+      "id": "81093614",
+      "offset_seconds": 0,
+      "url": "https://www.netflix.com/title/81093614"
+    }
+  },
+  "season": 1,
+  "title": "The Queen's Gambit - S1E6",
+  "type": "episode"
+}

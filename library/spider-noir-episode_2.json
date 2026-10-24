@@ -1,0 +1,87 @@
+{
+  "episode": 2,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 54.5,
+      "id": 1,
+      "original_description": "hell",
+      "start": 54.21
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 895.03,
+      "id": 2,
+      "original_description": "dick",
+      "start": 894.74
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1119.12,
+      "id": 3,
+      "original_description": "dumbass",
+      "start": 1117.62
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1734.391459,
+      "id": 4,
+      "original_description": "تدخين في الردهة",
+      "start": 1727.242073
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1852.784215,
+      "id": 5,
+      "original_description": "امرآة تدخن",
+      "start": 1846.315789
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2033.716425,
+      "id": 6,
+      "original_description": "سقوط سيارة ويخرج منها جثث",
+      "start": 2031.028514
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2075.53,
+      "id": 7,
+      "original_description": "hell",
+      "start": 2075.21
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2241.42,
+      "id": 8,
+      "original_description": "shit",
+      "start": 2241.2
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2271.71,
+      "id": 9,
+      "original_description": "hell",
+      "start": 2271.42
+    }
+  ],
+  "parent_series_id": "spider-noir",
+  "platforms": {
+    "amazon": {
+      "id": "amzn1.dv.gti.8bdb5d60-ad28-4049-bcb4-ff452dabfcf3",
+      "url": "https://www.primevideo.com/region/eu/detail/0TPA7F48GEJVGD8KKM1NC6QQ9Q/ref=atv_hm_hom_c_vEe97o_brws_3_3?jic=8%7CEgRzdm9k"
+    }
+  },
+  "season": 1,
+  "title": "Spider-Noir - S1E2",
+  "type": "episode"
+}

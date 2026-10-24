@@ -1,0 +1,154 @@
+{
+  "category": "Comedy, Drama",
+  "description": "فيلم \"آسف على الإزعاج\" هو دراما نفسية مصرية إنتاج عام 2008، بطولة أحمد حلمي ومنة شلبي. يحكي قصة مهندس طيران يعاني من الفصام إثر صدمة وفاة والده، فيختلق عوالق وشخصيات وهمية، وتتغير حياته حين يقابل فتاة تحبه وتكشف له الحقيقة.",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 184.05,
+      "id": 1,
+      "original_description": "يا روح أمك ",
+      "start": 183.5
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 208.74,
+      "id": 2,
+      "original_description": "تافه ، وحقير",
+      "start": 203.84
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 214.69,
+      "id": 3,
+      "original_description": "يا حمار",
+      "start": 213.9
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 262.06,
+      "id": 4,
+      "original_description": "عربية الحمار",
+      "start": 239.93
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 548.1,
+      "id": 5,
+      "original_description": "شخص يشرب السجائر",
+      "start": 536.98
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 635.17,
+      "id": 6,
+      "original_description": "يا حيوان",
+      "start": 634.29
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 639.08,
+      "id": 7,
+      "original_description": "يا حيوان",
+      "start": 638.26
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1457.04,
+      "id": 8,
+      "original_description": "الكلب",
+      "start": 1455.9
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1470.92,
+      "id": 9,
+      "original_description": "الكلبة",
+      "start": 1469.92
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1635.66,
+      "id": 10,
+      "original_description": "مادية حقيرة",
+      "start": 1634.77
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2058.42,
+      "id": 11,
+      "original_description": "شخص يشرب السجائر",
+      "start": 2052.68
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 2206.39,
+      "id": 12,
+      "original_description": "حمار",
+      "start": 2201.67
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2804.37,
+      "id": 13,
+      "original_description": "بذمتك",
+      "start": 2803.74
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4338.82,
+      "id": 14,
+      "original_description": "ورحمة مامتي",
+      "start": 4336.42
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4735.06,
+      "id": 15,
+      "original_description": "غبي",
+      "start": 4734.58
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5287.71,
+      "id": 16,
+      "original_description": "حديث ايحائي على بنت",
+      "start": 5285.86
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6663.35,
+      "id": 17,
+      "original_description": "الحمير",
+      "start": 6662.92
+    }
+  ],
+  "genre": "Comedy, Drama",
+  "pg": "G",
+  "platforms": {
+    "watchit": {
+      "id": 80,
+      "url": "https://www.watchit.com/#/details/movies/80"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/AoVrlQNJfc9oDmVY59kBX9g6ty4.jpg",
+  "title": "آسف على الإزعاج",
+  "type": "movie",
+  "year": 2008
+}

@@ -1,0 +1,58 @@
+{
+  "episode": 7,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1148.23,
+      "id": 1,
+      "original_description": "وحياتكم",
+      "start": 1148.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1206.08,
+      "id": 2,
+      "original_description": "وحياتكم",
+      "start": 1205.44
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1242.87,
+      "id": 3,
+      "original_description": "لابسة ايه النهاردة",
+      "start": 1240.34
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1272.82,
+      "id": 4,
+      "original_description": "يا اغبى",
+      "start": 1272.1
+    }
+  ],
+  "parent_series_id": "Al-Sofara",
+  "platforms": {
+    "shahid": {
+      "id": "981128",
+      "offset_seconds": 15,
+      "url": "https://shahid.mbc.net/ar/player/episodes/%D8%A7%D9%84%D8%B5%D9%81%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%85-1-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9-1/id-981128"
+    },
+    "starzplay": {
+      "id": "s1e7",
+      "offset_seconds": 0,
+      "url": "https://starzplay.com/ar/watch/series/al-sofara/648572456358/s1e7"
+    },
+    "watchit": {
+      "id": "19376",
+      "offset_seconds": 0,
+      "url": "https://www.watchit.com/#/details/series/860/1006/19376/play"
+    }
+  },
+  "season": 1,
+  "title": "Al-sofara - S1E7",
+  "type": "episode"
+}

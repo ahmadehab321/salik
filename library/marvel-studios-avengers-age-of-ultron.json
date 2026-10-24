@@ -1,0 +1,275 @@
+{
+  "addedAt": 1788074322841,
+  "category": "Marvel",
+  "description": "عندما يحاول \"توني ستارك\" إحياء برنامج حفظ السلام المعطل لحماية العالم، تخرج الأمور عن السيطرة وينشأ ذكاء اصطناعي شرير ويملك وعيًا ذاتيًا يُدعى \"ألترون\"، والذي يرى أن السبيل الوحيد لإحلال السلام على الأرض هو إبادة البشرية. يتعين على فريق \"المنتقمون\" التجمع مجددًا ومواجهة هذا التهديد الفتاك، في حين يواجهون حلفاء جددًا وأعداء غير متوقعين كـ \"واندا\" و\"بيترو ماكسيموف\"، لخوض معركة حاسمة تحدد مصير العالم.",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 111.32,
+      "id": 1,
+      "original_description": "shit",
+      "start": 110.36
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 261.48,
+      "id": 2,
+      "original_description": "freaks",
+      "start": 260.3
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 329.12,
+      "id": 3,
+      "original_description": "جرح غائر",
+      "start": 328.16
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1384.53,
+      "id": 4,
+      "original_description": "امرأة مكشوفة الساق",
+      "start": 1381.75
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1461.96,
+      "id": 5,
+      "original_description": "hell",
+      "start": 1460.98
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1592.24,
+      "id": 6,
+      "original_description": "damn",
+      "start": 1591
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1739.92,
+      "id": 7,
+      "original_description": "ass",
+      "start": 1739.16
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1857.57,
+      "id": 8,
+      "original_description": "شخص يقع في صدر امرأة",
+      "start": 1853.31
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2199.04,
+      "id": 9,
+      "original_description": "god",
+      "start": 2198.23
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2705.57,
+      "id": 10,
+      "original_description": "dummy",
+      "start": 2704.6
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2751.78,
+      "id": 11,
+      "original_description": "ذراع رجل مقطوعة",
+      "start": 2740.35
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3333.34,
+      "id": 12,
+      "original_description": "dick",
+      "start": 3333
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3652.58,
+      "id": 13,
+      "original_description": "امرأة تقبل \"هوك اي\"",
+      "start": 3650.79
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3799.37,
+      "id": 14,
+      "original_description": "damn",
+      "start": 3798.36
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3863.41,
+      "id": 15,
+      "original_description": "رجل يقبل امرأة",
+      "start": 3860.83
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3964.23,
+      "id": 16,
+      "original_description": "ايحاءات جنسية",
+      "start": 3941.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4420.4,
+      "id": 17,
+      "original_description": "bastard",
+      "start": 4419.4
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4537.13,
+      "id": 18,
+      "original_description": "امرأة تقبل رجل",
+      "start": 4535.37
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4706.9,
+      "id": 19,
+      "original_description": "god",
+      "start": 4706.4
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4901,
+      "id": 20,
+      "original_description": "hell",
+      "start": 4900.14
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5077.71,
+      "id": 21,
+      "original_description": "hell",
+      "start": 5077.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5144.11,
+      "id": 22,
+      "original_description": "damn",
+      "start": 5143.24
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5524.97,
+      "id": 23,
+      "original_description": "piss",
+      "start": 5523.95
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5832.99,
+      "id": 24,
+      "original_description": "crack",
+      "start": 5832.16
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5869.76,
+      "id": 25,
+      "original_description": "asses",
+      "start": 5868.77
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6183.28,
+      "id": 26,
+      "original_description": "crack",
+      "start": 6182.4
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6215.1,
+      "id": 27,
+      "original_description": "ناتاشا تقبل بارنز",
+      "start": 6210.74
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6551.68,
+      "id": 28,
+      "original_description": "bastard",
+      "start": 6551.02
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6600.3,
+      "id": 29,
+      "original_description": "crack",
+      "start": 6599.52
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6694.68,
+      "id": 30,
+      "original_description": "bitch",
+      "start": 6693.92
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7118.56,
+      "id": 31,
+      "original_description": "ass",
+      "start": 7117.55
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7668.81,
+      "id": 32,
+      "original_description": "damn",
+      "start": 7667.9
+    }
+  ],
+  "genre": "أبطال خارقون، أكشن ومغامرة، خيال علمي",
+  "pg": "+13",
+  "platforms": {
+    "disney": {
+      "id": "42329b99-0953-4f1a-9420-a0dbf7733e95",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-42329b99-0953-4f1a-9420-a0dbf7733e95"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/aDQ9lv1eNAlnX0e1iW8WGFks0Av.jpg",
+  "title": "Avengers: Age of Ultron",
+  "type": "movie",
+  "year": 2015
+}

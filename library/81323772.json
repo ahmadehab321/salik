@@ -1,0 +1,206 @@
+{
+  "category": "Comedy",
+  "description": "فيلم كوميدي مصري عُرض عام 2009، بطولة النجم محمد هنيدي، وتدور أحداثه حول \"أمير\" الشاب المستهتر الذي يدرس بالأكاديمية البحرية، ويقع في حب جارته \"سلوى\" (شيري عادل). تتغير حياته فجأة عندما تتعرض سفينتهم للاختطاف على يد قراصنة في عرض البحر، لتتصاعد الأحداث في قالب من المغامرات والمواقف الطريفة",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 416.907683,
+      "id": 1,
+      "original_description": "رجل يصفع اخواته البنات",
+      "start": 404.963443
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 500.68676,
+      "id": 2,
+      "original_description": "الحلف بغير الله: وحياة أبوكي",
+      "start": 500.241361
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 833.141082,
+      "id": 3,
+      "original_description": "شخص يصفع على وجهه",
+      "start": 832.515061
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1268.392293,
+      "id": 4,
+      "original_description": "رجل يتحدث مع فتاة ليل",
+      "start": 1257.92049
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1740.516057,
+      "id": 5,
+      "original_description": "رجل ذراعه مقطوعة",
+      "start": 1736.565001
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1800.48939,
+      "id": 6,
+      "original_description": "يا سافلة",
+      "start": 1799.436419
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1805.358213,
+      "id": 7,
+      "original_description": "يا سافلة",
+      "start": 1804.875155
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1817.33451,
+      "id": 8,
+      "original_description": "يا واطية",
+      "start": 1805.753656
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1873.18034,
+      "id": 9,
+      "original_description": "شخص يلقي نكتة اباحية وصفعة على الوجه",
+      "start": 1863.51391
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1910.054485,
+      "id": 10,
+      "original_description": "رجل يفتح الباب على امرأة تغير ملابسها",
+      "start": 1901.945247
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2008.289416,
+      "id": 11,
+      "original_description": "زبالة",
+      "start": 2007.655239
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2168.569499,
+      "id": 12,
+      "original_description": "زبالة",
+      "start": 2167.875912
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2302.170879,
+      "id": 13,
+      "original_description": "يا نهار اسود",
+      "start": 2301.423197
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2362.143643,
+      "id": 14,
+      "original_description": "ابن الكلب",
+      "start": 2360.644222
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2611.984626,
+      "id": 15,
+      "original_description": "فرسة ، كرباج",
+      "start": 2610.70105
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3033.79383,
+      "id": 16,
+      "original_description": "ابن الكلب",
+      "start": 3033.126916
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3068.951916,
+      "id": 17,
+      "original_description": "والنبي",
+      "start": 3068.394148
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4101.68058,
+      "id": 18,
+      "original_description": "صفعة على الوجه",
+      "start": 4099.675468
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5215.956411,
+      "id": 19,
+      "original_description": "يا كلب يا سافل ",
+      "start": 5214.761222
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5577.410937,
+      "id": 20,
+      "original_description": "الحلف بغير الله: وحياة أمك",
+      "start": 5576.292142
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6202.635772,
+      "id": 21,
+      "original_description": "كلب حيوان",
+      "start": 6201.558564
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6345.445226,
+      "id": 22,
+      "original_description": "عالم وسخة",
+      "start": 6344.3653
+    },
+    {
+      "action_type": "blur",
+      "category": "substance abuse",
+      "end": 6384.055668,
+      "id": 23,
+      "original_description": "رجل يشرب سجائر",
+      "start": 6377.808737
+    }
+  ],
+  "genre": "Comedy",
+  "pg": "PG-13",
+  "platforms": {
+    "netflix": {
+      "id": 81323772,
+      "url": "https://www.netflix.com/title/81323772"
+    },
+    "shahid": {
+      "id": 997495,
+      "url": "https://shahid.mbc.net/ar/movies/%D8%A3%D9%85%D9%8A%D8%B1-%D8%A7%D9%84%D8%A8%D8%AD%D8%A7%D8%B1/movie-997495"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/w600_and_h900_face/cnHZHFnRl4OYVwBK7xTcrieEYyD.jpg",
+  "title": "أمير البحار",
+  "type": "movie",
+  "year": 2009
+}

@@ -1,0 +1,174 @@
+{
+  "category": "Comedy",
+  "description": " من إخراج أحمد مكي وبطولة أحمد الفيشاوي، ويحكي قصة شاب يحيى المصري الذي يحب الكونغ فو ويكتشف قدرة غريبة تسمى الحاسة السابعة",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 214.516465,
+      "id": 1,
+      "original_description": "وجه مضرج بالدماء",
+      "start": 205.932265
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 1398.422599,
+      "id": 2,
+      "original_description": "شخص بحرق بالنار",
+      "start": 1393.747191
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1571.349247,
+      "id": 3,
+      "original_description": "شخص يشرب الخمر ومعه نساء",
+      "start": 1555.651386
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1645.059807,
+      "id": 4,
+      "original_description": "شباب يشربون الخمر",
+      "start": 1629.51171
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1777.549608,
+      "id": 5,
+      "original_description": "شخص يلقي تعليق اباحي",
+      "start": 1774.752625
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2230.172716,
+      "id": 6,
+      "original_description": "شخص يشاهد رقص ويفكر بطريقة جنسية",
+      "start": 2183.694754
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2305.261861,
+      "id": 7,
+      "original_description": "زوج يمارس بشكل ايحائي الجنس  مع امرأته وتعليق طفلة \"امتى صدري يكبر\"",
+      "start": 2262.534833
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2366.46762,
+      "id": 8,
+      "original_description": "خيالات جنسية خاصة بالأخت وصديقها",
+      "start": 2347.203023
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2448.54656,
+      "id": 9,
+      "original_description": "يا حمار",
+      "start": 2447.936865
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2514.328345,
+      "id": 10,
+      "original_description": "رجل يتبول في المبولة",
+      "start": 2464.732235
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2562.210594,
+      "id": 11,
+      "original_description": "يا غبي",
+      "start": 2561.293401
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2567.626638,
+      "id": 12,
+      "original_description": "غبي",
+      "start": 2567.186726
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2576.477102,
+      "id": 13,
+      "original_description": "يا ابن المجنونة",
+      "start": 2574.951271
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2579.953346,
+      "id": 14,
+      "original_description": "شكلك غبي",
+      "start": 2579.148937
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3328.775134,
+      "id": 15,
+      "original_description": "رقص المطربة فيكي",
+      "start": 3311.239194
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4102.837045,
+      "id": 16,
+      "original_description": "الحمار",
+      "start": 4102.286855
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 6399.228004,
+      "id": 17,
+      "original_description": "وجه \"يحيى\" دامي وينزل منه الدم",
+      "start": 6385.502613
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 6407.746339,
+      "id": 18,
+      "original_description": "وجه \"يحيى\" دامي وينزل منه الدم",
+      "start": 6405.48156
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 6459.894203,
+      "id": 19,
+      "original_description": "وجه \"يحيى\" الدامي",
+      "start": 6455.255665
+    }
+  ],
+  "genre": "Comedy",
+  "pg": "PG",
+  "platforms": {
+    "dailymotion": {
+      "id": "x7sy6hu",
+      "url": "https://www.dailymotion.com/video/x7sy6hu"
+    },
+    "youtube": {
+      "id": "ZF1e8Rl7qdQ",
+      "url": "https://www.youtube.com/watch?v=ZF1e8Rl7qdQ"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/w600_and_h900_face/v3ohnpGik9QZh1qnOtShy4x00e6.jpg",
+  "title": "الحاسة السابعة",
+  "type": "movie",
+  "year": 2005
+}

@@ -1,0 +1,67 @@
+{
+  "episode": 8,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 17.23,
+      "id": 1,
+      "original_description": "crap",
+      "start": 16.96
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 165.146059,
+      "id": 2,
+      "original_description": "شخص يقول تعليق جنسي",
+      "start": 160.265053
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 354.475335,
+      "id": 3,
+      "original_description": "شرب سجائر في وجود طفل",
+      "start": 345.984353
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 536.79,
+      "id": 4,
+      "original_description": "damn",
+      "start": 536.43
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 986.82,
+      "id": 5,
+      "original_description": "stupid",
+      "start": 986.48
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1087.05,
+      "id": 6,
+      "original_description": "hell",
+      "start": 1086.74
+    }
+  ],
+  "parent_series_id": "the-middle",
+  "platforms": {
+    "netflix": {
+      "id": 82170863,
+      "url": "https://www.netflix.com/watch/82170863"
+    },
+    "osnplus": {
+      "id": 68999,
+      "url": "www"
+    }
+  },
+  "season": 2,
+  "title": "The Middle - S2E8",
+  "type": "episode"
+}

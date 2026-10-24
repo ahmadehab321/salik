@@ -1,0 +1,606 @@
+{
+  "category": "Action, Drama",
+  "description": ": تدور أحداث الفيلم حول الشاب البسيط \"محمود\" (كريم عبد العزيز) الذي يعمل حارس أمن (فرد أمن بجراج)، تنقلب حياته رأساً على عقب عندما يشهد جريمة قتل ويقرر قول الحقيقة والشهادة، مما يجعله يدفع ثمناً باهظاً ويُسجن ظلماً لتبدأ رحلة انتقامه بعد خروجه ",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 179.63,
+      "id": 1,
+      "original_description": "كلب",
+      "start": 178.87
+    },
+    {
+      "action_type": "blur",
+      "category": "nudity",
+      "end": 234.58,
+      "id": 2,
+      "original_description": "ظهور امرأة لها مفاتن بارزة",
+      "start": 229.17
+    },
+    {
+      "action_type": "blur",
+      "category": "nudity",
+      "end": 265.27,
+      "id": 3,
+      "original_description": "امرأة لها مفاتن بارزة",
+      "start": 239.79
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 263.38,
+      "id": 4,
+      "original_description": "كلب",
+      "start": 262.7
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 296.39,
+      "id": 5,
+      "original_description": "تحرش الراقصة بالرجل",
+      "start": 269.36
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 300.25,
+      "id": 6,
+      "original_description": "والنعمة",
+      "start": 299.74
+    },
+    {
+      "action_type": "mute",
+      "category": "substance abuse",
+      "end": 352.79,
+      "id": 7,
+      "original_description": "ذكر نوع مخدر:  الاستروكس",
+      "start": 352.26
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 378.59,
+      "id": 8,
+      "original_description": "وراس ابوي",
+      "start": 377.71
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 399.02,
+      "id": 9,
+      "original_description": "شخص يشرب السجائر",
+      "start": 395.28
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 645.24,
+      "id": 10,
+      "original_description": "شخص يقول تعليق ايحائي",
+      "start": 609.39
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 639.68,
+      "id": 11,
+      "original_description": "الجنسي",
+      "start": 638.79
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 670.88,
+      "id": 12,
+      "original_description": "والنبي",
+      "start": 670.25
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 737.56,
+      "id": 13,
+      "original_description": "شخص يشرب السجائر بتأفف",
+      "start": 730.89
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 832.64,
+      "id": 14,
+      "original_description": "مشهد ايحاءات جنسية بين الررجل وامرأته",
+      "start": 790.92
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 876.04,
+      "id": 15,
+      "original_description": "والنبي",
+      "start": 875.06
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1009.88,
+      "id": 16,
+      "original_description": "والنبي",
+      "start": 1009.14
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1020.67,
+      "id": 17,
+      "original_description": "والنبي",
+      "start": 1019.97
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1025,
+      "id": 18,
+      "original_description": "والنبي",
+      "start": 1024.29
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1087.88,
+      "id": 19,
+      "original_description": "والنبى",
+      "start": 1086.92
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 1224.42,
+      "id": 20,
+      "original_description": "طلقة في الرأس ",
+      "start": 1219.26
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 1235.63,
+      "id": 21,
+      "original_description": "سقوط الجثة",
+      "start": 1229.55
+    },
+    {
+      "action_type": "blur",
+      "category": "substance abuse",
+      "end": 1627.71,
+      "id": 22,
+      "original_description": "بشربان السجائر ويتآمران ضد \"سليمان\"",
+      "start": 1598.71
+    },
+    {
+      "action_type": "blur",
+      "category": "substance abuse",
+      "end": 1639,
+      "id": 23,
+      "original_description": "\"مروان\" يشرب سجائر",
+      "start": 1636.83
+    },
+    {
+      "action_type": "blur",
+      "category": "substance abuse",
+      "end": 1686.35,
+      "id": 24,
+      "original_description": "\"الضابط\" حريقة سجائر",
+      "start": 1650.14
+    },
+    {
+      "action_type": "blur",
+      "category": "substance abuse",
+      "end": 1742.53,
+      "id": 25,
+      "original_description": "الضابط يشرب سجائر",
+      "start": 1732.51
+    },
+    {
+      "action_type": "blur",
+      "category": "substance abuse",
+      "end": 1766.01,
+      "id": 26,
+      "original_description": "الضابط يشرب سجائره بشراهة وجشع",
+      "start": 1746.47
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1808.82,
+      "id": 27,
+      "original_description": "كلب",
+      "start": 1808.08
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1976.45,
+      "id": 28,
+      "original_description": "والنبي",
+      "start": 1975.07
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2035.95,
+      "id": 29,
+      "original_description": "امرأة تشرب سجائر",
+      "start": 2030.89
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2311.14,
+      "id": 30,
+      "original_description": "الحيوان",
+      "start": 2310.18
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 2558.12,
+      "id": 31,
+      "original_description": "جثة \"سليمان\" مشنوقة",
+      "start": 2553.59
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 2565.07,
+      "id": 32,
+      "original_description": "جثة \"سليمان\"مشنوقة",
+      "start": 2559.96
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 3337.49,
+      "id": 33,
+      "original_description": "جثة\"منى\" مقطوع رقبتها",
+      "start": 3295.4
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 3447.66,
+      "id": 34,
+      "original_description": "\"محمود\" مضرج بالدماء",
+      "start": 3426.39
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3649.88,
+      "id": 35,
+      "original_description": "الزبالة",
+      "start": 3648.9
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3668.51,
+      "id": 36,
+      "original_description": "عبيط",
+      "start": 3667.65
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3715.38,
+      "id": 37,
+      "original_description": "حمار",
+      "start": 3713.36
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 3975.01,
+      "id": 38,
+      "original_description": "شرب سجائر في السجن",
+      "start": 3937.49
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4180.55,
+      "id": 39,
+      "original_description": "لقطة مقززة: رجل يتبول ",
+      "start": 4180.44
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 4527.72,
+      "id": 40,
+      "original_description": "شخص يشرب سجائر",
+      "start": 4526.31
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4535.87,
+      "id": 41,
+      "original_description": "عبيط",
+      "start": 4535.13
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 4540.4,
+      "id": 42,
+      "original_description": "شخص يشرب سجائر",
+      "start": 4537.78
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 4581.08,
+      "id": 43,
+      "original_description": "شخص يشرب سجائر",
+      "start": 4580.02
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5094.4,
+      "id": 44,
+      "original_description": "والنبي",
+      "start": 5093.49
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5336.33,
+      "id": 45,
+      "original_description": "الحيوان",
+      "start": 5335.3
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 5381.35,
+      "id": 46,
+      "original_description": "شرب خمور وسجائر",
+      "start": 5360.9
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5446.67,
+      "id": 47,
+      "original_description": "قبلة بين رجل وامرأة",
+      "start": 5443.46
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 5513.8,
+      "id": 48,
+      "original_description": "جثة \"منى\" مقطوعة رقبتها",
+      "start": 5512.16
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 5519.87,
+      "id": 49,
+      "original_description": "جثة \"منى\" مقطوعة رقبتها",
+      "start": 5518.66
+    },
+    {
+      "action_type": "blur",
+      "category": "substance abuse",
+      "end": 5617.3,
+      "id": 50,
+      "original_description": "\"محمود\" يشرب سجائر",
+      "start": 5611.58
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 5651.62,
+      "id": 51,
+      "original_description": "شخص يشرب سجارة",
+      "start": 5649.26
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5781.18,
+      "id": 52,
+      "original_description": "الكلاب",
+      "start": 5780.33
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 5841.9,
+      "id": 53,
+      "original_description": "شخص يشرب سجارة",
+      "start": 5806.91
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6004.88,
+      "id": 54,
+      "original_description": "والنبي",
+      "start": 6004.17
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 6017.63,
+      "id": 55,
+      "original_description": "شخص يشرب سجارة",
+      "start": 6014.82
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6016.24,
+      "id": 56,
+      "original_description": "والنبي",
+      "start": 6015
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6153.01,
+      "id": 57,
+      "original_description": "مشهد فتاة الليل",
+      "start": 6072.43
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6086.31,
+      "id": 58,
+      "original_description": "ابن الكلب",
+      "start": 6085.06
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6086.31,
+      "id": 59,
+      "original_description": "الكلب",
+      "start": 6085.34
+    },
+    {
+      "action_type": "mute",
+      "category": "nudity",
+      "end": 6196.52,
+      "id": 60,
+      "original_description": "فتاة تسبح بالبكيني ",
+      "start": 6192.3
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 6243.11,
+      "id": 61,
+      "original_description": "شخص يشرب سجائر في وجود طفل",
+      "start": 6228.11
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6328.12,
+      "id": 62,
+      "original_description": "رجل يقوم بتحرش بصري",
+      "start": 6323.1
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 6349.45,
+      "id": 63,
+      "original_description": "شخص يشرب سجائر",
+      "start": 6347.18
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 6383.11,
+      "id": 64,
+      "original_description": "يشرب شخص سجارة",
+      "start": 6380.98
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 6835.59,
+      "id": 65,
+      "original_description": "جثة \"نبيل\" معلقة",
+      "start": 6827.72
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 6902.88,
+      "id": 66,
+      "original_description": "شرب سجائر",
+      "start": 6898.33
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6921.48,
+      "id": 67,
+      "original_description": "التحدث مع فتاة الليل",
+      "start": 6909.89
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 6984.27,
+      "id": 68,
+      "original_description": "جثة \"سليم\" مشوهة",
+      "start": 6972.97
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7234.96,
+      "id": 69,
+      "original_description": "الكلب",
+      "start": 7234.08
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7239.04,
+      "id": 70,
+      "original_description": "الكلب",
+      "start": 7237.98
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7401.33,
+      "id": 71,
+      "original_description": "حمار",
+      "start": 7400.64
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7688.42,
+      "id": 72,
+      "original_description": "تافه",
+      "start": 7687.64
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 8064.9,
+      "id": 73,
+      "original_description": "جثة \"كمال أبو العزم\" محروقة ودامية",
+      "start": 8053.64
+    }
+  ],
+  "genre": "Action",
+  "pg": "PG-13",
+  "platforms": {
+    "netflix": {
+      "id": 81323764,
+      "url": "https://www.netflix.com/title/81323764"
+    },
+    "shahid": {
+      "id": 85260,
+      "url": "https://shahid.mbc.net/ar/movies/%D9%88%D8%A7%D8%AD%D8%AF-%D9%85%D9%86-%D8%A7%D9%84%D9%86%D8%A7%D8%B3/movie-85260"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/w600_and_h900_face/aso7BXD0MWVz8XkRsNH2fnUvtRq.jpg",
+  "title": "واحد من الناس",
+  "type": "movie",
+  "year": 2006
+}

@@ -1,0 +1,66 @@
+{
+  "category": "Kids, Animation",
+  "description": "يُعد فيلم سبايدرمان: داخل عالم العنكبوت (2018) عملاً رسومياً مبدعاً يروي قصة المراهق مايلز مورالز، بيتر باركر، ونسخ متعددة من أبطال العنكبوت",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 772.97,
+      "id": 1,
+      "original_description": "وحياتك",
+      "start": 771.95
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 945.12,
+      "id": 2,
+      "original_description": "وغلاوتك",
+      "start": 944.18
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1943.35,
+      "id": 3,
+      "original_description": "سروال ضيق",
+      "start": 1942.19
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4254.87,
+      "id": 4,
+      "original_description": "بشرفك",
+      "start": 4253.4
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5127.68,
+      "id": 5,
+      "original_description": "حيوان",
+      "start": 5126.77
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6002.27,
+      "id": 6,
+      "original_description": "وحياتك",
+      "start": 6001.61
+    }
+  ],
+  "genre": "Kids, Animation",
+  "pg": "PG",
+  "platforms": {
+    "yango": {
+      "id": "303c5b2668884268ac39e26b1141cad6",
+      "url": "https://play.yango.com/en/movies/film/303c5b2668884268ac39e26b1141cad6"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/mMwNWwFK74jaFxuk4GY7KQwYpLe.jpg",
+  "title": "سبايدرمان:  داخل عالم العنكبوت",
+  "type": "movie",
+  "year": 2018
+}

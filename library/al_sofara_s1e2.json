@@ -1,0 +1,66 @@
+{
+  "episode": 2,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 446.77,
+      "id": 1,
+      "original_description": "غبي",
+      "start": 446.39
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 939.96,
+      "id": 2,
+      "original_description": "يا نهار اسود",
+      "start": 939.33
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 980.75,
+      "id": 3,
+      "original_description": "حديث ايحائي مع الخادمة",
+      "start": 975.81
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1382.94,
+      "id": 4,
+      "original_description": "حديث ايحائي مع الخادمة",
+      "start": 1349.46
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1713.93,
+      "id": 5,
+      "original_description": "كلب",
+      "start": 1713.23
+    }
+  ],
+  "parent_series_id": "Al-Sofara",
+  "platforms": {
+    "shahid": {
+      "id": "980491",
+      "offset_seconds": 15,
+      "url": "https://shahid.mbc.net/ar/player/episodes/%D8%A7%D9%84%D8%B5%D9%81%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%85-1-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9-1/id-980491"
+    },
+    "starzplay": {
+      "id": "s1e2",
+      "offset_seconds": 0,
+      "url": "https://starzplay.com/ar/watch/series/al-sofara/648572456358/s1e2"
+    },
+    "watchit": {
+      "id": "19290",
+      "offset_seconds": 0,
+      "url": "https://www.watchit.com/#/details/series/860/1006/19290/play"
+    }
+  },
+  "season": 1,
+  "title": "Al-sofara - S1E2",
+  "type": "episode"
+}

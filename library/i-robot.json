@@ -1,0 +1,571 @@
+{
+  "addedAt": 1788636383339,
+  "category": "Hollywood",
+  "description": "تدور الأحداث في مدينة شيكاغو عام 2035، حيث أصبحت الروبوتات الآلية جزءًا أساسيًا من الحياة اليومية للبشر وتعمل وفق \"قوانين الروبوتات الثلاثة\" لضمان عدم إلحاق الأذى بأي إنسان. يكلَّف المحقق \"ديل سبونر\"، الذي يعاني من عقدة ورهاب تجاه التكنولوجيا، بالتحقيق في الجريمة الغامضة لمقتل مخترع هذه الروبوتات، ويشتبه في أن روبوتًا متطورًا يُدعى \"سوني\" هو الفاعل. يقوده التحقيق لكشف مؤامرة أكبر تتجاوز روبوتًا واحدًا لتهدد حرية البشرية بأكملها.",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 175.04,
+      "id": 1,
+      "original_description": "شخص عاري يستحم",
+      "start": 111.7
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 204.27,
+      "id": 2,
+      "original_description": "hell",
+      "start": 203.58
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 280.24,
+      "id": 3,
+      "original_description": "ass",
+      "start": 279.47
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 282.76,
+      "id": 4,
+      "original_description": "ass",
+      "start": 281.97
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 282.95,
+      "id": 5,
+      "original_description": "hot",
+      "start": 282.16
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 287.83,
+      "id": 6,
+      "original_description": "damn",
+      "start": 287.05
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 288,
+      "id": 7,
+      "original_description": "ass",
+      "start": 287.23
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 448.07,
+      "id": 8,
+      "original_description": "asshole",
+      "start": 446.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 475.27,
+      "id": 9,
+      "original_description": "ass",
+      "start": 474.61
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 531.61,
+      "id": 10,
+      "original_description": "damn",
+      "start": 530.81
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 689.52,
+      "id": 11,
+      "original_description": "جثة مخترع الروبوتات",
+      "start": 677.19
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 854.67,
+      "id": 12,
+      "original_description": "shitting",
+      "start": 852.85
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 885.45,
+      "id": 13,
+      "original_description": "hell",
+      "start": 884.59
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1245.79,
+      "id": 14,
+      "original_description": "asses",
+      "start": 1245
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1264.22,
+      "id": 15,
+      "original_description": "shit",
+      "start": 1262.84
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1360.14,
+      "id": 16,
+      "original_description": "ass",
+      "start": 1358.94
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1395.1,
+      "id": 17,
+      "original_description": "stupid",
+      "start": 1394.24
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1526.72,
+      "id": 18,
+      "original_description": "hell",
+      "start": 1525.86
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1636.72,
+      "id": 19,
+      "original_description": "hell",
+      "start": 1636.03
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1814.89,
+      "id": 20,
+      "original_description": "hell",
+      "start": 1814.44
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 1867.09,
+      "id": 21,
+      "original_description": "جثة دكتور \"لاننج\"",
+      "start": 1862.78
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1893.3,
+      "id": 22,
+      "original_description": "hell",
+      "start": 1892.6
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1964.23,
+      "id": 23,
+      "original_description": "hell",
+      "start": 1963.71
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1969.84,
+      "id": 24,
+      "original_description": "bullshit",
+      "start": 1968.73
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2039.07,
+      "id": 25,
+      "original_description": "شخص يشرب الخمر والسجائر",
+      "start": 2025.91
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2058.22,
+      "id": 26,
+      "original_description": "shit",
+      "start": 2057.46
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2138.24,
+      "id": 27,
+      "original_description": "damn",
+      "start": 2137.3
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2360.73,
+      "id": 28,
+      "original_description": "shit",
+      "start": 2358.27
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2505.25,
+      "id": 29,
+      "original_description": "hell",
+      "start": 2504.38
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2525.48,
+      "id": 30,
+      "original_description": "shit",
+      "start": 2524.54
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2573.74,
+      "id": 31,
+      "original_description": "hell",
+      "start": 2572.86
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2648.88,
+      "id": 32,
+      "original_description": "shit",
+      "start": 2648.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2682.01,
+      "id": 33,
+      "original_description": "shit",
+      "start": 2681.11
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2686.42,
+      "id": 34,
+      "original_description": "dumbest",
+      "start": 2684.88
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2695.06,
+      "id": 35,
+      "original_description": "goddamn",
+      "start": 2694.4
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2704.58,
+      "id": 36,
+      "original_description": "dumbest",
+      "start": 2703.42
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2704.85,
+      "id": 37,
+      "original_description": "dumb",
+      "start": 2703.88
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2811,
+      "id": 38,
+      "original_description": "شخص عاري على السرير",
+      "start": 2784.78
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2805.9,
+      "id": 39,
+      "original_description": "hell",
+      "start": 2804.81
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 3105.03,
+      "id": 40,
+      "original_description": "صورة لجثة دكتور \"لاننج\"",
+      "start": 3092.49
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3133.17,
+      "id": 41,
+      "original_description": "bitch",
+      "start": 3131.94
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3190.98,
+      "id": 42,
+      "original_description": "hell",
+      "start": 3189.8
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3197.77,
+      "id": 43,
+      "original_description": "hell",
+      "start": 3196.69
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3245.91,
+      "id": 44,
+      "original_description": "pissed",
+      "start": 3244.67
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3378.23,
+      "id": 45,
+      "original_description": "شخص يبصق دم",
+      "start": 3374.29
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3487.54,
+      "id": 46,
+      "original_description": "hell",
+      "start": 3486.42
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3495.34,
+      "id": 47,
+      "original_description": "hell",
+      "start": 3494.3
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3544.55,
+      "id": 48,
+      "original_description": "goddamn",
+      "start": 3543.37
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3598.35,
+      "id": 49,
+      "original_description": "shit",
+      "start": 3597.27
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3762.84,
+      "id": 50,
+      "original_description": "shit",
+      "start": 3761.92
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3901.21,
+      "id": 51,
+      "original_description": "hell",
+      "start": 3900.56
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4039.64,
+      "id": 52,
+      "original_description": "hell",
+      "start": 4038.74
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4238.19,
+      "id": 53,
+      "original_description": "ass",
+      "start": 4237.46
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4256.35,
+      "id": 54,
+      "original_description": "hell",
+      "start": 4255.42
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4338.58,
+      "id": 55,
+      "original_description": "bullshit",
+      "start": 4337.5
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4885.83,
+      "id": 56,
+      "original_description": "امرأة تستحم",
+      "start": 4877.23
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4985.9,
+      "id": 57,
+      "original_description": "hell",
+      "start": 4984.76
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5163.84,
+      "id": 58,
+      "original_description": "ass",
+      "start": 5163
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5164.66,
+      "id": 59,
+      "original_description": "dick",
+      "start": 5163.97
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5179.38,
+      "id": 60,
+      "original_description": "shit",
+      "start": 5178.33
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5181.18,
+      "id": 61,
+      "original_description": "shit",
+      "start": 5180.41
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5186.14,
+      "id": 62,
+      "original_description": "shit",
+      "start": 5185.14
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5195.14,
+      "id": 63,
+      "original_description": "damn",
+      "start": 5194.29
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5203.57,
+      "id": 64,
+      "original_description": "shit",
+      "start": 5202.75
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5203.77,
+      "id": 65,
+      "original_description": "hot",
+      "start": 5202.97
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5233.11,
+      "id": 66,
+      "original_description": "hell",
+      "start": 5232.69
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5319.93,
+      "id": 67,
+      "original_description": "shit",
+      "start": 5318.88
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5376.37,
+      "id": 68,
+      "original_description": "dumbest",
+      "start": 5374.95
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5376.78,
+      "id": 69,
+      "original_description": "dumb",
+      "start": 5375.67
+    }
+  ],
+  "genre": "خيال علمي، أكشن ومغامرة، غموض وإثارة",
+  "pg": "+13",
+  "platforms": {
+    "disney": {
+      "id": "ce42e744-f65d-4d46-9324-80aec621fc87",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-ce42e744-f65d-4d46-9324-80aec621fc87"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/dlb6JKYv25rJSk2n2hwhOeJ7Dk.jpg",
+  "title": "I,Robot",
+  "type": "movie",
+  "year": 2004
+}

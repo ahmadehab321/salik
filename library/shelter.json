@@ -1,0 +1,194 @@
+{
+  "category": "Action",
+  "description": "صة عميل استخبارات سابق يدعى مايسون، يجسده جيسون ستاثام, يعيش في عزلة على جزيرة اسكتلندية. تنقلب حياته الهادئة بعد إنقاذ فتاة صغيرة من الغرق، مما يشعل سلسلة خطيرة من الأحداث ومواجهة شرسة مع ماضيه",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2101.65,
+      "id": 1,
+      "original_description": "fucker",
+      "start": 2101.1
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 2169.66,
+      "id": 2,
+      "original_description": "شخص يتم احراقه حيا",
+      "start": 2164.2
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2216,
+      "id": 3,
+      "original_description": "jesus",
+      "start": 2215.61
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2216.47,
+      "id": 4,
+      "original_description": "christ",
+      "start": 2216
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2437.71,
+      "id": 5,
+      "original_description": "hell",
+      "start": 2437.43
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2765.74,
+      "id": 6,
+      "original_description": "shit",
+      "start": 2764.28
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2824.91,
+      "id": 7,
+      "original_description": "fuck",
+      "start": 2824.4
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 2927.48,
+      "id": 8,
+      "original_description": "شخص يأخذ طلقة في رأسه",
+      "start": 2926.97
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2998.63,
+      "id": 9,
+      "original_description": "fuck",
+      "start": 2998.34
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3416.49,
+      "id": 10,
+      "original_description": "damn",
+      "start": 3416.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3796.37,
+      "id": 11,
+      "original_description": "christ",
+      "start": 3795.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3850.24,
+      "id": 12,
+      "original_description": "hell",
+      "start": 3849.98
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3856.83,
+      "id": 13,
+      "original_description": "shit",
+      "start": 3855.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3891.6,
+      "id": 14,
+      "original_description": "fuck",
+      "start": 3891.15
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3972.74,
+      "id": 15,
+      "original_description": "jesus",
+      "start": 3971.67
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4147.81,
+      "id": 16,
+      "original_description": "jesus",
+      "start": 4146.73
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4276.54,
+      "id": 17,
+      "original_description": "jesus",
+      "start": 4275.17
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4613.5,
+      "id": 18,
+      "original_description": "shit",
+      "start": 4612.66
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4726.47,
+      "id": 19,
+      "original_description": "bastard",
+      "start": 4725.89
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4894.01,
+      "id": 20,
+      "original_description": "fuck",
+      "start": 4893.66
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5217,
+      "id": 21,
+      "original_description": "fucking",
+      "start": 5216.34
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5644.47,
+      "id": 22,
+      "original_description": "foolish",
+      "start": 5643.97
+    }
+  ],
+  "genre": "Action",
+  "pg": 18,
+  "platforms": {
+    "shahid": {
+      "id": 49923896837054,
+      "url": "https://shahid.mbc.net/ar/movies/Shelter/movie-49923896837054"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/wDHhmyIKfq5cZTYmRal4IR4y85e.jpg",
+  "title": "Shelter",
+  "type": "movie",
+  "year": 2026
+}

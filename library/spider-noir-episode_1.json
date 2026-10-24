@@ -1,0 +1,239 @@
+{
+  "episode": 1,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 360.01,
+      "id": 1,
+      "original_description": "damn",
+      "start": 359.15
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 424.61,
+      "id": 2,
+      "original_description": "shit",
+      "start": 424.38
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 505.05,
+      "id": 3,
+      "original_description": "bastard",
+      "start": 504.63
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 563.56,
+      "id": 4,
+      "original_description": "goddamn",
+      "start": 562.92
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 690.58,
+      "id": 5,
+      "original_description": "bastard",
+      "start": 690.13
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 890.56,
+      "id": 6,
+      "original_description": "damn",
+      "start": 889.51
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 986.820356,
+      "id": 7,
+      "original_description": "شخص يصور رجل عاري",
+      "start": 979.131227
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1039.996069,
+      "id": 8,
+      "original_description": "رجل يجبر امرأة على تقبيله فتصفعه",
+      "start": 1032.979129
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1046,
+      "id": 9,
+      "original_description": "hell",
+      "start": 1045.43
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1234.32,
+      "id": 10,
+      "original_description": "damn",
+      "start": 1234.02
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1279.926348,
+      "id": 11,
+      "original_description": "صورة لشخص عاري",
+      "start": 1276.977955
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1284.63,
+      "id": 12,
+      "original_description": "goddamn",
+      "start": 1284.39
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1359.51,
+      "id": 13,
+      "original_description": "hell",
+      "start": 1359.23
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1425.23,
+      "id": 14,
+      "original_description": "shit",
+      "start": 1424.87
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1432.37,
+      "id": 15,
+      "original_description": "jesus",
+      "start": 1431.93
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1434.14,
+      "id": 16,
+      "original_description": "shit",
+      "start": 1433.7
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1489.71,
+      "id": 17,
+      "original_description": "hell",
+      "start": 1489.38
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1498.62,
+      "id": 18,
+      "original_description": "shit",
+      "start": 1496.75
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1782.12,
+      "id": 19,
+      "original_description": "damn",
+      "start": 1781.65
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1784.44,
+      "id": 20,
+      "original_description": "hell",
+      "start": 1783.97
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1811.607705,
+      "id": 21,
+      "original_description": "تعذيب شخص بالسكين",
+      "start": 1808.052836
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1884.752524,
+      "id": 22,
+      "original_description": "ذبح شخص بالسيف",
+      "start": 1868.22782
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1898.77,
+      "id": 23,
+      "original_description": "dick",
+      "start": 1898.52
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2114.49,
+      "id": 24,
+      "original_description": "opium",
+      "start": 2112.86
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2323.43,
+      "id": 25,
+      "original_description": "hell",
+      "start": 2323.09
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2364.3,
+      "id": 26,
+      "original_description": "piss",
+      "start": 2364.09
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2448.84,
+      "id": 27,
+      "original_description": "hell",
+      "start": 2448.66
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2468.87,
+      "id": 28,
+      "original_description": "damn",
+      "start": 2468.56
+    }
+  ],
+  "parent_series_id": "spider-noir",
+  "platforms": {
+    "amazon": {
+      "id": "amzn1.dv.gti.c4bd2658-32f6-460b-b9f5-b5ac66678003",
+      "url": "https://www.primevideo.com/region/eu/detail/0TPA7F48GEJVGD8KKM1NC6QQ9Q/ref=atv_hm_hom_c_vEe97o_brws_3_3?jic=8%7CEgRzdm9k"
+    }
+  },
+  "season": 1,
+  "title": "Spider-Noir - S1E1",
+  "type": "episode"
+}

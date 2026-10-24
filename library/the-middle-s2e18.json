@@ -1,0 +1,123 @@
+{
+  "episode": 18,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 31.84,
+      "id": 1,
+      "original_description": "stupid",
+      "start": 31.39
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 186.93,
+      "id": 2,
+      "original_description": "crap",
+      "start": 186.66
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 188.37,
+      "id": 3,
+      "original_description": "crap",
+      "start": 188.09
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 189.09,
+      "id": 4,
+      "original_description": "crap",
+      "start": 188.41
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 190.91,
+      "id": 5,
+      "original_description": "crap",
+      "start": 190.48
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 443.67,
+      "id": 6,
+      "original_description": "stupid",
+      "start": 443.16
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 492.09,
+      "id": 7,
+      "original_description": "freaking",
+      "start": 491.42
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 600.08,
+      "id": 8,
+      "original_description": "crap",
+      "start": 599.76
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 886.9,
+      "id": 9,
+      "original_description": "crap",
+      "start": 886.62
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1006.65,
+      "id": 10,
+      "original_description": "stupid",
+      "start": 1006.19
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1156.62,
+      "id": 11,
+      "original_description": "stupid",
+      "start": 1156.35
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1157.93,
+      "id": 12,
+      "original_description": "hell",
+      "start": 1157.6
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1175.31,
+      "id": 13,
+      "original_description": "امرأة تقبل رجل",
+      "start": 1173.34
+    }
+  ],
+  "parent_series_id": "the-middle",
+  "platforms": {
+    "netflix": {
+      "id": 82170872,
+      "url": "https://www.netflix.com/watch/82170872"
+    },
+    "osnplus": {
+      "id": 69090,
+      "url": "https://osnplus.com/en-eg/episode/spring-cleaning-69090/watch?contentStreamingDeeplinkQueryParam=false"
+    }
+  },
+  "season": 2,
+  "title": "The Middle - S2E18",
+  "type": "episode"
+}

@@ -1,0 +1,111 @@
+{
+  "episode": 24,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 157.78,
+      "id": 1,
+      "original_description": "damn",
+      "start": 157.29
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 184.19,
+      "id": 2,
+      "original_description": "dumbest",
+      "start": 183.33
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 197.05,
+      "id": 3,
+      "original_description": "stupid",
+      "start": 196.48
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 375.34,
+      "id": 4,
+      "original_description": "hot",
+      "start": 374.86
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 385.85,
+      "id": 5,
+      "original_description": "idiot",
+      "start": 385.07
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 504.85,
+      "id": 6,
+      "original_description": "stupid",
+      "start": 504.26
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 719.32,
+      "id": 7,
+      "original_description": "jesus",
+      "start": 718.48
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 722.49,
+      "id": 8,
+      "original_description": "damn",
+      "start": 721.47
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 807.95,
+      "id": 9,
+      "original_description": "damn",
+      "start": 807.07
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1045.92,
+      "id": 10,
+      "original_description": "crap",
+      "start": 1045.17
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1048.7,
+      "id": 11,
+      "original_description": "damn",
+      "start": 1047.79
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1104.2,
+      "id": 12,
+      "original_description": "crap",
+      "start": 1103.45
+    }
+  ],
+  "parent_series_id": "the-middle",
+  "platforms": {
+    "netflix": {
+      "id": 82170878,
+      "url": "https://www.netflix.com/watch/82170878"
+    }
+  },
+  "season": 2,
+  "title": "The Middle -S2E24",
+  "type": "episode"
+}

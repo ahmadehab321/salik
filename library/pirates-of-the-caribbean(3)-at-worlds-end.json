@@ -1,0 +1,219 @@
+{
+  "addedAt": 1787045306312,
+  "category": "Fantasy, Action-Adventure",
+  "description": "فيلم قراصنة الكاريبي: في نهاية العالم ( Pirates of The Caribbean (3): At World's End ) . يسعى ويل تورنر وإليزابيث سوان والكابتن باربوسا لإنقاذ جاك سبارو من عالم الأموات، ويواجهون شركة شرقية وقوة بحرية لضمان بقاء حرية القراصنة",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 594.12,
+      "id": 1,
+      "original_description": "عري اشخاص",
+      "start": 558.63
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 837.04,
+      "id": 2,
+      "original_description": "شخص ينظر ما تحت فستان بنت",
+      "start": 830.81
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1022.44,
+      "id": 3,
+      "original_description": "طلقة في الرأس",
+      "start": 1014.03
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1452.4,
+      "id": 4,
+      "original_description": "شخص يقتلع صباعه",
+      "start": 1446.3
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1573.99,
+      "id": 5,
+      "original_description": "bloody",
+      "start": 1573.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1574.43,
+      "id": 6,
+      "original_description": "hell",
+      "start": 1573.64
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2145.59,
+      "id": 7,
+      "original_description": "bloody",
+      "start": 2144.8
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2217.71,
+      "id": 8,
+      "original_description": "شخص يلحس صخرة",
+      "start": 2213.12
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2650.74,
+      "id": 9,
+      "original_description": "شخص يقول تعليق ايحائي",
+      "start": 2638.09
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3651.78,
+      "id": 10,
+      "original_description": "stupid",
+      "start": 3650.56
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4120.84,
+      "id": 11,
+      "original_description": "bloody",
+      "start": 4120.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4176.48,
+      "id": 12,
+      "original_description": "damn",
+      "start": 4175.36
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4502.88,
+      "id": 13,
+      "original_description": "اعتداء على امرأة",
+      "start": 4499.83
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4524.2,
+      "id": 14,
+      "original_description": "كائن بحري يأكل رأس شخص",
+      "start": 4522.08
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5190.17,
+      "id": 15,
+      "original_description": "رجل يقبل امرأة",
+      "start": 5183.55
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5488.44,
+      "id": 16,
+      "original_description": "god",
+      "start": 5488
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5742.74,
+      "id": 17,
+      "original_description": "bloody",
+      "start": 5741.99
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6194.98,
+      "id": 18,
+      "original_description": "hell",
+      "start": 6194.26
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6643.47,
+      "id": 19,
+      "original_description": "fool",
+      "start": 6642.79
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 6847.04,
+      "id": 20,
+      "original_description": "شخص مشوه يأكل دماغه",
+      "start": 6813.38
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 7744.87,
+      "id": 21,
+      "original_description": "أذرع تدخل جوف شخص",
+      "start": 7729.1
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 8012.68,
+      "id": 22,
+      "original_description": "رجل يقبل امرأة",
+      "start": 7989.97
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 8167.51,
+      "id": 23,
+      "original_description": "شخص يغرز سيفا في شخص",
+      "start": 8165.48
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 9163.99,
+      "id": 24,
+      "original_description": "ظهور فخذ امرأة",
+      "start": 9126.25
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 9235.39,
+      "id": 25,
+      "original_description": "رجل يقبل امرأة",
+      "start": 9221.18
+    }
+  ],
+  "genre": "Fantasy, Action-Adventure",
+  "pg": "PG-13",
+  "platforms": {
+    "disney": {
+      "id": "27f5c1cb-2618-4402-9583-1dcaae0efe1d",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-27f5c1cb-2618-4402-9583-1dcaae0efe1d"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/gY7cmSB1kTX2Zo8vRk15I9ZkDJu.jpg",
+  "title": "Pirates of The Caribbean (3): At World's End",
+  "type": "movie",
+  "year": 2007
+}

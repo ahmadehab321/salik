@@ -1,0 +1,175 @@
+{
+  "addedAt": 1790448272065,
+  "category": "Ben Stellar",
+  "description": "يحصل الحارس الليلي الأرعن \"لاري دالي\" على وظيفة جديدة في متحف التاريخ الطبيعي في نيويورك لإثبات كفاءته أمام ابنه.\nيكتشف لاري في ليلته الأولى أن لوحًا فرعونيًا سحريًا يعيد جميع المعروضات والتماثيل والشخصيات التاريخية إلى الحياة بمجرد غروب الشمس.\nيجد نفسه وسط فوضى عارمة ويحاول السيطرة على المتحف وحمايته من مخطط حراس قدامى يسعون لسرقة اللوح السحري.",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 242.02,
+      "id": 1,
+      "original_description": "رجل يقبل امرأة",
+      "start": 241
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1362.82,
+      "id": 2,
+      "original_description": "tequila",
+      "start": 1361.49
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1865.85,
+      "id": 3,
+      "original_description": "قرد يعض ويتبول على الحارس",
+      "start": 1835.15
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2126.63,
+      "id": 4,
+      "original_description": "hell",
+      "start": 2124.98
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2928.34,
+      "id": 5,
+      "original_description": "god'",
+      "start": 2927.46
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3227.6,
+      "id": 6,
+      "original_description": "freak",
+      "start": 3226.67
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3268.44,
+      "id": 7,
+      "original_description": "freak",
+      "start": 3267.97
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3273.58,
+      "id": 8,
+      "original_description": "ass",
+      "start": 3272.64
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3823.61,
+      "id": 9,
+      "original_description": "lord",
+      "start": 3823.07
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4090.42,
+      "id": 10,
+      "original_description": "fool",
+      "start": 4089.92
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4092.63,
+      "id": 11,
+      "original_description": "fool",
+      "start": 4092.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4100.39,
+      "id": 12,
+      "original_description": "fool",
+      "start": 4099.64
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4102.68,
+      "id": 13,
+      "original_description": "fool",
+      "start": 4101.81
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4369.81,
+      "id": 14,
+      "original_description": "freakin'",
+      "start": 4368.45
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4589.63,
+      "id": 15,
+      "original_description": "ضرب على الوجه",
+      "start": 4587.26
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4670.09,
+      "id": 16,
+      "original_description": "hot",
+      "start": 4669.18
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 5451.77,
+      "id": 17,
+      "original_description": "رجل مقطوع نصفين",
+      "start": 5447.41
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5781.29,
+      "id": 18,
+      "original_description": "hot",
+      "start": 5780.36
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6281.89,
+      "id": 19,
+      "original_description": "hot dog",
+      "start": 6280.48
+    }
+  ],
+  "genre": "كوميديا، مغامرة، خيال، عائلي",
+  "pg": "+7",
+  "platforms": {
+    "disney": {
+      "id": "29c89abf-b956-4893-add2-804ce0dbe5d7",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-29c89abf-b956-4893-add2-804ce0dbe5d7"
+    },
+    "netflix": {
+      "id": "70045865",
+      "url": "https://www.netflix.com/title/70045865"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/c90K0w22ZWMSY1NRbNW5OT6aalQ.jpg",
+  "title": "Night at the museum",
+  "type": "movie",
+  "year": 2006
+}

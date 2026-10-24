@@ -1,0 +1,191 @@
+{
+  "addedAt": 1790448519571,
+  "category": "Ben Stellar",
+  "description": "يترك \"لاري دالي\" عمله كحارس ليلي ليصبح رجل أعمال ناجحًا، لكنه يتلقى استغاثة من أصدقائه المعروضات بعد نقلهم لأرشيف مجمع متاحف \"سيميثسونيان\" الضخم.\nيتسلل لاري للمتحف الجديد لينقذ أصدقاءه بعد أن يتسرب اللوح السحري وينشط الشرير الفرعوني \"كامونراه\" الذي يسعى للسيطرة على العالم.\nيتعاون لاري مع الطيارة الشهيرة \"أميليا إيرهارت\" وشخصيات تاريخية جديدة في معركة حامية وكوميدية داخل أكبر مجمع متاحف في العالم.",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 768.92,
+      "id": 1,
+      "original_description": "رجل يقبل يد امرأة أجنبية",
+      "start": 760.99
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 962.95,
+      "id": 2,
+      "original_description": "god",
+      "start": 962.09
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1990.49,
+      "id": 3,
+      "original_description": "fool",
+      "start": 1989.74
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2220.94,
+      "id": 4,
+      "original_description": "صورة فيها رجل يقبل امرأة",
+      "start": 2219.83
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2239.87,
+      "id": 5,
+      "original_description": "رجل يقبل امرأة",
+      "start": 2230.14
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2319.58,
+      "id": 6,
+      "original_description": "رجل يتظاهر بتقبيل امرأة",
+      "start": 2309.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2366.47,
+      "id": 7,
+      "original_description": "damn",
+      "start": 2365.43
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2378.79,
+      "id": 8,
+      "original_description": "god",
+      "start": 2377.72
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2791.87,
+      "id": 9,
+      "original_description": "git",
+      "start": 2790.94
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2893.17,
+      "id": 10,
+      "original_description": "damned",
+      "start": 2891.91
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3277.54,
+      "id": 11,
+      "original_description": "رجل يغازل امرأة",
+      "start": 3264.55
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3332.27,
+      "id": 12,
+      "original_description": "امرأة تصفع وتقبل رجل",
+      "start": 3300.89
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3701.09,
+      "id": 13,
+      "original_description": "freak",
+      "start": 3700.08
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3702.12,
+      "id": 14,
+      "original_description": "freak",
+      "start": 3701.31
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3705.66,
+      "id": 15,
+      "original_description": "freak",
+      "start": 3704.62
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3707.58,
+      "id": 16,
+      "original_description": "freak",
+      "start": 3706.66
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4108.3,
+      "id": 17,
+      "original_description": "حديث عن تقبيل امرأة",
+      "start": 4102.61
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4547.1,
+      "id": 18,
+      "original_description": "stupid",
+      "start": 4545.62
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5217.13,
+      "id": 19,
+      "original_description": "fool",
+      "start": 5216.4
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5540.46,
+      "id": 20,
+      "original_description": "رجل يقبل امرأة",
+      "start": 5512.21
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5807.97,
+      "id": 21,
+      "original_description": "lame",
+      "start": 5806.99
+    }
+  ],
+  "genre": "كوميديا، مغامرة، خيال، عائلي",
+  "pg": "+7",
+  "platforms": {
+    "disney": {
+      "id": "103f57f7-e4d7-4cfb-b545-042d1833e026",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-103f57f7-e4d7-4cfb-b545-042d1833e026"
+    },
+    "netflix": {
+      "id": "70103525",
+      "url": "https://www.netflix.com/title/70103525"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/w600_and_h900_face/l9yAQn6TyrA3gv5xZZkiMMoZsiw.jpg",
+  "title": "Night at the Museum (2): Battle of the Smithsonian",
+  "type": "movie",
+  "year": 2009
+}

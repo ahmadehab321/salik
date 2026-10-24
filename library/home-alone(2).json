@@ -1,0 +1,235 @@
+{
+  "addedAt": 1789246408335,
+  "category": "Disney",
+  "description": "يفقد الصبي \"كيفين مكالستر\" عائلته في المطار ويركب بالخطأ طائرة متجهة إلى مدينة نيويورك بدلاً من ميامي. يستغل بطاقات والده الائتمانية للإقامة في فندق فاخر والتجول في المدينة، حتى يلتقي مجددًا باللصين \"هارف\" و\"مارف\" بعد هروبهما من السجن. يقرر كيفين مواجهتهم مرة أخرى وإفشال مخططهم لسرقة متجر ألعاب شهير باستخدام فخاخ جديدة ومبتكرة داخل منزل قيد التجديد.",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 127,
+      "id": 1,
+      "original_description": "شخص يسأل عن شواطئ العراة",
+      "start": 123
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 126.54,
+      "id": 2,
+      "original_description": "nude",
+      "start": 125.72
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 267.42,
+      "id": 3,
+      "original_description": "naked",
+      "start": 266.42
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 309.64,
+      "id": 4,
+      "original_description": "jerk",
+      "start": 307.55
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 496.53,
+      "id": 5,
+      "original_description": "stupid",
+      "start": 495.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 499.24,
+      "id": 6,
+      "original_description": "idiotic",
+      "start": 498.11
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 533.82,
+      "id": 7,
+      "original_description": "jerks",
+      "start": 532.82
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1558,
+      "id": 8,
+      "original_description": "صفعة على الوجه",
+      "start": 1557
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2208.41,
+      "id": 9,
+      "original_description": "jerk",
+      "start": 2207.49
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2214.42,
+      "id": 10,
+      "original_description": "jerk",
+      "start": 2213.39
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2240.32,
+      "id": 11,
+      "original_description": "jerk",
+      "start": 2238.86
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2244.49,
+      "id": 12,
+      "original_description": "jerk",
+      "start": 2242.72
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2482.78,
+      "id": 13,
+      "original_description": "naked",
+      "start": 2481.67
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2691.26,
+      "id": 14,
+      "original_description": "dumb",
+      "start": 2690.23
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2806.22,
+      "id": 15,
+      "original_description": "joint",
+      "start": 2805.43
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3505,
+      "id": 16,
+      "original_description": "طفل يقرص مقعدة امرأة",
+      "start": 3501
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3586.46,
+      "id": 17,
+      "original_description": "creep",
+      "start": 3585.54
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3681.44,
+      "id": 18,
+      "original_description": "damn",
+      "start": 3681.09
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 3849,
+      "id": 19,
+      "original_description": "امرأتان تشربان السجائر",
+      "start": 3769
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4007.75,
+      "id": 20,
+      "original_description": "butt",
+      "start": 4006.81
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4224.86,
+      "id": 21,
+      "original_description": "dumb",
+      "start": 4223.82
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4658.91,
+      "id": 22,
+      "original_description": "idiots",
+      "start": 4657.83
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 5121,
+      "id": 23,
+      "original_description": "خبط طوبة في شخص",
+      "start": 5050
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 5275,
+      "id": 24,
+      "original_description": "دبابيس في اعضاء حساسة",
+      "start": 5174
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5419.7,
+      "id": 25,
+      "original_description": "creep",
+      "start": 5418.69
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5715.04,
+      "id": 26,
+      "original_description": "idiots",
+      "start": 5714.1
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5979.09,
+      "id": 27,
+      "original_description": "ass",
+      "start": 5978.44
+    }
+  ],
+  "genre": "كوميديا، عائلي، مغامرة",
+  "pg": "+7",
+  "platforms": {
+    "disney": {
+      "id": "86cd0f62-cec4-4426-9e35-9f8263a550a6",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-86cd0f62-cec4-4426-9e35-9f8263a550a6"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/w600_and_h900_face/AgLmezdBOWEsiXpYj545CCvZGHG.jpg",
+  "title": "Home Alone 2: Lost in New York",
+  "type": "movie",
+  "year": 1992
+}

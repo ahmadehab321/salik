@@ -1,0 +1,355 @@
+{
+  "addedAt": 1788075759317,
+  "category": "Marvel",
+  "description": "يعود \"تتشالا\" إلى موطنه مملكة \"واكاندا\" الأفريقية المتقدمة تكنولوجياً بعد وفاة والده ليتولى العرش ويصبح الملك الجديد. ولكن سرعان ما تقع سلطته واختباره كملك و\"نمر أسود\" على المحك عندما يظهر غريم قديم يُدعى \"كيلمنجر\"، والذي يحاول الإطاحة به واستغلال موارد واكاندا المتطورة في صراع عالمي، مما يضع مصير واكاندا والعالم أجمع في خطر.",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 900.74,
+      "id": 1,
+      "original_description": "شخص يقوم بإشارة جنسية",
+      "start": 895.79
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1145.07,
+      "id": 2,
+      "original_description": "رجل يقبل امرأة",
+      "start": 1137.83
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1172.64,
+      "id": 3,
+      "original_description": "رقص عاري في احتفال",
+      "start": 1161.23
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1550.96,
+      "id": 4,
+      "original_description": "god",
+      "start": 1549.49
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1656.89,
+      "id": 5,
+      "original_description": "مضاربة بانثر مع زعيم القبيلة",
+      "start": 1565.84
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1989.98,
+      "id": 6,
+      "original_description": "معتقدات ارواح الأجداد",
+      "start": 1809.33
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2003.19,
+      "id": 7,
+      "original_description": "شخص يضع في فمه طبق",
+      "start": 2000.59
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2182.25,
+      "id": 8,
+      "original_description": "شخص يضع في فمه طبق",
+      "start": 2177.9
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2593.52,
+      "id": 9,
+      "original_description": "whiskey",
+      "start": 2592.48
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2642.38,
+      "id": 10,
+      "original_description": "hell",
+      "start": 2641.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2664.56,
+      "id": 11,
+      "original_description": "craps",
+      "start": 2663.52
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2793.9,
+      "id": 12,
+      "original_description": "شخص يخرج من سوستة البنطلون جهاز",
+      "start": 2789.5
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2861.97,
+      "id": 13,
+      "original_description": "ضرب في مكان حساس",
+      "start": 2859.43
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3033,
+      "id": 14,
+      "original_description": "idiots",
+      "start": 3031.69
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3056.96,
+      "id": 15,
+      "original_description": "shit",
+      "start": 3055.56
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 3294.14,
+      "id": 16,
+      "original_description": "تهديد بالخوزقة",
+      "start": 3287.19
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3958.22,
+      "id": 17,
+      "original_description": "drugs",
+      "start": 3956.69
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4539.18,
+      "id": 18,
+      "original_description": "شخص في فمه طبق",
+      "start": 4536.25
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4665.62,
+      "id": 19,
+      "original_description": "شخص في فمه طبق",
+      "start": 4655.69
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4823.92,
+      "id": 20,
+      "original_description": "جروح بالرمح من تحدي",
+      "start": 4780.27
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4885.12,
+      "id": 21,
+      "original_description": "شخص في فمه طبق",
+      "start": 4883.69
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 5290.18,
+      "id": 22,
+      "original_description": "معتقد التحدث مع الأجداد",
+      "start": 5143.26
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5338.4,
+      "id": 23,
+      "original_description": "shit",
+      "start": 5337.14
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 5417.41,
+      "id": 24,
+      "original_description": "شخص في فمه طبق",
+      "start": 5415.08
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 5467.4,
+      "id": 25,
+      "original_description": "شخص في فمه طبق",
+      "start": 5463.97
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5540.16,
+      "id": 26,
+      "original_description": "shit",
+      "start": 5538.84
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 5746.48,
+      "id": 27,
+      "original_description": "دعاء لغير الله",
+      "start": 5730.58
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 5882.78,
+      "id": 28,
+      "original_description": "معتقد الأجداد",
+      "start": 5769.3
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6175.83,
+      "id": 29,
+      "original_description": "shit",
+      "start": 6174.35
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6483.64,
+      "id": 30,
+      "original_description": "shit",
+      "start": 6482.44
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6485.05,
+      "id": 31,
+      "original_description": "shit",
+      "start": 6484.6
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6485.81,
+      "id": 32,
+      "original_description": "shit",
+      "start": 6484.6
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6486.36,
+      "id": 33,
+      "original_description": "shit",
+      "start": 6485.11
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6651.1,
+      "id": 34,
+      "original_description": "ass",
+      "start": 6650
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6675.18,
+      "id": 35,
+      "original_description": "shit",
+      "start": 6674.76
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6675.78,
+      "id": 36,
+      "original_description": "hell",
+      "start": 6674.76
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6791.6,
+      "id": 37,
+      "original_description": "shit",
+      "start": 6790.29
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 6863.8,
+      "id": 38,
+      "original_description": "حيوان يلحس شخص",
+      "start": 6861.49
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6956.81,
+      "id": 39,
+      "original_description": "hell",
+      "start": 6956.04
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 7223.29,
+      "id": 40,
+      "original_description": "رجل يقبل امرأة",
+      "start": 7192.95
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7323.82,
+      "id": 41,
+      "original_description": "hell",
+      "start": 7322.31
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7576.18,
+      "id": 42,
+      "original_description": "foolish",
+      "start": 7574.48
+    }
+  ],
+  "genre": "أبطال خارقون ، أكشن ومغامرة ، خيال علمي، دراما",
+  "pg": "+13",
+  "platforms": {
+    "disney": {
+      "id": "8904b1b5-da2c-4ff1-b389-dc81825559fd",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-8904b1b5-da2c-4ff1-b389-dc81825559fd"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/sksOGFDEd9f2mvIM68m8i1XRS30.jpg",
+  "title": "Black Panther",
+  "type": "movie",
+  "year": 2018
+}

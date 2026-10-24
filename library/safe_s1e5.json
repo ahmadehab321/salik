@@ -1,0 +1,143 @@
+{
+  "episode": 5,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 240.88,
+      "id": 1,
+      "original_description": "hell",
+      "start": 240.63
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 663.99,
+      "id": 2,
+      "original_description": "fuck",
+      "start": 663.72
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 743.64,
+      "id": 3,
+      "original_description": "شخص يشرب الخمور",
+      "start": 727.67
+    },
+    {
+      "action_type": "mute",
+      "category": "substance abuse",
+      "end": 751.11,
+      "id": 4,
+      "original_description": "شخص يشرب الخمور",
+      "start": 748.99
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 783.86,
+      "id": 5,
+      "original_description": "رجل وامرأة يقبلان بعضهما",
+      "start": 771.07
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 805.12,
+      "id": 6,
+      "original_description": "shit",
+      "start": 804.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 820.46,
+      "id": 7,
+      "original_description": "fuck",
+      "start": 820.16
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 852.61,
+      "id": 8,
+      "original_description": "beer",
+      "start": 852.27
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 860.58,
+      "id": 9,
+      "original_description": "beer",
+      "start": 860.36
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 962.6,
+      "id": 10,
+      "original_description": "fucking",
+      "start": 962.21
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1181.36,
+      "id": 11,
+      "original_description": "bastard",
+      "start": 1180.97
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1594.06,
+      "id": 12,
+      "original_description": "shit",
+      "start": 1593.74
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1611.46,
+      "id": 13,
+      "original_description": "bloody",
+      "start": 1611.03
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1864.53,
+      "id": 14,
+      "original_description": "hell",
+      "start": 1864.18
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2345.9,
+      "id": 15,
+      "original_description": "fuck",
+      "start": 2345.54
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2407.4,
+      "id": 16,
+      "original_description": "shit",
+      "start": 2406.2
+    }
+  ],
+  "parent_series_id": "safe",
+  "platforms": {
+    "netflix": {
+      "id": "80202425",
+      "url": "https://www.netflix.com/watch/80202425"
+    }
+  },
+  "season": 1,
+  "title": "safe - S1E5",
+  "type": "episode"
+}

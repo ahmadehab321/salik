@@ -1,0 +1,106 @@
+{
+  "category": "Crime, Comedy",
+  "description": " هو عمل بوليسي درامي . يتتبع الفيلم المحققة المراهقة (إينولا هولمز) في رحلتها إلى مالطا للتحقيق في اختفاء أحد النبلاء وتفكيك جمعية سرية خطيرة، مع تداخل ذلك مع قضايا سياسية وتخريبية محفوفة بالمخاطر",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 967.21,
+      "id": 1,
+      "original_description": "shag",
+      "start": 966.76
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2087,
+      "id": 2,
+      "original_description": "stupid",
+      "start": 2086.69
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2089.5,
+      "id": 3,
+      "original_description": "stupid",
+      "start": 2089.2
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2094.92,
+      "id": 4,
+      "original_description": "stupid",
+      "start": 2094.58
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3030.369879,
+      "id": 5,
+      "original_description": "رجل وامرأة يخلعان ملابسهما ويسبحان",
+      "start": 2934.877384
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 3217,
+      "id": 6,
+      "original_description": "stroke",
+      "start": 3216.42
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 3937.46,
+      "id": 7,
+      "original_description": "hell",
+      "start": 3937.08
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5668.625869,
+      "id": 8,
+      "original_description": "رجل يقبل امرأة",
+      "start": 5661.717483
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5815.132002,
+      "id": 9,
+      "original_description": "امرأة تقبل رجلا ",
+      "start": 5809.631561
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5856.576138,
+      "id": 10,
+      "original_description": "رجل يقبل امرأة في البحر",
+      "start": 5840.051363
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5974.135055,
+      "id": 11,
+      "original_description": "تقبيل عروسين",
+      "start": 5963.481174
+    }
+  ],
+  "genre": "Crime, Adventure",
+  "pg": "PG-13",
+  "platforms": {
+    "netflix": {
+      "id": "81605886",
+      "url": "https://www.netflix.com/title/81605886"
+    }
+  },
+  "poster_url": "https://upload.wikimedia.org/wikipedia/ar/8/8f/Enola_Holmes_3_arabic_poster.jpg",
+  "title": "Enola Holmes 3",
+  "type": "movie",
+  "year": 2026
+}

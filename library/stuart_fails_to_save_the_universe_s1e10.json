@@ -1,0 +1,176 @@
+{
+  "episode": 10,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 8.85,
+      "id": 1,
+      "original_description": "ass",
+      "start": 7.97
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 136.7,
+      "id": 2,
+      "original_description": "bitch",
+      "start": 135.36
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 138.77,
+      "id": 3,
+      "original_description": "dick",
+      "start": 137.8
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 147.35,
+      "id": 4,
+      "original_description": "damn",
+      "start": 146.41
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 180.85,
+      "id": 5,
+      "original_description": "hell",
+      "start": 179.85
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 209.83,
+      "id": 6,
+      "original_description": "hell",
+      "start": 208.8
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 229.58,
+      "id": 7,
+      "original_description": "shit",
+      "start": 229.04
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 249.8,
+      "id": 8,
+      "original_description": "shit",
+      "start": 248.79
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 279.36,
+      "id": 9,
+      "original_description": "shit",
+      "start": 278.6
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 335.2,
+      "id": 10,
+      "original_description": "crack",
+      "start": 334.28
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 459.76,
+      "id": 11,
+      "original_description": "shit",
+      "start": 459.04
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 520.2,
+      "id": 12,
+      "original_description": "assholes",
+      "start": 519.03
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 561.76,
+      "id": 13,
+      "original_description": "hell",
+      "start": 560.78
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 649.59,
+      "id": 14,
+      "original_description": "freaking",
+      "start": 648.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 653.08,
+      "id": 15,
+      "original_description": "shit",
+      "start": 652.08
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 707.52,
+      "id": 16,
+      "original_description": "freaking",
+      "start": 706.85
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 794.12,
+      "id": 17,
+      "original_description": "crap",
+      "start": 793.38
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 842.62,
+      "id": 18,
+      "original_description": "stupid",
+      "start": 841.4
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 847.14,
+      "id": 19,
+      "original_description": "stupid",
+      "start": 845.76
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 906.93,
+      "id": 20,
+      "original_description": "رجل يقبل امرأة",
+      "start": 904.41
+    }
+  ],
+  "parent_series_id": "stuart_fails_to_save_the_universe",
+  "platforms": {
+    "osnplus": {
+      "id": "spoiler-filmed-before-a-live-studio-audience-77176",
+      "offset_seconds": 0,
+      "url": "https://osnplus.com/en-eg/series/spoiler-filmed-before-a-live-studio-audience-77176"
+    }
+  },
+  "season": 1,
+  "title": "Stuart Fails to Save The Universe - S1E10",
+  "type": "episode"
+}

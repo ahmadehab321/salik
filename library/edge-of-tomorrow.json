@@ -1,0 +1,447 @@
+{
+  "addedAt": 1789247037388,
+  "category": "tom cruise",
+  "description": "يُرسل الضابط الإعلامي \"بيل كيج\" رغماً عنه إلى الخطوط الأمامية في معركة انتحارية ضد فصيل من الكائنات الفضائية الغازية.\nيموت كيج في المعركة ولكنه يجد نفسه محتجزًا في حلقة زمنية تُعيده للحياة مجددًا ليعيش نفس اليوم والتطورات قبل موته.\nيتكاتف كيج مع مقاتلة النخبة \"ريتا فراتاسكي\" ليستغل قدرته التكرارية في تدريب مهاراته وفك شفرة العدو لهزيمته وإنقاذ البشرية.",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 524.43,
+      "id": 1,
+      "original_description": "hell",
+      "start": 523.64
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 542.72,
+      "id": 2,
+      "original_description": "hell",
+      "start": 541.76
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 557.94,
+      "id": 3,
+      "original_description": "ass",
+      "start": 557.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 722.85,
+      "id": 4,
+      "original_description": "crack",
+      "start": 721.8
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 723.84,
+      "id": 5,
+      "original_description": "ass",
+      "start": 722.83
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 725.64,
+      "id": 6,
+      "original_description": "shit",
+      "start": 724.35
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 769.77,
+      "id": 7,
+      "original_description": "piss",
+      "start": 768.87
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 865.81,
+      "id": 8,
+      "original_description": "شخص عاري في الآلة",
+      "start": 851.54
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 857.55,
+      "id": 9,
+      "original_description": "christ",
+      "start": 856.71
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 875.8,
+      "id": 10,
+      "original_description": "شخص يقول تعليق ايحائي",
+      "start": 871.26
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 928.64,
+      "id": 11,
+      "original_description": "bloody",
+      "start": 927.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 928.97,
+      "id": 12,
+      "original_description": "hell",
+      "start": 927.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1289.84,
+      "id": 13,
+      "original_description": "hell",
+      "start": 1288.74
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1316.48,
+      "id": 14,
+      "original_description": "bitch",
+      "start": 1315.25
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1327.06,
+      "id": 15,
+      "original_description": "hell",
+      "start": 1326.04
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1427.38,
+      "id": 16,
+      "original_description": "وليام وجهه مشوه ويموت",
+      "start": 1421.15
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1529.87,
+      "id": 17,
+      "original_description": "hell",
+      "start": 1528.88
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1551.08,
+      "id": 18,
+      "original_description": "crack",
+      "start": 1549.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1552.16,
+      "id": 19,
+      "original_description": "ass",
+      "start": 1551.11
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1577.62,
+      "id": 20,
+      "original_description": "christ",
+      "start": 1576.7
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1630.88,
+      "id": 21,
+      "original_description": "bitch",
+      "start": 1629.68
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1802.62,
+      "id": 22,
+      "original_description": "bitch",
+      "start": 1801.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1821.36,
+      "id": 23,
+      "original_description": "asshole",
+      "start": 1820.55
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2048.7,
+      "id": 24,
+      "original_description": "piss",
+      "start": 2047.69
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2090.02,
+      "id": 25,
+      "original_description": "hell",
+      "start": 2089.07
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2096.76,
+      "id": 26,
+      "original_description": "shit",
+      "start": 2096.09
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2099.64,
+      "id": 27,
+      "original_description": "ass",
+      "start": 2098.82
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2137.17,
+      "id": 28,
+      "original_description": "hell",
+      "start": 2136.16
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2283.23,
+      "id": 29,
+      "original_description": "hell",
+      "start": 2282.3
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2369.7,
+      "id": 30,
+      "original_description": "hell",
+      "start": 2368.71
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2588.23,
+      "id": 31,
+      "original_description": "shitting",
+      "start": 2586.8
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2753.36,
+      "id": 32,
+      "original_description": "dumb",
+      "start": 2752.56
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2753.6,
+      "id": 33,
+      "original_description": "ass",
+      "start": 2752.76
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2756.72,
+      "id": 34,
+      "original_description": "bitch",
+      "start": 2755.85
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2834.05,
+      "id": 35,
+      "original_description": "sex",
+      "start": 2833.1
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2996.52,
+      "id": 36,
+      "original_description": "bitch",
+      "start": 2995.38
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3087.66,
+      "id": 37,
+      "original_description": "bollocks",
+      "start": 3086.62
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3104.64,
+      "id": 38,
+      "original_description": "bastard",
+      "start": 3102.89
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 3153.42,
+      "id": 39,
+      "original_description": "شخص يشرب الخمر",
+      "start": 3149.37
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3785.2,
+      "id": 40,
+      "original_description": "wine",
+      "start": 3784.42
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3866.74,
+      "id": 41,
+      "original_description": "goddamn",
+      "start": 3865.51
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4944.03,
+      "id": 42,
+      "original_description": "bollocks",
+      "start": 4943.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4969.88,
+      "id": 43,
+      "original_description": "bullshit",
+      "start": 4968.63
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4983.16,
+      "id": 44,
+      "original_description": "bitch",
+      "start": 4982
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5032.53,
+      "id": 45,
+      "original_description": "bitch",
+      "start": 5031.51
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5099.2,
+      "id": 46,
+      "original_description": "bollocks",
+      "start": 5098.11
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5461.8,
+      "id": 47,
+      "original_description": "bollocks",
+      "start": 5460.4
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5484.62,
+      "id": 48,
+      "original_description": "bastards",
+      "start": 5483.09
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5760.62,
+      "id": 49,
+      "original_description": "رجل يقبل امرأة",
+      "start": 5754.46
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6019.27,
+      "id": 50,
+      "original_description": "hot",
+      "start": 6018.41
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6020.31,
+      "id": 51,
+      "original_description": "hell",
+      "start": 6019.4
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6028,
+      "id": 52,
+      "original_description": "shit",
+      "start": 6027.28
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6030.08,
+      "id": 53,
+      "original_description": "ass",
+      "start": 6029.28
+    }
+  ],
+  "genre": "خيال علمي، أكشن، حلقة زمنية، مغامرة",
+  "pg": "+13",
+  "platforms": {
+    "osnplus": {
+      "id": "22130",
+      "url": "https://osnplus.com/en-eg/movie/22130"
+    },
+    "shahid": {
+      "id": "2242370527",
+      "url": "https://shahid.mbc.net/ar/player/movies/edge-of-tomorrow/id-2242370527"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/bAdFh6Hg9hO4XDoFfpeTR4mFnUD.jpg",
+  "title": "Edge of Tomorrow",
+  "type": "movie",
+  "year": 2014
+}

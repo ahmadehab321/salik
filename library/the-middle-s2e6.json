@@ -1,0 +1,75 @@
+{
+  "episode": 6,
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 174.528195,
+      "id": 1,
+      "original_description": "كلام عن التقبيل في حفلة",
+      "start": 171.092284
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 321.269374,
+      "id": 2,
+      "original_description": "كلام عن التقبيل لفتيات مثيرات",
+      "start": 295.777784
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 502.19,
+      "id": 3,
+      "original_description": "stupid",
+      "start": 501.89
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 741.65,
+      "id": 4,
+      "original_description": "jesus",
+      "start": 741.13
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 897.36,
+      "id": 5,
+      "original_description": "jesus",
+      "start": 896.26
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 957.59,
+      "id": 6,
+      "original_description": "beer",
+      "start": 957.24
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1227.410985,
+      "id": 7,
+      "original_description": "رجل يقبل امرأة",
+      "start": 1210.52162
+    }
+  ],
+  "parent_series_id": "the-middle",
+  "platforms": {
+    "netflix": {
+      "id": 82170861,
+      "url": "https://www.netflix.com/watch/82170861?trackId=264293154&tctx=2%2C0%2C8a23bec2-ccd8-47cb-bd62-6ec86247605a-124822562%2CeyJwYWdlSWQiOiJQU18wYjg3MmE5Ny03N2ZkLTRmODItOTA2Yy0xOTUwYWRkODljMjhfTDFfTjciLCJzZWN0aW9uSWQiOiI2ZjQ5YzFkZi03OTFiLTRkZDQtOGE5Mi01NmI0NTI2NGQyZGQiLCJpZHgiOi05OTl9%2CPS_0b872a97-77fd-4f82-906c-1950add89c28_L1_N7%2C%2C%2C%2C%2CVideo%3A70143859%2CminiDpPlayButton"
+    },
+    "osnplus": {
+      "id": 68509,
+      "url": "https://osnplus.com/en-eg/episode/halloween-68509/watch?contentStreamingDeeplinkQueryParam=false&skipRecap=true"
+    }
+  },
+  "season": 2,
+  "title": "The Middle - S2E6",
+  "type": "episode"
+}

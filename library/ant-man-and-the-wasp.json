@@ -1,0 +1,387 @@
+{
+  "addedAt": 1788078325497,
+  "category": "Marvel",
+  "description": "يحاول \"سكوت لانج\" الموازنة بين مسؤولياته كأب وكونه بطلاً خارقاً تحت الإقامة الجبرية بعد أحداث \"الحرب الأهلية\". يجد سكوت نفسه مجدداً في مهمة مستعجلة مع الدكتور \"هانك بيم\" وابنته \"هوب فان داين\" (الدبورة) للدخول إلى \"المجال الكمي\" وإنقاذ والدتها. وأثناء ذلك، يتعين عليهم مواجهة خصم غامض يُدعى \"غوست\" يحاول الاستيلاء على تقنيتهم للنعيم بالبقاء.",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 420.03,
+      "id": 1,
+      "original_description": "freaking",
+      "start": 419.44
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 493.96,
+      "id": 2,
+      "original_description": "joint",
+      "start": 493.04
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 586.59,
+      "id": 3,
+      "original_description": "حضن بين رجل وامرأة اجنبية",
+      "start": 574.59
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 725.56,
+      "id": 4,
+      "original_description": "hell",
+      "start": 724.36
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1374.12,
+      "id": 5,
+      "original_description": "shit",
+      "start": 1373.34
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1393.29,
+      "id": 6,
+      "original_description": "hell",
+      "start": 1392.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1622.65,
+      "id": 7,
+      "original_description": "hell",
+      "start": 1621.55
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1683.56,
+      "id": 8,
+      "original_description": "damn",
+      "start": 1683.24
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2043.6,
+      "id": 9,
+      "original_description": "idiot",
+      "start": 2042.62
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2061.36,
+      "id": 10,
+      "original_description": "bullshit",
+      "start": 2060.33
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2110.52,
+      "id": 11,
+      "original_description": "bitch",
+      "start": 2109.62
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2565.16,
+      "id": 12,
+      "original_description": "shit",
+      "start": 2564.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2674.78,
+      "id": 13,
+      "original_description": "hell",
+      "start": 2673.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2693.73,
+      "id": 14,
+      "original_description": "hell",
+      "start": 2692.8
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2965.6,
+      "id": 15,
+      "original_description": "hell",
+      "start": 2964.88
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2972.23,
+      "id": 16,
+      "original_description": "goddamn",
+      "start": 2970.96
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3332.82,
+      "id": 17,
+      "original_description": "حقنة في اليد",
+      "start": 3328.7
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3364.79,
+      "id": 18,
+      "original_description": "damn",
+      "start": 3364.44
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3370.66,
+      "id": 19,
+      "original_description": "damn",
+      "start": 3369.93
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3379.74,
+      "id": 20,
+      "original_description": "hell",
+      "start": 3378.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3411.82,
+      "id": 21,
+      "original_description": "damn",
+      "start": 3411.28
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3419.52,
+      "id": 22,
+      "original_description": "رجل يقبل امرأة",
+      "start": 3412.67
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3422.4,
+      "id": 23,
+      "original_description": "dummy",
+      "start": 3421.64
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3425.9,
+      "id": 24,
+      "original_description": "damn",
+      "start": 3425.48
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3442.39,
+      "id": 25,
+      "original_description": "damn",
+      "start": 3441.92
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3450.98,
+      "id": 26,
+      "original_description": "damn",
+      "start": 3450.56
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3489.57,
+      "id": 27,
+      "original_description": "damn",
+      "start": 3488.28
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3492.4,
+      "id": 28,
+      "original_description": "freak",
+      "start": 3491.56
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3822.08,
+      "id": 29,
+      "original_description": "jerk",
+      "start": 3821.27
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3841.07,
+      "id": 30,
+      "original_description": "jesus",
+      "start": 3840.44
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3983.01,
+      "id": 31,
+      "original_description": "شخص يقيء",
+      "start": 3981.02
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4028.31,
+      "id": 32,
+      "original_description": "damn",
+      "start": 4027.28
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4114.83,
+      "id": 33,
+      "original_description": "dumb",
+      "start": 4113.8
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4121.16,
+      "id": 34,
+      "original_description": "dumb",
+      "start": 4120.33
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4223.44,
+      "id": 35,
+      "original_description": "hell",
+      "start": 4222.58
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4827.97,
+      "id": 36,
+      "original_description": "hell",
+      "start": 4826.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5061.8,
+      "id": 37,
+      "original_description": "ass",
+      "start": 5061.13
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5172.17,
+      "id": 38,
+      "original_description": "hot",
+      "start": 5171.44
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5236.32,
+      "id": 39,
+      "original_description": "badass",
+      "start": 5235.55
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5324.56,
+      "id": 40,
+      "original_description": "badass",
+      "start": 5323.45
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5522.18,
+      "id": 41,
+      "original_description": "رجل يقبل امرأة",
+      "start": 5512.67
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5749.71,
+      "id": 42,
+      "original_description": "امرأة تقبل رجل",
+      "start": 5746.17
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6155.95,
+      "id": 43,
+      "original_description": "damn",
+      "start": 6155.52
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6168.75,
+      "id": 44,
+      "original_description": "damn",
+      "start": 6167.88
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6213.7,
+      "id": 45,
+      "original_description": "حضن بين رجل وامرأة اجنبية",
+      "start": 6205.35
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6327.38,
+      "id": 46,
+      "original_description": "حضن بين رجل وامرأة اجنبية",
+      "start": 6321.87
+    }
+  ],
+  "genre": "أبطال خارقون، أكشن ومغامرة، خيال علمي، كوميديا",
+  "pg": "+13",
+  "platforms": {
+    "disney": {
+      "id": "3533ca7b-e187-4bf5-a65c-7c903cd2d4ad",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-3533ca7b-e187-4bf5-a65c-7c903cd2d4ad"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/yFcXy5i8tFU8kxia69WaLL93k0Z.jpg",
+  "title": "Ant-Man and the Wasp",
+  "type": "movie",
+  "year": 2018
+}

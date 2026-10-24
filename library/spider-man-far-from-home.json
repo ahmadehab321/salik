@@ -1,0 +1,351 @@
+{
+  "addedAt": 1788080611303,
+  "category": "Marvel",
+  "description": "يحاول \"بيتر باركر\" أخذ قسط من الراحة والاستمتاع بإجازة مدرسية مع أصدقائه في أوروبا بعد أحداث \"نهاية اللعبة\". لكن خططه تتغير تمامًا عندما يظهر \"نك فيوري\" ليطلب مساعدته في مواجهة كائنات عنصرية غامضة تُدعى \"المنتشرين\" تسببت في دمار واسع. يجد بيتر نفسه مجبرًا على القتال جنبًا إلى جنب مع بطل جديد يُدعى \"ميستيريو\"، لتنطلق سلسلة من المفاجآت والخداع التي تضع حقيقة كل شيء على المحك.",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1059.04,
+      "id": 1,
+      "original_description": "ضرب في مكان حساس",
+      "start": 1055.91
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1471.47,
+      "id": 2,
+      "original_description": "ass",
+      "start": 1470.85
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2003.06,
+      "id": 3,
+      "original_description": "bitch",
+      "start": 2002.63
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2094.01,
+      "id": 4,
+      "original_description": "hell",
+      "start": 2093.3
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2327.61,
+      "id": 5,
+      "original_description": "شخص يخلع بنطاله",
+      "start": 2311.77
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2335.8,
+      "id": 6,
+      "original_description": "شخص يصور شخص خالع بنطاله",
+      "start": 2332.03
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2345.76,
+      "id": 7,
+      "original_description": "hook up",
+      "start": 2342.47
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2391.74,
+      "id": 8,
+      "original_description": "صورة لشخص خالع بنطاله مع امراة",
+      "start": 2389.66
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2429.92,
+      "id": 9,
+      "original_description": "dope",
+      "start": 2429.04
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2539.73,
+      "id": 10,
+      "original_description": "freaking",
+      "start": 2538.48
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2615.07,
+      "id": 11,
+      "original_description": "idiots",
+      "start": 2614.11
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2711.73,
+      "id": 12,
+      "original_description": "jerk",
+      "start": 2710.78
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2727.47,
+      "id": 13,
+      "original_description": "jerk",
+      "start": 2726.56
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2920.22,
+      "id": 14,
+      "original_description": "hell",
+      "start": 2919.54
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2967.93,
+      "id": 15,
+      "original_description": "شخص يقوم بعمل اشارة جنسية",
+      "start": 2966.16
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3342.77,
+      "id": 16,
+      "original_description": "حديث عن قيء انسان",
+      "start": 3330.61
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3336.21,
+      "id": 17,
+      "original_description": "kiss you",
+      "start": 3332.42
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3488.84,
+      "id": 18,
+      "original_description": "حديث عن تقبيل فتاة",
+      "start": 3483.38
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3515.6,
+      "id": 19,
+      "original_description": "stupid",
+      "start": 3514.66
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3690.32,
+      "id": 20,
+      "original_description": "stupid",
+      "start": 3689.1
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 3714.86,
+      "id": 21,
+      "original_description": "حديث عن تقديم شرب الخمر",
+      "start": 3701.68
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4150.76,
+      "id": 22,
+      "original_description": "hell",
+      "start": 4149.74
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4367.41,
+      "id": 23,
+      "original_description": "fool",
+      "start": 4366.5
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4406.74,
+      "id": 24,
+      "original_description": "shit",
+      "start": 4405.78
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4425.47,
+      "id": 25,
+      "original_description": "stupid",
+      "start": 4424.62
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4467.39,
+      "id": 26,
+      "original_description": "شخص يخلع ملابسه امام فتاة",
+      "start": 4449.45
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4907,
+      "id": 27,
+      "original_description": "fool",
+      "start": 4906.08
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5126.87,
+      "id": 28,
+      "original_description": "حديث عن فيلم اباحي",
+      "start": 5122.8
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5137.26,
+      "id": 29,
+      "original_description": "hell",
+      "start": 5136.35
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5256.76,
+      "id": 30,
+      "original_description": "ass",
+      "start": 5256.02
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5469.43,
+      "id": 31,
+      "original_description": "damn",
+      "start": 5468.68
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5832.5,
+      "id": 32,
+      "original_description": "bullshit",
+      "start": 5831.71
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5991.98,
+      "id": 33,
+      "original_description": "hell",
+      "start": 5990.95
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6257.46,
+      "id": 34,
+      "original_description": "stupid",
+      "start": 6256.51
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6261.29,
+      "id": 35,
+      "original_description": "stupid",
+      "start": 6260.29
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6568.9,
+      "id": 36,
+      "original_description": "حضن بين رجل وامرأة اجنبية",
+      "start": 6550.37
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6600.26,
+      "id": 37,
+      "original_description": "stupid",
+      "start": 6599
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6612.09,
+      "id": 38,
+      "original_description": "امرأة تقبل رجل",
+      "start": 6603.42
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6609.73,
+      "id": 39,
+      "original_description": "kissed me",
+      "start": 6608.4
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 6659.4,
+      "id": 40,
+      "original_description": "رجل يقبل امرأة",
+      "start": 6649.59
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6728.19,
+      "id": 41,
+      "original_description": "ass",
+      "start": 6727.23
+    }
+  ],
+  "genre": "أبطال خارقون، أكشن ومغامرة، خيال علمي، كوميديا شبابية",
+  "pg": "+13",
+  "platforms": {
+    "disney": {
+      "id": "6e497c43-d4da-4e12-b100-d4d38dc2a7ff",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-6e497c43-d4da-4e12-b100-d4d38dc2a7ff"
+    },
+    "tod": {
+      "id": "spider-man-far-from-home-281865",
+      "url": "https://www.tod.tv/en/movies/english/spider-man-far-from-home-281865"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/mlpnjjtdQpOouPOkvO6TBsBwlCO.jpg",
+  "title": "Spider-Man: Far From Home",
+  "type": "movie",
+  "year": 2019
+}

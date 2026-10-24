@@ -1,0 +1,347 @@
+{
+  "addedAt": 1788074909639,
+  "category": "Marvel",
+  "description": "تجد \"ناتاشا رومانوف\" نفسها مطاردة من قوى غاشمة لا تتوقف، مما يضطرها لمواجهة الأجزاء المظلمة من أسرار ماضيها بعد أحداث \"كابتن أمريكا: الحرب الأهلية\". تلتقي ناتاشا بعائلتها القديمة من الجواسيس قبل انضمامها للمنتقمين، لتخوض معهم مواجهة حاسمة ضد مؤامرة خطيرة يقودها برنامج \"الغرفة الحمراء\" والخصم الغامض \"تاسكماستر\"",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 376.42,
+      "id": 1,
+      "original_description": "whiskey",
+      "start": 374.49
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1199.7,
+      "id": 2,
+      "original_description": "طعن بطن شخص",
+      "start": 1194.25
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1631.05,
+      "id": 3,
+      "original_description": "pissed",
+      "start": 1629.53
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1806.31,
+      "id": 4,
+      "original_description": "shit",
+      "start": 1804.35
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2090.44,
+      "id": 5,
+      "original_description": "فتاة بملابسها الداخلية",
+      "start": 2072.06
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 2314.46,
+      "id": 6,
+      "original_description": "الفتاة مشوه وجهها وساقها مكسورة",
+      "start": 2309.28
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 2318.68,
+      "id": 7,
+      "original_description": "الفتاة ميتة ووجهها مشوه",
+      "start": 2316.38
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2345.67,
+      "id": 8,
+      "original_description": "جثة فتاة مقتولة",
+      "start": 2340.94
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2452.04,
+      "id": 9,
+      "original_description": "shit",
+      "start": 2450.83
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2480.42,
+      "id": 10,
+      "original_description": "shit",
+      "start": 2479.4
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2605.47,
+      "id": 11,
+      "original_description": "hell",
+      "start": 2604.4
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2722.36,
+      "id": 12,
+      "original_description": "god",
+      "start": 2720.95
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2744.87,
+      "id": 13,
+      "original_description": "bullshit",
+      "start": 2742.24
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3030.19,
+      "id": 14,
+      "original_description": "shitload",
+      "start": 3028.2
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3283.62,
+      "id": 15,
+      "original_description": "كسر يد شخص",
+      "start": 3281.07
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3463.44,
+      "id": 16,
+      "original_description": "ass",
+      "start": 3462.88
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3596.76,
+      "id": 17,
+      "original_description": "ass",
+      "start": 3595.64
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3770.92,
+      "id": 18,
+      "original_description": "حديث عن استئصال الرحم",
+      "start": 3741.34
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3746.11,
+      "id": 19,
+      "original_description": "dipshit",
+      "start": 3744.41
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3833.71,
+      "id": 20,
+      "original_description": "stupid",
+      "start": 3831.99
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4254.67,
+      "id": 21,
+      "original_description": "شخص يلبس هدومه",
+      "start": 4244.81
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 4340.46,
+      "id": 22,
+      "original_description": "فتاتان تشربان الخمر",
+      "start": 4334.75
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 4370.71,
+      "id": 23,
+      "original_description": "فتاة تشرب الخمر",
+      "start": 4368.45
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 4490.72,
+      "id": 24,
+      "original_description": "سيدة تشرب الخمر",
+      "start": 4489.38
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4552.68,
+      "id": 25,
+      "original_description": "idiot",
+      "start": 4550.94
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4905.43,
+      "id": 26,
+      "original_description": "vodka",
+      "start": 4904.57
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4941.06,
+      "id": 27,
+      "original_description": "حديث عن تبول شخص",
+      "start": 4930.58
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4973.45,
+      "id": 28,
+      "original_description": "stupid",
+      "start": 4971.94
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5044.96,
+      "id": 29,
+      "original_description": "whiskey",
+      "start": 5043.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5322.61,
+      "id": 30,
+      "original_description": "ass",
+      "start": 5321.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5330.69,
+      "id": 31,
+      "original_description": "shit",
+      "start": 5329.02
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5775.69,
+      "id": 32,
+      "original_description": "bullshit",
+      "start": 5773.91
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5893.66,
+      "id": 33,
+      "original_description": "damn",
+      "start": 5892.02
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5965.82,
+      "id": 34,
+      "original_description": "pathetic",
+      "start": 5964.21
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5967.28,
+      "id": 35,
+      "original_description": "pathetic",
+      "start": 5966.72
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6014.81,
+      "id": 36,
+      "original_description": "god",
+      "start": 6014.26
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6015.28,
+      "id": 37,
+      "original_description": "damn",
+      "start": 6014.26
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 6113.3,
+      "id": 38,
+      "original_description": "ضرب شخص في الجدار",
+      "start": 6111.25
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 6232.05,
+      "id": 39,
+      "original_description": "\"ناتاشا\" تكسر أنفها",
+      "start": 6228.92
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 6556.33,
+      "id": 40,
+      "original_description": "\"ناتاشا\" تعيد ضبط أنفها",
+      "start": 6553.01
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 7954.58,
+      "id": 41,
+      "original_description": "شخص ينف",
+      "start": 7946
+    }
+  ],
+  "genre": "أبطال خارقون، أكشن ومغامرة، إثارة وتجسس، خيال علمي",
+  "pg": "+13",
+  "platforms": {
+    "disney": {
+      "id": "d9cd6bd1-bcf8-4a3b-8f92-0fdd4f79ac08",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-d9cd6bd1-bcf8-4a3b-8f92-0fdd4f79ac08"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/fPoVLvYwEB2Zu4Rp90ysUgwtGzO.jpg",
+  "title": "Black Widow",
+  "type": "movie",
+  "year": 2021
+}

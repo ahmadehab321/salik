@@ -1,0 +1,91 @@
+{
+  "episode": 14,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 344.13,
+      "id": 1,
+      "original_description": "damn",
+      "start": 343.87
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 450.12,
+      "id": 2,
+      "original_description": "sucking",
+      "start": 449.93
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 502.98,
+      "id": 3,
+      "original_description": "stupid",
+      "start": 502.73
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 648.29,
+      "id": 4,
+      "original_description": "hell",
+      "start": 647.81
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 679.31,
+      "id": 5,
+      "original_description": "crap",
+      "start": 679.09
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 694.17,
+      "id": 6,
+      "original_description": "hell",
+      "start": 693.91
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 917.55,
+      "id": 7,
+      "original_description": "screwed",
+      "start": 917.29
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1040.13,
+      "id": 8,
+      "original_description": "god",
+      "start": 1039.74
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1055.12,
+      "id": 9,
+      "original_description": "damn",
+      "start": 1054.28
+    }
+  ],
+  "parent_series_id": "the-middle",
+  "platforms": {
+    "netflix": {
+      "id": 82170844,
+      "url": "https://www.netflix.com/watch/82170844"
+    },
+    "osnplus": {
+      "id": 68993,
+      "url": "https://osnplus.com/en-eg/episode/the-interview-68993/watch?contentStreamingDeeplinkQueryParam=false"
+    }
+  },
+  "season": 1,
+  "title": "The Middle - S1E14",
+  "type": "episode"
+}

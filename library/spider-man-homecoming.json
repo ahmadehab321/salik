@@ -1,0 +1,567 @@
+{
+  "addedAt": 1787589780615,
+  "category": "Marvel",
+  "description": "فيلم Spider-Man: Homecoming هو عمل بطل خارق ممتع يجمع بين مغامرات عالم مارفل وقصة شبابية، حيث يحاول المراهق بيتر باركر التوفيق بين حياته الدراسية ومحاربة الجريمة بمساعدة توجيهات توني ستارك، بينما يواجه الشرير الخطير النسر لحماية مدينته ونفسه",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 101.67,
+      "id": 1,
+      "original_description": "bastards",
+      "start": 100.34
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 134.22,
+      "id": 2,
+      "original_description": "hell",
+      "start": 133.22
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 195,
+      "id": 3,
+      "original_description": "hell",
+      "start": 193.95
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 196.05,
+      "id": 4,
+      "original_description": "joint",
+      "start": 195.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 205.36,
+      "id": 5,
+      "original_description": "assholes",
+      "start": 204.33
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 280.62,
+      "id": 6,
+      "original_description": "cocaine",
+      "start": 278.55
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 397.3,
+      "id": 7,
+      "original_description": "hell",
+      "start": 396.24
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 448.78,
+      "id": 8,
+      "original_description": "hell",
+      "start": 447.86
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 489.62,
+      "id": 9,
+      "original_description": "شخص يلقي تعليق ايحائي",
+      "start": 485.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 508.57,
+      "id": 10,
+      "original_description": "freaking",
+      "start": 507.47
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 543.08,
+      "id": 11,
+      "original_description": "stupid",
+      "start": 542.1
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 643.69,
+      "id": 12,
+      "original_description": "penis",
+      "start": 642.79
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 665.26,
+      "id": 13,
+      "original_description": "damn",
+      "start": 664.21
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 693.86,
+      "id": 14,
+      "original_description": "lame",
+      "start": 692.48
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 800.68,
+      "id": 15,
+      "original_description": "losers",
+      "start": 799.64
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 852.2,
+      "id": 16,
+      "original_description": "hot",
+      "start": 851.48
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 895.17,
+      "id": 17,
+      "original_description": "hot",
+      "start": 894.13
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1057.39,
+      "id": 18,
+      "original_description": "dumbass",
+      "start": 1056.72
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1216.87,
+      "id": 19,
+      "original_description": "jerks",
+      "start": 1215.92
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1297.88,
+      "id": 20,
+      "original_description": "crap",
+      "start": 1297.02
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1715.51,
+      "id": 21,
+      "original_description": "dope",
+      "start": 1714.76
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1822.78,
+      "id": 22,
+      "original_description": "lame",
+      "start": 1821.83
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1871.49,
+      "id": 23,
+      "original_description": "penis",
+      "start": 1870.66
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1907.72,
+      "id": 24,
+      "original_description": "stupid",
+      "start": 1906.49
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1918.79,
+      "id": 25,
+      "original_description": "hell",
+      "start": 1917.88
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1989.17,
+      "id": 26,
+      "original_description": "hell",
+      "start": 1988.32
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2055,
+      "id": 27,
+      "original_description": "butt",
+      "start": 2053.67
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2154.95,
+      "id": 28,
+      "original_description": "hell",
+      "start": 2153.79
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2335.8,
+      "id": 29,
+      "original_description": "penis",
+      "start": 2334.76
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2337.74,
+      "id": 30,
+      "original_description": "penis",
+      "start": 2337.09
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2339,
+      "id": 31,
+      "original_description": "penis",
+      "start": 2338.25
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2342.18,
+      "id": 32,
+      "original_description": "losers",
+      "start": 2341.35
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2387.05,
+      "id": 33,
+      "original_description": "idiots",
+      "start": 2385.34
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2389.01,
+      "id": 34,
+      "original_description": "idiots",
+      "start": 2387.89
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2390.72,
+      "id": 35,
+      "original_description": "idiots",
+      "start": 2389.18
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2429.6,
+      "id": 36,
+      "original_description": "badass",
+      "start": 2428.31
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2462.63,
+      "id": 37,
+      "original_description": "crap",
+      "start": 2461.62
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2478.4,
+      "id": 38,
+      "original_description": "bullshit",
+      "start": 2477.01
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2512.36,
+      "id": 39,
+      "original_description": "شخص يتحول إلى اشلاء مشوية",
+      "start": 2507.53
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2517.06,
+      "id": 40,
+      "original_description": "damn",
+      "start": 2515.56
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2624.08,
+      "id": 41,
+      "original_description": "crap",
+      "start": 2622.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2632.21,
+      "id": 42,
+      "original_description": "creep",
+      "start": 2631.15
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2754.5,
+      "id": 43,
+      "original_description": "badass",
+      "start": 2753.09
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3035.23,
+      "id": 44,
+      "original_description": "شباب بملابس السباحة",
+      "start": 2959.53
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3083,
+      "id": 45,
+      "original_description": "lame",
+      "start": 3082.18
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3130.52,
+      "id": 46,
+      "original_description": "hell",
+      "start": 3129.67
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3585.8,
+      "id": 47,
+      "original_description": "damn",
+      "start": 3584.38
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3645.07,
+      "id": 48,
+      "original_description": "freaking",
+      "start": 3643.89
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3898.19,
+      "id": 49,
+      "original_description": "Kiss her",
+      "start": 3896.35
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3923.62,
+      "id": 50,
+      "original_description": "damn",
+      "start": 3922.26
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3950.91,
+      "id": 51,
+      "original_description": "bastard",
+      "start": 3949.67
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4259.32,
+      "id": 52,
+      "original_description": "stupid",
+      "start": 4258.84
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4493.39,
+      "id": 53,
+      "original_description": "شخص يتم ضرب رأسه في الجدار",
+      "start": 4490.32
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4717.01,
+      "id": 54,
+      "original_description": "hell",
+      "start": 4715.92
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4722.31,
+      "id": 55,
+      "original_description": "hell",
+      "start": 4721.12
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4956.71,
+      "id": 56,
+      "original_description": "bullshit",
+      "start": 4955.66
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5255.56,
+      "id": 57,
+      "original_description": "hell",
+      "start": 5254.8
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5324.92,
+      "id": 58,
+      "original_description": "ليز مكشوفة الساق",
+      "start": 5319.84
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5666.05,
+      "id": 59,
+      "original_description": "ام جي تعطي اشارة جنسية",
+      "start": 5664.7
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5731.9,
+      "id": 60,
+      "original_description": "hell",
+      "start": 5731.05
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5733.48,
+      "id": 61,
+      "original_description": "crappy",
+      "start": 5732.4
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5750.88,
+      "id": 62,
+      "original_description": "damn",
+      "start": 5749.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5876.75,
+      "id": 63,
+      "original_description": "shitting",
+      "start": 5875.48
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5878.5,
+      "id": 64,
+      "original_description": "damn",
+      "start": 5877.46
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5958.42,
+      "id": 65,
+      "original_description": "porn",
+      "start": 5956.47
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6920.99,
+      "id": 66,
+      "original_description": "crappy",
+      "start": 6919.95
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 7317.62,
+      "id": 67,
+      "original_description": "بيبر تقبل توني",
+      "start": 7312.89
+    }
+  ],
+  "genre": "Action-Adventure, Sci-Fi",
+  "pg": "PG-13",
+  "platforms": {
+    "disney": {
+      "id": "d285316b-e1ea-4b50-933a-bb5fd13549c1",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-d285316b-e1ea-4b50-933a-bb5fd13549c1"
+    },
+    "shahid": {
+      "id": "1020654",
+      "url": "https://shahid.mbc.net/ar/player/movies/spider-man:-homecoming/id-1020654"
+    },
+    "starzplay": {
+      "id": "508138536411",
+      "url": "https://starzplay.com/ar/movies/spiderman-homecoming/508138536411"
+    },
+    "tod": {
+      "id": "126383",
+      "url": "https://www.tod.tv/en/movies/english/spider-man-homecoming-126383"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/6sTSMOw6n5AZc18RNm1s4wOkVIP.jpg",
+  "title": "Spider-Man: Homecoming",
+  "type": "movie",
+  "year": 2017
+}

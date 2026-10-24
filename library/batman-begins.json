@@ -1,0 +1,235 @@
+{
+  "addedAt": 1786988752543,
+  "category": "Action",
+  "description": "فيلم Batman Begins (صدر عام 2005 بإخراج كريستوفر نولان وبطولة كريستيان بيل) هو العمل الذي أعاد إطلاق سلسلة باتمان الشهيرة. يروي الفيلم قصة أصل شخصية بروس واين وكيف تحول من طفل يعاني من صدمة مقتل والديه وخوفه من الخفافيش إلى البطل المقنع الذي يحارب الفساد في مدينة غوثام",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 145.06,
+      "id": 1,
+      "original_description": "hell",
+      "start": 144.23
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1242.41,
+      "id": 2,
+      "original_description": "damn",
+      "start": 1241.81
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1249.03,
+      "id": 3,
+      "original_description": "damn",
+      "start": 1248.43
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1252.25,
+      "id": 4,
+      "original_description": "damn",
+      "start": 1251.53
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1842.26,
+      "id": 5,
+      "original_description": "fool",
+      "start": 1841.84
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1842.85,
+      "id": 6,
+      "original_description": "hell",
+      "start": 1842.29
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2551.6,
+      "id": 7,
+      "original_description": "رجل يقبل امرأة",
+      "start": 2549.92
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3049.99,
+      "id": 8,
+      "original_description": "dummy",
+      "start": 3049.27
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3210.95,
+      "id": 9,
+      "original_description": "hell",
+      "start": 3210.26
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3274.44,
+      "id": 10,
+      "original_description": "idiot",
+      "start": 3273.77
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3320.74,
+      "id": 11,
+      "original_description": "damn",
+      "start": 3320.17
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3616.92,
+      "id": 12,
+      "original_description": "shit",
+      "start": 3615.9
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3636.03,
+      "id": 13,
+      "original_description": "hell",
+      "start": 3635.19
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3758.15,
+      "id": 14,
+      "original_description": "hell",
+      "start": 3757.47
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3796.2,
+      "id": 15,
+      "original_description": "goddamn",
+      "start": 3795.34
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3803.77,
+      "id": 16,
+      "original_description": "asshole",
+      "start": 3802.84
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4384.91,
+      "id": 17,
+      "original_description": "hell",
+      "start": 4384.23
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5527.2,
+      "id": 18,
+      "original_description": "butt",
+      "start": 5526.73
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5732.92,
+      "id": 19,
+      "original_description": "damn",
+      "start": 5732.48
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6044.48,
+      "id": 20,
+      "original_description": "jerk",
+      "start": 6043.85
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6342.06,
+      "id": 21,
+      "original_description": "bloody",
+      "start": 6341.27
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6455.56,
+      "id": 22,
+      "original_description": "crap",
+      "start": 6455.02
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6507.62,
+      "id": 23,
+      "original_description": "hell",
+      "start": 6507
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6542.96,
+      "id": 24,
+      "original_description": "jesus",
+      "start": 6542.32
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6625.22,
+      "id": 25,
+      "original_description": "hell",
+      "start": 6624.67
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6908.6,
+      "id": 26,
+      "original_description": "hell",
+      "start": 6907.88
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 7323.66,
+      "id": 27,
+      "original_description": "امرأة تقبل رجل",
+      "start": 7306.16
+    }
+  ],
+  "genre": "Action",
+  "pg": "PG-15",
+  "platforms": {
+    "osnplus": {
+      "id": "22886",
+      "url": "https://osnplus.com/en-eg/movie/batman-begins-22886"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/9WO6y90Q275A8tiMNrJ28fxwU9H.jpg",
+  "title": "Batman Begins",
+  "type": "movie",
+  "year": 2005
+}

@@ -1,0 +1,175 @@
+{
+  "episode": 5,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 316.21,
+      "id": 1,
+      "original_description": "fuck",
+      "start": 315.08
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 370.88,
+      "id": 2,
+      "original_description": "hell",
+      "start": 370.65
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 706.06,
+      "id": 3,
+      "original_description": "shit",
+      "start": 705.83
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 802.45,
+      "id": 4,
+      "original_description": "pissed",
+      "start": 802.17
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 884.41,
+      "id": 5,
+      "original_description": "hell",
+      "start": 884.19
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1040.46,
+      "id": 6,
+      "original_description": "damn",
+      "start": 1040.17
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1104.75,
+      "id": 7,
+      "original_description": "shit",
+      "start": 1103.58
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1201.92,
+      "id": 8,
+      "original_description": "hell",
+      "start": 1201.7
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1248.28,
+      "id": 9,
+      "original_description": "fucking",
+      "start": 1247.97
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1259.72,
+      "id": 10,
+      "original_description": "stupid",
+      "start": 1259.53
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1266.98,
+      "id": 11,
+      "original_description": "fucking",
+      "start": 1266.75
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1497.38,
+      "id": 12,
+      "original_description": "motherfucker",
+      "start": 1496.33
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2022.42,
+      "id": 13,
+      "original_description": "hell",
+      "start": 2022.21
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2028.23,
+      "id": 14,
+      "original_description": "bullshit",
+      "start": 2027.91
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2116.88,
+      "id": 15,
+      "original_description": "shit",
+      "start": 2116.57
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2219.63,
+      "id": 16,
+      "original_description": "fucking",
+      "start": 2219.31
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2233.56,
+      "id": 17,
+      "original_description": "fucking",
+      "start": 2233.3
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2260.27,
+      "id": 18,
+      "original_description": "shit",
+      "start": 2259.84
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2291.75,
+      "id": 19,
+      "original_description": "shit",
+      "start": 2291.33
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2327.62,
+      "id": 20,
+      "original_description": "fuck",
+      "start": 2327.29
+    }
+  ],
+  "parent_series_id": "i-will-find-you",
+  "platforms": {
+    "netflix": {
+      "id": "81785935",
+      "url": "https://www.netflix.com/watch/81785935"
+    }
+  },
+  "season": 1,
+  "title": "I will Find You - S1E5",
+  "type": "episode"
+}

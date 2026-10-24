@@ -1,0 +1,67 @@
+{
+  "episode": 9,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 55.35,
+      "id": 1,
+      "original_description": "hell",
+      "start": 55.06
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 72.18,
+      "id": 2,
+      "original_description": "damn",
+      "start": 71.76
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 260.55,
+      "id": 3,
+      "original_description": "hell",
+      "start": 260.35
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 384.36,
+      "id": 4,
+      "original_description": "hell",
+      "start": 384.1
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 464.95,
+      "id": 5,
+      "original_description": "butts",
+      "start": 464.69
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 472.44,
+      "id": 6,
+      "original_description": "idiot",
+      "start": 472.15
+    }
+  ],
+  "parent_series_id": "the-middle",
+  "platforms": {
+    "netflix": {
+      "id": 82170858,
+      "url": "https://www.netflix.com/watch/82170858"
+    },
+    "osnplus": {
+      "id": 69086,
+      "url": "https://osnplus.com/en-eg/episode/thanksgiving-ii-69086/watch?contentStreamingDeeplinkQueryParam=false&skipRecap=true"
+    }
+  },
+  "season": 2,
+  "title": "The Middle - S2E9",
+  "type": "episode"
+}

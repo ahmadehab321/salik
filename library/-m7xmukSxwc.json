@@ -1,0 +1,150 @@
+{
+  "category": "Comedy, Romance",
+  "description": "تدور أحداثه حول موظف مبيعات أخرق يعمل في شركة محمول، يوافق على تتبع بيانات ومعلومات إحدى مشتركات الشبكة لعميل غامض مقابل صفقة بيع كبرى. تتغير حياته حين يقع في حبها خلال بحثه عنها",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 186.134116,
+      "id": 1,
+      "original_description": "رجل يحضر فتاة ليل إلى بيته",
+      "start": 179.54821
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 397.843433,
+      "id": 2,
+      "original_description": "فتاة ليل تأتي إلى الشقة",
+      "start": 190.350862
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 500.889887,
+      "id": 3,
+      "original_description": "ابن الكلب",
+      "start": 500.532504
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 891.393281,
+      "id": 4,
+      "original_description": "التحدث عن الحشيش وتعاطيه",
+      "start": 870.200849
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 930.606047,
+      "id": 5,
+      "original_description": "التحدث عن شراء الحشيش",
+      "start": 924.765417
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 965.434242,
+      "id": 6,
+      "original_description": "ضرب شخص على وجهه",
+      "start": 964.58152
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1697.954353,
+      "id": 7,
+      "original_description": "شخص يلقي تعليق جنسي",
+      "start": 1696.312184
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 2861.806932,
+      "id": 8,
+      "original_description": "يابن الكلب وضربة بالشبشب على الوجه",
+      "start": 2860.088983
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4239.058969,
+      "id": 9,
+      "original_description": "يابن الجزمة",
+      "start": 4238.513942
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 4473.223525,
+      "id": 10,
+      "original_description": "حديث عن الحشيش",
+      "start": 4447.824677
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 4941.10122,
+      "id": 11,
+      "original_description": "حديث عن الزنا بفتاة",
+      "start": 4929.383316
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5284.03512,
+      "id": 12,
+      "original_description": "ابن الكلب ",
+      "start": 5283.312067
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5289.133331,
+      "id": 13,
+      "original_description": "حيوان",
+      "start": 5289.055377
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5529.104272,
+      "id": 14,
+      "original_description": "وحياة عنيا",
+      "start": 5527.655312
+    },
+    {
+      "action_type": "blur",
+      "category": "substance abuse",
+      "end": 5806.206946,
+      "id": 15,
+      "original_description": "شباب يشربون الخمر والحشيش",
+      "start": 5773.171625
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6482.046514,
+      "id": 16,
+      "original_description": "غبي",
+      "start": 6481.487936
+    }
+  ],
+  "genre": "Comedy, Romance",
+  "pg": "PG",
+  "platforms": {
+    "watchit": {
+      "id": "movies-126",
+      "url": "https://www.watchit.com/watch/ar/movies/%D8%B8%D8%B1%D9%81-%D8%B7%D8%A7%D8%B1%D9%82/movies-126"
+    },
+    "yango": {
+      "id": "1f172008597140b8ad7d580c1fcf6972",
+      "url": "https://play.yango.com/ar/movies/film/1f172008597140b8ad7d580c1fcf6972"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/w600_and_h900_face/twE4XKly7N8KNpTm5nIKsYwPEyX.jpg",
+  "title": "ظرف طارق",
+  "type": "movie",
+  "year": 2006
+}

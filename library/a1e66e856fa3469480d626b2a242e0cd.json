@@ -1,0 +1,994 @@
+{
+  "category": "Comedy",
+  "description": "بعد وفاة والدهم، تغرق عائلة في الديون والفوضى العبثية. فيلم كوميدي مصري حقق نجاحًا جماهيريًا كبيرًا",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 146.003829,
+      "id": 1,
+      "original_description": " يا لهوي  .. يخربيتك",
+      "start": 140.15305
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity, substance abuse",
+      "end": 241.397328,
+      "id": 2,
+      "original_description": "رقص فتاة ليل مع تعاطي مخدرات",
+      "start": 202.076174
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 262.555177,
+      "id": 3,
+      "original_description": "الحلف بغير الله",
+      "start": 260.077171
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 273.22292,
+      "id": 4,
+      "original_description": "انت مال امك",
+      "start": 271.749809
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 281.595308,
+      "id": 5,
+      "original_description": "فتاة ليل تناقش أفعال قبيحة",
+      "start": 273.22292
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 346.61148,
+      "id": 6,
+      "original_description": "ابن الكلب",
+      "start": 345.753832
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 362.443672,
+      "id": 7,
+      "original_description": "هاتو الكلب دا ",
+      "start": 358.168646
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 369.899753,
+      "id": 8,
+      "original_description": "نهار ابوك اسود",
+      "start": 369.073681
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 372.53793,
+      "id": 9,
+      "original_description": "ابن الجزمة",
+      "start": 371.790953
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 378.337131,
+      "id": 10,
+      "original_description": "يانهار ابوك اسود",
+      "start": 377.489751
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 536.67859,
+      "id": 11,
+      "original_description": "تعاطي الأرجيلة",
+      "start": 511.570556
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 606.437132,
+      "id": 12,
+      "original_description": "شخص يقول ايحاءات جنسية مع شرب سجائر",
+      "start": 570.069318
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 682.258046,
+      "id": 13,
+      "original_description": "فتاة ليل تناقش أفعال قبيحة مع شرب خمور",
+      "start": 650.040159
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 700.631382,
+      "id": 14,
+      "original_description": "يا نهار اسود",
+      "start": 699.876568
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 708.138599,
+      "id": 15,
+      "original_description": "يا نهار اسود",
+      "start": 703.548522
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 710.95147,
+      "id": 16,
+      "original_description": "ابن الجزمة",
+      "start": 710.133339
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 718.865816,
+      "id": 17,
+      "original_description": "بودرجي",
+      "start": 718.156503
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 736.2477,
+      "id": 18,
+      "original_description": "بقف",
+      "start": 735.639174
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 926.221175,
+      "id": 19,
+      "original_description": "شرب سجائر",
+      "start": 920.439545
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1105.230455,
+      "id": 20,
+      "original_description": "الله يحرقك",
+      "start": 1103.280826
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1172.987759,
+      "id": 21,
+      "original_description": "والنبي",
+      "start": 1172.162507
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1208.892294,
+      "id": 22,
+      "original_description": "والنبي",
+      "start": 1207.889973
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1257.086425,
+      "id": 23,
+      "original_description": "يانهار اسود مع ظهور مخدرات",
+      "start": 1248.517115
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1484.434765,
+      "id": 24,
+      "original_description": "نتنة",
+      "start": 1483.781388
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1499.11039,
+      "id": 25,
+      "original_description": "اقفلي صدرك",
+      "start": 1493.678921
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1550.855741,
+      "id": 26,
+      "original_description": "ايحاءات فتاة ليل بالصيدلية",
+      "start": 1515.933948
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1598.277242,
+      "id": 27,
+      "original_description": "أشخاص بتناقشو حول سعر فتاة الليل",
+      "start": 1580.634128
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1612.240744,
+      "id": 28,
+      "original_description": "البقية في حياتك",
+      "start": 1606.170405
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1628.003498,
+      "id": 29,
+      "original_description": "حلوف",
+      "start": 1627.58838
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1748.031777,
+      "id": 30,
+      "original_description": "توزيع حشيش في العزا",
+      "start": 1697.211105
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1848.518118,
+      "id": 31,
+      "original_description": "قول كلمة قبيحة وقيء",
+      "start": 1838.586942
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1866.21711,
+      "id": 32,
+      "original_description": "نقاش حول تعاطي الخمور والكحك ",
+      "start": 1862.801175
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1939.653921,
+      "id": 33,
+      "original_description": "خرمان",
+      "start": 1939.314469
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1945.155593,
+      "id": 34,
+      "original_description": "شرب سجائر",
+      "start": 1943.823659
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1985.970595,
+      "id": 35,
+      "original_description": "يا ابن اللعيبة",
+      "start": 1984.889942
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1994.736512,
+      "id": 36,
+      "original_description": "معاكسة لبنت وقول يالهوي",
+      "start": 1992.141215
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2001.559201,
+      "id": 37,
+      "original_description": "عويل",
+      "start": 2001
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2019.11569,
+      "id": 38,
+      "original_description": "العويل ",
+      "start": 2018.416344
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 2022.650639,
+      "id": 39,
+      "original_description": "العويل ",
+      "start": 2020.940612
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2046.274339,
+      "id": 40,
+      "original_description": "العويل ",
+      "start": 2045.517873
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 2171.451589,
+      "id": 41,
+      "original_description": "نقاش ايحائي عن التعري",
+      "start": 2145.351441
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2190.066055,
+      "id": 42,
+      "original_description": "العويل ",
+      "start": 2189.401065
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 2249.821655,
+      "id": 43,
+      "original_description": "العويل ",
+      "start": 2240.050255
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 2432.053759,
+      "id": 44,
+      "original_description": "عويل",
+      "start": 2421.359232
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2443.302291,
+      "id": 45,
+      "original_description": "عويل",
+      "start": 2442.838965
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2446.525565,
+      "id": 46,
+      "original_description": "بهيمة",
+      "start": 2446.162227
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2557.050498,
+      "id": 47,
+      "original_description": "كلمة قبيحة بالايطالي ",
+      "start": 2555.430147
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2601.45077,
+      "id": 48,
+      "original_description": "والنبي",
+      "start": 2599.476911
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2702.524421,
+      "id": 49,
+      "original_description": "يانهار اسود",
+      "start": 2701.64972
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2788.963337,
+      "id": 50,
+      "original_description": "تعاطي حشيش",
+      "start": 2711.606393
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2794.735627,
+      "id": 51,
+      "original_description": "العويل ",
+      "start": 2794.561533
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2811.090063,
+      "id": 52,
+      "original_description": "تعاطي حشيش وظهور فتاة الليل مع الحارس",
+      "start": 2808.759977
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 2997.802758,
+      "id": 53,
+      "original_description": "يا ابن الكلب ",
+      "start": 2995.345836
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3066.571738,
+      "id": 54,
+      "original_description": "ظهور فتاة الليل  مع الحارس",
+      "start": 3036.243096
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3108.459856,
+      "id": 55,
+      "original_description": "سقوط بنطلون الحارس",
+      "start": 3099.317751
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 3131.467804,
+      "id": 56,
+      "original_description": "شخص يقوم بضرب شخص في أماكن حساسة",
+      "start": 3119.767067
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3166.222308,
+      "id": 57,
+      "original_description": "انت غبي ",
+      "start": 3165.191852
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3354.697713,
+      "id": 58,
+      "original_description": "شرب سجائر ولقطة ايحاءات جنسية",
+      "start": 3337.910286
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 3366.729866,
+      "id": 59,
+      "original_description": "اهدى يابن المنكوبة",
+      "start": 3361.455106
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3455.844559,
+      "id": 60,
+      "original_description": "لبس رجل للنقاب ",
+      "start": 3433.497979
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3530.71056,
+      "id": 61,
+      "original_description": "لبس رجل للنقاب ",
+      "start": 3524.061811
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3869.144506,
+      "id": 62,
+      "original_description": "عويل",
+      "start": 3866.669565
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3877.921018,
+      "id": 63,
+      "original_description": "ابن المفضوح",
+      "start": 3876.576583
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3937.040717,
+      "id": 64,
+      "original_description": "shit",
+      "start": 3935.373382
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 3989.3414,
+      "id": 65,
+      "original_description": "كلام عن الحشيش",
+      "start": 3987.726278
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 4035.51026,
+      "id": 66,
+      "original_description": "ينهار اسود ",
+      "start": 4031.913768
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 4087.645788,
+      "id": 67,
+      "original_description": "ينهار اسود ",
+      "start": 4086.023753
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 4100.533851,
+      "id": 68,
+      "original_description": "حلف بغير الله",
+      "start": 4096.896319
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 4162.180589,
+      "id": 69,
+      "original_description": "عويل",
+      "start": 4160.344926
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 4291.580605,
+      "id": 70,
+      "original_description": "ولاد المجلخة",
+      "start": 4288.391993
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 4315.071531,
+      "id": 71,
+      "original_description": "ينهار اسود ",
+      "start": 4311.864664
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 4629.938422,
+      "id": 72,
+      "original_description": "ابن الكلب",
+      "start": 4628.19273
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 4698.208281,
+      "id": 73,
+      "original_description": "يا ابن الكلب ",
+      "start": 4696.134062
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4797.136417,
+      "id": 74,
+      "original_description": "لقطة ايحاءات جنسية",
+      "start": 4783.068593
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4883.044814,
+      "id": 75,
+      "original_description": "رجل يلبس النقاب",
+      "start": 4828.676728
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4887.549441,
+      "id": 76,
+      "original_description": "الله يحرقك",
+      "start": 4885.830768
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4903.809117,
+      "id": 77,
+      "original_description": "رجل يلبس النقاب",
+      "start": 4889.669866
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4921.461188,
+      "id": 78,
+      "original_description": "رجل يلبس النقاب",
+      "start": 4913.233286
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4938.096731,
+      "id": 79,
+      "original_description": "رجل يلبس النقاب",
+      "start": 4926.553946
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4978.014946,
+      "id": 80,
+      "original_description": "ولية بنت كلب",
+      "start": 4977.009123
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5028.949795,
+      "id": 81,
+      "original_description": "النجس ابن النجس",
+      "start": 5026.880718
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 5074.487622,
+      "id": 82,
+      "original_description": "نطع وكداب",
+      "start": 5064.832657
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 5098.271336,
+      "id": 83,
+      "original_description": "اتفو عليك",
+      "start": 5090.385832
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 5220.159095,
+      "id": 84,
+      "original_description": "ابن الشمامة",
+      "start": 5219.323929
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5279.517709,
+      "id": 85,
+      "original_description": "يا نهار اسود",
+      "start": 5278.43582
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5313.766986,
+      "id": 86,
+      "original_description": "يا نهار اسود",
+      "start": 5311.999023
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 5382.139308,
+      "id": 87,
+      "original_description": "يابن الكلب",
+      "start": 5380.3597
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5444.734945,
+      "id": 88,
+      "original_description": "قفلي صدرك",
+      "start": 5442.762505
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5450.4058,
+      "id": 89,
+      "original_description": "نجس",
+      "start": 5450.026815
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5453.915265,
+      "id": 90,
+      "original_description": "يا نهار ابوك اسود",
+      "start": 5452.233488
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5493.776501,
+      "id": 91,
+      "original_description": "يا ابن الكلب يا واطي",
+      "start": 5492.18631
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 5752.978091,
+      "id": 92,
+      "original_description": "يا ولاد الكلب يا جزم ",
+      "start": 5748.339422
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 5811.27056,
+      "id": 93,
+      "original_description": "يا ولاد الكلب يا جزم  وضرب",
+      "start": 5797.525317
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 5819.279129,
+      "id": 94,
+      "original_description": "ضرب بالشومة على رأس احدهم",
+      "start": 5817.092454
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5856.211883,
+      "id": 95,
+      "original_description": "خصيمك النبي",
+      "start": 5855.226029
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5973.007551,
+      "id": 96,
+      "original_description": "نجس",
+      "start": 5971.843019
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 5987.745989,
+      "id": 97,
+      "original_description": "شتائم بالجملة",
+      "start": 5979.711088
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 6016.565132,
+      "id": 98,
+      "original_description": "يخربيت أبو اللي جابك",
+      "start": 6014.601906
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 6054.810733,
+      "id": 99,
+      "original_description": "يابن الكلب",
+      "start": 6053.352538
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6108.008755,
+      "id": 100,
+      "original_description": "يخربيت امك",
+      "start": 6106.843072
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6113.781037,
+      "id": 101,
+      "original_description": "والنبي",
+      "start": 6113.291828
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6146.820277,
+      "id": 102,
+      "original_description": "والنبي",
+      "start": 6146.108268
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 6532.193971,
+      "id": 103,
+      "original_description": "اعتراض على قدر الله ",
+      "start": 6515.116102
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 6548.538083,
+      "id": 104,
+      "original_description": "يا نهار ابوك اسود",
+      "start": 6546.60933
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 6576.684317,
+      "id": 105,
+      "original_description": " يا نهار اسود ، انت مال امك",
+      "start": 6568.120594
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 6720.902558,
+      "id": 106,
+      "original_description": "والنبي",
+      "start": 6714.834742
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 6786.440342,
+      "id": 107,
+      "original_description": "يابن الكلب",
+      "start": 6784.217594
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 6804.863076,
+      "id": 108,
+      "original_description": "شتائم بالجملة",
+      "start": 6796.284125
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6860.542245,
+      "id": 109,
+      "original_description": "حيوان",
+      "start": 6859.855124
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 6931.16814,
+      "id": 110,
+      "original_description": "يا حرامي يابن الكلب",
+      "start": 6920.315021
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 6941.209624,
+      "id": 111,
+      "original_description": "شتيمة برضه",
+      "start": 6936.331635
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7021.701121,
+      "id": 112,
+      "original_description": "ابن الصرمة",
+      "start": 7020.695005
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 7160.063557,
+      "id": 113,
+      "original_description": "شتائم بالجملة",
+      "start": 7140.059352
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7243.693981,
+      "id": 114,
+      "original_description": "بنت الكلب",
+      "start": 7243.054194
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7306.019482,
+      "id": 115,
+      "original_description": "نجس",
+      "start": 7305.3703
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 7331.749351,
+      "id": 116,
+      "original_description": "ابن العطلانة",
+      "start": 7325.98869
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7333.856132,
+      "id": 117,
+      "original_description": "يابن الكلب",
+      "start": 7331.749351
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7340.176407,
+      "id": 118,
+      "original_description": "يا نهار اسود",
+      "start": 7338.533017
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 7374,
+      "id": 119,
+      "original_description": "خنق شخص",
+      "start": 7358.512265
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 7394.919274,
+      "id": 120,
+      "original_description": "ابن الشمامة",
+      "start": 7394.070751
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 7509.638421,
+      "id": 121,
+      "original_description": "شتائم وحرق شخص",
+      "start": 7493.94321
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 7679.033832,
+      "id": 122,
+      "original_description": "شخص تزوج فتاة الليل ",
+      "start": 7670.563073
+    }
+  ],
+  "genre": "Comedy, Drama",
+  "pg": "PG 13",
+  "platforms": {
+    "yango": {
+      "id": "a1e66e856fa3469480d626b2a242e0cd",
+      "url": "https://play.yango.com/en/?rt=a1e66e856fa3469480d626b2a242e0cd"
+    }
+  },
+  "poster_url": "https://media.dhliz.com/b083/dd1b/1-b083a43c-306b-4a57-8ed4-f34edf74dd1b..jpg",
+  "title": "السادة الأفاضل",
+  "type": "movie",
+  "year": 2025
+}

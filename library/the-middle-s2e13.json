@@ -1,0 +1,75 @@
+{
+  "episode": 13,
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 113.37,
+      "id": 1,
+      "original_description": "شخص يلقي تعليق ايحائي",
+      "start": 109.4
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 521.37,
+      "id": 2,
+      "original_description": "شخص يلقي تعليق ايحائي",
+      "start": 517.79
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 522.56,
+      "id": 3,
+      "original_description": "sexual",
+      "start": 522.23
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 573.26,
+      "id": 4,
+      "original_description": "cheat on",
+      "start": 571.92
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 698.17,
+      "id": 5,
+      "original_description": "hell",
+      "start": 697.93
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1029.91,
+      "id": 6,
+      "original_description": "beer",
+      "start": 1029.71
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1158.76,
+      "id": 7,
+      "original_description": "hell",
+      "start": 1158.34
+    }
+  ],
+  "parent_series_id": "the-middle",
+  "platforms": {
+    "netflix": {
+      "id": 82170867,
+      "url": "https://www.netflix.com/watch/82170867"
+    },
+    "osnplus": {
+      "id": 69080,
+      "url": "https://osnplus.com/en-eg/episode/super-sunday-69080/watch?contentStreamingDeeplinkQueryParam=false&skipRecap=true"
+    }
+  },
+  "season": 2,
+  "title": "The Middle - S2E13",
+  "type": "episode"
+}

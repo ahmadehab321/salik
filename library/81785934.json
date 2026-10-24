@@ -1,0 +1,183 @@
+{
+  "episode": 4,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 94.46,
+      "id": 1,
+      "original_description": "playboy",
+      "start": 94.17
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 110.25,
+      "id": 2,
+      "original_description": "shit",
+      "start": 109.92
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 179.097516,
+      "id": 3,
+      "original_description": "حضن بين رجل وامرآة ",
+      "start": 170.417311
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 258.19,
+      "id": 4,
+      "original_description": "hell",
+      "start": 258
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1116.07,
+      "id": 5,
+      "original_description": "bitch",
+      "start": 1115.83
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1344.47656,
+      "id": 6,
+      "original_description": "تعذيب بالضغط على جرح شخص",
+      "start": 1337.02753
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1520.933611,
+      "id": 7,
+      "original_description": "تعذيب بالضغط على جرح شخص",
+      "start": 1518.632274
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1523.74,
+      "id": 8,
+      "original_description": "hell",
+      "start": 1523.4
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1541.12,
+      "id": 9,
+      "original_description": "shit",
+      "start": 1540.92
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1593.22,
+      "id": 10,
+      "original_description": "shit",
+      "start": 1592.88
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1819.4,
+      "id": 11,
+      "original_description": "shit",
+      "start": 1819.08
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1830,
+      "id": 12,
+      "original_description": "asshole",
+      "start": 1828.88
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1837.27,
+      "id": 13,
+      "original_description": "screwing",
+      "start": 1836.94
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1960.153199,
+      "id": 14,
+      "original_description": "امرأة تقبل رجل ",
+      "start": 1955.16984
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1975,
+      "id": 15,
+      "original_description": "asshole",
+      "start": 1974.76
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2006.314808,
+      "id": 16,
+      "original_description": "امرأة تحضن رجل",
+      "start": 2001.176029
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2094.41,
+      "id": 17,
+      "original_description": "hell",
+      "start": 2094.07
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2149.71,
+      "id": 18,
+      "original_description": "shit",
+      "start": 2149.4
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2172.43,
+      "id": 19,
+      "original_description": "screw",
+      "start": 2172.19
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2376.42,
+      "id": 20,
+      "original_description": "shit",
+      "start": 2375.58
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 2408.91,
+      "id": 21,
+      "original_description": "fucking",
+      "start": 2408.26
+    }
+  ],
+  "parent_series_id": "i-will-find-you",
+  "platforms": {
+    "netflix": {
+      "id": "81785934",
+      "url": "https://www.netflix.com/watch/81785934"
+    }
+  },
+  "season": 1,
+  "title": "I will Find You - S1E4",
+  "type": "episode"
+}

@@ -1,0 +1,219 @@
+{
+  "addedAt": 1791018775997,
+  "category": "Saudi Movies",
+  "description": "تكتشف عائلة \"الذهبي\" الثرية في الرياض إفلاسها فجأة، فتسعى للتظاهر بالثراء للحفاظ على مكانتها الاجتماعية أمام المجتمع.\nتخوض العائلة سلسلة من المفارقات الكوميدية لإخفاء وضعها المالي الجديد والتكيف مع إمبراطوريتها المنهارة",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 256.1,
+      "id": 1,
+      "original_description": "الحمار",
+      "start": 255.06
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1461.7,
+      "id": 2,
+      "original_description": "هبلة",
+      "start": 1460.33
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1462.53,
+      "id": 3,
+      "original_description": "حمارة",
+      "start": 1461
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1463,
+      "id": 4,
+      "original_description": "ثورة",
+      "start": 1461.83
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1666.42,
+      "id": 5,
+      "original_description": "تافه",
+      "start": 1665.49
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1723.92,
+      "id": 6,
+      "original_description": "مجنون",
+      "start": 1722.88
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1875.17,
+      "id": 7,
+      "original_description": "الواطي",
+      "start": 1874.2
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2409.83,
+      "id": 8,
+      "original_description": "حمار",
+      "start": 2408.76
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2684.79,
+      "id": 9,
+      "original_description": "الكلب",
+      "start": 2683.78
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3343.08,
+      "id": 10,
+      "original_description": "الواطي",
+      "start": 3341.92
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3381.29,
+      "id": 11,
+      "original_description": "الكلاب",
+      "start": 3380.42
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3383.6,
+      "id": 12,
+      "original_description": "الكلاب",
+      "start": 3382.46
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3400.31,
+      "id": 13,
+      "original_description": "الواطي",
+      "start": 3399.07
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3407.24,
+      "id": 14,
+      "original_description": "الواطي",
+      "start": 3405.97
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3452.88,
+      "id": 15,
+      "original_description": "غبية",
+      "start": 3451.83
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3453.54,
+      "id": 16,
+      "original_description": "يلعن",
+      "start": 3452.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3506.96,
+      "id": 17,
+      "original_description": "ثور",
+      "start": 3505.94
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3510.3,
+      "id": 18,
+      "original_description": "الغبية",
+      "start": 3509.15
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3631.53,
+      "id": 19,
+      "original_description": "كلب",
+      "start": 3630.58
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3653.46,
+      "id": 20,
+      "original_description": "غبية",
+      "start": 3652.48
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3852.08,
+      "id": 21,
+      "original_description": "يخرب بيتك",
+      "start": 3850.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4267.4,
+      "id": 22,
+      "original_description": "ثور",
+      "start": 4266.39
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4269.08,
+      "id": 23,
+      "original_description": "ثور",
+      "start": 4267.99
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5556.04,
+      "id": 24,
+      "original_description": "مجنون",
+      "start": 5555.25
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5563.02,
+      "id": 25,
+      "original_description": "يلعن",
+      "start": 5561.96
+    }
+  ],
+  "genre": "كوميديا",
+  "pg": "+13",
+  "platforms": {
+    "netflix": {
+      "id": "81952372",
+      "url": "https://www.netflix.com/title/81952372"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/4nQD7STEWNYW2cKldZQZRrYri90.jpg",
+  "title": "المهايطية",
+  "type": "movie",
+  "year": 2026
+}

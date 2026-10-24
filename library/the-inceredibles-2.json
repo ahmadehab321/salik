@@ -1,0 +1,51 @@
+{
+  "addedAt": 1790069663865,
+  "category": "disney",
+  "description": "تتولى \"هالة\" (إلاستيجيرل) قيادة حملة إعلامية جديدة لاستعادة الصورة الإيجابية للأبطال الخارقين وتقنين وضعهم القانوني. يبقى \"صبحي\" (مستر إنكريدبل) في المنزل لرعاية الأطفال وإدارة شؤون المنزل واكتشاف القدرات الخارقة غير المتوقعة للطفل الرضيع \"عدنان\". يظهر شرير جديد يُدعى \"أبو الشاشات\" يستغل الشاشات للسيطرة على العقول، مما يجبر العائلة على الاتحاد مجددًا لإيقافه.",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2725,
+      "id": 1,
+      "original_description": "المذيع الغبي",
+      "start": 2724
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4195,
+      "id": 2,
+      "original_description": "حضن بين رجل وامرأة أجنبية",
+      "start": 4194
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4809,
+      "id": 3,
+      "original_description": "اغبياء",
+      "start": 4808
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 5141,
+      "id": 4,
+      "original_description": "رجل يقبل امرأة",
+      "start": 5136
+    }
+  ],
+  "genre": "رسوم متحركة، أكشن، مغامرة، عائلي",
+  "pg": "+7",
+  "platforms": {
+    "disney": {
+      "id": "9da2c0fb-a380-4180-b67f-006fbaaa89ab",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-9da2c0fb-a380-4180-b67f-006fbaaa89ab"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/w600_and_h900_face/s3IfCcxPPNaog6s62RhoadmzZRa.jpg",
+  "title": "Incredibles 2",
+  "type": "movie",
+  "year": 2018
+}

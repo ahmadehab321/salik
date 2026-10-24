@@ -1,0 +1,83 @@
+{
+  "addedAt": 1786527397227,
+  "category": "Disney",
+  "description": "فيلم \"البحث عن نيمو\" بالانجليزية Finding Nemo هو فيلم رسوم متحركة من إنتاج بيكسار عام 2003. يروي قصة سمكة مهرج خائفة تُدعى \"مرهف\" يقودها الحب الأبوي لقطع المحيط بحثاً عن ابنه \"نيمو\" بعد أن خطفه غواص. يقدم مغامرة شيقة تناقش الشجاعة والثقة بالنهاية السعيدة.",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 91.49,
+      "id": 1,
+      "original_description": "سمكتين يقبلون بعضهما",
+      "start": 89.28
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 752.86,
+      "id": 2,
+      "original_description": "سمكة تخرج ضراط",
+      "start": 747.5
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1257.5,
+      "id": 3,
+      "original_description": "بالذمة",
+      "start": 1256.86
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1290.48,
+      "id": 4,
+      "original_description": "بشرفي",
+      "start": 1289.77
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1527.28,
+      "id": 5,
+      "original_description": "لقلق يخرج ضراط بشكل ايحائي",
+      "start": 1524.3
+    },
+    {
+      "action_type": "mute",
+      "category": "violence",
+      "end": 3674.85,
+      "id": 6,
+      "original_description": "سمكة تتكرع",
+      "start": 3673.41
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4072.15,
+      "id": 7,
+      "original_description": "سمكة تتكرع",
+      "start": 4067.78
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 5490.06,
+      "id": 8,
+      "original_description": "سمكة تخرج ضراط",
+      "start": 5488.4
+    }
+  ],
+  "genre": "kids, animation, action, comedy",
+  "pg": "G-7",
+  "platforms": {
+    "disney": {
+      "id": "37b62808-2368-4688-9410-2dcf7461e258",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-37b62808-2368-4688-9410-2dcf7461e258"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/thqTmnNXS5sRAgqYsL6XoBb8AzI.jpg",
+  "title": "البحث عن نيمو",
+  "type": "movie",
+  "year": 2003
+}

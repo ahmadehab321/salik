@@ -1,0 +1,59 @@
+{
+  "episode": 21,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 18.53,
+      "id": 1,
+      "original_description": "beer",
+      "start": 18.34
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 55.22,
+      "id": 2,
+      "original_description": "god",
+      "start": 54.89
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 293.33,
+      "id": 3,
+      "original_description": "gay",
+      "start": 292.97
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 937.76,
+      "id": 4,
+      "original_description": "beer",
+      "start": 937.39
+    },
+    {
+      "action_type": "mute",
+      "category": "Language",
+      "end": 1204.36,
+      "id": 5,
+      "original_description": "beer",
+      "start": 1204.06
+    }
+  ],
+  "parent_series_id": "the-middle",
+  "platforms": {
+    "netflix": {
+      "id": "82170851",
+      "url": "https://www.netflix.com/watch/82170851"
+    },
+    "osnplus": {
+      "id": 69003,
+      "url": "https://osnplus.com/en-eg/episode/worry-duty-69003/watch?contentStreamingDeeplinkQueryParam=false"
+    }
+  },
+  "season": 1,
+  "title": "The Middle - S1E21",
+  "type": "episode"
+}

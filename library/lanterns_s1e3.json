@@ -1,0 +1,184 @@
+{
+  "episode": 3,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 322.99,
+      "id": 1,
+      "original_description": "fuck",
+      "start": 322.36
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 711.44,
+      "id": 2,
+      "original_description": "beer",
+      "start": 710.99
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 868.74,
+      "id": 3,
+      "original_description": "bullshit",
+      "start": 867.82
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 892.92,
+      "id": 4,
+      "original_description": "god",
+      "start": 892.32
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 894.72,
+      "id": 5,
+      "original_description": "damn",
+      "start": 894.25
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1118.79,
+      "id": 6,
+      "original_description": "ass",
+      "start": 1118.21
+    },
+    {
+      "action_type": "blur",
+      "category": "violence",
+      "end": 1343.15,
+      "id": 7,
+      "original_description": " (وضع البارود على الجرح خطير جداً ويسبب التسمم والالتهابات؛ والعلاج الصحيح هو الضغط عليه بقطعة قماش نظيفة وغسله بالماء وتغطيته بضمادة معقمة.)يضع بارود على جرحه ",
+      "start": 1340.14
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1554.68,
+      "id": 8,
+      "original_description": "shit",
+      "start": 1554.27
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1591.76,
+      "id": 9,
+      "original_description": "shit",
+      "start": 1591.34
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2318.04,
+      "id": 10,
+      "original_description": "shit",
+      "start": 2317.42
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2335.98,
+      "id": 11,
+      "original_description": "fucking",
+      "start": 2335.14
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2357.75,
+      "id": 12,
+      "original_description": "pissed",
+      "start": 2357.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2364.52,
+      "id": 13,
+      "original_description": "shitstorm",
+      "start": 2363.85
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2380.39,
+      "id": 14,
+      "original_description": "fucking",
+      "start": 2379.42
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2433.42,
+      "id": 15,
+      "original_description": "fucking",
+      "start": 2432.52
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2436.22,
+      "id": 16,
+      "original_description": "fucking",
+      "start": 2435.52
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2908.85,
+      "id": 17,
+      "original_description": "hell",
+      "start": 2907.98
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2924.19,
+      "id": 18,
+      "original_description": "fuck",
+      "start": 2923.55
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2929.04,
+      "id": 19,
+      "original_description": "fucking",
+      "start": 2928.32
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2930.37,
+      "id": 20,
+      "original_description": "fucking",
+      "start": 2929.65
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2934.26,
+      "id": 21,
+      "original_description": "fucking",
+      "start": 2933.41
+    }
+  ],
+  "parent_series_id": "lanterns",
+  "platforms": {
+    "osnplus": {
+      "id": "outkast-76632",
+      "offset_seconds": 0,
+      "url": "https://osnplus.com/en-eg/episode/outkast-76632/watch"
+    }
+  },
+  "season": 1,
+  "title": "Lanterns - S1E3",
+  "type": "episode"
+}

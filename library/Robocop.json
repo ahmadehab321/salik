@@ -1,0 +1,507 @@
+{
+  "addedAt": 1787347785561,
+  "category": "Hollywood",
+  "description": "فيلم RoboCop (2014) هو عمل خيال علمي وحركة، يروي قصة الشرطي أليكس مورفي الذي يتحول إلى شرطي آلي خارق بعد تعرضه لإصابة مميتة، لتدور الأحداث حول صراع بين إنسانيته وجشع الشركة المنتجة",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 561.45,
+      "id": 1,
+      "original_description": "hell",
+      "start": 560.91
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 574.65,
+      "id": 2,
+      "original_description": "bullshit",
+      "start": 573.44
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 582.19,
+      "id": 3,
+      "original_description": "dumb",
+      "start": 581.52
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 620.46,
+      "id": 4,
+      "original_description": "hell",
+      "start": 619.88
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 636.4,
+      "id": 5,
+      "original_description": "shit",
+      "start": 635.86
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 644.18,
+      "id": 6,
+      "original_description": "hell",
+      "start": 643.63
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 652.12,
+      "id": 7,
+      "original_description": "goddamn",
+      "start": 651.37
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 652.81,
+      "id": 8,
+      "original_description": "hell",
+      "start": 652.3
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1242.32,
+      "id": 9,
+      "original_description": "asshole",
+      "start": 1241.23
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1353.47,
+      "id": 10,
+      "original_description": "رجل يقبل امرأة",
+      "start": 1351.5
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1384.52,
+      "id": 11,
+      "original_description": "شخص يشرب الخمر",
+      "start": 1371.22
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1456.54,
+      "id": 12,
+      "original_description": "زوج وزوجة يمارسان الجنس",
+      "start": 1414.67
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1437.88,
+      "id": 13,
+      "original_description": "shit",
+      "start": 1437.14
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1519.41,
+      "id": 14,
+      "original_description": "\"أليكس\" مصاب ومقطوعة ساقه",
+      "start": 1504.06
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1545.35,
+      "id": 15,
+      "original_description": "\"أليكس\" مصاب ومقطوعة ساقه مع فقدان عينه",
+      "start": 1526.07
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1718.16,
+      "id": 16,
+      "original_description": "hell",
+      "start": 1717.55
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1732.38,
+      "id": 17,
+      "original_description": "hell",
+      "start": 1731.65
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1832.82,
+      "id": 18,
+      "original_description": "hell",
+      "start": 1832.18
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2023.06,
+      "id": 19,
+      "original_description": "christ",
+      "start": 2022.06
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2025.45,
+      "id": 20,
+      "original_description": "christ",
+      "start": 2024.44
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2169.87,
+      "id": 21,
+      "original_description": "تظهر أجزاء مثل الرئتان والمخ",
+      "start": 2024.57
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2028.54,
+      "id": 22,
+      "original_description": "christ",
+      "start": 2027.62
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2369.7,
+      "id": 23,
+      "original_description": "shit",
+      "start": 2369.08
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2666.64,
+      "id": 24,
+      "original_description": "ass",
+      "start": 2666.04
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2702.05,
+      "id": 25,
+      "original_description": "يتم عمل عملية في المخ",
+      "start": 2684.84
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2742.04,
+      "id": 26,
+      "original_description": "يستخرج قطع روبوتية من مخ \"أليكس\"",
+      "start": 2733.05
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3057.51,
+      "id": 27,
+      "original_description": "crap",
+      "start": 3056.3
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3106.56,
+      "id": 28,
+      "original_description": "asshole",
+      "start": 3105.45
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3397.14,
+      "id": 29,
+      "original_description": "damn",
+      "start": 3396.42
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3404.13,
+      "id": 30,
+      "original_description": "damn",
+      "start": 3403.51
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3590.09,
+      "id": 31,
+      "original_description": "jesus",
+      "start": 3589.33
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3590.56,
+      "id": 32,
+      "original_description": "christ",
+      "start": 3589.74
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3984.95,
+      "id": 33,
+      "original_description": "bullshit",
+      "start": 3984.29
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4024.64,
+      "id": 34,
+      "original_description": "shittin'",
+      "start": 4023.85
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4390.04,
+      "id": 35,
+      "original_description": "hell",
+      "start": 4389.43
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4390.69,
+      "id": 36,
+      "original_description": "shit",
+      "start": 4390.28
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4664.48,
+      "id": 37,
+      "original_description": "ذراع \"أليكس\" محروقة",
+      "start": 4656.91
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4678.63,
+      "id": 38,
+      "original_description": "مستويات الدوبامين ترجع للطبيعي ، وبجواره جسد \"أليكس\" محترق",
+      "start": 4671.87
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4687.35,
+      "id": 39,
+      "original_description": "جسد \"أليكس\" محترق",
+      "start": 4684.29
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4852.38,
+      "id": 40,
+      "original_description": "idiot",
+      "start": 4851.48
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4857.18,
+      "id": 41,
+      "original_description": "shit",
+      "start": 4855.81
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5008.7,
+      "id": 42,
+      "original_description": "freak",
+      "start": 5007.51
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5066.15,
+      "id": 43,
+      "original_description": "hell",
+      "start": 5065.59
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5081.72,
+      "id": 44,
+      "original_description": "bullshit",
+      "start": 5081.22
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5117.49,
+      "id": 45,
+      "original_description": "christ",
+      "start": 5116.62
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5324,
+      "id": 46,
+      "original_description": "hell",
+      "start": 5323.62
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5341.31,
+      "id": 47,
+      "original_description": "fucked",
+      "start": 5340.32
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5429.39,
+      "id": 48,
+      "original_description": "bullshit",
+      "start": 5428.42
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5680.7,
+      "id": 49,
+      "original_description": "christ",
+      "start": 5679.74
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5790.99,
+      "id": 50,
+      "original_description": "hell",
+      "start": 5790.37
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5800.99,
+      "id": 51,
+      "original_description": "christ",
+      "start": 5800.25
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5804.24,
+      "id": 52,
+      "original_description": "damn",
+      "start": 5803.54
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5804.74,
+      "id": 53,
+      "original_description": "damn",
+      "start": 5803.89
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5805.25,
+      "id": 54,
+      "original_description": "damn",
+      "start": 5804.39
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5805.75,
+      "id": 55,
+      "original_description": "damn",
+      "start": 5804.9
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5806.05,
+      "id": 56,
+      "original_description": "damn",
+      "start": 5805.4
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6136.88,
+      "id": 57,
+      "original_description": "crap",
+      "start": 6136.25
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6173.25,
+      "id": 58,
+      "original_description": "bitch",
+      "start": 6172.51
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6245.42,
+      "id": 59,
+      "original_description": "hell",
+      "start": 6244.71
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 6444.8,
+      "id": 60,
+      "original_description": "الدكتور يذهب إلى \"أليكس\" بأجزاءه من المخ والرئتان ويده اليمنى",
+      "start": 6402.66
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 6558.53,
+      "id": 61,
+      "original_description": "hot",
+      "start": 6557.64
+    }
+  ],
+  "genre": "Sci-Fi, Action",
+  "pg": "PG-13",
+  "platforms": {
+    "amazon": {
+      "id": "amzn1.dv.gti.1c7ad53e-ee6d-43b8-99c8-e8565dbae95e",
+      "url": "https://www.primevideo.com/detail?gti=amzn1.dv.gti.1c7ad53e-ee6d-43b8-99c8-e8565dbae95e"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/gM5ql3BKYmHG3WtZ0buKXN7xY8O.jpg",
+  "title": "RoboCop",
+  "type": "movie",
+  "year": 2014
+}

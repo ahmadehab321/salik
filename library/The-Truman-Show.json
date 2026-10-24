@@ -1,0 +1,227 @@
+{
+  "addedAt": 1786989401949,
+  "category": "Drama",
+  "description": "فيلم The Truman Show (عرض ترومان) هو عمل درامي نفسي أُنتج عام 1998، يروي قصة ترومان بوربانك (يجسد شخصيته جيم كاري)، وهو رجل عادي يكتشف تدريجياً أن حياته اليومية ليست سوى برنامج تلفزيون واقعي ضخم يُبث على مدار الساعة، وأن كل من حوله هم ممثلون في عالم اصطناعي",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 130.49,
+      "id": 1,
+      "original_description": "damn",
+      "start": 129.32
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 551.7,
+      "id": 2,
+      "original_description": "شخص مفلقس",
+      "start": 525.15
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 551.13,
+      "id": 3,
+      "original_description": "jesus",
+      "start": 549.89
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 565.28,
+      "id": 4,
+      "original_description": "شخص يشرب الجعة",
+      "start": 556.92
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 562.84,
+      "id": 5,
+      "original_description": "beer",
+      "start": 562.06
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1281.53,
+      "id": 6,
+      "original_description": "امرأة تقبل رجل",
+      "start": 1280.01
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1281.57,
+      "id": 7,
+      "original_description": "loser",
+      "start": 1280.94
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1510.32,
+      "id": 8,
+      "original_description": "رجل يقبل امرأة",
+      "start": 1503.63
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1998.42,
+      "id": 9,
+      "original_description": "shit",
+      "start": 1998.02
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2063.21,
+      "id": 10,
+      "original_description": "asses",
+      "start": 2062.59
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 2241.87,
+      "id": 11,
+      "original_description": "رجل وامرأة يتبادلان القبل",
+      "start": 2227.87
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3093.85,
+      "id": 12,
+      "original_description": "hell",
+      "start": 3093.1
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3102.14,
+      "id": 13,
+      "original_description": "hell",
+      "start": 3101.35
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3176.79,
+      "id": 14,
+      "original_description": "حضن بين رجل وامرأة",
+      "start": 3152.61
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3232.52,
+      "id": 15,
+      "original_description": "jesus",
+      "start": 3231.74
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3533.71,
+      "id": 16,
+      "original_description": "رجل يقبل امرأة",
+      "start": 3530.62
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 3548.17,
+      "id": 17,
+      "original_description": "رجل يقبل امرأة",
+      "start": 3546.17
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3703.58,
+      "id": 18,
+      "original_description": "jesus",
+      "start": 3702.08
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4038.91,
+      "id": 19,
+      "original_description": "jesus",
+      "start": 4038.06
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4389.65,
+      "id": 20,
+      "original_description": "shit",
+      "start": 4388.18
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4452.32,
+      "id": 21,
+      "original_description": "jesus",
+      "start": 4451.64
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4574.54,
+      "id": 22,
+      "original_description": "damn",
+      "start": 4573.97
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4575.64,
+      "id": 23,
+      "original_description": "bitch",
+      "start": 4575.2
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4623.18,
+      "id": 24,
+      "original_description": "ass",
+      "start": 4622.7
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4971,
+      "id": 25,
+      "original_description": "damn",
+      "start": 4970.45
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5423.17,
+      "id": 26,
+      "original_description": "goddamn",
+      "start": 5422.05
+    }
+  ],
+  "genre": "Drama",
+  "pg": "PG-13",
+  "platforms": {
+    "shahid": {
+      "id": "2623731527",
+      "url": "https://shahid.mbc.net/ar/movies/The-Truman-Show/movie-2623731527"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/8TDaM90Ppf9vNQIL5hMzulTPFfK.jpg",
+  "title": "The Truman Show",
+  "type": "movie",
+  "year": 1998
+}

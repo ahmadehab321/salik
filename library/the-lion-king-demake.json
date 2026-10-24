@@ -1,0 +1,50 @@
+{
+  "category": "Drama, Action , Kids",
+  "description": "فيلم The Lion King (2019) تمت الفلترة على النسخة العربية باللهجة المصرية هو إعادة إنتاج واقعية بتقنية الرسوم المتحركة بالحاسوب (CGI) للفيلم الكلاسيكي الشهير الأسد الملك لعام 1994. أُصدر في 19 يوليو 2019 من إخراج جون فافرو، وتدور أحداثه حول الشبل سيمبا، المؤامرة التي دبرها عمه سكار لمقتل والده موفاسا، ورحلة سيمبا للعودة واستعادة عرشه",
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1042.25,
+      "id": 1,
+      "original_description": "معفن",
+      "start": 1041.24
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2057.52,
+      "id": 2,
+      "original_description": "اغبياء",
+      "start": 2056.79
+    },
+    {
+      "action_type": "mute",
+      "category": "violence",
+      "end": 4143.97,
+      "id": 3,
+      "original_description": "صوت ضرطة",
+      "start": 4143.2
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 5245.98,
+      "id": 4,
+      "original_description": "اساطير وثنية قديمة: التحدث مع روح الأب في السحاب",
+      "start": 5188.08
+    }
+  ],
+  "genre": "Drama, Action, Kids",
+  "pg": "G",
+  "platforms": {
+    "disney": {
+      "id": "87524f44-a8ea-4b08-b4d8-39103bed3eaa",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-87524f44-a8ea-4b08-b4d8-39103bed3eaa"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/original/rVPAJXPtQaohE8ex9ygTL61MiKJ.jpg",
+  "title": "الأسد الملك (مصري)",
+  "type": "movie",
+  "year": 2019
+}

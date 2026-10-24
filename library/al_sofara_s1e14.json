@@ -1,0 +1,74 @@
+{
+  "episode": 14,
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 403.41,
+      "id": 1,
+      "original_description": "والنبي",
+      "start": 401.7
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1064.03,
+      "id": 2,
+      "original_description": "يا مدير كلب",
+      "start": 1063.3
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1120.56,
+      "id": 3,
+      "original_description": "يا كلب",
+      "start": 1120.23
+    },
+    {
+      "action_type": "skip",
+      "category": "language",
+      "end": 1463.6,
+      "id": 4,
+      "original_description": "يا مدير كلب",
+      "start": 1458.54
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1802.53,
+      "id": 5,
+      "original_description": "يا نهار اسود",
+      "start": 1801.86
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1857.7,
+      "id": 6,
+      "original_description": "ابن الحرام",
+      "start": 1857.37
+    }
+  ],
+  "parent_series_id": "Al-Sofara",
+  "platforms": {
+    "shahid": {
+      "id": "982080",
+      "offset_seconds": 15,
+      "url": "https://shahid.mbc.net/ar/player/episodes/%D8%A7%D9%84%D8%B5%D9%81%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%85-1-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9-1/id-982080"
+    },
+    "starzplay": {
+      "id": "s1e14",
+      "offset_seconds": 0,
+      "url": "https://starzplay.com/ar/watch/series/al-sofara/648572456358/s1e14"
+    },
+    "watchit": {
+      "id": "19497",
+      "offset_seconds": 0,
+      "url": "https://www.watchit.com/#/details/series/860/1006/19497/play"
+    }
+  },
+  "season": 1,
+  "title": "Al-sofara - S1E14",
+  "type": "episode"
+}
