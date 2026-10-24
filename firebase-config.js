@@ -16,7 +16,7 @@ const NAZAFA_FUNCTIONS_BASE_URL = "https://us-central1-nazafa-app.cloudfunctions
 // (يُنشأ من Google Cloud Console > Credentials > OAuth Client ID > نوع "Chrome Extension")
 // ⚠️ القيمة الفعلية المستخدمة فعلياً موجودة في manifest.json (oauth2.client_id) — هذا المتغيّر
 // هنا للتوثيق فقط ولا يُقرأ منه أي كود حالياً، لازم يتحدّث يدوياً لو الـ client_id اتغيّر
-const NAZAFA_GOOGLE_OAUTH_CLIENT_ID = "369352580666-89on6f6d3t8ipa9ecpbqlcn82ei7d2ik.apps.googleusercontent.com";
+const NAZAFA_GOOGLE_OAUTH_CLIENT_ID = "ssssa";
 
 // معرّفات تطبيقات فيسبوك وآبل (لسه لازم تتحدّث بالقيم الحقيقية من Facebook Developers /
 // Apple Developer > Services ID قبل ما زرار الدخول عبر فيسبوك/آبل يشتغل فعلياً)
@@ -31,11 +31,5 @@ const NAZAFA_APPLE_SERVICE_ID = "REPLACE_WITH_APPLE_SERVICES_ID";
 const NAZAFA_GOOGLE_WEB_CLIENT_ID = "369352580666-dfc54b9l83ig7k0tudj85n3b6citcnqr.apps.googleusercontent.com";
 
 // روابط الشروط والأحكام
-const NAZAFA_TERMS_URL = "https://nazafa-entertainment.org/terms";
+const NAZAFA_TERMS_URL = "ss";
 
-// بيانات الدفع اليدوي
-const NAZAFA_MANUAL_PAYMENT = {
-  instapay: "a7mdfekry@instapay",
-  vodafoneCash: "01025801913",
-  whatsapp: "+201554499185"
-};
