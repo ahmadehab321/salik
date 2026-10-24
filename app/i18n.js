@@ -3,7 +3,9 @@
 // تدعم حقول اختيارية: item.title_en / item.description_en و filter.description_en.
 
 const DICT = {
-    "التحكم": "Controls", "المنصات": "Platforms", "الحساب": "About",
+    "التحكم": "Filters", "المنصات": "Platforms", "الحساب": "Account",
+    "نتفليكس": "Netflix", "أمازون": "Prime Video", "يانجو": "Yango Play", "ديزني+": "Disney+", "شاهد": "Shahid",
+    "واتش ات": "Watch It", "تود": "Tod", "يوتيوب": "YouTube",
     "لا يوجد": "None", "لا يوجد مشاهد من هذا النوع حالياً": "No scenes of this type",
     "مشهد محجوب": "Filtered scene", "تشفير الترجمة النصية": "Subtitle censoring",
     "يستبدل الألفاظ الممنوعة في نص الترجمة المعروض على الشاشة بالرموز": "Replaces inappropriate words in the on-screen subtitles with symbols",
@@ -86,6 +88,9 @@ export function t(s) {
     if (LANG !== "en" || typeof s !== "string") return s;
     const k = s.trim();
     if (DICT[k]) return s.replace(k, DICT[k]);
+    // نص بادئ برمز/إيموجي (مثل "🎛️ التحكم"): نترجم الجزء العربي فقط
+    const m = k.match(/^([^\u0600-\u06FFA-Za-z0-9]+)(.+)$/);
+    if (m && DICT[m[2].trim()]) return s.replace(k, m[1] + DICT[m[2].trim()]);
     for (const [re, rep] of PATTERNS) if (re.test(k)) return s.replace(k, k.replace(re, rep));
     return s;
 }
