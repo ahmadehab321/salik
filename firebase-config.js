@@ -7,16 +7,7 @@
 // ⚠️ لا تضع هنا أبداً: مفتاح Paymob السري (Secret Key)، أو أي مفتاح خدمة (Service Account)،
 // فهذه يجب أن تبقى فقط داخل بيئة Cloud Functions (راجع دليل التكامل المرفق).
 
-const NAZAFA_FIREBASE_CONFIG = {
-  apiKey: "AIzaSyChiMeb3wjqb-JEloMKMHGDqK9MRAMP2VY",
-  authDomain: "nazafa-app.firebaseapp.com",
-  projectId: "nazafa-app",
-  storageBucket: "nazafa-app.firebasestorage.app",
-  messagingSenderId: "369352580666",
-  appId: "1:369352580666:web:8bd703ab5203b3c3b15f03",
-  measurementId: "G-BSSG5Y7NKF",
-  databaseURL: "https://nazafa-app-default-rtdb.firebaseio.com"
-};
+
 
 // عنوان قاعدة Cloud Functions (بعد النشر عبر: firebase deploy --only functions)
 const NAZAFA_FUNCTIONS_BASE_URL = "https://us-central1-nazafa-app.cloudfunctions.net";
