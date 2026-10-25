@@ -494,7 +494,7 @@
   ],
   "parent_series_id": "the_queen_s_gambit",
   "platforms": {
-    "Netflix": {
+    "netflix": {
       "id": "81093611",
       "offset_seconds": 0,
       "url": "https://www.netflix.com/title/81093611"
