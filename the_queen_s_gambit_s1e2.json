@@ -1,0 +1,244 @@
+{
+  "episode": 2,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 25.54,
+      "id": 1,
+      "original_description": "shit",
+      "start": 24.71
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 178.5,
+      "id": 2,
+      "original_description": "امرأة ساقها مكشوفة وتشرب السجائر",
+      "start": 143.66
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 191.48,
+      "id": 3,
+      "original_description": "امرأة تشرب السجائر",
+      "start": 181.11
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 245.41,
+      "id": 4,
+      "original_description": "piss",
+      "start": 244.44
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 368.46,
+      "id": 5,
+      "original_description": "shit",
+      "start": 367.34
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 413.88,
+      "id": 6,
+      "original_description": "shit",
+      "start": 413.04
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 913.46,
+      "id": 7,
+      "original_description": "fucking",
+      "start": 912.25
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.1,
+        "width": 0.1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "category": "nudity",
+      "end": 1034.44,
+      "id": 8,
+      "original_description": "امرأة مكشوفة تشرب السجائر",
+      "start": 1025.38
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1033.75,
+      "id": 9,
+      "original_description": "shit",
+      "start": 1031.79
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1066.88,
+      "id": 10,
+      "original_description": "beer",
+      "start": 1066.04
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1373.82,
+      "id": 11,
+      "original_description": "رجل يقبل امرأة",
+      "start": 1331.63
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1840,
+      "id": 12,
+      "original_description": "fuck",
+      "start": 1839.67
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2101.82,
+      "id": 13,
+      "original_description": "losers",
+      "start": 2100.87
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2102.38,
+      "id": 14,
+      "original_description": "losers",
+      "start": 2101.62
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2273.06,
+      "id": 15,
+      "original_description": "شخص يشرب السجائر",
+      "start": 2259.41
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2292.25,
+      "id": 16,
+      "original_description": "شخص يشرب السجائر",
+      "start": 2289.61
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2324.56,
+      "id": 17,
+      "original_description": "hell",
+      "start": 2323.92
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2506.13,
+      "id": 18,
+      "original_description": "shit",
+      "start": 2505.19
+    },
+    {
+      "action_type": "partial_blur",
+      "blur_region": {
+        "height": 0.1,
+        "width": 0.1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "category": "substance abuse",
+      "end": 2552.47,
+      "id": 19,
+      "original_description": "اشخاص يشربون السجائر",
+      "start": 2547.83
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2665.43,
+      "id": 20,
+      "original_description": "jesus",
+      "start": 2665.04
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2665.67,
+      "id": 21,
+      "original_description": "christ",
+      "start": 2665.04
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2697.83,
+      "id": 22,
+      "original_description": "damn",
+      "start": 2697
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2750.62,
+      "id": 23,
+      "original_description": "damn",
+      "start": 2749.58
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2757.83,
+      "id": 24,
+      "original_description": "damn",
+      "start": 2755.92
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3377.75,
+      "id": 25,
+      "original_description": "fucker",
+      "start": 3376.79
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3467.85,
+      "id": 26,
+      "original_description": "bitch",
+      "start": 3466.88
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3537.92,
+      "id": 27,
+      "original_description": "bitch",
+      "start": 3536.89
+    }
+  ],
+  "parent_series_id": "the_queen_s_gambit",
+  "platforms": {
+    "netflix": {
+      "id": "81093610",
+      "offset_seconds": 0,
+      "url": "https://www.netflix.com/title/81093610"
+    }
+  },
+  "season": 1,
+  "title": "The Queen's Gambit - S1E2",
+  "type": "episode"
+}

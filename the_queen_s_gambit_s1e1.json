@@ -1,0 +1,216 @@
+{
+  "episode": 1,
+  "filters": [
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 28,
+      "id": 1,
+      "original_description": "jesus",
+      "start": 27.08
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 33.13,
+      "id": 2,
+      "original_description": "shit",
+      "start": 30.63
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 48.96,
+      "id": 3,
+      "original_description": "fuck",
+      "start": 48.04
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 93.61,
+      "id": 4,
+      "original_description": "امرأة ساقها مكشوفة وتشرب الخمر",
+      "start": 56.78
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 123.33,
+      "id": 5,
+      "original_description": "fuck",
+      "start": 122.5
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 191.69,
+      "id": 6,
+      "original_description": "goddamn",
+      "start": 190.75
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 350.49,
+      "id": 7,
+      "original_description": "fucking",
+      "start": 349.1
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 358.35,
+      "id": 8,
+      "original_description": "fuck",
+      "start": 357.44
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 359.69,
+      "id": 9,
+      "original_description": "cocksucker",
+      "start": 358.46
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 869.63,
+      "id": 10,
+      "original_description": "fucking",
+      "start": 868.63
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1536.92,
+      "id": 11,
+      "original_description": "cocksucker",
+      "start": 1535.33
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1621.19,
+      "id": 12,
+      "original_description": "شخص يشرب السجائر",
+      "start": 1609.43
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1656.29,
+      "id": 13,
+      "original_description": "cocksucker",
+      "start": 1654.99
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1659.5,
+      "id": 14,
+      "original_description": "shit",
+      "start": 1657.46
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1663.46,
+      "id": 15,
+      "original_description": "cock",
+      "start": 1662.48
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1718.04,
+      "id": 16,
+      "original_description": "حديث عن لعق القضيب",
+      "start": 1665.9
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1700.75,
+      "id": 17,
+      "original_description": "alcohol",
+      "start": 1699.82
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 1925.26,
+      "id": 18,
+      "original_description": "اشخاص يشربون السجائر",
+      "start": 1921.84
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1971.21,
+      "id": 19,
+      "original_description": "رجل يقبل امرأة",
+      "start": 1966.03
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 2049.51,
+      "id": 20,
+      "original_description": "شخص يشرب الخمر",
+      "start": 2037.06
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2040.13,
+      "id": 21,
+      "original_description": "whiskey",
+      "start": 2039.04
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2385.67,
+      "id": 22,
+      "original_description": "jesus",
+      "start": 2384.58
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3006.96,
+      "id": 23,
+      "original_description": "stupid",
+      "start": 3005.81
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3127.81,
+      "id": 24,
+      "original_description": "jesus",
+      "start": 3126.96
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3146.08,
+      "id": 25,
+      "original_description": "god",
+      "start": 3145.32
+    }
+  ],
+  "parent_series_id": "the_queen_s_gambit",
+  "platforms": {
+    "netflix": {
+      "id": "80243261",
+      "offset_seconds": 0,
+      "url": "https://www.netflix.com/title/80243261"
+    }
+  },
+  "season": 1,
+  "title": "The Queen's Gambit - S1E1",
+  "type": "episode"
+}
