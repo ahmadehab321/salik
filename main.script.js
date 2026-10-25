@@ -1,41 +1,48 @@
-// main.script_2.js - Nazafa Passive Executor
 console.log("💪 Nazafa Engine: Main Executor Ready.");
 
-let isSystemMute = false; // متغير جديد لمنع تضارب الكتم
+let isSystemMute = false;
 
-// 🔤 توجل تشفير/تنقية الترجمة النصية (Smart Subtitle Censor) — هذا الملف MAIN world (مفيهوش
-// وصول مباشر لـ chrome.storage)، فبيستقبل القيمة عن طريق postMessage من isolated.script.js
-// (راجع broadcastSubtitleCensorSetting هناك). افتراضياً true لحد ما يوصل تحديث فعلي.
 let nazafaSubtitleCensorEnabled = true;
-// 🆕 حالة توجل "إهانات بسيطة" (filterSettings.language.subs.insults، مدموجة مع توجل مجموعة
-// language الكبرى) — بتوصل برضه عن طريق نفس رسالة NAZAFA_SUBTITLE_CENSOR_SETTING من
-// isolated.script.js (راجع broadcastSubtitleCensorSetting هناك). افتراضياً true لحد ما يوصل تحديث فعلي.
 let nazafaInsultsEnabled = true;
+let nazafaYtAutoMuteEnabled = true;
 window.addEventListener("message", (event) => {
     if (!event.data || event.data.type !== "NAZAFA_SUBTITLE_CENSOR_SETTING") return;
     nazafaSubtitleCensorEnabled = !!event.data.enabled;
     if (event.data.insultsEnabled !== undefined) nazafaInsultsEnabled = !!event.data.insultsEnabled;
+    if (event.data.ytAutoMute !== undefined) nazafaYtAutoMuteEnabled = !!event.data.ytAutoMute;
 });
 
-// 🐞 إصلاح: بلاغ حقيقي من أبل تي في+ إن الصوت بيفضل مكتوم تماماً لحد ما المستخدم يفتحه يدوي،
-// حتى بعد ما الفلتر يخلص ويوصل أمر "unmute". السبب المرجّح: بعض المنصات (زي أبل تي في+، خصوصاً
-// حوالين شاشة الإيقاف المؤقت/"Continue Watching") بتغيّر video.muted من عندها هي كجزء من واجهتها
-// الداخلية (مش المستخدم فعلياً اللي بيدوس)، وده بيطلق حدث volumechange زي أي حدث حقيقي تماماً —
-// فمستمع volumechange بتاعنا (تحت) بيغلط ويسجّله كـ"كتم يدوي من المستخدم" (dataset.userMuted =
-// "true")، وبعدين لما "unmute" الحقيقي بتاع الفلتر يوصل، بيتوقف عمداً احتراماً لـ"رغبة المستخدم"
-// المزعومة دي — رغم إنها مش حقيقية أصلاً. الحل: بدل ما نعتمد بس على dataset.userMuted (مش موثوق
-// 100%)، بنتتبّع بأنفسنا هل *إحنا* اللي كتمنا الصوت أصلاً (nazafaMuteOwner) — لو إحنا الملاك،
-// أي أمر unmute بتاعنا بيفتح الصوت فوراً بلا شرط (مفيش داعي نحترم علم ممكن يكون غلط)، ولو مش
-// إحنا (يعني مستخدم كتم من عنده من غير ما فلتر يشتغل)، نفضل نحترم dataset.userMuted زي الأول.
 let nazafaMuteOwner = false;
+let nazafaYtTimedHolding = false;
 
-// ==========================================
-// 🎬 ديزني+: تحديد موضع التشغيل الحقيقي (playhead) بعد استئناف الفيديو
-// المصدر: رد الـ playback API (disney.playback.edge.bamgrid.com/v7/playback/ctr-regular) فيه
-// playhead.position بالثواني — موضع الاستئناف الحقيقي. بيتصدّق مرة واحدة بس لكل تحميل صفحة
-// (أي رد تاني لنفس الـ endpoint بيرجّع نفس القيمة القديمة كـ echo ثابت، مش قيمة حية). بعد كده
-// isolated.script.js بيكمّل الحساب بالاستقراء من فرق video.currentTime.
-// ==========================================
+let nazafaLastPlayingAt = 0;
+let nazafaPointerDown = false;
+let nazafaPointerUpAt = 0;
+if (window.location.hostname.includes("disneyplus.com")) {
+    setInterval(() => {
+        try { const v = getActiveVideoElement(); if (v && !v.paused) nazafaLastPlayingAt = Date.now(); } catch (e) {}
+    }, 250);
+    const down = () => { nazafaPointerDown = true; };
+    const up = () => { nazafaPointerDown = false; nazafaPointerUpAt = Date.now(); };
+    ["pointerdown", "touchstart", "mousedown"].forEach((t) => window.addEventListener(t, down, true));
+    ["pointerup", "pointercancel", "touchend", "touchcancel", "mouseup"].forEach((t) => window.addEventListener(t, up, true));
+}
+function nazafaDisneyResumeIfNeeded(dPlayer, video, wasPlaying) {
+    if (!wasPlaying) return;
+    let checks = 0;
+    const timer = setInterval(() => {
+        checks++;
+        if (nazafaPointerDown && checks < 100) return;
+        if (Date.now() - nazafaPointerUpAt < 600 && checks < 100) return;
+        clearInterval(timer);
+        const v = getActiveVideoElement() || video;
+        if (v && v.paused) {
+            try { if (dPlayer && dPlayer.mediaPlayer && typeof dPlayer.mediaPlayer.play === "function") dPlayer.mediaPlayer.play(); else v.play().catch(() => {}); }
+            catch (e) { try { v.play().catch(() => {}); } catch (e2) {} }
+        }
+    }, 100);
+}
+
 const nazafaIsDisney = window.location.hostname.includes("disneyplus.com");
 
 const NAZAFA_DISNEY_API_HOST_RE = /(^|\.)(bamgrid\.com|dssott\.com|disneyplus\.com|disney-plus\.net|bam-sdk\.com|bamtech\.co)$/i;
@@ -74,15 +81,6 @@ function nazafaLogDisneySessionResponse(urlStr, bodyText) {
     nazafaExtractDisneyPlaybackApiPlayhead(urlStr, bodyText);
 }
 
-// ==========================================
-// 🎯 ديزني+: مصدر أدق وحيّ 100% للموضع الحقيقي (اكتشفناه بفحص العنصر المخصص
-// <disney-web-player>، اللي بيكشف property اسمها stateStore — نظام إدارة حالة شبيه بـ Redux
-// شايل حالة المشغل بالكامل). المسار player.core.timeline.timeline.playheadPositionMs بيدّي
-// الموضع الحقيقي بالملي ثانية، وبيتحدّث حيّ عن طريق subscribe() على أي تغيير — بما فيه الـ seek
-// اليدوي من شريط تقدّم ديزني نفسه (اتأكد عملياً: القيمة بتتغيّر فورًا لحظة السحب، بعكس كل
-// الطرق التانية اللي جُرّبت قبل كده — راجع DISNEY_PLUS_SEEK_TRACKING_PROBLEM.md للسياق الكامل).
-// ده بيلغي الحاجة لكل الاستقراء المعقّد من فرق video.currentTime اللي كان مستخدم قبل كده.
-// ==========================================
 let nazafaDisneyStoreSubscribed = false;
 function nazafaTryAttachDisneyStore() {
     if (!nazafaIsDisney) return;
@@ -114,18 +112,6 @@ if (nazafaIsDisney) {
     }, 500);
 }
 
-// ==========================================
-// 🎯 برايم فيديو: نفس مشكلة ديزني+ بالظبط لكن من زاوية تانية — رابط صفحة المسلسل (/detail/{id}
-// أو /title/{id}) ثابت تمامًا بين كل حلقات نفس الموسم (اتأكد عملياً: نفس الـ URL بالحرف لحلقة 1
-// وحلقة 2)، فمحرك الفلترة (isolated.script.js عبر getMovieId()) كان عمره ما يقدر يميّز إنه
-// بصدد حلقة مختلفة، ويفضل شغال بفلاتر الحلقة الأولى (أو من غير فلاتر خالص) مهما بدّلت الحلقة.
-// 🎯 الحل (اتأكد بتحليل حقيقي لملف HAR اتصوّر وقت التنقل بين حلقتين): أمازون بيبعت طلب
-// GetVodPlaybackResources (على atv-ps*.primevideo.com) مرة واحدة بالظبط في بداية كل جلسة
-// تشغيل، ومعاه query parameter اسمه titleId بقيمة GTI مميزة فعليًا لكل حلقة على حدة (مختلفة
-// تمامًا عن الـ GTI الظاهر في رابط صفحة التفاصيل نفسها) — نفس نمط "مصدر حقيقي واحد بيتصدّق
-// مرة واحدة لكل جلسة" اللي استخدمناه مع ديزني+، بس هنا القيمة موجودة في الـ URL مباشرة (query
-// param)، مفيش داعي حتى نقرا جسم الرد.
-// ==========================================
 const nazafaIsAmazon = /(^|\.)(primevideo\.com|amazon\.[a-z.]+)$/i.test(window.location.hostname);
 const NAZAFA_AMAZON_PLAYBACK_RESOURCES_RE = /\/playback\/prs\/GetVodPlaybackResources/i;
 function nazafaExtractAmazonLiveEpisodeId(urlStr) {
@@ -140,17 +126,6 @@ function nazafaExtractAmazonLiveEpisodeId(urlStr) {
     } catch (e) {}
 }
 
-// ==========================================
-// 🎯 آبل تي في+: نفس مشكلة برايم فيديو بالظبط — رابط الصفحة فيه معرّف المسلسل نفسه بس
-// (umc.cmc.xxxxx بتاع العرض)، وده ثابت مهما بدّلنا حلقة (اتأكد بمقارنة روابط حلقة 1 وحلقة 2
-// فعلياً: نفس الرابط بالظبط). اتلقط المعرّف الحقيقي للحلقة الشغالة عن طريق تحليل HAR لجلستين
-// فعليتين (حلقة 1 وحلقة 2) ومقارنتهم: طلب GET بيتبعت لكل حلقة على حدة لـ
-// /api/uts/v3/contents/play-metadata/vod?...&externalId=VSEVR0560101&... (حلقة 1) مقابل
-// &externalId=VSEVR0560102&... (حلقة 2) — externalId ده رقم حلقة صريح وواضح ومختلف فعلياً لكل
-// حلقة، ده غير umc.cmc الظاهر في نفس الرابط كمان (umc.cmc.s80mx1ic96pu6ewupz8pfasf لحلقة 1 مقابل
-// umc.cmc.23qox5n6larygqgg6u74fvyj لحلقة 2 — معرّف محتوى تاني خاص بالحلقة نفسها، مختلف عن
-// umc.cmc بتاع المسلسل العام الظاهر في رابط الصفحة). بنستخدم externalId لأنه أبسط وأوضح.
-// ==========================================
 const nazafaIsAppleTV = /(^|\.)tv\.apple\.com$/i.test(window.location.hostname);
 const NAZAFA_APPLETV_PLAYMETADATA_RE = /\/api\/uts\/v3\/contents\/play-metadata\/vod/i;
 function nazafaExtractAppleTVLiveEpisodeId(urlStr) {
@@ -165,18 +140,6 @@ function nazafaExtractAppleTVLiveEpisodeId(urlStr) {
     } catch (e) {}
 }
 
-// ==========================================
-// 🐞 إصلاح حرج: كان محرك الرقابة (القائمة السوداء + الريجكس) موجود في ملف منفصل
-// (subtitle-censor-core.js) بيتحمّل هنا في الـ MAIN world قبل main.script.js، عشان ميتكررش
-// مع نسخة الـ ISOLATED world. لكن ثبت عملياً (بلاغ حقيقي: "window.NazafaCensor مش موجود" في
-// كل محاولة اعتراض على ديزني+) إن الاعتماد على ترتيب تحميل ملفين منفصلين في الـ MAIN world —
-// خصوصاً مع "all_frames: true" ووجود إطارات (iframes) بتتحمّل بتوقيتات مختلفة — مش موثوق
-// 100%: main.script.js بيشتغل صح، بس window.NazafaCensor مش لاقيه جاهز وقت أول طلب ترجمة.
-// الحل: المحرك بقى جوّه main.script.js نفسه (نسخة محلية، من غير أي اعتماد على ملف تاني)،
-// فمفيش أي احتمال توقيت خالص — أول ما main.script.js يشتغل، المحرك يبقى جاهز فوراً معاه في
-// نفس السطر. ده بيكرر القائمة السوداء مع subtitle-censor-core.js (لسه مستخدَم في الـ ISOLATED
-// world بس مع subtitles.script.js)، فأي كلمة جديدة لازم تتضاف في المكانين مع بعض.
-// ==========================================
 const NazafaCensorCore = (function () {
     "use strict";
 
@@ -201,9 +164,7 @@ const NazafaCensorCore = (function () {
 
     const NAZAFA_SUBTITLE_BLACKLIST = {
         explicit: [
-            // 🆕 مزامنة من subtitle-censor-core.js (كلمات كانت موجودة هناك بس)
             "الاستمناء", "استمنى", "لاعق القضبان", "زير النساء", "خصية", "تعري", "ضاجعت", "داعر", "الداعر", "نهود", "شاذ", "الشاذ",
-            // 🆕 اغتصاب (بطلب المستخدم: في التصنيفين explicit + profanity)
             "اغتصب", "اغتصبت", "اغتصبوا", "اغتصبو", "يغتصب", "تغتصب", "نغتصب", "اغتصاب", "مغتصب", "مغتصبة", "مغتصبين", "مغتصبون", "rape", "raped", "raping", "rapist", "rapists",
             "نيك", "ينيك", "متناك", "منيوك", "كس", "طيز", "زب", "عارية",
             "عاهره", "قحبه", "شرموطه", "لحس", "جماع", "مؤخرات", "مؤخرة", "مثيرة","سافلة","زير نساء","تنام مع","السفلة","عاشر","يعاشر","تعاشر","مثيرات","جذّابة","فاتنة","عشيقة",
@@ -226,11 +187,8 @@ const NazafaCensorCore = (function () {
             "masturbate", "jackoff", "jerkoff", "fellatio", "cunnilingus", "muff", "مزز", "مزة"
         ],
         profanity: [
-            // 🆕 شتائم/دعاء مأخوذة من قائمة "شتائم" في فلاتر المشاهد
             "بن الجزمة", "ابن الجزمة", "يخربيت امك", "يا نهار اسود", "يانهار اسود", "نهارك اسود", "يا نهارك اسود", "يا نهار ازرق", "motherfucher",
-            // 🆕 مزامنة من subtitle-censor-core.js (كلمات كانت موجودة هناك بس)
             "الخراء", "خراء", "وغدا", "متعاليا",
-            // 🆕 اغتصاب (بطلب المستخدم: في التصنيفين explicit + profanity)
             "اغتصب", "اغتصبت", "اغتصبوا", "اغتصبو", "يغتصب", "تغتصب", "نغتصب", "اغتصاب", "مغتصب", "مغتصبة", "مغتصبين", "مغتصبون", "rape", "raped", "raping", "rapist", "rapists",
             "ابن الكلب", "يا كلب", "حقير", "وسخ", "خول",
             "ابن الحرام", "يلعن", "لعنه الله", "جعة", "مضاجعة", "الجعة", "لعينة","يلعن","ينعل","الوساخة",
@@ -289,11 +247,7 @@ const NazafaCensorCore = (function () {
             "أودين", "لوكي", "فريا", "بالدر",
             "اللات", "العزى", "مناة", "هبل"
         ],
-        // 🆕 بكت "الإهانات البسيطة" منفصل عن profanity — نفس التعديل بالظبط في subtitle-censor-core.js
-        // (راجع التعليق هناك). لازم يتحدّث هنا كمان كل ما يتحدّث هناك، لأن main.script.js عنده
-        // نسخته الخاصة من القائمة (MAIN world معزول تماماً عن الملف المشترك).
         insults: [
-            // 🆕 إهانات مأخوذة من قائمة "إهانات بسيطة" في فلاتر المشاهد
             "ابن المجنونة", "ابن الصرمة", "ابن الشمامة", "واطي", "واطية", "نجس", "scum",
             "idiot", "stupid", "moron", "idiots", "idiotic", "stupidity", "morons", "moronic",
             "dumb", "dumber", "dumbest", "dummy", "dummies", "retard", "retarded", "imbecile",
@@ -304,7 +258,6 @@ const NazafaCensorCore = (function () {
             "غبيا", "ساذج", "ساذجة"
         ],
         substance: [
-            // 🆕 مزامنة من subtitle-censor-core.js (كلمات كانت موجودة هناك بس)
             "سجائر",
             "مخدرات", "المخدرات", "حشيش", "الحشيش", "كوكايين", "هيروين", "حبوب مخدره","الخمور","المنشطات","شامبانيا",
             "مسكرات", "خمر", "كحول", "بيره", "سكران", "ثمل", "نخب", "مخدر", "نشوة", "جرعة زايده",
@@ -316,7 +269,6 @@ const NazafaCensorCore = (function () {
             "cigarette", "cigarettes", "cigs", "narcotic", "stoned", "junkie", "addict", "addicts",
             "خمور", "طرشة", "مسطول", "مسطولة", "مبرشم", "مبرشمة",
             "شمبانيا", "براندي", "كونياك", "موهيتو", "مارتيني", "بوربون", "ليكيور", "سيدر", "مشروب روحي",
-            // -- أسماء مخدرات إضافية بالعربي (بطلب المستخدم) --
             "مارجوانا", "ماريغوانا", "افيون", "اكستاسي", "امفيتامين", "ميثامفيتامين",
             "كريستال ميث", "شبو", "قنب"
         ]
@@ -329,8 +281,6 @@ const NazafaCensorCore = (function () {
     const WORD_BOUNDARY_BEFORE = "(?<![\\p{L}\\p{N}])";
     const WORD_BOUNDARY_AFTER = "(?![\\p{L}\\p{N}])";
 
-    // 🐞 إصلاح: "مخنّثًا" (تنوين فتح) مكانتش بتتمسك — شوف نفس التعليق في subtitle-censor-core.js.
-    // لازم يتحدّث في المكانين مع بعض.
     const ARABIC_ATTACHED_SUFFIXES =
         "(?:كما|هما|كم|كن|هم|هن|ني|ها|نا|تها|تهم|تكم|تنا|تي|تك|ية|ات|ون|ين|ان|ة|ك|ه|ي|ا)?";
     const ARABIC_ATTACHED_PREFIX_FULL = "(?:[وفبلك])?(?:ال)?";
@@ -351,25 +301,16 @@ const NazafaCensorCore = (function () {
 
     const ARABIC_ATTACHED_SUFFIXES_MANDATORY = ARABIC_ATTACHED_SUFFIXES.replace(/\?$/, "");
 
-    const NO_SUFFIX_TERMS = new Set(["جماع", "نخب", "تيس"].map(normalizeArabicTerm)) // "تيس": من غير لواحق، عشان اسم "تيسا" (Tessa) ميتشفّرش;
+    const NO_SUFFIX_TERMS = new Set(["جماع", "نخب", "تيس"].map(normalizeArabicTerm))
     const NOT_BEFORE_LAM_TERMS = new Set(["مثيرة"].map(normalizeArabicTerm));
     const NOT_BEFORE_LAM_LOOKAHEAD = "(?!\\s*ل[\\p{L}])";
     const NOT_AFTER_AL_TERMS = new Set(["عاشر"].map(normalizeArabicTerm));
-    // 🆕 "جنسي/جنسية": نفس كلمة "الجنسية" بمعنى الهوية (nationality) — "الجنسية المصرية"، "جنسيتي"،
-    // "ما جنسيتك" — لازم تتساب. فبنمنع المطابقة لو جاية بـ "ال" التعريف (الاستخدام الشائع للهوية)،
-    // ومنسمحش بلواحق الضمير (تي/تك/ته... اللي بتعمل "جنسيتي") وبنسيب اللواحق النحوية بس. المعنى
-    // الجنسي مع "ال" بيتغطى بعبارات صريحة في القائمة (العلاقة الجنسية، المشاهد الجنسية...).
     const NOT_AFTER_AL_STRICT_TERMS = new Set(["جنسي", "جنسية"].map(normalizeArabicTerm));
     const NOT_AFTER_AL_STRICT_SUFFIXES = "(?:ات|ين|ون|ان|ا|ه|ة)?";
-    const REQUIRE_YA_TERMS = new Set(["أثينا", "نبتون", "حيوان", "كلب", "كلاب"].map(normalizeArabicTerm)) // 🆕 حيوان/كلب/كلاب: شتيمة بس لو جاية بعد "يا" — "حيوان الغابة"/"كلب جيد" بتتساب;
+    const REQUIRE_YA_TERMS = new Set(["أثينا", "نبتون", "حيوان", "كلب", "كلاب"].map(normalizeArabicTerm))
     const REQUIRE_YA_LOOKBEHIND = "(?<=يا\\s)";
-    // 🐞 إصلاح: "أريس"/"آريس" بيتصادم مع "باريس" (عاصمة فرنسا) لأن "ب" حرف ملتصق مسموح —
-    // شوف نفس التعليق في subtitle-censor-core.js. لازم يتحدّث في المكانين مع بعض.
     const NO_PREFIX_TERMS = new Set(["اريس"].map(normalizeArabicTerm));
 
-    // 🐞 إصلاح: "بيره" بتتصادم مع حرف "ك" الملتصق ("ك"+"بيره"="كبيره"= شكل "كبيرة" بعد
-    // التطبيع، كلمة شائعة جداً) — شوف نفس التعليق في subtitle-censor-core.js. لازم يتحدّث
-    // في المكانين مع بعض.
     const ARABIC_ATTACHED_PREFIX_NO_KAF = "(?:[وفبل])?(?:ال)?";
     const NOT_WITH_KAF_TERMS = new Set(["بيره"].map(normalizeArabicTerm));
 
@@ -428,48 +369,32 @@ const NazafaCensorCore = (function () {
     });
 
     function isCategoryEnabled(category) {
-        // 🎯 main.script.js (MAIN world) معندوش وصول لـ userSettings بتاعة isolated.script.js
-        // (world تاني تماماً)، فبنرجع true دايماً هنا — يعني تنقية VTT شغالة دايماً بغض النظر
-        // عن تبديلات المستخدم، على عكس النسخة التانية في subtitle-censor-core.js. ده تصرف
-        // مقصود ومقبول هنا (أفضل نكتم زيادة من نسيب لفظ يعدي)، مش باگ.
-        // 🆕 استثناء واحد بس: "إهانات بسيطة" (insults) — ده التصنيف الوحيد اللي عنده توجل
-        // مخصص في الإعدادات ومطلوب يتقفل فعلاً لما المستخدم يقفله، فبنقرا nazafaInsultsEnabled
-        // (بتوصل من isolated.script.js عن طريق postMessage، راجع أعلى الملف).
         if (category === "insults") return nazafaInsultsEnabled !== false;
         return true;
     }
 
-    // 🆕 استثناءات: عبارات بتحتوي كلمة ممنوعة لكن معناها وصف عادي مش شتيمة (زي "كلب جيد"/"كلب صالح"
-    // = كلب عادي موصوف بصفة حسنة). لو تطابق ممنوع وقع جوه نطاق عبارة مستثناة، بنتجاهله. الصفات
-    // تتوسّع بسهولة: ضيف صفة جديدة لـ EXCEPTION_DOG_ADJECTIVES وتتغطى بكل صيغ "كلب/كلاب" تلقائياً.
     const EXCEPTION_DOG_ADJECTIVES = ["جيد", "صالح", "وفي", "لطيف", "اليف", "مطيع"].map(normalizeArabicTerm);
     const EXCEPTION_REGEX = new RegExp(
         `(?<![\\p{L}\\p{N}])(?:[وفبلك])?(?:ال)?(?:كلب|كلاب)(?:ه|ها|ي|ك|نا|هم)?\\s+(?:ال)?(?:${EXCEPTION_DOG_ADJECTIVES.join("|")})(?:ه|ة|ان|ين|ون|ات)?(?![\\p{L}\\p{N}])`,
         "gu"
     );
-    // 🆕 استثناء "مغتصب" بمعنى مسلوب/محتل (الأراضي المغتصبة، الحقوق المغتصبة) — مش اغتصاب جنسي
     const EXCEPTION_USURPED_NOUNS = ["اراضي", "ارض", "حقوق", "حق", "اموال", "ممتلكات", "املاك", "اوطان", "وطن", "بلاد", "ديار", "بيوت", "فلسطين", "قدس"].map(normalizeArabicTerm);
     const EXCEPTION_USURPED_REGEX = new RegExp(
         `(?<![\\p{L}\\p{N}])(?:[وفبلك])?(?:ال)?(?:${EXCEPTION_USURPED_NOUNS.join("|")})(?:ه|ها|هم|نا|ي)?\\s+(?:ال)?مغتصب(?:ه|ين|ون|ات)?(?![\\p{L}\\p{N}])`,
         "gu"
     );
-    // 🆕 يوتيوب فقط: عبارات دينية (أحاديث/آيات) بتحتوي كلمات ممنوعة بس هي اقتباس مش لفظ خارج —
-    // زي "كاسيات عاريات" (حديث). لو تطابق ممنوع وقع جوه العبارة دي على يوتيوب بنتجاهله. ضيف أي
-    // عبارة جديدة في القائمة (الكلمات بتتطبّع تلقائي: همزات/تاء مربوطة/تشكيل).
     const NAZAFA_IS_YOUTUBE_HOST = /(^|\.)youtube\.com$/i.test((typeof location !== "undefined" && location.hostname) || "");
     const EXCEPTION_RELIGIOUS_PHRASES = [
         "كاسيات عاريات", "كاسيات عاريات مميلات مائلات",
         "لعن الله", "لعن الله الخمر",
         "الخمر والميسر",
         "لا تقربوا الزنا", "ولا تقربوا الزنا"
-    ].sort((x, y) => y.length - x.length) // الأطول الأول عشان العبارة الكاملة تتمسك قبل جزئها
+    ].sort((x, y) => y.length - x.length)
       .map((p) => normalizeArabicTerm(p).split(/\s+/).map(escapeRegex).join("\\s+"));
     const EXCEPTION_RELIGIOUS_REGEX = new RegExp(
         `(?<![\\p{L}\\p{N}])(?:[وفبلك])?(?:${EXCEPTION_RELIGIOUS_PHRASES.join("|")})(?![\\p{L}\\p{N}])`,
         "gu"
     );
-    // 🆕 استثناء "قضيب" بمعنى قضيب معدني/خشبي (قضيب معدني، قضيب من حديد، قضيب ستارة، قضيب السكة...) —
-    // مش العضو. القضيب وحدها (أو بأي سياق تاني) لسه بتتشفّر. ضيف كلمة جديدة لـ EXCEPTION_ROD_WORDS.
     const EXCEPTION_ROD_WORDS = ["معدني", "معدنية", "معدن", "حديد", "حديدي", "حديدية", "فولاذ", "فولاذي", "خشبي", "خشب", "نحاسي", "نحاس", "المنيوم", "ستارة", "ستائر", "الستارة", "الستائر", "السكة", "سكة", "القطار", "مقوى", "مقوي", "رفيع", "طويل", "اسمنت", "خرسانة", "وقود", "الوقود", "تحكم", "التحكم", "نووي", "النووي"].map(normalizeArabicTerm);
     const EXCEPTION_ROD_REGEX = new RegExp(
         `(?<![\\p{L}\\p{N}])(?:[وفبلك])?(?:ال)?قضيب(?:ه)?\\s+(?:من\\s+)?(?:ال)?(?:${EXCEPTION_ROD_WORDS.join("|")})(?![\\p{L}\\p{N}])`,
@@ -510,7 +435,7 @@ const NazafaCensorCore = (function () {
                 if (match[0].length === 0) { re.lastIndex++; continue; }
                 const normStart = match.index;
                 const normEnd = normStart + match[0].length;
-                if (exRanges.length && insideException(exRanges, normStart, normEnd)) continue; // عبارة مستثناة (زي "كلب جيد")
+                if (exRanges.length && insideException(exRanges, normStart, normEnd)) continue;
                 const origStart = map[normStart];
                 const origEnd = normEnd < map.length ? map[normEnd] : (map[map.length - 1] + 1);
                 ranges.push([origStart, origEnd]);
@@ -542,44 +467,18 @@ const NazafaCensorCore = (function () {
     return { censorText, normalizeText, normalizeArabicTerm };
 })();
 
-// ==========================================
-// 🔇 رقابة ملفات الترجمة الشبكية (WebVTT) — شغّالة على كل المنصات
-// 🎯 اتأكد بالتشخيص المباشر (ديزني+ وأبل تي في+ كمان) إن الترجمة مش بترندر كنص DOM عادي
-// (اللي MutationObserver في subtitles.script.js بيراقبه)، ولا هي native <track> جوه UA shadow
-// root — هي ملف .vtt عادي بيتجاب بطلب XHR/fetch منفصل (زي .../SUBTITLE_1_WEBVTT/.../pts_XXXX.vtt)
-// ومحتواه نص WebVTT خام واضح بالكامل. يبقى الحل الصحيح: اعتراض الرد هنا (MAIN world، نفس مكان
-// اعتراض تليمتري ديزني)، وإعادة كتابة سطور الحوار جوّاه (مش سطور التوقيت/الهيدر) باستخدام نفس
-// محرك الرقابة المحلي (NazafaCensorCore، معرّف فوق مباشرة في نفس الملف) قبل ما نرجّع الرد
-// للمشغّل — فالمشغّل بيقرأ وبيعرض النسخة المتفلترة من الأساس، مهما كانت طريقة رندره الداخلية.
-// ==========================================
-// 🐞 إصلاح حرج (اكتشفناه أثناء تشخيص اختفاء الترجمة بالكامل على برايم فيديو): كنا بنفحص
-// الكلمات العامة (subtitle/caption/...) على الـ URL الكامل بما فيه الـ query string. طلب
-// برايم فيديو الحقيقي لموارد المشغّل (playerChromeResources) بيحتوي على باراميتر زي
-// "desiredResources=regulatoryOverlayV2,subtitlePresets,reaction,..." — ده مش ملف ترجمة
-// خالص (JSON فيه إعدادات تنسيق الترجمة، مش نص WebVTT)، لكن الكلمة "subtitlePresets" جوه
-// الـ query كانت بتخلي الفحص العام يمسكه غلط ويعتبره ملف .vtt، فـ censorVttPayload() كانت
-// بتشوّه الـ JSON ده (بتتعامل معاه كأنه أسطر WebVTT). النتيجة: برايم فيديو بيستقبل رد تالف
-// لموارد أساسية لازمة لتهيئة عرض الترجمة، فبيفشل يعرضها خالص من غير أي خطأ ظاهر. الحل: الفحص
-// العام (الكلمات بس، مش الامتداد) بقى بيتفحص على الـ pathname بس (من غير الـ query string)،
-// لأن ملفات الترجمة الحقيقية بتدّي اسمها في المسار نفسه، مش في باراميتر جوه طلب API تاني.
 const looksLikeSubtitleUrl = (url) => {
     if (/\.(vtt|ttml|dfxp|srt|xml)(\?|$)/i.test(url)) return true;
     let pathOnly = url;
     try {
         pathOnly = new URL(url, location.href).pathname;
     } catch (e) {
-        pathOnly = String(url).split(/[?#]/)[0]; // احتياطي لو الـ URL مش صالح لسبب ما
+        pathOnly = String(url).split(/[?#]/)[0];
     }
-    // 🐞 إصلاح حرج (اتكشف على شاهد): الترجمة عندهم بتيجي كمقاطع فيديو MP4 مقسّمة (fMP4) بأسماء زي
-    // index_subtitles_25_0_5.mp4 — كلمة "subtitles" في المسار كانت بتخليها تتصنّف ملف ترجمة نصي،
-    // فكنا بنفك الـ binary كنص UTF-8 وننقّيه ونرجّعه binary تاني، وده بيبوّظ الملف (أحجام الـ boxes
-    // بتتغيّر)، فمشغّل شاهد بيحجز ذاكرة بلا حدود لحد ما الصفحة تقع (V8 OOM). أي مقطع ميديا أو
-    // playlist بنستبعده تماماً — دي مش ملفات نصية أصلاً.
     if (/\.(mp4|m4s|m4v|m4a|m4f|cmft|cmfv|cmfa|ts|aac|mpd|m3u8|f4m|ism|isml)$/i.test(pathOnly)) return false;
     return /subtitle|caption|sidecar|webvtt|timedtext/i.test(pathOnly);
 };
 
-// 🐞 شبكة أمان تانية: ملف "ترجمة" فيه بايت NUL في أوله = binary (مش نص) — منلمسوش خالص
 const nazafaLooksBinary = (buf) => {
     try {
         const bytes = new Uint8Array(buf, 0, Math.min(buf.byteLength, 512));
@@ -588,14 +487,12 @@ const nazafaLooksBinary = (buf) => {
     return false;
 };
 
-// بيفحص سطر واحد من ملف VTT ويقرر هل هو سطر حوار فعلي (يتفحص/يتفلتر) ولا سطر بنية
-// (هيدر/توقيت/معرّف جملة/CSS جوه STYLE) لازم يفضل زي ما هو من غير أي لمس.
 function censorVttPayload(vttText, sourceLabel) {
     if (!vttText || typeof vttText !== "string") return vttText;
-    if (!nazafaSubtitleCensorEnabled) return vttText; // المستخدم قافل الميزة دي من الـ popup
+    if (!nazafaSubtitleCensorEnabled) return vttText;
     try {
         const lines = vttText.split(/\r\n|\n|\r/);
-        let inNonTextBlock = false; // جوه بلوك STYLE/REGION/NOTE (مش سطور حوار خالص)
+        let inNonTextBlock = false;
         let changedCount = 0;
         let dialogueLineCount = 0;
         const out = lines.map((line) => {
@@ -604,9 +501,9 @@ function censorVttPayload(vttText, sourceLabel) {
             if (/^WEBVTT/i.test(trimmed)) return line;
             if (/^(STYLE|REGION|NOTE)\b/i.test(trimmed)) { inNonTextBlock = true; return line; }
             if (inNonTextBlock) return line;
-            if (trimmed.includes("-->")) return line; // سطر توقيت الجملة
-            if (/^\d+$/.test(trimmed)) return line;   // معرّف رقمي للجملة
-            if (/^[0-9a-fA-F-]{8,}$/.test(trimmed)) return line; // معرّف نصي/uuid للجملة (بعض المنصات)
+            if (trimmed.includes("-->")) return line;
+            if (/^\d+$/.test(trimmed)) return line;
+            if (/^[0-9a-fA-F-]{8,}$/.test(trimmed)) return line;
 
             dialogueLineCount++;
             const censored = NazafaCensorCore.censorText(line);
@@ -660,11 +557,6 @@ if (typeof originalFetch === "function") {
     };
 }
 
-// ⚠️ responseText/response على XMLHttpRequest أصلاً getters على الـ prototype (مش خصائص
-// عادية)، فمينفعش نكتب فوقهم بعد الطلب. بنستبدل الـ getter نفسه مرة واحدة على مستوى الـ
-// prototype (مش لكل instance) عشان يشتغل مهما كان المشغّل بيسجّل مستمعيه (event listeners)
-// قبل أو بعد نداء .send() بتاعنا — ده بيضمن إن أي قراءة لاحقة لـ responseText/response
-// (من أي كود، في أي وقت) بترجع النسخة المتفلترة، من غير ما نعتمد على ترتيب الأحداث.
 const OriginalXHR = window.XMLHttpRequest;
 const originalOpen = OriginalXHR.prototype.open;
 const originalSend = OriginalXHR.prototype.send;
@@ -707,13 +599,8 @@ if (!window.__nazafaXhrResponsePatched) {
             return xhr.__nazafaCensoredCache;
         }
 
-        // 🐞 إصلاح: بلاغ حقيقي من أبل تي في+ — بيجيب ملف الترجمة كـ ArrayBuffer (responseType
-        // = "arraybuffer") مش نص مباشر (المشغّل بيفك ترميزه بنفسه بعدين)، فكان بيتصنّف "مش نص"
-        // ويتسيب من غير تنقية خالص. الحل: نفكه لنص بـ TextDecoder، ننقّيه بنفس المنطق العادي،
-        // ونرجّعه ArrayBuffer تاني (بـ TextEncoder) بنفس النوع اللي المشغّل متوقعه، عشان القراءة
-        // اللاحقة (فك الترميز الفعلي) تشتغل عادي على النسخة المنقّاة.
         if (rawValue instanceof ArrayBuffer) {
-            if (nazafaLooksBinary(rawValue)) return rawValue; // مقطع ميديا مش ملف نصي
+            if (nazafaLooksBinary(rawValue)) return rawValue;
             if (xhr.__nazafaCensoredSource !== rawValue) {
                 xhr.__nazafaCensoredSource = rawValue;
                 try {
@@ -730,9 +617,6 @@ if (!window.__nazafaXhrResponsePatched) {
             return xhr.__nazafaCensoredCache;
         }
 
-        // 🔍 تشخيص: لو النوع لسه مش نص ولا ArrayBuffer (زي Blob مثلاً)، مقدرش أعالجه هنا لأن
-        // قراءته async (وده getter لازم يكون متزامن) — بنسجّل النوع بالظبط عشان لو ده هو السبب
-        // الفعلي نعرف نتعامل معاه لاحقاً بطريقة مختلفة.
         if (!xhr.__nazafaLoggedNonString) {
             xhr.__nazafaLoggedNonString = true;
             const typeLabel = rawValue && rawValue.constructor ? rawValue.constructor.name : typeof rawValue;
@@ -763,25 +647,8 @@ if (!window.__nazafaXhrResponsePatched) {
     }
 }
 
-// ==========================================
-// 🌫️ طبقة نص توضيحي فوق الفيديو المغبّش (Blur Overlay)
-// تظهر فوق الفيديو مباشرة وتوضح للمشاهد سبب التغبيش (original_description من الفلتر)
-// ==========================================
-// 🐞 إصلاح حرج: لما المشغّل يبقى Fullscreen (عن طريق Fullscreen API)، المتصفح بيعرض بس العنصر
-// اللي طلب الـ fullscreen (document.fullscreenElement) وكل العناصر اللي جواه — أي عنصر تاني
-// (زي الـ overlay بتاعنا اللي كان دايماً بيتحط جوه document.body) بيختفي تماماً من العرض لو
-// مش جوّه شجرة العنصر ده، حتى لو position:fixed، لأنه خارج "الـ top layer" بتاع الـ fullscreen
-// خالص. بلاغ حقيقي: التغبيش الجزئي كان بيختفي تماماً في وضع ملء الشاشة. الحل: بدل ما نحط
-// الـ overlay في document.body دايماً، بنحطه جوه document.fullscreenElement لو موجود (وده هو
-// نفسه حاوية المشغّل اللي بتتطلب لها fullscreen عادةً، مش الـ <video> نفسه — المنصات الكبيرة
-// بتعمل fullscreen لحاوية فيها الفيديو + الكنترولز + الترجمة، مش للفيديو الخام). بنتأكد من
-// مكان الـ overlay (ونعيد نقله لو اتغيّر) في كل فريم عشان نتعامل مع الدخول/الخروج من ملء
-// الشاشة في أي وقت من غير ما نحتاج نسجّل مستمع "fullscreenchange" منفصل.
 function nazafaGetOverlayMountPoint(video) {
     const fsEl = document.fullscreenElement;
-    // لو الـ fullscreenElement هو الـ <video> نفسه (نادر، بعض المشغلات البسيطة)، مفيش طريقة
-    // موثوقة نحط overlay جواه (عناصر <video> مبترندرش أي DOM children عادية غير track/source)
-    // فبنرجع لـ document.body كحل احتياطي (هيختفي وقت الـ fullscreen، بس أهو أفضل من كراش)
     if (fsEl && fsEl !== video) return fsEl;
     return document.body;
 }
@@ -791,7 +658,7 @@ let blurOverlayRepositionId = null;
 
 function ensureBlurOverlay(mountPoint) {
     if (blurOverlayEl && blurOverlayEl.parentElement === mountPoint) return blurOverlayEl;
-    if (blurOverlayEl) blurOverlayEl.remove(); // كان متحط في مكان قديم (قبل/بعد تبديل fullscreen)، نشيله ونعيد إنشاءه
+    if (blurOverlayEl) blurOverlayEl.remove();
     blurOverlayEl = document.createElement("div");
     blurOverlayEl.id = "nazafa-blur-overlay";
     blurOverlayEl.style.cssText = `
@@ -812,8 +679,63 @@ function ensureBlurOverlay(mountPoint) {
         direction: rtl;
         box-sizing: border-box;
     `;
+    const desc = document.createElement("div");
+    desc.className = "nazafa-blur-desc";
+    const sub = document.createElement("div");
+    sub.className = "nazafa-blur-subtitle";
+    sub.setAttribute("dir", "auto");
+    sub.style.cssText = `
+        position: absolute; left: 5%; right: 5%; bottom: 8%;
+        text-align: center; font-size: clamp(16px, 2.6vw, 34px); font-weight: 600; line-height: 1.35;
+        color: #fff; text-shadow: 0 0 4px #000, 0 2px 3px #000; white-space: pre-line; display: none;
+    `;
+    blurOverlayEl.appendChild(desc);
+    blurOverlayEl.appendChild(sub);
     mountPoint.appendChild(blurOverlayEl);
     return blurOverlayEl;
+}
+
+function nazafaActiveSubtitleText(video) {
+    let text = "";
+    try {
+        const tracks = video.textTracks || [];
+        for (let i = 0; i < tracks.length && !text; i++) {
+            const t = tracks[i];
+            if (t.mode !== "showing" || !t.activeCues) continue;
+            const parts = [];
+            for (let j = 0; j < t.activeCues.length; j++) {
+                const c = t.activeCues[j];
+                if (c && typeof c.text === "string") parts.push(c.text.replace(/<[^>]+>/g, ""));
+            }
+            text = parts.join("\n").trim();
+        }
+    } catch (e) { /* تجاهل */ }
+    if (!text) {
+        try {
+            let best = null, bestArea = Infinity;
+            for (const el of nazafaQueryAllDeep(NAZAFA_SUBTITLE_CONTAINER_SELECTORS)) {
+                if (el.closest && (el.closest("#nazafa-blur-overlay") || el.closest("#nazafa-partial-blur-overlay"))) continue;
+                const r = el.getBoundingClientRect();
+                const tx = (el.innerText || el.textContent || "").trim();
+                if (r.width <= 0 || r.height <= 0 || !tx) continue;
+                if (r.width * r.height < bestArea) { bestArea = r.width * r.height; best = tx; }
+            }
+            if (best) text = best;
+        } catch (e) { /* تجاهل */ }
+    }
+    if (text && nazafaSubtitleCensorEnabled) {
+        try { text = NazafaCensorCore.censorText(text); } catch (e) { /* تجاهل */ }
+    }
+    return text;
+}
+
+function nazafaUpdateBlurSubtitle(video) {
+    if (!blurOverlayEl) return;
+    const sub = blurOverlayEl.querySelector(".nazafa-blur-subtitle");
+    if (!sub) return;
+    const text = nazafaActiveSubtitleText(video);
+    if (sub.textContent !== text) sub.textContent = text;
+    sub.style.display = text ? "block" : "none";
 }
 
 function positionBlurOverlay(video) {
@@ -827,18 +749,18 @@ function positionBlurOverlay(video) {
 
 function showBlurOverlay(video, description) {
     const overlay = ensureBlurOverlay(nazafaGetOverlayMountPoint(video));
-    overlay.textContent = description || "محتوى غير مناسب";
+    overlay.querySelector(".nazafa-blur-desc").textContent = description || "محتوى غير مناسب";
     positionBlurOverlay(video);
+    nazafaUpdateBlurSubtitle(video);
 
-    // إعادة حساب الموضع باستمرار (تعامل مع تغيير حجم النافذة/تبديل ملء الشاشة)، وكمان بنتأكد
-    // من مكان الـ overlay نفسه كل فريم عشان نلحق أي دخول/خروج من fullscreen فوراً
     if (blurOverlayRepositionId) cancelAnimationFrame(blurOverlayRepositionId);
     const loop = () => {
         if (!blurOverlayEl) return;
-        const desc = blurOverlayEl.textContent;
+        const desc = blurOverlayEl.querySelector(".nazafa-blur-desc").textContent;
         ensureBlurOverlay(nazafaGetOverlayMountPoint(video));
-        blurOverlayEl.textContent = desc;
+        blurOverlayEl.querySelector(".nazafa-blur-desc").textContent = desc;
         positionBlurOverlay(video);
+        nazafaUpdateBlurSubtitle(video);
         blurOverlayRepositionId = requestAnimationFrame(loop);
     };
     blurOverlayRepositionId = requestAnimationFrame(loop);
@@ -855,31 +777,10 @@ function hideBlurOverlay() {
     }
 }
 
-// ==========================================
-// 🆕 🌫️ تغبيش جزئي (Partial Blur) — بيغبش صندوق صغير بس من الفيديو (زي سيجارة في إيد حد) بدل
-// ما يغبش الشاشة كلها. الحيلة: video.style.filter="blur()" بيأثر على العنصر كله، فمينفعش
-// نستخدمه لجزء بس. الحل: div شفاف موضوع بالظبط فوق مكان الصندوق بـ backdrop-filter: blur() —
-// ده بيغبش أي حاجة *ورا* الـ div (يعني جزء الفيديو تحته بالظبط) من غير ما يلمس باقي الفيديو.
-// الإحداثيات (region.x/y/width/height) نسبية من 0 لـ 1 بالنسبة لأبعاد عنصر الفيديو المعروض
-// فعلياً (getBoundingClientRect())، مش دقة الفيديو الأصلية — فتفضل صح مهما اتغيّر حجم النافذة.
-// ==========================================
 let partialBlurEl = null;
 let partialBlurRepositionId = null;
 let partialBlurRegion = null;
 
-// 🐞 إصلاح حرج #1 (اختفاء كامل في fullscreen): نفس مشكلة nazafaGetOverlayMountPoint فوق
-// بالظبط — كان بيتحط جوه document.body دايماً، فبيختفي تماماً وقت ملء الشاشة لأنه بره شجرة
-// document.fullscreenElement. الحل: نحطه جوه fullscreenElement لو موجود، ونتأكد من مكانه كل
-// فريم زي ما بنعمل مع overlay التغبيش الكامل بالظبط.
-//
-// 🐞 إصلاح حرج #2 (بيغطي الترجمة أحياناً): z-index كان 2147483646 (قريب من أقصى قيمة ممكنة)،
-// يعني كان بيترسم فوق أي حاجة تانية في الصفحة تقريباً، بما فيها طبقة الترجمة النصية الأصلية
-// بتاعة المنصة نفسها (اللي بتستخدم عادةً z-index أقل بكتير، في حدود عشرات لحد مئات). لو
-// إحداثيات صندوق التغبيش الجزئي حصل تطابق بصري مع مكان الترجمة على الشاشة (حتى لو مش مقصود،
-// زي سطر ترجمة بطولين بدل سطر واحد)، كان بيغطّيها تماماً. الحل: نزّلنا الـ z-index لقيمة
-// معتدلة (50) — لسه فوق الفيديو الخام (z-index: auto) وفوق خلفية المشغّل، بس تحت أي طبقة
-// ترجمة حقيقية بتستخدم z-index واضح زي العادة، فالترجمة هتفضل ظاهرة فوق التغبيش الجزئي حتى
-// لو حصل تداخل بصري في المكان.
 function ensurePartialBlurOverlay(mountPoint) {
     if (partialBlurEl && partialBlurEl.parentElement === mountPoint) return partialBlurEl;
     if (partialBlurEl) partialBlurEl.remove();
@@ -899,32 +800,14 @@ function ensurePartialBlurOverlay(mountPoint) {
     return partialBlurEl;
 }
 
-// 🐞 إصلاح حرج #2 (تكملة): رفع/تخفيض z-index وحده ثبت إنه مش كافي عملياً — طبقة الترجمة بتاعة
-// بعض المنصات (نتفليكس مثلاً) بتتكون جوه سياق تكديس (stacking context) خاص بيها منفصل عن
-// العنصر بتاعنا، فمقارنة z-index العام مبتضمنش ترتيب الرسم الفعلي بينهم بالضرورة. الحل الأضمن:
-// بدل ما نحاول نكسب "حرب" الـ z-index، بنلاقي حاوية الترجمة الفعلية على الشاشة (بنفس قائمة
-// السيليكتورز المستخدمة أصلاً في subtitles.script.js) ونقتص (clip) حافة صندوق التغبيش الجزئي
-// السفلية تلقائياً لو هتتداخل بصرياً مع مكانها — فمهما كانت إحداثيات الصندوق، صندوق التغبيش
-// مبيوصلش فعلياً لمكان الترجمة على الشاشة أصلاً، بدل ما نعتمد على ترتيب رسم غير مضمون.
 const NAZAFA_SUBTITLE_CONTAINER_SELECTORS = [
     ".player-timedtext", ".ytp-caption-window-container", ".atvwebplayersdk-captions-text",
     ".shaka-text-container", ".vjs-text-track-display", ".bmpui-subtitle-label",
     ".jw-captions", ".plyr__captions", ".vp-captions",
-    // 🎯 ديزني+: اتلقطت بفحص مباشر (مش تخمين) — مشغّل disney-web-player (HiVE-DMP) بيرندر
-    // الترجمة جوه Shadow DOM مفتوح، فمحتاجين نفحص جواه كمان (راجع nazafaQueryAllDeep تحت).
-    // ⚠️ استخدمنا ".hive-subtitle-renderer-cue" (حجم النص الفعلي المعروض بالظبط) مش
-    // ".hive-subtitle-renderer-cue-positioning-box" (الحاوية الاحتياطية بعرض الفيديو كله تقريباً
-    // حتى لو النص نفسه أضيق بكتير) — استخدام الصندوق الواسع كان بيخلي أي تغبيش جزئي في الثلث
-    // السفلي من الفيديو يتقص/يختفي كل ما في سطر ترجمة، حتى لو مفيش تداخل بصري حقيقي مع النص.
     ".hive-subtitle-renderer-cue",
     "[class*='timedtext']", "[class*='caption']", "[class*='subtitle']"
 ].join(", ");
 
-// 🐞 إصلاح حرج (تكملة #2): document.querySelectorAll() العادي مابيدخلش جوه أي Shadow DOM خالص،
-// حتى لو مفتوح (open) — وده بالظبط سبب فشل findActiveSubtitleRect() مع ديزني+: عنصر الترجمة
-// بتاعه (.hive-subtitle-renderer-cue-positioning-box) موجود جوه shadow root مفتوح تابع لعنصر
-// disney-web-player المخصّص، فمستحيل نلقطه بفحص عادي للصفحة. الحل: دالة بحث بتنزل جوه أي
-// shadowRoot مفتوح بشكل متكرر (نفس الأسلوب اللي اتأكد إنه بيشتغل فعلياً وقت التشخيص المباشر).
 function nazafaQueryAllDeep(selector, root) {
     const results = [];
     function walk(node) {
@@ -941,19 +824,11 @@ function nazafaQueryAllDeep(selector, root) {
 function findActiveSubtitleRect() {
     try {
         const candidates = nazafaQueryAllDeep(NAZAFA_SUBTITLE_CONTAINER_SELECTORS);
-        // 🐞 إصلاح حرج (تكملة #3): السلكتورات العامة زي [class*='subtitle'] بتطابق أي
-        // container كبير اسم كلاسه فيه "subtitle" (زي hive-subtitle-renderer-cue-positioning-box)
-        // حتى بعد ما شلنا اسمه بالتحديد — لأن الـ wildcard لسه بيمسكه، وبما إن textContent
-        // بيتوارث من العناصر الداخلية، الـ container الواسع ده كان بيعدي فلتر "فيه نص" وبيرجع
-        // كأول نتيجة (بعرض الفيديو كله تقريباً)، فالـ clipping كان بيشيل التغبيش بالكامل.
-        // الحل: نجمع كل المرشحين الصالحين ونختار أضيق واحد (أصغر مساحة) لأن عنصر النص الحقيقي
-        // دايماً أصغر بكتير من أي حاوية/صندوق تحيط بيه.
         let best = null;
         let bestArea = Infinity;
         for (const el of candidates) {
             if (el.id === "nazafa-partial-blur-overlay" || el.id === "nazafa-blur-overlay") continue;
             const rect = el.getBoundingClientRect();
-            // تجاهل أي عنصر فاضي بصرياً (مخفي/بلا حجم) أو من غير نص فعلاً ظاهر دلوقتي
             if (rect.width <= 0 || rect.height <= 0) continue;
             if (!el.textContent || !el.textContent.trim()) continue;
             const area = rect.width * rect.height;
@@ -967,9 +842,20 @@ function findActiveSubtitleRect() {
     return null;
 }
 
+function nazafaVideoContentRect(video) {
+    const r = video.getBoundingClientRect();
+    const vw = video.videoWidth, vh = video.videoHeight;
+    if (!vw || !vh || !r.width || !r.height) return r;
+    const fit = (getComputedStyle(video).objectFit || "contain").toLowerCase();
+    if (fit === "fill") return r;
+    const scale = fit === "cover" ? Math.max(r.width / vw, r.height / vh) : Math.min(r.width / vw, r.height / vh);
+    const w = vw * scale, h = vh * scale;
+    return { left: r.left + (r.width - w) / 2, top: r.top + (r.height - h) / 2, width: w, height: h };
+}
+
 function positionPartialBlur(video, region) {
     if (!partialBlurEl || !region) return;
-    const rect = video.getBoundingClientRect();
+    const rect = nazafaVideoContentRect(video);
     let top = rect.top + region.y * rect.height;
     let left = rect.left + region.x * rect.width;
     let width = region.width * rect.width;
@@ -977,12 +863,11 @@ function positionPartialBlur(video, region) {
 
     const subRect = findActiveSubtitleRect();
     if (subRect) {
-        const SAFETY_MARGIN_PX = 4; // هامش أمان بسيط عشان منلزقش في حافة الترجمة بالظبط
+        const SAFETY_MARGIN_PX = 4;
         const overlapsHorizontally = left < subRect.right && (left + width) > subRect.left;
         const subtitleTop = subRect.top - SAFETY_MARGIN_PX;
         const wouldClip = overlapsHorizontally && (top + height) > subtitleTop && top < subRect.bottom;
         if (wouldClip) {
-            // نقتص الصندوق عشان يقف قبل حافة الترجمة العلوية بس، من غير ما نلمس باقي الصندوق
             height = Math.max(0, subtitleTop - top);
         }
     }
@@ -1007,7 +892,7 @@ function showPartialBlur(video, region) {
     if (partialBlurRepositionId) cancelAnimationFrame(partialBlurRepositionId);
     const loop = () => {
         if (!partialBlurEl) return;
-        ensurePartialBlurOverlay(nazafaGetOverlayMountPoint(video)); // يلحق دخول/خروج fullscreen فوراً
+        ensurePartialBlurOverlay(nazafaGetOverlayMountPoint(video));
         positionPartialBlur(video, partialBlurRegion);
         partialBlurRepositionId = requestAnimationFrame(loop);
     };
@@ -1037,18 +922,9 @@ function getActiveVideoElement() {
             return true;
         } catch (e) { return false; }
     });
-    // لو كل الفيديوهات الظاهرة مدتها قصيرة ومعروفة، الأرجح إنه إعلان — نرجع null بدل ما نمسك الإعلان بالغلط.
     return realVideos.length > 0 ? realVideos.sort((a, b) => b.currentTime - a.currentTime)[0] : null;
 }
 
-// ==========================================
-// 🔊 نتفليكس بالذات عندها مشكلة معروفة: مشغّلها الداخلي (Cadmium) بيراقب ويعيد ضبط حالة
-// الصوت (volume/muted) بتاعت الـ <video> بنفسه باستمرار حسب حالة واجهته الخاصة، فلو غيّرنا
-// video.muted مباشرة من برّه، نتفليكس ممكن "يرجّعها" تاني خلال أجزاء من الثانية من غير ما
-// نلاحظ — وده بالظبط سبب إن "Match Found" يظهر في الكونسول لكن الصوت فعلياً مايتكتمش. الحل:
-// نستخدم نفس الـ API الداخلي بتاع نتفليكس المستخدم أصلاً في أمر "skip" (تخطي المشهد) عشان
-// نتحكم في الصوت (volume) من جوه نظام نتفليكس نفسه، مش بس من برّه، فمفيش حاجة ترجعه.
-// ==========================================
 function getNetflixActivePlayer() {
     try {
         const playerAPI = netflix.appContext.state.playerApp.getAPI().videoPlayer;
@@ -1082,17 +958,6 @@ function setNetflixMuted(muted) {
     } catch (err) { console.warn("⚠️ Netflix Volume API failed."); return false; }
 }
 
-// 🐞 إصلاح: بلاغ حقيقي وموثّق من أبل تي في+ — بعد ما بنفتح الصوت (video.muted = false)، الفحص
-// المباشر بتاع video.muted/video.volume بيرجع "false"/"1" (يعني بالنسبة لعنصر الفيديو نفسه
-// الصوت مش مكتوم ومستواه كامل)، لكن المستخدم فعلياً مش سامع صوت لحد ما يدوس هو بنفسه على زرار
-// الكتم بتاع أبل تي في. ده معناه إن مسار الصوت الفعلي عند أبل تي في+ منفصل تماماً عن خاصية
-// video.muted/video.volume الأصلية (على الأغلب Web Audio API AudioContext بيتحكم في الصوت
-// الحقيقي، ومتطلبات المتصفح الأمنية إن الـ AudioContext ميتفكش (resume) إلا بلمسة/ضغطة مستخدم
-// حقيقية (trusted user gesture) — تغيير خاصية عنصر الفيديو من كود الإضافة (JS) مش بيعتبر لمسة
-// مستخدم حقيقية خالص، فمينفعش يفك تعليق الـ AudioContext حتى لو الخاصية اتغيّرت صح). كمحاولة
-// بديلة (تجربة، مش حل مضمون 100% لو السبب فعلاً AudioContext)، بنستخدم video.volume بدل
-// video.muted تحديداً لأبل تي في+ — احتمال إن تغيير الـ muted property بالذات هو اللي بيدخل
-// المشغّل في وضع داخلي يحتاج لمسة حقيقية، بينما تغيير volume بس ممكن يتفادى المشكلة دي.
 function nazafaIsSilenced(video, platform) {
     return platform === "appletv" ? video.volume === 0 : video.muted;
 }
@@ -1125,43 +990,25 @@ window.addEventListener("message", (event) => {
 
     if (action === "skip") {
         let seekSuccessful = false;
-        // 🐞 ديزني+: video.currentTime عداد نسبي (relative) بيتصفّر مع أي seek/استئناف على مشغّل
-        // HiVE DMP، مش موضع مطلق زي باقي المنصات — فبنضيف الدلتا (disneyDelta) المحسوبة في
-        // isolated.script.js على القيمة الحالية بدل ما نستبدلها بـ targetTime المطلق (راجع
-        // التعليق الطويل هناك للسياق الكامل)
         if (platform === "disney" && typeof disneyDelta === "number" && isFinite(disneyDelta) && disneyDelta > 0) {
             const beforeCt = video.currentTime;
             const target = beforeCt + disneyDelta;
             seekSuccessful = true;
-            // قفزة video.currentTime الواحدة بتترفض جزئيًا لو المسافة أكبر من حد أقصى صارم
-            // (حوالي 12 ثانية، على الأرجح قيد DRM/seekRange)، فبنمشي بخطوات قريبة من الحد ده
-            // (11 ثانية) عشان نقلل عدد الخطوات المطلوبة لأي مسافة، ونستخدم فاصل قصير بين
-            // المحاولات (150ms) وعدد محاولات كبير (25) عشان نضمن وصول كامل حتى لو بعض الخطوات
-            // احتاجت أكتر من محاولة — الهدف نخلّص أسرع ما يمكن (أجزاء من الثانية غالبًا، مش
-            // ثواني). الفيديو بيفضل واقف طول فترة الخطوات القصيرة دي عشان ميبانش مقطّع بصريًا،
-            // وبيرجع يشتغل بس لما نوصل فعليًا للمستهدف الكامل
             const runStepped = () => {
             const wasPlaying = !video.paused;
             video.pause();
-            // 🐞 الفيديو كان بيعرض لقطات من المشاهد اللي بين البداية والنهاية على فترات (كل خطوة
-            // seek وسيطة بترسم فريم قبل ما الخطوة اللي بعدها تتنفذ). الحل: نخفي عنصر الفيديو بصرياً
-            // (opacity 0 → خلفية المشغّل السودا بتظهر) طول الخطوات الوسيطة، ونرجّعه بس لما نوصل
-            // للهدف النهائي (أو بعد حد أقصى أمان) — فالمستخدم يشوف قطع مباشر من غير لقطات في النص.
             const prevOpacity = video.style.getPropertyValue("opacity");
             const prevOpacityPriority = video.style.getPropertyPriority("opacity");
             let revealed = false;
             let revealVideo = () => {
                 if (revealed) return;
                 revealed = true;
-                // نستنى لحظة صغيرة عشان أول فريم عند الهدف يترسم قبل ما نظهر الفيديو
                 setTimeout(() => {
                     if (prevOpacity) video.style.setProperty("opacity", prevOpacity, prevOpacityPriority);
                     else video.style.removeProperty("opacity");
                 }, 80);
             };
             video.style.setProperty("opacity", "0", "important");
-            // 🔇 كتم الصوت طول التخطي (الفيديو واقف بس بعض المشغّلات بتطلّع صوت أثناء الخطوات)، ونفتحه
-            // مع إظهار الفيديو — بس لو المستخدم نفسه مكانش كاتمه قبل كده
             const disneyWasSilenced = nazafaIsSilenced(video, platform);
             if (!disneyWasSilenced) {
                 isSystemMute = true;
@@ -1181,7 +1028,7 @@ window.addEventListener("message", (event) => {
                     }, 150);
                 }
             };
-            setTimeout(() => revealVideo(), 9000); // أمان: مهما حصل منسيبش الفيديو مخفي
+            setTimeout(() => revealVideo(), 9000);
             const MAX_SAFE_SEEK_STEP = 11;
             const attemptSeek = (attemptNum, maxAttempts) => {
                 const currentCt = video.currentTime;
@@ -1201,13 +1048,8 @@ window.addEventListener("message", (event) => {
                 }
             };
             attemptSeek(1, 60);
-            }; // نهاية runStepped (الطريقة الاحتياطية البطيئة)
+            };
 
-            // ⚡ الطريقة الأساسية (لحظية): مشغّل ديزني نفسه بيكشف mediaPlayer.seek (اتأكد بالتشخيص
-            // الفعلي) — بننقل للموضع المطلق مباشرة بخطوة واحدة (زي سحب شريط التقدم يدوياً)، من غير
-            // الخطوات الصغيرة 11 ثانية. الموضع المطلق بنقراه من stateStore (playheadPositionMs).
-            // بنتحقق إن الوصول حصل فعلاً، ولو لأ (الوحدة/الشكل مختلف عن المتوقع) بنرجّع المستخدم لمكانه
-            // لو حصلت قفزة غريبة، وبنكمّل بالطريقة القديمة.
             const dPlayer = document.querySelector("disney-web-player");
             const getDisneyPosMs = () => {
                 try {
@@ -1216,6 +1058,7 @@ window.addEventListener("message", (event) => {
                 } catch (e) { return null; }
             };
             const startMs = getDisneyPosMs();
+            const disneyWasPlaying = !video.paused || nazafaPointerDown || (Date.now() - nazafaLastPlayingAt) < 4000;
             if (dPlayer && dPlayer.mediaPlayer && typeof dPlayer.mediaPlayer.seek === "function" && startMs !== null) {
                 const targetMs = startMs + disneyDelta * 1000;
                 let seekCalled = true;
@@ -1227,12 +1070,12 @@ window.addEventListener("message", (event) => {
                     const poll = setInterval(() => {
                         tries++;
                         const pos = getDisneyPosMs();
-                        if (pos !== null && Math.abs(pos - targetMs) < 4000) { clearInterval(poll); return; }
+                        if (pos !== null && Math.abs(pos - targetMs) < 4000) { clearInterval(poll); nazafaDisneyResumeIfNeeded(dPlayer, video, disneyWasPlaying); return; }
                         if (tries >= 15) {
                             clearInterval(poll);
                             const p = getDisneyPosMs();
                             if (p !== null && Math.abs(p - startMs) > 20000 && Math.abs(p - targetMs) >= 4000) {
-                                try { dPlayer.mediaPlayer.seek(startMs); } catch (e) {} // رجّع المستخدم لمكانه بعد قفزة غريبة
+                                try { dPlayer.mediaPlayer.seek(startMs); } catch (e) {}
                             }
                             console.warn("⚠️ Nazafa Disney: seek اللحظي مانفعش، رجوع للخطوات القديمة");
                             runStepped();
@@ -1265,26 +1108,14 @@ window.addEventListener("message", (event) => {
         }
 
         if (seekSuccessful && !nazafaIsSilenced(video, platform)) {
-            isSystemMute = true; // نبلغ النظام أننا نحن من نكتم
+            isSystemMute = true;
             nazafaMuteOwner = true;
             nazafaSilence(video, platform);
             if (platform === "netflix") setNetflixMuted(true);
 
-            // 🐞 إصلاح: بلاغ من أبل تي في+ إن الصوت بيفضل مكتوم تماماً بعد التخطي لحد ما
-            // المستخدم يفتحه يدوي بنفسه (مش بيرجع تلقائي بعد الـ600ms المتوقعة). احتمالين:
-            // (أ) بعض المشغلات بتستبدل/تعيد إنشاء عنصر <video> بعد الـ seek، فالمرجع "video"
-            // اللي اتقفل عليه هنا (closure) يبقى قديم/منفصل عن الشاشة الفعلية وقت الـ unmute،
-            // فبنعيد الاستعلام عن العنصر النشط الحالي وقت التنفيذ الفعلي بدل الاعتماد على
-            // المرجع القديم. (ب) بعض المشغلات (زي نتفليكس Cadmium الموثّق فوق) بتراقب حالة
-            // الصوت وترجّعها لوضعها الداخلي الخاص لو حسّت إن الكتم اتعمل من كود خارجي — فبنتأكد
-            // كمان بعد فترة قصيرة إضافية إن الصوت فعلاً رجع، ولو المشغّل رجّعه كتم تاني نجبره
-            // يترجع مرة كمان (محاولة تحصين إضافية، مش حل جذري لأي API داخلي غير معروف لينا).
             const attemptUnmute = (label) => {
-                isSystemMute = false; // نعيد السماح للمستخدم بالتحكم
+                isSystemMute = false;
                 const currentVideo = getActiveVideoElement() || video;
-                // 🎯 إحنا اللي كتمنا الصوت هنا (nazafaMuteOwner)، فمن حقنا نفتحه تاني بلا شرط —
-                // من غير ما نتأثر بـ dataset.userMuted، اللي ممكن يكون اتسجّل غلط لو المشغّل
-                // نفسه غيّر حالة الصوت من عنده (شوف تعليق nazafaMuteOwner في أول الملف)
                 if (nazafaIsSilenced(currentVideo, platform) && nazafaMuteOwner) {
                     isSystemMute = true;
                     nazafaUnsilence(currentVideo, platform);
@@ -1297,7 +1128,6 @@ window.addEventListener("message", (event) => {
 
             setTimeout(() => {
                 attemptUnmute("محاولة أولى (600ms)");
-                // تحقّق إضافي بعد شوية عشان نلحق أي رجوع للكتم من المشغّل نفسه بعد أول محاولة
                 setTimeout(() => {
                     const v = getActiveVideoElement() || video;
                     if (nazafaIsSilenced(v, platform) && nazafaMuteOwner) {
@@ -1314,16 +1144,13 @@ window.addEventListener("message", (event) => {
     }
     else if (action === "mute") {
         isSystemMute = true;
-        nazafaMuteOwner = true; // إحنا اللي كتمنا — أي unmute بتاعنا بعد كده مينفعش يتحجب غلط
+        nazafaMuteOwner = true;
         nazafaSilence(video, platform);
         if (platform === "netflix" || (!platform && typeof netflix !== "undefined")) setNetflixMuted(true);
         setTimeout(() => { isSystemMute = false; }, 300);
     }
     else if (action === "unmute") {
-        // 🎯 لو إحنا اللي كتمنا أصلاً (nazafaMuteOwner)، نفتح الصوت بلا شرط — من غير ما نعتمد
-        // على dataset.userMuted اللي ممكن يكون اتسجّل غلط بسبب سلوك المشغّل الداخلي (شوف تعليق
-        // nazafaMuteOwner في أول الملف). لو إحنا مش اللي كتمنا (يعني مفيش فلتر شغال أصلاً)،
-        // نفضل نحترم dataset.userMuted زي الأول (مايكونش فيه داعي نلمس كتم حقيقي من المستخدم).
+        if (nazafaYtTimedHolding) return;
         if (nazafaMuteOwner || video.dataset.userMuted !== "true") {
             isSystemMute = true;
             nazafaUnsilence(video, platform);
@@ -1342,39 +1169,27 @@ window.addEventListener("message", (event) => {
     else if (action === "unblur") {
         video.style.filter = "";
         hideBlurOverlay();
-        hidePartialBlur(); // نقفل أي تغبيش جزئي شغال كمان — نفس أمر الإلغاء العام المستخدم للتغبيش الكامل
+        hidePartialBlur();
     }
 });
 
-// تتبع تدخل المستخدم (تم تعديله ليحترم الـ isSystemMute)
 document.addEventListener('volumechange', (e) => {
     if (e.target.tagName === 'VIDEO') {
-        if (isSystemMute) return; // تجاهل التغيير إذا كان من الإضافة
+        if (isSystemMute) return;
         e.target.dataset.userMuted = e.target.muted ? "true" : "false";
     }
 }, true);
 
-// ==========================================================================
-// 🎬 يوتيوب فقط: كتم تلقائي من ملف الترجمة نفسه (timedtext) — بيشتغل حتى لو زرار CC مقفول
-// بنجيب ملف الترجمة (يفضّل التلقائية asr لأنها بتطابق الكلام المنطوق) بـ originalFetch (النسخة
-// الأصلية، عشان اعتراضنا الشبكي فوق ما يشوّه الرد)، ونحسب نوافذ كتم بتوقيت كل كلمة
-// (tStartMs + tOffsetMs)، وبنكتم الفيديو لما currentTime يدخل أي نافذة. الأنماط:
-//  1) علامة يوتيوب نفسه "[ __ ]" / "[_]"   2) القائمة السوداء (NazafaCensorCore)
-//  3) شتائم "الوسخه" (يوتيوب بس)
-// لو الجلب فشل أو رجع فاضي (يوتيوب أحياناً بيطلب توكن pot) → بنبلّغ إن الوضع ده مش شغال،
-// وبيفضل المسار القديم (مراقبة الترجمة المعروضة في subtitles.script.js) هو اللي بيكتم.
-// ⚠️ مش بيحترم توجل "اللغة" (MAIN world معندوش userSettings) — بيحترم بس توجل تشفير الترجمة.
-// ==========================================================================
 (function () {
     if (!/(^|\.)youtube\.com$/i.test(location.hostname)) return;
 
     const BLEEP_RE = /\[\s*_+\s*\]/;
     const EXTRA_RE = /(^|\s)((ابن|بن|ولاد|اولاد|ولد|بنت|بنات|ابو)\s+)?الوسخه(\s|$)|(^|\s)(ابن|بن|ولاد|اولاد|ولد|بنت|بنات|ابو)\s+الوسخ(\s|$)/;
-    // 🆕 "فشخ" وصيغها (فشخت/يفشخ/فشخه/فشخها...) — يوتيوب بس (نفس بكت youtubeExtra في subtitle-censor-core.js)
     const EXTRA_FASHKH_RE = /(^|\s)(?:[وفبلك])?(?:ي|ت|ن|ا)?فشخ(?:ت|ه|ها|هم|ني|ك|نا|وا|ون)?(?=\s|$)/;
     const PAD_BEFORE_MS = 80, PAD_AFTER_MS = 30, MIN_WINDOW_MS = 200, MAX_WORD_MS = 700;
 
-    let windows = [];          // [{s,e}] بالمللي ثانية
+    let windows = [];
+    let noTrackTries = 0, lastTriedVideoId = null;
     let loadedVideoId = null;
     let loadToken = 0;
     let weMuted = false;
@@ -1387,7 +1202,7 @@ document.addEventListener('volumechange', (e) => {
     function currentVideoId() {
         try {
             const u = new URL(location.href);
-            return u.searchParams.get("v") || (u.pathname.match(/\/shorts\/([\w-]+)/) || [])[1] || null;
+            return u.searchParams.get("v") || (u.pathname.match(/\/shorts\/([\w-]+)/) || [])[1] || (u.hash.match(/[?&]v=([\w-]+)/) || [])[1] || null;
         } catch (e) { return null; }
     }
 
@@ -1411,9 +1226,6 @@ document.addEventListener('volumechange', (e) => {
                 const s = base + (sg.tOffsetMs || 0);
                 const next = ev.segs[i + 1];
                 const e = next ? base + (next.tOffsetMs || 0) : evEnd;
-                // 🐞 آخر كلمة في الحدث كان نهايتها = نهاية الحدث كله (ممكن 3+ ثواني بعد ما الكلمة تتقال)،
-                // فالكتم كان بيكمل. الكلمة الواحدة بتتقال في أقل من ~0.9 ثانية، فنقصّ النافذة عند كده.
-                // نهاية الكلمة التقديرية = ~90ms للحرف (حد أدنى 300، أقصى MAX_WORD_MS)، ومش أكتر من بداية الكلمة اللي بعدها
                 const txt = String(sg.utf8 || "");
                 const estEnd = s + Math.min(MAX_WORD_MS, Math.max(200, txt.trim().length * 80));
                 return { s, e: Math.min(e > s ? e : estEnd, estEnd), t: txt };
@@ -1440,8 +1252,6 @@ document.addEventListener('volumechange', (e) => {
         return tracks.find((t) => t.kind === "asr") || tracks[0];
     }
 
-    // التقاط رد timedtext الخام (من hook الشبكة فوق) — بيشتغل لما المستخدم يفعّل CC بنفسه، أو
-    // لما إحنا نجبر المشغّل يطلبه (forcePlayerFetch) لأن الطلب بتاعه بيحمل توكن pot صالح.
     window.__nazafaYtCapture = function (url, text) {
         try {
             if (!/timedtext/i.test(url) || !text || text.charCodeAt(0) !== 123 /* { */) return;
@@ -1450,7 +1260,6 @@ document.addEventListener('volumechange', (e) => {
             const json = JSON.parse(text);
             if (!json.events) return;
             const w = buildWindows(json);
-            // لو ملف تاني اتجاب (لغة/مسار مختلف) ندمجه مع اللي عندنا بدل ما نمسحه
             windows = windows.concat(w).sort((a, b) => a.s - b.s);
             post(true);
             captured = true;
@@ -1459,13 +1268,11 @@ document.addEventListener('volumechange', (e) => {
     };
     let captured = false;
 
-    // لما CC مقفول المشغّل مبيطلبش الترجمة أصلاً: نشغّلها برمجياً، نخفيها بصرياً، نلتقط الرد، ونرجّع
-    // الحالة زي ما كانت. ⚠️ ممكن تغيّر لغة الترجمة المفضّلة المحفوظة عند يوتيوب.
     function forcePlayerFetch(player, track, vid, token) {
         try {
             if (!player || !player.loadModule || !player.setOption) return;
             const wasOn = typeof player.isSubtitlesOn === "function" ? player.isSubtitlesOn() : false;
-            if (wasOn) return; // CC شغال أصلاً — الـ hook هيلتقط الرد بنفسه
+            if (wasOn) return;
             captured = false;
             const style = document.createElement("style");
             style.textContent = ".ytp-caption-window-container{visibility:hidden!important}";
@@ -1489,18 +1296,21 @@ document.addEventListener('volumechange', (e) => {
     async function loadForCurrentVideo() {
         const vid = currentVideoId();
         if (!vid || vid === loadedVideoId) return;
+        if (vid !== lastTriedVideoId) { lastTriedVideoId = vid; noTrackTries = 0; }
         loadedVideoId = vid;
         windows = [];
         post(false);
         const token = ++loadToken;
         try {
-            const player = document.getElementById("movie_player");
+            const player = document.getElementById("movie_player") || document.getElementById("ytlr-player__player-container-player");
             const resp = player && player.getPlayerResponse ? player.getPlayerResponse() : window.ytInitialPlayerResponse;
-            // لو الـ player response لسه لحلقة/فيديو قديم، نستنى النداء الجاي
             if (resp && resp.videoDetails && resp.videoDetails.videoId && resp.videoDetails.videoId !== vid) { loadedVideoId = null; return; }
             const tracks = resp && resp.captions && resp.captions.playerCaptionsTracklistRenderer && resp.captions.playerCaptionsTracklistRenderer.captionTracks;
             const track = pickTrack(tracks);
-            if (!track || !track.baseUrl) { console.warn("Nazafa YT: مفيش ترجمة متاحة للفيديو ده"); return; }
+            if (!track || !track.baseUrl) {
+                if (++noTrackTries < 20) { loadedVideoId = null; return; }
+                console.warn("Nazafa YT: مفيش ترجمة متاحة للفيديو ده"); return;
+            }
             const url = track.baseUrl + (track.baseUrl.includes("?") ? "&" : "?") + "fmt=json3";
             const r = await (typeof originalFetch === "function" ? originalFetch : fetch).call(window, url, { credentials: "include" });
             const body = await r.text();
@@ -1523,7 +1333,7 @@ document.addEventListener('volumechange', (e) => {
             const video = document.querySelector("video.html5-main-video") || document.querySelector("video");
             if (!video) return;
             const t = video.currentTime * 1000;
-            const inside = nazafaSubtitleCensorEnabled && windows.length && windows.some((w) => t >= w.s && t <= w.e);
+            const inside = nazafaYtAutoMuteEnabled && windows.length && windows.some((w) => t >= w.s && t <= w.e);
             if (inside && !weMuted) {
                 preMuted = video.muted;
                 if (!preMuted) {
@@ -1531,6 +1341,7 @@ document.addEventListener('volumechange', (e) => {
                     video.muted = true;
                     setTimeout(() => { isSystemMute = false; }, 300);
                     weMuted = true;
+                    nazafaYtTimedHolding = true;
                 }
             } else if (!inside && weMuted) {
                 isSystemMute = true;
@@ -1538,11 +1349,12 @@ document.addEventListener('volumechange', (e) => {
                 nazafaMuteOwner = false;
                 setTimeout(() => { isSystemMute = false; }, 50);
                 weMuted = false;
+                nazafaYtTimedHolding = false;
             }
         } catch (e) {}
     }
 
-    setInterval(tick, 30); // فحص كل 30ms عشان الفتح/الكتم يبقى لحظي (80ms كانت بتزوّد تأخير الفتح)
+    setInterval(tick, 30);
     setInterval(loadForCurrentVideo, 1500);
     window.addEventListener("yt-navigate-finish", () => { loadedVideoId = null; setTimeout(loadForCurrentVideo, 300); });
 })();

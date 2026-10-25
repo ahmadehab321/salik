@@ -1,0 +1,6 @@
+Salik experimental "hide women / hide men" detection uses only open-source components:
+- Human library 3.3.6 by Vladimir Mandic (MIT) - human.esm.js, see LICENSE-human.txt
+  (bundles TensorFlow.js, Apache-2.0)
+- MediaPipe BlazeFace face detector (Apache-2.0) - models/blazeface.*
+- HSE FaceRes face description model, age/gender (Apache-2.0) - models/faceres.*
+No HaramBlur code or models are used.

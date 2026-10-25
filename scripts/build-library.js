@@ -1,5 +1,3 @@
-// Rebuilds library.json from library/<key>.json (one file per title).
-// Usage: node scripts/build-library.js
 const fs = require("fs"), path = require("path");
 const dir = path.join(__dirname, "..", "library");
 const out = {};

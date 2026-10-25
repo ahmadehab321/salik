@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Salik</title>
+  <link rel="stylesheet" href="app.css">
+  <script src="chrome-shim.js"></script>
+</head>
+<body>
+  <div class="shell">
+    <nav class="rail" aria-label="Salik">
+      <div class="rail-brand">
+        <img src="img/logo.png" alt="">
+        <span>Salik</span>
+      </div>
+      <button class="rail-item" data-nav data-route="home"><span class="ri ri-home" aria-hidden="true"></span><span>الرئيسية</span></button>
+      <button class="rail-item" data-nav data-route="browse"><span class="ri ri-search" aria-hidden="true"></span><span>تصفّح</span></button>
+      <button class="rail-item" data-nav data-route="settings"><span class="ri ri-gear" aria-hidden="true"></span><span>الإعدادات</span></button>
+    </nav>
+    <button class="rail-handle" type="button" aria-label="Menu"><span></span><span></span><span></span></button>
+    <main id="view" class="view" tabindex="-1"></main>
+  </div>
+  <div id="modal-root"></div>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <script type="module" src="app.js"></script>
+</body>
+</html>

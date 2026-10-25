@@ -1,15 +1,8 @@
-// app/popup-app.js
-// نسخة Preact (React-compatible API عبر htm) من popup.js + الجزء الديناميكي من popup.html.
-// كل منطق الأعمال (regex كشف المنصة، فايربيس، الفلاتر...) موجود في services.js بدون أي تغيير سلوكي،
-// وهنا بس طبقة العرض (rendering) اللي كانت بتتعامل مع الـ DOM يدوياً بقت مكوّنات Preact.
 
 import { h, render, html, useState, useEffect, useRef } from "../vendor/preact-standalone.module.js";
 import * as S from "./services.js";
 import { LANG, setLang, initI18n, localizeLibrary } from "./i18n.js";
 
-// ==========================================
-// 🔀 شريط التبويبات العلوي
-// ==========================================
 function TabsHeader({ activeTab, onChange }) {
     const items = [
         { key: "control", label: "🎛️ التحكم" },
@@ -25,9 +18,6 @@ function TabsHeader({ activeTab, onChange }) {
     `;
 }
 
-// ==========================================
-// 🎬 كارت "يتم فحصه الآن"
-// ==========================================
 function NowPlayingCard({ item }) {
     const [posterSrc, setPosterSrc] = useState(item && item.poster_url ? item.poster_url : "");
 
@@ -43,9 +33,6 @@ function NowPlayingCard({ item }) {
 
     if (!item) return null;
 
-    // بعض عناصر المكتبة بتستخدم اسم الحقل "genre" وبعضها القديم لسه "category" لنفس المعنى —
-    // بنفضّل "genre" (النوع/التصنيف) دلوقتي، ولو مش موجود بنرجع لـ"category" كاحتياطي
-    // للعناصر القديمة اللي لسه معندهاش الحقل الجديد
     const genreValue = item.genre || item.category;
     const metaParts = [];
     if (genreValue) metaParts.push(genreValue);
@@ -63,9 +50,6 @@ function NowPlayingCard({ item }) {
     `;
 }
 
-// ==========================================
-// 🎨 مؤشر شدة ملوّن (يستبدل عرض الأرقام الخام) — راجع services.js: getSeverityLevel/SEVERITY_META
-// ==========================================
 function SeverityPill({ count, durationMinutes }) {
     const level = S.getSeverityLevel(count, durationMinutes);
     const meta = S.SEVERITY_META[level];
@@ -81,15 +65,8 @@ function SeverityPill({ count, durationMinutes }) {
     `;
 }
 
-// ==========================================
-// 🎚️ أكورديون تصنيف فرعي (توجل مستقل + مؤشر شدة) — بيتفتح على فلاتره هو بس، بنفس شكل
-// الأكورديون الرئيسي بتاع الفئة الأم، بحيث كل مشهد يظهر جوه تصنيفه الفرعي مباشرة
-// ==========================================
 function SubcategoryAccordion({ sub, items, durationMinutes, enabled, onToggle, itemKey, disabledMap, onToggleFilter, showToggle = true }) {
     const [open, setOpen] = useState(false);
-    // مؤشر الشدة بيعتمد على عدد المشاهد الموجودة فعلياً في العمل (items.length) — لا يتأثر
-    // بتعطيل الفلترة (تبويب الفئة/التصنيف أو فلتر معين)، لأن التعطيل معناه "متفلترش دي" مش
-    // "دي مش موجودة"، فمينفعش يتحول العداد لـ "لا يوجد" مجرد ما المستخدم يقفل التوجل
     return html`
         <div class="card" style=${{ margin: "6px 10px", boxShadow: "none", border: "1px solid var(--border-color, #e2e8f0)" }}>
             <div class="card-header" onClick=${() => setOpen(!open)} style=${{ padding: "9px 12px" }}>
@@ -122,10 +99,6 @@ function SubcategoryAccordion({ sub, items, durationMinutes, enabled, onToggle, 
     `;
 }
 
-// ==========================================
-// 🔤 صف توجل ميزة مستقلة (بدون أكورديون فرعي ولا مؤشر شدة) — مستخدم لتوجل تشفير/تنقية
-// الترجمة النصية (Smart Subtitle Censor) جوه فئة "الألفاظ الخارجة" بناءً على طلب المستخدم
-// ==========================================
 function FeatureToggleRow({ label, description, enabled, onToggle }) {
     return html`
         <div class="card" style=${{ margin: "6px 10px", boxShadow: "none", border: "1px solid var(--border-color, #e2e8f0)" }}>
@@ -141,10 +114,7 @@ function FeatureToggleRow({ label, description, enabled, onToggle }) {
     `;
 }
 
-// ==========================================
-// 🎚️ كارت فئة واحدة (أكورديون رئيسي + توجل عام + أكورديونات فرعية متداخلة لكل تصنيف)
-// ==========================================
-function CategoryCard({ catKey, groupData, groupSettings, onToggleGroup, onToggleSubcategory, itemKey, disabledMap, onToggleFilter, durationMinutes, subtitleCensorEnabled, onToggleSubtitleCensor }) {
+function CategoryCard({ catKey, groupData, groupSettings, onToggleGroup, onToggleSubcategory, itemKey, disabledMap, onToggleFilter, durationMinutes, subtitleCensorEnabled, onToggleSubtitleCensor, ytAutoMuteEnabled, onToggleYtAutoMute }) {
     const [open, setOpen] = useState(false);
     const items = groupData.items;
     const groupOn = groupSettings ? groupSettings.enabled !== false : true;
@@ -169,6 +139,9 @@ function CategoryCard({ catKey, groupData, groupSettings, onToggleGroup, onToggl
                     <${FeatureToggleRow} label="تشفير الترجمة النصية"
                         description="يستبدل الألفاظ الممنوعة في نص الترجمة المعروض على الشاشة بالرموز *&^"
                         enabled=${subtitleCensorEnabled} onToggle=${onToggleSubtitleCensor} />
+                    <${FeatureToggleRow} label="كتم الألفاظ التلقائي على يوتيوب"
+                        description="يكتم الصوت لحظة نطق اللفظ الخارج في فيديوهات يوتيوب اعتماداً على ترجمتها"
+                        enabled=${ytAutoMuteEnabled} onToggle=${onToggleYtAutoMute} />
                 ` : null}
                 ${groupData.subcategories.map((sub) => html`
                     <${SubcategoryAccordion} key=${sub.key} sub=${sub}
@@ -189,10 +162,7 @@ function CategoryCard({ catKey, groupData, groupSettings, onToggleGroup, onToggl
     `;
 }
 
-// ==========================================
-// 🎛️ تبويب التحكم
-// ==========================================
-function ControlTab({ currentItemDisplay, categorizedDetailed, filterSettings, onToggleGroup, onToggleSubcategory, itemKey, disabledMap, onToggleFilter, ratingTitle, durationMinutes, subtitleCensorEnabled, onToggleSubtitleCensor }) {
+function ControlTab({ currentItemDisplay, categorizedDetailed, filterSettings, onToggleGroup, onToggleSubcategory, itemKey, disabledMap, onToggleFilter, ratingTitle, durationMinutes, subtitleCensorEnabled, onToggleSubtitleCensor, ytAutoMuteEnabled, onToggleYtAutoMute }) {
     const groupKeys = ["nudity", "violence", "language", "substance"];
     return html`
         <div id="section-control" class="tab-content active">
@@ -201,7 +171,8 @@ function ControlTab({ currentItemDisplay, categorizedDetailed, filterSettings, o
                 <${CategoryCard} key=${k} catKey=${k} groupData=${categorizedDetailed[k]}
                     groupSettings=${filterSettings[k]} onToggleGroup=${onToggleGroup} onToggleSubcategory=${onToggleSubcategory}
                     itemKey=${itemKey} disabledMap=${disabledMap} onToggleFilter=${onToggleFilter} durationMinutes=${durationMinutes}
-                    subtitleCensorEnabled=${subtitleCensorEnabled} onToggleSubtitleCensor=${onToggleSubtitleCensor} />
+                    subtitleCensorEnabled=${subtitleCensorEnabled} onToggleSubtitleCensor=${onToggleSubtitleCensor}
+                    ytAutoMuteEnabled=${ytAutoMuteEnabled} onToggleYtAutoMute=${onToggleYtAutoMute} />
             `)}
             <div class="rating-box">
                 <strong>${ratingTitle}</strong>
@@ -210,9 +181,6 @@ function ControlTab({ currentItemDisplay, categorizedDetailed, filterSettings, o
     `;
 }
 
-// ==========================================
-// 🎬 كارت فيلم/مسلسل واحد في شبكة المنصات
-// ==========================================
 function MovieCard({ id, item }) {
     const platformsObj = item.platforms || {};
     let urlMapping = {};
@@ -252,9 +220,6 @@ function MovieCard({ id, item }) {
     `;
 }
 
-// ==========================================
-// 🎬 تبويب المنصات (بحث + شيبس + شبكة الأفلام)
-// ==========================================
 const PLATFORM_CHIPS = [
     { key: "all", label: "الكل" }, { key: "netflix", label: "Netflix" }, { key: "amazon", label: "Prime Video" },
     { key: "yango", label: "Yango Play" }, { key: "osnplus", label: "OSN+" }, { key: "disney", label: "Disney+" },
@@ -303,10 +268,6 @@ function PlatformsTab({ library, activePlatformFilter, onPlatformChange, searchQ
     `;
 }
 
-// ==========================================
-// 📝 نماذج البلاغ والاقتراح
-// ==========================================
-// يفتح صفحة Issue جاهزة على GitHub (بدون أي حسابات أو خوادم من طرفنا)
 function salikOpenIssue(title, body, label) {
     const base = (typeof SALIK_CONFIG !== "undefined" && SALIK_CONFIG.ISSUES_URL) || "https://github.com";
     const url = `${base}?title=${encodeURIComponent(title)}&body=${encodeURIComponent(body)}&labels=${encodeURIComponent(label || "")}`;
@@ -364,10 +325,6 @@ function SceneReportForm({ defaultTitle }) {
     `;
 }
 
-// ==========================================
-// 🎬 كارت "العمل ده مش في القائمة — تقترح إضافته؟" (يظهر لما المستخدم يفتح عمل على منصة مدعومة
-// ومش موجود في المكتبة). "نعم" بيبعت الاقتراح فوراً لنفس قائمة الاقتراحات اللي المسؤول بيراجعها.
-// ==========================================
 const NAZAFA_PLATFORM_LABELS = {
     netflix: "Netflix", amazon: "Prime Video", osnplus: "OSN+", yango: "Yango Play", disney: "Disney+",
     shahid: "MBC Shahid", appletv: "Apple TV+", watchit: "Watch It", tod: "Tod", starzplay: "Starzplay",
@@ -382,7 +339,7 @@ const ICON_CLAPPER = html`<svg viewBox="0 0 24 24" width="14" height="14" fill="
 const ICON_HEART_CHECK = html`<svg viewBox="0 0 24 24" width="30" height="30" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20.5s-7.5-4.6-7.5-10A4.3 4.3 0 0 1 12 7.7a4.3 4.3 0 0 1 7.5 2.8c0 5.4-7.5 10-7.5 10z"/><path d="M9 11.5l2.2 2.2L15.2 9.7"/></svg>`;
 
 function UnlistedWorkPrompt({ work, onFinish }) {
-    const [phase, setPhase] = useState(work.already ? "done-before" : "ask"); // ask | sending | done | done-before | error | hidden
+    const [phase, setPhase] = useState(work.already ? "done-before" : "ask");
     if (phase === "hidden") return null;
 
     const wrap = {
@@ -403,7 +360,7 @@ function UnlistedWorkPrompt({ work, onFinish }) {
             salikOpenIssue(`[اقتراح عمل] ${wt}`, `**العمل:** ${wt}\n**المنصة:** ${platformLabel}\n**الرابط:** ${work.url || "-"}\n**المعرّف:** ${work.movieId}`, "suggestion");
             await S.markWorkSuggested(work.platform, work.movieId);
             setPhase("done");
-            if (onFinish) setTimeout(onFinish, 1800); // رسالة الشكر تظهر لحظة، بعدها التبويبات ترجع
+            if (onFinish) setTimeout(onFinish, 1800);
         } catch (e) {
             console.error(e);
             setPhase("error");
@@ -460,10 +417,6 @@ function UnlistedWorkPrompt({ work, onFinish }) {
         </div>`;
 }
 
-// ==========================================
-// 📣 شريط إعلامي صغير وهادئ (قابل للإغلاق، مرة واحدة لكل إصدار/رسالة): رسالة طوارئ عن بُعد، أو
-// "يوجد إصدار أحدث"، أو "تم التحديث — حدّث صفحة المنصة". مفيش نوافذ منبثقة ولا إشعارات متصفح.
-// ==========================================
 const ICON_INFO = html`<svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 11v5M12 8v.01"/></svg>`;
 const ICON_REFRESH = html`<svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 11a8 8 0 1 0-2.3 5.7"/><path d="M20 5v6h-6"/></svg>`;
 
@@ -481,7 +434,6 @@ function UpdateBanner() {
             list.push({ key: "notice:" + s.notice.id, kind: s.notice.level === "warn" ? "warn" : "info", text: s.notice.text });
         }
         if (s && s.minVersion && S.compareVersions(st.current, s.minVersion) < 0) {
-            // الإصدار أقدم من الحد الأدنى: شريط أقوى شوية (بيرجع كل مرة لحد ما يتحدّث، من غير زرار إغلاق دائم)
             list.push({ key: "min:" + s.minVersion, kind: "warn", update: true, noDismiss: true, text: `إصدارك (${st.current}) قديم وقد لا يعمل بشكل صحيح. يُنصح بالتحديث الآن.` });
         } else if (s && s.latest && S.compareVersions(st.current, s.latest) < 0 && !dismissed["latest:" + s.latest]) {
             list.push({ key: "latest:" + s.latest, kind: "info", update: true, text: `يتوفر إصدار أحدث من سالك (${s.latest}).` });
@@ -581,9 +533,6 @@ function ContentSuggestionForm() {
     `;
 }
 
-// ==========================================
-// 👤 تبويب الحساب
-// ==========================================
 function AccountTab({ ratingTitle }) {
     const C = (typeof SALIK_CONFIG !== "undefined") ? SALIK_CONFIG : {};
     const open = (u) => chrome.tabs.create({ url: u });
@@ -631,28 +580,25 @@ function AccountTab({ ratingTitle }) {
     `;
 }
 
-// ==========================================
-// 🏠 المكوّن الرئيسي (App)
-// ==========================================
 function App() {
-    const [gateState, setGateState] = useState("loading"); // loading | need-login | need-subscription | ok
+    const [gateState, setGateState] = useState("loading");
     const [activeTab, setActiveTab] = useState("control");
     const [library, setLibrary] = useState({});
-    const [currentItem, setCurrentItem] = useState(null); // { key, item }
+    const [currentItem, setCurrentItem] = useState(null);
     const [currentFilters, setCurrentFilters] = useState([]);
     const [disabledMap, setDisabledMap] = useState({});
     const [filterSettings, setFilterSettings] = useState(null);
     const [durationMinutes, setDurationMinutes] = useState(null);
     const [subtitleCensorEnabled, setSubtitleCensorEnabled] = useState(true);
+    const [ytAutoMuteEnabled, setYtAutoMuteEnabledState] = useState(true);
     const [activePlatformFilter, setActivePlatformFilter] = useState("all");
     const [searchQuery, setSearchQuery] = useState("");
     const [connectionStatus, setConnectionStatus] = useState("جاري الفحص والربط مع قاعدة البيانات...");
-    const [unlistedWork, setUnlistedWork] = useState(null); // { platform, movieId, title, url, already }
-    const [promptDone, setPromptDone] = useState(false); // المستخدم رد (نعم/لا) على كارت الاقتراح → رجّع التبويبات
+    const [unlistedWork, setUnlistedWork] = useState(null);
+    const [promptDone, setPromptDone] = useState(false);
     const initializedRef = useRef(false);
 
     async function checkGate() {
-        // مجاني ومفتوح المصدر: لا تسجيل دخول ولا اشتراك
         setGateState("ok");
         return true;
     }
@@ -665,7 +611,6 @@ function App() {
     }
 
     async function bootstrapApp() {
-        // عدّاد فتح البوب أب (للإحصاء الصامت المجهول عند الحذف — راجع setUninstallURL في Background.js)
         try { chrome.storage.local.get(["nazafaPopupOpens"], (r) => chrome.storage.local.set({ nazafaPopupOpens: (r.nazafaPopupOpens || 0) + 1 })); } catch (e) {}
         setConnectionStatus("جاري الفحص والربط مع قاعدة البيانات...");
         const tabInfo = await S.getCurrentTabInfo();
@@ -684,9 +629,6 @@ function App() {
             const item = lib[storageData.currentMovieId];
             setCurrentItem({ key: storageData.currentMovieId, item });
             await loadCurrentItemFilters(storageData.currentMovieId, item);
-            // ملحوظة: زي السلوك الأصلي بالظبط — شريط الحالة (connection-status) هنا
-            // متعمّدين مانلمسوش، فبيفضل واقف على النص الافتراضي "جاري الفحص..." حتى
-            // بعد ما المحتوى يتحمّل بنجاح (نفس الحالة القديمة في popup.js لو المصدر storage)
         } else if (tabInfo.movieId && tabInfo.platform !== "unknown") {
             const found = lib[tabInfo.movieId] ? { key: tabInfo.movieId, item: lib[tabInfo.movieId] } : S.findMovieByPlatformId(lib, tabInfo.platform, tabInfo.movieId);
             if (found) {
@@ -695,8 +637,6 @@ function App() {
                 await loadCurrentItemFilters(found.key, found.item);
                 setConnectionStatus("");
             } else if (tabInfo.platform !== "youtube" && tabInfo.platform !== "dailymotion") {
-                // 🆕 عمل على منصة مدعومة بس مش في المكتبة → كارت "تقترح إضافته؟" (يوتيوب/ديلي موشن
-                // مستبعدين: فيديوهات المستخدمين مش أفلام/مسلسلات، كان هيظهر على كل فيديو)
                 const meta = await S.getActiveTabMeta();
                 const already = await S.isWorkSuggested(tabInfo.platform, tabInfo.movieId);
                 setUnlistedWork({ platform: tabInfo.platform, movieId: tabInfo.movieId, title: S.cleanWorkTitle(meta.title), url: meta.url, already });
@@ -710,17 +650,15 @@ function App() {
 
         setActiveTab(hasActiveItem ? "control" : "platforms");
 
-        // استرجاع إعدادات الفئات والتصنيفات الفرعية المحفوظة (مع ترحيل تلقائي من المفاتيح القديمة)
         const settings = await S.getFilterSettings();
         setFilterSettings(settings);
 
-        // مدة الفيديو الحالي (بالدقايق) — بيسجّلها isolated.script.js لحظياً أثناء التشغيل،
-        // بتُستخدم لحساب مؤشر الشدة الملوّن (معدل تكرار بالساعة) بدل عرض رقم خام
         const dur = await S.getStoredVideoDurationMinutes();
         setDurationMinutes(dur);
 
         const subtitleCensor = await S.getSubtitleCensorEnabled();
         setSubtitleCensorEnabled(subtitleCensor);
+        setYtAutoMuteEnabledState(await S.getYtAutoMuteEnabled());
     }
 
     useEffect(() => {
@@ -753,18 +691,9 @@ function App() {
         });
 
         if (!isEnabled && currentItem) {
-            // لازم نستخدم categorizeFiltersDetailed (نفس منطق matchAllSubcategories اللي بيصحح
-            // الفئة الخام الغلط بالاعتماد على محتوى الوصف) مش categorizeFilters القديمة اللي بتوثق
-            // بالـ category الخام بس — وإلا مشهد اتصحح تصنيفه ليظهر جوه هنا، لكن هيتقفل توجل فئته
-            // مش هيتم تعطيل فلتره فعلياً لأنه كان لسه متصنّف في الفئة الخام (الغلط) التانية
             const categorized = S.categorizeFiltersDetailed(currentFilters);
             const catItems = categorized[catKey].items;
             for (const it of catItems) {
-                // 🆕 لو الفلتر ده متصنّف في أكتر من تصنيف فرعي (زي "رجل يشرب الخمر ويقبل امرأة" —
-                // خمر + قبلة)، متعطّلوش فردياً هنا — التعطيل الفردي (disabledFilterIds) بيبقى قافل
-                // للفلتر بالكامل بغض النظر عن أي تصنيف، فلو عطّلناه هنا هيتقفل تصنيفه التاني (القبلة)
-                // كمان حتى لو توجلها لسه مفعّل. محرك التشغيل (isolated.script.js) بيفحص التوجلات
-                // مباشرة (nazafaShouldFilterItem) فمش محتاج التعطيل الفردي ده أصلاً للفلاتر المزدوجة
                 if (S.matchAllSubcategories(it).length > 1) continue;
                 await S.setFilterEnabled(currentItem.key, it.id, false);
             }
@@ -787,14 +716,17 @@ function App() {
             const detailed = S.categorizeFiltersDetailed(currentFilters);
             const subItems = detailed[catKey].bySub[subKey] || [];
             for (const it of subItems) {
-                // 🆕 نفس ملحوظة handleToggleGroup فوق — نسيب الفلاتر المزدوجة التصنيف من غير
-                // تعطيل فردي عشان تصنيفها التاني يفضل شغال لو توجله مفعّل
                 if (S.matchAllSubcategories(it).length > 1) continue;
                 await S.setFilterEnabled(currentItem.key, it.id, false);
             }
             const dm = await S.getDisabledFiltersMap(currentItem.key);
             setDisabledMap(dm);
         }
+    }
+
+    async function handleToggleYtAutoMute(enabled) {
+        setYtAutoMuteEnabledState(enabled);
+        await S.setYtAutoMuteEnabled(enabled);
     }
 
     async function handleToggleSubtitleCensor(enabled) {
@@ -813,8 +745,6 @@ function App() {
     const currentItemDisplay = currentItem ? S.resolveDisplayItem(currentItem.item, library) : null;
     const ratingTitle = currentItem ? (currentItem.item.title || "") : "منصة تصفح";
 
-    // 🆕 كارت اقتراح عمل جديد بيظهر لوحده (من غير التبويبات التلاتة) لحد ما المستخدم يرد نعم/لا،
-    // بعدها الواجهة الطبيعية ترجع. (لو العمل مقترح قبل كده، الكارت بيظهر صغير فوق التبويبات بدل ما يحجبها.)
     if (unlistedWork && !unlistedWork.already && !promptDone) {
         return html`
             <div id="main-app">
@@ -844,7 +774,8 @@ function App() {
                     filterSettings=${filterSettings} onToggleGroup=${handleToggleGroup} onToggleSubcategory=${handleToggleSubcategory}
                     itemKey=${currentItem ? currentItem.key : null} disabledMap=${disabledMap}
                     onToggleFilter=${handleToggleFilter} ratingTitle=${ratingTitle} durationMinutes=${durationMinutes}
-                    subtitleCensorEnabled=${subtitleCensorEnabled} onToggleSubtitleCensor=${handleToggleSubtitleCensor} />
+                    subtitleCensorEnabled=${subtitleCensorEnabled} onToggleSubtitleCensor=${handleToggleSubtitleCensor}
+                    ytAutoMuteEnabled=${ytAutoMuteEnabled} onToggleYtAutoMute=${handleToggleYtAutoMute} />
             ` : null}
             ${activeTab === "platforms" ? html`
                 <${PlatformsTab} library=${library} activePlatformFilter=${activePlatformFilter}

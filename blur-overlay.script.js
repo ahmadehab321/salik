@@ -1,12 +1,3 @@
-// blur-overlay.script.js
-// نسخة Preact من طبقة الـ Blur Overlay اللي كانت جوه main.script.js (ensureBlurOverlay/
-// positionBlurOverlay/showBlurOverlay/hideBlurOverlay). ده ملف منفصل تماماً ومعزول عمداً عن
-// main.script.js عشان لو حصل أي مشكلة في تحميل الموديول ده (شبكة بطيئة، إلخ)، منطق الـ
-// skip/mute الحرج (اللي شغال بالفعل على المستخدمين اللايف) يفضل شغال بدون أي تأثير — لأنه
-// سكربت منفصل خالص. main.script.js بيتأكد الأول إن window.__nazafaBlurOverlay موجود، ولو
-// لأي سبب مش موجود (الموديول لسه بيتحمّل مثلاً) بيرجع تلقائياً لنفس الكود القديم كـ fallback.
-//
-// نفس الـ CSS ونفس سلوك إعادة الحساب كل فريم (requestAnimationFrame) بالظبط زي الأصلي.
 
 import { h, render, html, useState, useEffect, useRef } from "./vendor/preact-standalone.module.js";
 
