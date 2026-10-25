@@ -138,6 +138,10 @@
     "appletv": {
       "id": "umc.cmc.o5z5ztufuu3uv8lx7m0jcega",
       "url": "https://tv.apple.com/eg/movie/greyhound/umc.cmc.o5z5ztufuu3uv8lx7m0jcega"
+    },
+    "stremio": {
+      "id": "tt6048922",
+      "url": "https://web.stremio.com/#/detail/movie/tt6048922/tt6048922"
     }
   },
   "poster_url": "https://image.tmdb.org/t/p/w600_and_h900_face/kjMbDciooTbJPofVXgAoFjfX8Of.jpg",

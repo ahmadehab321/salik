@@ -438,6 +438,10 @@
     "shahid": {
       "id": "2242370527",
       "url": "https://shahid.mbc.net/ar/player/movies/edge-of-tomorrow/id-2242370527"
+    },
+    "stremio": {
+      "id": "tt1631867",
+      "url": "https://web.stremio.com/#/detail/movie/tt1631867/tt1631867"
     }
   },
   "poster_url": "https://image.tmdb.org/t/p/original/bAdFh6Hg9hO4XDoFfpeTR4mFnUD.jpg",

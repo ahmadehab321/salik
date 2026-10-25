@@ -27,6 +27,10 @@
     "osnplus": {
       "id": 69005,
       "url": "https://osnplus.com/en-eg/episode/signals-69005/watch?contentStreamingDeeplinkQueryParam=false"
+    },
+    "stremio": {
+      "id": "tt1442464:1:23",
+      "url": "https://web.stremio.com/#/detail/series/tt1442464/tt1442464%3A1%3A23"
     }
   },
   "season": 1,

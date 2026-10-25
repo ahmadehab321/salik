@@ -441,6 +441,18 @@ function detectPlatform() {
     return "general";
 }
 
+// 🎯 ستريميو: يرجّع "tt1234567:S:E" للحلقة (من رابط detail أو player)، أو "tt1234567" للفيلم.
+// %3A بتتحوّل لـ ":" الأول عشان الحلقات متتطابقش كلها مع أول حلقة في المسلسل
+function extractStremioId(rawUrl) {
+    const u = String(rawUrl || "").replace(/%3A/gi, ":");
+    const m = u.match(/\/(?:movie|series)\/(tt\d{7,9})(?:\/(tt\d{7,9}(?::\d+:\d+)?))?/i);
+    if (m) return m[2] || m[1];
+    const ep = u.match(/(tt\d{7,9}:\d+:\d+)/i);
+    if (ep) return ep[1];
+    const t = u.match(/(tt\d{7,9})/i);
+    return t ? t[1] : null;
+}
+
 function getMovieId() {
     // كودك الأصلي كما هو[cite: 6]
     const url = window.location.href;
@@ -450,6 +462,11 @@ function getMovieId() {
     const hashIndex = url.indexOf('#');
     const pathname = hashIndex !== -1 ? url.slice(hashIndex + 1).split('?')[0] : window.location.pathname;
     let detectedId = null;
+    // ستريميو قبل أي فحص تاني: رابط التشغيل فيه infoHash (40 hex) كان بيتلقط في hashMatch بالغلط
+    if (window.location.hostname.toLowerCase().includes("stremio")) {
+        const sid = extractStremioId(url);
+        if (sid) return sid;
+    }
     try {
         // 🎯 واتش إت تحديداً: روابط المسلسلات بصيغة .../series/{seriesId}/{x}/{episodeId}/play
         // فيها أكتر من رقم، وآخر رقم قبل النهاية هو معرّف الحلقة الفعلي (اللي بيتسجل في
@@ -526,8 +543,8 @@ function getMovieId() {
         if (disneyMatch && disneyMatch[1]) return disneyMatch[1];
         
         // 🎯 ستريميو: الـ ID (زي tt0293564) بيكون جوه الـ hash أو الرابط الطويل
-        const stremioMatch = url.match(/(tt\d{7,8})/i);
-        if (stremioMatch && stremioMatch[1]) return stremioMatch[1];
+        const stremioId = extractStremioId(url);
+        if (stremioId) return stremioId;
 
 
         const trailingIdMatch = pathname.match(/\/(\d+)\/?$/);

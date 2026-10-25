@@ -513,6 +513,10 @@
     "netflix": {
       "id": "81763251",
       "url": "https://www.netflix.com/title/81763251"
+    },
+    "stremio": {
+      "id": "tt16431404",
+      "url": "https://web.stremio.com/#/detail/movie/tt16431404/tt16431404"
     }
   },
   "poster_url": "https://image.tmdb.org/t/p/original/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",

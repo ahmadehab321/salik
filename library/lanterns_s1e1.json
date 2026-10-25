@@ -702,6 +702,10 @@
       "id": "lanterns-76243",
       "offset_seconds": 0,
       "url": "https://osnplus.com/en-eg/episode/lanterns-76243/watch"
+    },
+    "stremio": {
+      "id": "tt26545992:1:1",
+      "url": "https://web.stremio.com/#/detail/series/tt26545992/tt26545992%3A1%3A1"
     }
   },
   "season": 1,

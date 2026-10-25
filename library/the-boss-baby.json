@@ -270,6 +270,10 @@
     "starzplay": {
       "id": "721091624122",
       "url": "https://starzplay.com/ar/movies/the-boss-baby/721091624122"
+    },
+    "stremio": {
+      "id": "tt3874544",
+      "url": "https://web.stremio.com/#/detail/movie/tt3874544/tt3874544"
     }
   },
   "poster_url": "https://image.tmdb.org/t/p/original/75fiBknX8HbwNBROdyLdE83xwHY.jpg",

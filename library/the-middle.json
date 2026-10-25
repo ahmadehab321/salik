@@ -5,6 +5,10 @@
     "netflix": {
       "id": "70143859",
       "url": "https://www.netflix.com/title/70143859"
+    },
+    "stremio": {
+      "id": "tt1442464",
+      "url": "https://web.stremio.com/#/detail/series/tt1442464"
     }
   },
   "poster_url": "https://image.tmdb.org/t/p/w600_and_h900_face/u6FluiFx3ocVS0MgZszfpPKXT2p.jpg",

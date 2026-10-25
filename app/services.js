@@ -17,6 +17,24 @@ export const SUPPORTED_PLATFORMS = ["netflix", "amazon", "osnplus", "yango", "di
 // كاش المكتبة الموحدة (نفس سلوك allFetchedContent القديم)
 let _libraryCache = {};
 
+// 🎯 ستريميو: يرجّع "tt1234567:S:E" للحلقة (من رابط detail أو player)، أو "tt1234567" للفيلم.
+// %3A بتتحوّل لـ ":" الأول عشان الحلقات متتطابقش كلها مع أول حلقة في المسلسل
+export function extractStremioId(rawUrl) {
+    const u = String(rawUrl || "").replace(/%3A/gi, ":");
+    const m = u.match(/\/(?:movie|series)\/(tt\d{7,9})(?:\/(tt\d{7,9}(?::\d+:\d+)?))?/i);
+    if (m) return m[2] || m[1];
+    const ep = u.match(/(tt\d{7,9}:\d+:\d+)/i);
+    if (ep) return ep[1];
+    const t = u.match(/(tt\d{7,9})/i);
+    return t ? t[1] : null;
+}
+
+// منصة Stremio بتتخفى من العرض لو العمل متاح على أي منصة رسمية تانية
+export function isPlatformHidden(item, platform) {
+    if (platform !== "stremio" || !item || !item.platforms) return false;
+    return Object.keys(item.platforms).some(k => k !== "stremio" && item.platforms[k] && (item.platforms[k].url || item.platforms[k].id));
+}
+
 export function getUrlForPlatform(item, platform) {
     if (item && item.platforms && item.platforms[platform] && item.platforms[platform].url) {
         return item.platforms[platform].url;
@@ -54,9 +72,9 @@ export async function getCurrentTabInfo() {
     // نفس الفحص المباشر لكود IMDb (زي tt0293564) لازم يتكرر هنا، وقبل أي حاجة تانية، عشان نفس
     // سبب تفادي التصادم مع hashMatch (بيانات infoHash الخاصة بالتورنت 40 حرف hex في رابط تشغيل
     // ستريميو ممكن تتلقط غلط لو الفحص ده اتأخر لحد النهاية).
-    const imdbMatch = url.match(/(tt\d{7,8})/i);
-    if (imdbMatch && imdbMatch[1] && url.includes("stremio.com")) {
-        return { platform: "stremio", movieId: imdbMatch[1] };
+    if (url.includes("stremio.com")) {
+        const sid = extractStremioId(url);
+        if (sid) return { platform: "stremio", movieId: sid };
     }
 
     let pathname = "";
@@ -159,6 +177,8 @@ export function findMovieByPlatformId(library, platform, urlId) {
         // وده بالظبط اللي بيحصل مع ستريميو: كود IMDb مخزّن في حقل "id" مباشرة، مش جوه "url".
         // بدون الفحص ده، الـ popup كان بيفشل يلاقي العمل حتى بعد ما getCurrentTabInfo بقى
         // يرجّع platform/movieId صح لستريميو.
+        // id ستريميو من غير موسم/حلقة (صفحة المسلسل) ميتطابقش مع حلقة بعينها
+        if (platform === "stremio" && item.type === "episode" && /^tt\d+$/i.test(String(urlId))) continue;
         const platformEntry = item.platforms && item.platforms[platform];
         if (platformEntry && (
             String(platformEntry.id) === String(urlId) ||

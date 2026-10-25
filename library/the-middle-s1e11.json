@@ -59,6 +59,10 @@
     "osnplus": {
       "id": 68981,
       "url": "https://osnplus.com/en-eg/episode/the-jeans-68981/watch?contentStreamingDeeplinkQueryParam=false"
+    },
+    "stremio": {
+      "id": "tt1442464:1:11",
+      "url": "https://web.stremio.com/#/detail/series/tt1442464/tt1442464%3A1%3A11"
     }
   },
   "season": 1,

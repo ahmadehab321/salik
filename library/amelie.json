@@ -257,6 +257,10 @@
     "osnplus": {
       "id": 63456,
       "url": "https://osnplus.com/en-eg/movie/amelie-63456/watch?contentStreamingDeeplinkQueryParam=false"
+    },
+    "stremio": {
+      "id": "tt0211915",
+      "url": "https://web.stremio.com/#/detail/movie/tt0211915/tt0211915"
     }
   },
   "poster_url": "https://image.tmdb.org/t/p/original/7X5SiN272lua3FF0irf7pciS0vn.jpg",

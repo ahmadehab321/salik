@@ -263,6 +263,10 @@
     "amazon": {
       "id": "amzn1.dv.gti.e8ce10cd-e3ca-4065-902d-36d9b3ba4f00",
       "url": "https://www.primevideo.com/region/eu/detail/0TPA7F48GEJVGD8KKM1NC6QQ9Q/ref=atv_hm_hom_c_vEe97o_brws_3_3?jic=8%7CEgRzdm9k"
+    },
+    "stremio": {
+      "id": "tt30460310:1:3",
+      "url": "https://web.stremio.com/#/detail/series/tt30460310/tt30460310%3A1%3A3"
     }
   },
   "season": 1,

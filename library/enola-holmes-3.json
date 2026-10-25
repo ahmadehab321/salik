@@ -97,6 +97,10 @@
     "netflix": {
       "id": "81605886",
       "url": "https://www.netflix.com/title/81605886"
+    },
+    "stremio": {
+      "id": "tt32278481",
+      "url": "https://web.stremio.com/#/detail/movie/tt32278481/tt32278481"
     }
   },
   "poster_url": "https://upload.wikimedia.org/wikipedia/ar/8/8f/Enola_Holmes_3_arabic_poster.jpg",

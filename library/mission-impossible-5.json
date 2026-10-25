@@ -183,6 +183,10 @@
   "genre": "أكشن ومغامرة، إثارة وتجسس، تشويق",
   "pg": "+13",
   "platforms": {
+    "stremio": {
+      "id": "tt2381249",
+      "url": "https://web.stremio.com/#/detail/movie/tt2381249/tt2381249"
+    },
     "tod": {
       "id": "mission-impossible-rogue-nation-302579",
       "url": "https://www.tod.tv/en/movies/english/mission-impossible-rogue-nation-302579"

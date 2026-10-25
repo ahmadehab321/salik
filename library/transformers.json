@@ -680,6 +680,10 @@
     "disney": {
       "id": "1aa3c31a-0998-44df-862a-8ab7acf02b7c",
       "url": "https://www.disneyplus.com/en-gb/browse/entity-1aa3c31a-0998-44df-862a-8ab7acf02b7c"
+    },
+    "stremio": {
+      "id": "tt0418279",
+      "url": "https://web.stremio.com/#/detail/movie/tt0418279/tt0418279"
     }
   },
   "poster_url": "https://image.tmdb.org/t/p/w342/zeCktrrbTUWoVyjXZHR5947Mv7w.jpg",

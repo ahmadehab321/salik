@@ -490,6 +490,10 @@
     "appletv": {
       "id": "umc.cmc.shin43vzfoz3h4ggx41z8rf",
       "url": "https://tv.apple.com/eg/movie/mayday/umc.cmc.shin43vzfoz3h4ggx41z8rf?ctx_agid=a66ed4cf"
+    },
+    "stremio": {
+      "id": "tt28014327",
+      "url": "https://web.stremio.com/#/detail/movie/tt28014327/tt28014327"
     }
   },
   "poster_url": "https://image.tmdb.org/t/p/original/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",

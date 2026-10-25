@@ -402,6 +402,10 @@
     "disney": {
       "id": "e8569c2d-85ec-42a4-8811-b2618d494a40",
       "url": "https://www.disneyplus.com/en-gb/browse/entity-e8569c2d-85ec-42a4-8811-b2618d494a40"
+    },
+    "stremio": {
+      "id": "tt1300854",
+      "url": "https://web.stremio.com/#/detail/movie/tt1300854/tt1300854"
     }
   },
   "poster_url": "https://image.tmdb.org/t/p/original/mBfLDsgqqdeYKxhLWz0jeUzz41B.jpg",

@@ -246,6 +246,10 @@
     "shahid": {
       "id": 2242359527,
       "url": "https://shahid.mbc.net/ar/movies/Interstellar/movie-2242359527"
+    },
+    "stremio": {
+      "id": "tt0816692",
+      "url": "https://web.stremio.com/#/detail/movie/tt0816692/tt0816692"
     }
   },
   "poster_url": "https://image.tmdb.org/t/p/original/rR8bjK9dOXXH9H8AdpfPTlRx8Fy.jpg",

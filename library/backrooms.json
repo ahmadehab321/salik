@@ -1070,6 +1070,10 @@
     "starzplay": {
       "id": "798308904118",
       "url": "https://starzplay.com/en/movies/backrooms/798308904118"
+    },
+    "stremio": {
+      "id": "tt26657236",
+      "url": "https://web.stremio.com/#/detail/movie/tt26657236/tt26657236"
     }
   },
   "poster_url": "https://image.tmdb.org/t/p/w600_and_h900_face/9FZaaQstyvpmmK1sHOwU39ijtCO.jpg",

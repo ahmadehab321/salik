@@ -199,6 +199,10 @@
   "genre": "كوميديا، أكشن، سخرية تجسسية",
   "pg": "+13",
   "platforms": {
+    "stremio": {
+      "id": "tt6921996",
+      "url": "https://web.stremio.com/#/detail/movie/tt6921996/tt6921996"
+    },
     "tod": {
       "id": "johnny-english-strikes-again-5058777",
       "url": "https://www.tod.tv/en/movies/english/johnny-english-strikes-again-5058777"

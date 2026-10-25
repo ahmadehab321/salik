@@ -35,6 +35,10 @@
     "osnplus": {
       "id": 68996,
       "url": "https://osnplus.com/en-eg/episode/tv-or-not-tv-68996/watch?contentStreamingDeeplinkQueryParam=false"
+    },
+    "stremio": {
+      "id": "tt1442464:1:20",
+      "url": "https://web.stremio.com/#/detail/series/tt1442464/tt1442464%3A1%3A20"
     }
   },
   "season": 1,

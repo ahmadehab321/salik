@@ -1154,6 +1154,10 @@
     "osnplus": {
       "id": "22654",
       "url": "https://osnplus.com/en-eg/movie/22654"
+    },
+    "stremio": {
+      "id": "tt0120812",
+      "url": "https://web.stremio.com/#/detail/movie/tt0120812/tt0120812"
     }
   },
   "poster_url": "https://image.tmdb.org/t/p/w600_and_h900_face/rzGRiujinarSgAFLsG613ykbBgL.jpg",

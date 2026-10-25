@@ -612,6 +612,10 @@
     "shahid": {
       "id": 2464982527,
       "url": "https://shahid.mbc.net/ar/player/movies/The-Dark-Knight/id-2464982527"
+    },
+    "stremio": {
+      "id": "tt0468569",
+      "url": "https://web.stremio.com/#/detail/movie/tt0468569/tt0468569"
     }
   },
   "poster_url": "https://image.tmdb.org/t/p/original/6Z9znq1IxwknrdPbXyr7NJJPhpP.jpg",

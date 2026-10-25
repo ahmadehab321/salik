@@ -59,6 +59,10 @@
     "osnplus": {
       "id": 69084,
       "url": "https://osnplus.com/en-eg/episode/royal-wedding-69084/watch?contentStreamingDeeplinkQueryParam=false"
+    },
+    "stremio": {
+      "id": "tt1442464:2:20",
+      "url": "https://web.stremio.com/#/detail/series/tt1442464/tt1442464%3A2%3A20"
     }
   },
   "season": 2,

@@ -298,6 +298,10 @@
     "disney": {
       "id": "7c4f4e28-4152-4f64-90ec-8b7f682c33d4",
       "url": "https://www.disneyplus.com/en-gb/browse/entity-7c4f4e28-4152-4f64-90ec-8b7f682c33d4"
+    },
+    "stremio": {
+      "id": "tt1981115",
+      "url": "https://web.stremio.com/#/detail/movie/tt1981115/tt1981115"
     }
   },
   "poster_url": "https://image.tmdb.org/t/p/original/gRKpFNeghRPLsayN14dC2611o7J.jpg",

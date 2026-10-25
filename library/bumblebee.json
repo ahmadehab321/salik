@@ -304,6 +304,10 @@
     "shahid": {
       "id": 2181908527,
       "url": "https://shahid.mbc.net/ar/movies/Bumblebee/movie-2181908527"
+    },
+    "stremio": {
+      "id": "tt4701182",
+      "url": "https://web.stremio.com/#/detail/movie/tt4701182/tt4701182"
     }
   },
   "poster_url": "https://image.tmdb.org/t/p/original/fw02ONlDhrYjTSZV8XO6hhU3ds3.jpg",

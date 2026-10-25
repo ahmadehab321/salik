@@ -51,6 +51,10 @@
     "osnplus": {
       "id": 69003,
       "url": "https://osnplus.com/en-eg/episode/worry-duty-69003/watch?contentStreamingDeeplinkQueryParam=false"
+    },
+    "stremio": {
+      "id": "tt1442464:1:21",
+      "url": "https://web.stremio.com/#/detail/series/tt1442464/tt1442464%3A1%3A21"
     }
   },
   "season": 1,

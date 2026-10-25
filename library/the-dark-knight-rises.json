@@ -294,6 +294,10 @@
     "shahid": {
       "id": 2418889527,
       "url": "https://shahid.mbc.net/ar/player/movies/the-dark-knight-rises/id-2418889527"
+    },
+    "stremio": {
+      "id": "tt1345836",
+      "url": "https://web.stremio.com/#/detail/movie/tt1345836/tt1345836"
     }
   },
   "poster_url": "https://image.tmdb.org/t/p/original/gDQLSmVsPxvOmQIAVFcl6Akn7Nh.jpg",

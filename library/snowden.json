@@ -678,6 +678,10 @@
   "genre": "Thriller, Documentary",
   "pg": "R",
   "platforms": {
+    "stremio": {
+      "id": "tt3774114",
+      "url": "https://web.stremio.com/#/detail/movie/tt3774114/tt3774114"
+    },
     "youtube": {
       "id": "_1f-3ChMIRQ",
       "url": "https://www.youtube.com/watch?v=_1f-3ChMIRQ"

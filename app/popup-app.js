@@ -219,11 +219,12 @@ function MovieCard({ id, item }) {
     let platforms = [];
 
     S.SUPPORTED_PLATFORMS.forEach(p => {
+        if (S.isPlatformHidden(item, p)) return;
         const url = S.getUrlForPlatform(item, p);
         if (url) { urlMapping[p] = url; platforms.push(p); }
     });
     Object.keys(platformsObj).forEach(p => {
-        if (!urlMapping[p] && platformsObj[p] && platformsObj[p].url) {
+        if (!urlMapping[p] && !S.isPlatformHidden(item, p) && platformsObj[p] && platformsObj[p].url) {
             urlMapping[p] = platformsObj[p].url;
             platforms.push(p);
         }
@@ -277,7 +278,7 @@ function PlatformsTab({ library, activePlatformFilter, onPlatformChange, searchQ
         if (!title.includes(q)) return false;
         if (selected === "all") return true;
         const platformsObj = item.platforms || {};
-        const platformKeys = new Set([...S.SUPPORTED_PLATFORMS.filter(p => S.getUrlForPlatform(item, p)), ...Object.keys(platformsObj)]);
+        const platformKeys = new Set([...S.SUPPORTED_PLATFORMS.filter(p => S.getUrlForPlatform(item, p)), ...Object.keys(platformsObj)].filter(p => !S.isPlatformHidden(item, p)));
         return platformKeys.has(selected);
     });
 

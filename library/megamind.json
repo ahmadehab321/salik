@@ -146,6 +146,10 @@
     "osnplus": {
       "id": "12444",
       "url": "https://osnplus.com/ar-eg/movie/megamind-12444"
+    },
+    "stremio": {
+      "id": "tt1001526",
+      "url": "https://web.stremio.com/#/detail/movie/tt1001526/tt1001526"
     }
   },
   "poster_url": "https://image.tmdb.org/t/p/w600_and_h900_face/kH2acwtiiwHsgARlFM653miKOvn.jpg",

@@ -139,6 +139,10 @@
     "osnplus": {
       "id": 68999,
       "url": "https://osnplus.com/en-eg/episode/the-neighbor-68999/watch?contentStreamingDeeplinkQueryParam=false"
+    },
+    "stremio": {
+      "id": "tt1442464:1:12",
+      "url": "https://web.stremio.com/#/detail/series/tt1442464/tt1442464%3A1%3A12"
     }
   },
   "season": 1,

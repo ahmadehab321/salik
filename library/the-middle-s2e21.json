@@ -87,6 +87,10 @@
     "netflix": {
       "id": 82170875,
       "url": "https://www.netflix.com/watch/82170875"
+    },
+    "stremio": {
+      "id": "tt1442464:2:21",
+      "url": "https://web.stremio.com/#/detail/series/tt1442464/tt1442464%3A2%3A21"
     }
   },
   "season": 2,

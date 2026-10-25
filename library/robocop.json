@@ -498,6 +498,10 @@
     "amazon": {
       "id": "amzn1.dv.gti.1c7ad53e-ee6d-43b8-99c8-e8565dbae95e",
       "url": "https://www.primevideo.com/detail?gti=amzn1.dv.gti.1c7ad53e-ee6d-43b8-99c8-e8565dbae95e"
+    },
+    "stremio": {
+      "id": "tt1234721",
+      "url": "https://web.stremio.com/#/detail/movie/tt1234721/tt1234721"
     }
   },
   "poster_url": "https://image.tmdb.org/t/p/original/gM5ql3BKYmHG3WtZ0buKXN7xY8O.jpg",

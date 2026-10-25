@@ -35,6 +35,10 @@
     "osnplus": {
       "id": 68994,
       "url": "https://osnplus.com/en-eg/episode/the-final-four-68994/watch?contentStreamingDeeplinkQueryParam=false"
+    },
+    "stremio": {
+      "id": "tt1442464:1:19",
+      "url": "https://web.stremio.com/#/detail/series/tt1442464/tt1442464%3A1%3A19"
     }
   },
   "season": 1,

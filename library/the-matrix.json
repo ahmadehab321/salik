@@ -630,6 +630,10 @@
     "shahid": {
       "id": "405321",
       "url": "https://shahid.mbc.net/ar/movies/The-Matrix/movie-405321"
+    },
+    "stremio": {
+      "id": "tt0133093",
+      "url": "https://web.stremio.com/#/detail/movie/tt0133093/tt0133093"
     }
   },
   "poster_url": "https://images.justwatch.com/poster/335128509/s166/mtryks.avif",

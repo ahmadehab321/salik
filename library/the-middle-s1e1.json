@@ -155,6 +155,10 @@
     "osnplus": {
       "id": "68986",
       "url": "https://osnplus.com/en-eg/episode/pilot-68986/watch?contentStreamingDeeplinkQueryParam=false"
+    },
+    "stremio": {
+      "id": "tt1442464:1:1",
+      "url": "https://web.stremio.com/#/detail/series/tt1442464/tt1442464%3A1%3A1"
     }
   },
   "season": 1,

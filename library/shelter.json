@@ -185,6 +185,10 @@
     "shahid": {
       "id": 49923896837054,
       "url": "https://shahid.mbc.net/ar/movies/Shelter/movie-49923896837054"
+    },
+    "stremio": {
+      "id": "tt32357218",
+      "url": "https://web.stremio.com/#/detail/movie/tt32357218/tt32357218"
     }
   },
   "poster_url": "https://image.tmdb.org/t/p/original/wDHhmyIKfq5cZTYmRal4IR4y85e.jpg",

@@ -272,6 +272,10 @@
       "id": "81093613",
       "offset_seconds": 0,
       "url": "https://www.netflix.com/title/81093613"
+    },
+    "stremio": {
+      "id": "tt10048342:1:5",
+      "url": "https://web.stremio.com/#/detail/series/tt10048342/tt10048342%3A1%3A5"
     }
   },
   "season": 1,

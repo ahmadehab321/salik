@@ -821,6 +821,10 @@
     "starzplay": {
       "id": 731108392291,
       "url": "https://starzplay.com/ar/movies/terminator-2-judgment-day/731108392291"
+    },
+    "stremio": {
+      "id": "tt0103064",
+      "url": "https://web.stremio.com/#/detail/movie/tt0103064/tt0103064"
     }
   },
   "poster_url": "https://image.tmdb.org/t/p/original/5M0j0B18abtBI5gi2RhfjjurTqb.jpg",

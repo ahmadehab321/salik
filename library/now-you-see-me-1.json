@@ -994,6 +994,10 @@
     "osnplus": {
       "id": "56611",
       "url": "https://osnplus.com/en-eg/movie/56611"
+    },
+    "stremio": {
+      "id": "tt1670345",
+      "url": "https://web.stremio.com/#/detail/movie/tt1670345/tt1670345"
     }
   },
   "poster_url": "https://image.tmdb.org/t/p/w600_and_h900_face/uk5UTJeOX4ZwcY3DTKz1mSD6QQW.jpg",

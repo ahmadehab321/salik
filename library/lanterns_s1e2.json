@@ -280,6 +280,10 @@
       "id": "trust-fall-76345",
       "offset_seconds": 0,
       "url": "https://osnplus.com/en-eg/episode/trust-fall-76345/watch"
+    },
+    "stremio": {
+      "id": "tt26545992:1:2",
+      "url": "https://web.stremio.com/#/detail/series/tt26545992/tt26545992%3A1%3A2"
     }
   },
   "season": 1,

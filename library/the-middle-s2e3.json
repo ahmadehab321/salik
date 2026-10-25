@@ -51,6 +51,10 @@
     "osnplus": {
       "id": 68506,
       "url": "https://osnplus.com/en-eg/episode/the-diaper-incident-68506/watch?contentStreamingDeeplinkQueryParam=false&skipRecap=true"
+    },
+    "stremio": {
+      "id": "tt1442464:2:3",
+      "url": "https://web.stremio.com/#/detail/series/tt1442464/tt1442464%3A2%3A3"
     }
   },
   "season": 2,

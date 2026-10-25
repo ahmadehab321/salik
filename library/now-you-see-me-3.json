@@ -463,6 +463,10 @@
   "genre": "جريمة، إثارة وتجاسر، خفة يد وسحر، غموض",
   "pg": "+13",
   "platforms": {
+    "stremio": {
+      "id": "tt4712810",
+      "url": "https://web.stremio.com/#/detail/movie/tt4712810/tt4712810"
+    },
     "tod": {
       "id": "now-you-see-me-now-you-don-t-5051386",
       "url": "https://www.tod.tv/ar/movies/english/watch/now-you-see-me-now-you-don-t-5051386"

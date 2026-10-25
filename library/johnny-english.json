@@ -311,6 +311,10 @@
   "genre": "كوميديا، أكشن، سخرية جاسوسية",
   "pg": "+13",
   "platforms": {
+    "stremio": {
+      "id": "tt0274166",
+      "url": "https://web.stremio.com/#/detail/movie/tt0274166/tt0274166"
+    },
     "tod": {
       "id": "johnny-english-5058712",
       "url": "https://www.tod.tv/en/movies/english/johnny-english-5058712"

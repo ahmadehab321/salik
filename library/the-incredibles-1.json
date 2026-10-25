@@ -90,6 +90,10 @@
     "disney": {
       "id": "850b6e92-07ea-4211-b3c3-cbbf1de045fa",
       "url": "https://www.disneyplus.com/en-gb/browse/entity-850b6e92-07ea-4211-b3c3-cbbf1de045fa"
+    },
+    "stremio": {
+      "id": "tt0317705",
+      "url": "https://web.stremio.com/#/detail/movie/tt0317705/tt0317705"
     }
   },
   "poster_url": "https://image.tmdb.org/t/p/w600_and_h900_face/kPGk8NGY9cAp8pMTybwon5aKerj.jpg",

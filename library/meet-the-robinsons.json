@@ -58,6 +58,10 @@
     "disney": {
       "id": "768c3d1a-2952-401a-8e99-9fd1f42f13bc",
       "url": "https://www.disneyplus.com/en-gb/browse/entity-768c3d1a-2952-401a-8e99-9fd1f42f13bc"
+    },
+    "stremio": {
+      "id": "tt0396555",
+      "url": "https://web.stremio.com/#/detail/movie/tt0396555/tt0396555"
     }
   },
   "poster_url": "https://image.tmdb.org/t/p/original/rTO15RDj3QVYRrwGgutPov06dwU.jpg",

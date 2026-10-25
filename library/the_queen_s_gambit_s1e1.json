@@ -208,6 +208,10 @@
       "id": "80243261",
       "offset_seconds": 0,
       "url": "https://www.netflix.com/title/80243261"
+    },
+    "stremio": {
+      "id": "tt10048342:1:1",
+      "url": "https://web.stremio.com/#/detail/series/tt10048342/tt10048342%3A1%3A1"
     }
   },
   "season": 1,

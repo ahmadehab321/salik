@@ -422,6 +422,10 @@
   "genre": "Romance",
   "pg": "R",
   "platforms": {
+    "stremio": {
+      "id": "tt6472976",
+      "url": "https://web.stremio.com/#/detail/movie/tt6472976/tt6472976"
+    },
     "youtube": {
       "id": "9DAuB3P4PbM",
       "url": "https://www.youtube.com/watch?v=9DAuB3P4PbM"

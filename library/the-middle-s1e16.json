@@ -67,6 +67,10 @@
     "osnplus": {
       "id": 68995,
       "url": "https://osnplus.com/en-eg/episode/the-bee-68995/watch?contentStreamingDeeplinkQueryParam=false"
+    },
+    "stremio": {
+      "id": "tt1442464:1:16",
+      "url": "https://web.stremio.com/#/detail/series/tt1442464/tt1442464%3A1%3A16"
     }
   },
   "season": 1,

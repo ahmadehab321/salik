@@ -135,6 +135,10 @@
     "netflix": {
       "id": "80202425",
       "url": "https://www.netflix.com/watch/80202425"
+    },
+    "stremio": {
+      "id": "tt7902072:1:5",
+      "url": "https://web.stremio.com/#/detail/series/tt7902072/tt7902072%3A1%3A5"
     }
   },
   "season": 1,

@@ -562,6 +562,10 @@
     "disney": {
       "id": "ce42e744-f65d-4d46-9324-80aec621fc87",
       "url": "https://www.disneyplus.com/en-gb/browse/entity-ce42e744-f65d-4d46-9324-80aec621fc87"
+    },
+    "stremio": {
+      "id": "tt0343818",
+      "url": "https://web.stremio.com/#/detail/movie/tt0343818/tt0343818"
     }
   },
   "poster_url": "https://image.tmdb.org/t/p/original/dlb6JKYv25rJSk2n2hwhOeJ7Dk.jpg",

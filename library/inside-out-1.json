@@ -26,6 +26,10 @@
     "disney": {
       "id": "d4b87168-7d0b-49bc-b138-457ab7723feb",
       "url": "https://www.disneyplus.com/en-gb/browse/entity-d4b87168-7d0b-49bc-b138-457ab7723feb"
+    },
+    "stremio": {
+      "id": "tt2096673",
+      "url": "https://web.stremio.com/#/detail/movie/tt2096673/tt2096673"
     }
   },
   "poster_url": "https://image.tmdb.org/t/p/original/Arw5DO2feP50Rh3nngIBtP74bZh.jpg",

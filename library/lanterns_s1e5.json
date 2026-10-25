@@ -512,6 +512,10 @@
       "id": "lights-out-76948",
       "offset_seconds": 0,
       "url": "https://osnplus.com/en-eg/episode/lights-out-76948/watch"
+    },
+    "stremio": {
+      "id": "tt26545992:1:5",
+      "url": "https://web.stremio.com/#/detail/series/tt26545992/tt26545992%3A1%3A5"
     }
   },
   "season": 1,

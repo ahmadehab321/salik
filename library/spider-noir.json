@@ -5,6 +5,10 @@
     "amazon": {
       "id": "0TPA7F48GEJVGD8KKM1NC6QQ9Q",
       "url": "https://www.primevideo.com/region/eu/detail/0TPA7F48GEJVGD8KKM1NC6QQ9Q/ref=atv_hm_hom_c_vEe97o_brws_3_3?jic=8%7CEgRzdm9k"
+    },
+    "stremio": {
+      "id": "tt30460310",
+      "url": "https://web.stremio.com/#/detail/series/tt30460310"
     }
   },
   "poster_url": "https://image.tmdb.org/t/p/w600_and_h900_face/mA9XrZsAk8YCkYUhmHPgKUKI2KA.jpg",

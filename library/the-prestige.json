@@ -353,6 +353,10 @@
     "osnplus": {
       "id": 22701,
       "url": "https://osnplus.com/en-eg/movie/the-prestige-22701/watch?contentStreamingDeeplinkQueryParam=false"
+    },
+    "stremio": {
+      "id": "tt0482571",
+      "url": "https://web.stremio.com/#/detail/movie/tt0482571/tt0482571"
     }
   },
   "poster_url": "https://image.tmdb.org/t/p/original/o3AhvHT7BcIKN5g6YkkvQu1br98.jpg",
