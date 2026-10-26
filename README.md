@@ -25,7 +25,7 @@ Salik does not host, download or modify any video content. It only controls play
 |---|---|
 | 💻 **Chrome extension** | Install from the [Chrome Web Store](https://chromewebstore.google.com/detail/salik-%E2%80%A2-%D8%B3%D8%A7%D9%84%D9%83/ngehcikconlnhlhhfbgemloihlkmiibb) → **Add to Chrome** |
 | 📱 **Android** |Download [Salik-Android.apk](https://github.com/techFek/salik/releases/download/v1.0.0/Salik-Android-1.0.0.apk) → open it → allow installing from unknown sources |
-| 📺 **Android TV** |Download [Salik-AndroidTV.apk](https://github.com/techFek/salik/releases/download/v1.0.0/Salik-AndroidTV-1.0.0.apk) → install it with *Downloader* (type the link above) or a USB drive |
+| 📺 **Android TV** | On your TV: install **Downloader** from Google Play → allow it to install unknown apps → open it, enter code **2334683** and press Go → Install. Or [download the APK](https://github.com/techFek/salik/releases/download/v1.0.0/Salik-AndroidTV-1.0.0.apk) and copy it with a USB drive |
 
 ### How it works
 
@@ -79,53 +79,51 @@ Salik is and will always be free. Donations are **optional** and are not commerc
 ---
 
 <div dir="rtl">
-
 ## العربية
 
-**سالك** أداة مجانية ومفتوحة المصدر بتعمل **تخطي أو تمويه أو كتم** للمشاهد والألفاظ غير المناسبة، وانت بتتفرج على منصات البث الرسمية. المشروع **وقف خيري لوجه الله**، مجاني للأبد، من غير اشتراكات ولا إعلانات.
+**سالك** أداة مجانية ومفتوحة المصدر تتيح **تخطّي المشاهد والألفاظ غير اللائقة أو تمويهها أو كتمها** أثناء المشاهدة على منصات البث الرسمية. والمشروع **وقفٌ خيري لوجه الله تعالى**، مجاني إلى الأبد، بلا اشتراكات ولا إعلانات.
 
-سالك مش بيستضيف ولا بينزّل ولا بيعدّل أي محتوى. هو بس بيتحكم في التشغيل داخل مشغل المنصة نفسها، بناءً على مكتبة فلاتر بتوقيتات.
+لا يستضيف سالك أي محتوى، ولا يُنزّله، ولا يُعدّله؛ وإنما يتحكم في التشغيل داخل مشغّل المنصة نفسها، بناءً على مكتبة فلاتر مضبوطة بالتوقيت.
 
 ### المنصات
 
 | المنصة | طريقة التثبيت |
 |---|---|
 | 💻 **إضافة كروم** | ثبّتها من [Chrome Web Store](https://chromewebstore.google.com/detail/salik-%E2%80%A2-%D8%B3%D8%A7%D9%84%D9%83/ngehcikconlnhlhhfbgemloihlkmiibb) ← **Add to Chrome** |
-| 📱 **أندرويد** | [حمّل Salik-Android.apk](https://github.com/techFek/salik/releases/download/v1.0.0/Salik-Android-1.0.0.apk) ← افتحه ← اسمح بالتثبيت من مصادر غير معروفة |
-| 📺 **أندرويد TV** | [حمّل Salik-AndroidTV.apk](https://github.com/techFek/salik/releases/download/v1.0.0/Salik-AndroidTV-1.0.0.apk) ← ثبّته عن طريق تطبيق *Downloader* (اكتب الرابط) أو فلاشة |
-### بتشتغل إزاي؟
+| 📱 **أندرويد** | [نزّل Salik-Android.apk](https://github.com/techFek/salik/releases/download/v1.0.0/Salik-Android-1.0.0.apk) ← افتح الملف ← اسمح بالتثبيت من مصادر غير معروفة |
+| 📺 **أندرويد TV** | على التلفاز: ثبّت تطبيق **Downloader** من Google Play ← اسمح له بتثبيت التطبيقات ← افتحه وأدخل الرمز **2334683** ثم اضغط Go ← Install. أو [نزّل الملف](https://github.com/techFek/salik/releases/download/v1.0.0/Salik-AndroidTV-1.0.0.apk) وانقله إلى التلفاز عبر ذاكرة USB |
 
-كل فيلم أو مسلسل في المكتبة ليه جدول زمني للفلاتر. أول ما الفيديو يوصل لبداية أي فلتر، سالك بيطبّق واحد من 3 إجراءات لحد نهايته:
+### كيف تعمل الأداة؟
 
-| تخطي | تمويه | كتم |
+لكل فيلم أو مسلسل في المكتبة جدولٌ زمني من الفلاتر. فإذا بلغ الفيديو بداية أي فلتر، طبّق سالك أحد ثلاثة إجراءات حتى نهايته:
+
+| تخطٍّ | تمويه | كتم |
 |:---:|:---:|:---:|
-| <img src="assets/demo-skip.gif" width="260" alt="تخطي"> | <img src="assets/demo-blur.gif" width="260" alt="تمويه"> | <img src="assets/demo-mute.gif" width="260" alt="كتم"> |
-| يعدّي المشهد | يغطي الصورة | يكتم الصوت |
+| <img src="assets/demo-skip.gif" width="260" alt="تخطٍّ"> | <img src="assets/demo-blur.gif" width="260" alt="تمويه"> | <img src="assets/demo-mute.gif" width="260" alt="كتم"> |
+| يتجاوز المشهد | يحجب الصورة | يكتم الصوت |
 
-الجزء البرتقالي في شريط التشغيل هو المقطع اللي بيتفلتر.
+يمثّل الجزء البرتقالي في شريط التشغيل المقطعَ الذي تجري تصفيته.
 
 ### الفئات
 
-كل فئة تقدر تفعّلها أو تلغيها من الإعدادات:
+يمكنك تفعيل كل فئة أو تعطيلها من الإعدادات:
 
-- 🔞 **المشاهد الحساسة**: العري والإيحاءات
+- 🔞 **المشاهد الحساسة**: العُري والإيحاءات
 - 🩸 **العنف والمحتوى المقزز**: القسوة المفرطة والإيذاء الجسدي
 - 🤬 **الألفاظ**: الشتائم والألفاظ البذيئة
 - 🚬 **التعاطي**: التدخين والمسكرات والمخدرات
 
 ### المساهمة
 
-أي مساهمة مرحب بيها، من مشهد واحد فات لحد فيلم كامل جديد.
+نرحّب بكل مساهمة، بدءًا من مشهدٍ واحد فات التصفية، وصولًا إلى إضافة فيلم كامل جديد.
 
-**من غير كود:** افتح [Issue](../../issues) واكتب اسم العمل والمنصة والتوقيت واللي محتاج يتفلتر.
-
+**دون برمجة:** افتح [Issue](../../issues) واذكر فيها اسم العمل، والمنصة، والتوقيت، وما يحتاج إلى تصفية.
 
 ### دعم المشروع
 
-سالك مجاني وهيفضل مجاني. التبرعات **اختيارية ومش إجبارية**، ومش ربح تجاري. بتروح بالكامل لاستمرار المشروع: تكاليف السيرفرات، وتطوير مميزات جديدة، ومصاريف التشغيل، عشان الأثر يفضل ممتد. لينكات التبرع موجودة جوه التطبيقات.
+سالك مجاني وسيظل مجانيًا. والتبرعات **اختيارية لا إلزامية**، ولا يُقصد بها ربحٌ تجاري؛ إذ تُصرف كاملةً على استمرار المشروع: تكاليف الخوادم، وتطوير ميزات جديدة، ونفقات التشغيل، ليبقى أثره ممتدًا. وتجد روابط التبرع داخل التطبيقات.
 
 ### الترخيص
 
 [MIT](LICENSE)
-
 </div>
