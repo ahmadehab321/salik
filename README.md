@@ -15,7 +15,7 @@ Free & open-source · Chrome · Android · Android TV
 
 ## English
 
-Salik is a free, open-source tool that **skips, blurs or mutes** sensitive scenes and language while you watch on official streaming platforms. It is a charitable project (waqf). It is free forever, with no subscriptions and no ads.
+Salik is a free, open-source tool that **skips, blurs or mutes** sensitive scenes and language while you watch on official streaming platforms. It is a charitable project. It is free forever, with no subscriptions and no ads.
 
 Salik does not host, download or modify any video content. It only controls playback in the platform's own player, based on a timed filters library.
 
