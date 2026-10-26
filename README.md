@@ -24,8 +24,8 @@ Salik does not host, download or modify any video content. It only controls play
 | Platform | How to install |
 |---|---|
 | 💻 **Chrome extension** | Install from the [Chrome Web Store](https://chromewebstore.google.com/detail/salik-%E2%80%A2-%D8%B3%D8%A7%D9%84%D9%83/ngehcikconlnhlhhfbgemloihlkmiibb) → **Add to Chrome** |
-| 📱 **Android** | [Download Salik-Android.apk](https://github.com/techFek/salik/releases/download/v1.0.0/Salik-Android-1.0.0.apk) → open it → allow installing from unknown sources |
-| 📺 **Android TV** | [Download Salik-AndroidTV.apk](https://github.com/techFek/salik/releases/download/v1.0.0/Salik-AndroidTV-1.0.0.apk) → install it with *Downloader* (type the link above) or a USB drive |
+| 📱 **Android** |Download [Salik-Android.apk](https://github.com/techFek/salik/releases/download/v1.0.0/Salik-Android-1.0.0.apk) → open it → allow installing from unknown sources |
+| 📺 **Android TV** |Download [Salik-AndroidTV.apk](https://github.com/techFek/salik/releases/download/v1.0.0/Salik-AndroidTV-1.0.0.apk) → install it with *Downloader* (type the link above) or a USB drive |
 
 ### How it works
 
@@ -91,9 +91,8 @@ Salik is and will always be free. Donations are **optional** and are not commerc
 | المنصة | طريقة التثبيت |
 |---|---|
 | 💻 **إضافة كروم** | ثبّتها من [Chrome Web Store](https://chromewebstore.google.com/detail/salik-%E2%80%A2-%D8%B3%D8%A7%D9%84%D9%83/ngehcikconlnhlhhfbgemloihlkmiibb) ← **Add to Chrome** |
-| 📱 **أندرويد** | نزّل ملف `.apk` من [Releases](../../releases) ← افتحه ← اسمح بالتثبيت من مصادر غير معروفة |
-| 📺 **أندرويد TV** | نزّل ملف `.apk` الخاص بالتلفزيون من [Releases](../../releases)، وثبّته عن طريق تطبيق زي *Downloader* أو فلاشة |
-
+| 📱 **أندرويد** | [حمّل Salik-Android.apk](https://github.com/techFek/salik/releases/download/v1.0.0/Salik-Android-1.0.0.apk) ← افتحه ← اسمح بالتثبيت من مصادر غير معروفة |
+| 📺 **أندرويد TV** | [حمّل Salik-AndroidTV.apk](https://github.com/techFek/salik/releases/download/v1.0.0/Salik-AndroidTV-1.0.0.apk) ← ثبّته عن طريق تطبيق *Downloader* (اكتب الرابط) أو فلاشة |
 ### بتشتغل إزاي؟
 
 كل فيلم أو مسلسل في المكتبة ليه جدول زمني للفلاتر. أول ما الفيديو يوصل لبداية أي فلتر، سالك بيطبّق واحد من 3 إجراءات لحد نهايته:
