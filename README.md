@@ -24,8 +24,8 @@ Salik does not host, download or modify any video content. It only controls play
 | Platform | How to install |
 |---|---|
 | 💻 **Chrome extension** | Install from the [Chrome Web Store](https://chromewebstore.google.com/detail/salik-%E2%80%A2-%D8%B3%D8%A7%D9%84%D9%83/ngehcikconlnhlhhfbgemloihlkmiibb) → **Add to Chrome** |
-| 📱 **Android** | Download the `.apk` from [Releases](../../releases) → open it → allow installing from unknown sources |
-| 📺 **Android TV** | Download the TV `.apk` from [Releases](../../releases) and install it with a sideloading app (e.g. *Downloader*) or a USB drive |
+| 📱 **Android** | [Download Salik-Android.apk](https://github.com/techFek/salik/releases/download/v1.0.0/Salik-Android-1.0.0.apk) → open it → allow installing from unknown sources |
+| 📺 **Android TV** | [Download Salik-AndroidTV.apk](https://github.com/techFek/salik/releases/download/v1.0.0/Salik-AndroidTV-1.0.0.apk) → install it with *Downloader* (type the link above) or a USB drive |
 
 ### How it works
 
