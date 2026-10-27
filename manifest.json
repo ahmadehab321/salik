@@ -1,10 +1,9 @@
 {
-"update_url": "https://clients2.google.com/service/update2/crx",
 
   "manifest_version": 3,
   "name": "__MSG_extName__",
   "default_locale": "ar",
-  "version": "1.0.23",
+  "version": "1.0.24",
   "description": "__MSG_extDescription__",
   "permissions": [
     "storage",
@@ -17,7 +16,6 @@
   "host_permissions": [
     "https://*.disneyplus.com/*",
     "https://disneyplus.com/*",
-    "https://*.firebaseio.com/",
     "https://*.netflix.com/*",
     "https://netflix.com/*",
     "https://*.yango.com/*",
@@ -52,10 +50,6 @@
     "*://*.shahid.mbc.net/*",
     "*://shahid.mbc.net/*",
     "https://tv.apple.com/*",
-    "https://firestore.googleapis.com/*",
-    "https://identitytoolkit.googleapis.com/*",
-    "https://securetoken.googleapis.com/*",
-    "https://us-central1-nazafa-app.cloudfunctions.net/*",
     "https://*.stremio.com/*",
     "https://stremio.com/*",
     "https://*.strem.fun/*",

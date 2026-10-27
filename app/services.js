@@ -140,7 +140,9 @@ export async function fetchLibrary() {
     }
     try {
         const result = await new Promise((resolve) => {
+            const timer = setTimeout(() => resolve({ success: false, error: "timeout" }), 15000);
             chrome.runtime.sendMessage({ type: "FETCH_LIBRARY_DATA" }, (res) => {
+                clearTimeout(timer);
                 resolve(chrome.runtime.lastError ? { success: false, error: chrome.runtime.lastError.message } : res);
             });
         });
@@ -517,20 +519,6 @@ export function compressImageToDataUrl(url, targetWidth, targetHeight) {
         img.src = url;
     });
 }
-
-export async function getSession() {
-    const sessionData = await new Promise(resolve => chrome.storage.local.get(['nazafaSession'], resolve));
-    return sessionData.nazafaSession || null;
-}
-
-export async function getSubscriptionStatus() {
-    return new Promise(resolve => {
-        chrome.runtime.sendMessage({ type: "GET_SUBSCRIPTION_STATUS" }, (res) => {
-            resolve(chrome.runtime.lastError ? { isPremium: false } : res);
-        });
-    });
-}
-
 
 export async function getActiveTabMeta() {
     try {

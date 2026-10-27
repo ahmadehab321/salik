@@ -445,6 +445,11 @@ function getActiveVideoElement() {
 
 function fetchFiltersFromBackground(movieId, episodeNumber) {
     chrome.runtime.sendMessage({ type: "FETCH_FILTERS_BACKGROUND", movieId: movieId, episode: episodeNumber }, (response) => {
+        if (chrome.runtime.lastError) {
+            // القناة اتقفلت (الـ service worker نام أو الصفحة اتغيرت): جرّب تاني بعد 3 ثواني
+            setTimeout(() => { if (currentMovieId === movieId) currentMovieId = null; }, 3000);
+            return;
+        }
         if (response && response.success) {
             window.activeFilters = response.data.filters || [];
             currentLibraryKey = response.data._libraryKey || movieId;

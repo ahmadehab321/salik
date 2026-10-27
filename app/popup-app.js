@@ -558,21 +558,16 @@ function AccountTab({ ratingTitle }) {
                     <p style=${{ fontSize: "0.82rem", fontWeight: 700, color: "var(--text-dark)", margin: "0 0 10px" }}>📱 حمّل سالك على أجهزتك الأخرى</p>
                 </div>
                 <div style=${{ padding: "0 12px 14px", display: "flex", flexDirection: "column", gap: "8px" }}>
-                    <div style=${{ display: "flex", alignItems: "center", gap: "10px", background: "#000", borderRadius: "8px", padding: "8px 14px", opacity: 0.55, cursor: "not-allowed", userSelect: "none" }}>
-                        <svg width="24" height="24" viewBox="0 0 512 512" style=${{ flexShrink: 0 }}>
-                            <path fill="#00d2ff" d="M99 8C88 14 80 25 80 40v432c0 15 8 26 19 32l232-232L99 8z"/>
-                            <path fill="#ffe000" d="M99 8l232 232 82-82L128 15c-9-5-20-7-29-7z"/>
-                            <path fill="#ff3a44" d="M331 240L99 472c9 4 19 3 29-3l295-166-92-63z"/>
-                            <path fill="#00f076" d="M413 217l-82 23 92 63 39-22c14-8 14-27 0-35l-49-29z"/>
-                        </svg>
+                    <div style=${{ display: "flex", alignItems: "center", gap: "10px", background: "#000", borderRadius: "8px", padding: "8px 14px", cursor: "pointer", userSelect: "none" }} onClick=${() => open(C.GITHUB_URL)}>
+                        <svg width="24" height="24" viewBox="0 0 16 16" style=${{ flexShrink: 0 }}><path fill="#fff" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
                         <span style=${{ color: "#fff", textAlign: "right", lineHeight: 1.25 }}>
-                            <span style=${{ display: "block", fontSize: "0.62rem", color: "#ccc" }}>قريباً</span>
-                            <span style=${{ display: "block", fontSize: "1rem", fontWeight: 600, fontFamily: "'Segoe UI',sans-serif" }}>Google Play</span>
+                            <span style=${{ display: "block", fontSize: "0.62rem", color: "#ccc" }}>حمّله من</span>
+                            <span style=${{ display: "block", fontSize: "1rem", fontWeight: 600, fontFamily: "'Segoe UI',sans-serif" }}>GitHub</span>
                         </span>
                     </div>
-                    <div style=${{ display: "flex", alignItems: "center", justifyContent: "center", gap: "8px", background: "var(--primary)", borderRadius: "8px", padding: "10px 14px", opacity: 0.55, cursor: "not-allowed", userSelect: "none" }}>
+                    <div style=${{ display: "flex", alignItems: "center", justifyContent: "center", gap: "8px", background: "var(--primary)", borderRadius: "8px", padding: "10px 14px", cursor: "pointer", userSelect: "none" }} onClick=${() => open(C.GITHUB_URL)}>
                         <span style=${{ fontSize: "1.1rem" }}>📺</span>
-                        <span style=${{ color: "#fff", fontWeight: 700, fontSize: "0.85rem" }}>قريباً على أندرويد تي في</span>
+                        <span style=${{ color: "#fff", fontWeight: 700, fontSize: "0.85rem" }}>حمّل نسخة أندرويد تي في من GitHub</span>
                     </div>
                 </div>
             </div>
@@ -618,37 +613,44 @@ function App() {
             setActivePlatformFilter(tabInfo.platform);
         }
 
-        const lib = localizeLibrary(await S.fetchLibrary());
-        setLibrary(lib);
+        try {
+            const lib = localizeLibrary(await S.fetchLibrary());
+            setLibrary(lib);
 
-        let hasActiveItem = false;
-        const storageData = await new Promise(resolve => chrome.storage.local.get(['currentMovieId'], resolve));
+            let hasActiveItem = false;
+            const storageData = await new Promise(resolve => chrome.storage.local.get(['currentMovieId'], resolve));
 
-        if (storageData.currentMovieId && lib[storageData.currentMovieId]) {
-            hasActiveItem = true;
-            const item = lib[storageData.currentMovieId];
-            setCurrentItem({ key: storageData.currentMovieId, item });
-            await loadCurrentItemFilters(storageData.currentMovieId, item);
-        } else if (tabInfo.movieId && tabInfo.platform !== "unknown") {
-            const found = lib[tabInfo.movieId] ? { key: tabInfo.movieId, item: lib[tabInfo.movieId] } : S.findMovieByPlatformId(lib, tabInfo.platform, tabInfo.movieId);
-            if (found) {
+            if (storageData.currentMovieId && lib[storageData.currentMovieId]) {
                 hasActiveItem = true;
-                setCurrentItem(found);
-                await loadCurrentItemFilters(found.key, found.item);
-                setConnectionStatus("");
-            } else if (tabInfo.platform !== "youtube" && tabInfo.platform !== "dailymotion") {
-                const meta = await S.getActiveTabMeta();
-                const already = await S.isWorkSuggested(tabInfo.platform, tabInfo.movieId);
-                setUnlistedWork({ platform: tabInfo.platform, movieId: tabInfo.movieId, title: S.cleanWorkTitle(meta.title), url: meta.url, already });
-                setConnectionStatus("");
+                const item = lib[storageData.currentMovieId];
+                setCurrentItem({ key: storageData.currentMovieId, item });
+                await loadCurrentItemFilters(storageData.currentMovieId, item);
+            } else if (tabInfo.movieId && tabInfo.platform !== "unknown") {
+                const found = lib[tabInfo.movieId] ? { key: tabInfo.movieId, item: lib[tabInfo.movieId] } : S.findMovieByPlatformId(lib, tabInfo.platform, tabInfo.movieId);
+                if (found) {
+                    hasActiveItem = true;
+                    setCurrentItem(found);
+                    await loadCurrentItemFilters(found.key, found.item);
+                    setConnectionStatus("");
+                } else if (tabInfo.platform !== "youtube" && tabInfo.platform !== "dailymotion") {
+                    const meta = await S.getActiveTabMeta();
+                    const already = await S.isWorkSuggested(tabInfo.platform, tabInfo.movieId);
+                    setUnlistedWork({ platform: tabInfo.platform, movieId: tabInfo.movieId, title: S.cleanWorkTitle(meta.title), url: meta.url, already });
+                    setConnectionStatus("");
+                } else {
+                    setConnectionStatus("لم يتم العثور على فلاتر لهذا العمل");
+                }
             } else {
-                setConnectionStatus("لم يتم العثور على فلاتر لهذا العمل");
+                setConnectionStatus("لا يوجد عمل نشط حالياً");
             }
-        } else {
-            setConnectionStatus("لا يوجد عمل نشط حالياً");
-        }
 
-        setActiveTab(hasActiveItem ? "control" : "platforms");
+            setActiveTab(hasActiveItem ? "control" : "platforms");
+
+        } catch (e) {
+            console.error("Salik bootstrap error:", e);
+            setConnectionStatus("تعذر تحميل البيانات، حاول مرة أخرى");
+            setActiveTab("platforms");
+        }
 
         const settings = await S.getFilterSettings();
         setFilterSettings(settings);
