@@ -1,0 +1,333 @@
+{
+  "addedAt": 1793101473417,
+  "category": "Hollywood",
+  "description": "يصل متحوّلان، \"روغ\" و \"وولفرين\"، إلى أكاديمية خاصة بالمتحوّلين من أمثالهما. وهناك يلتقيان بفريق إكس-مِن، الذي يجد نفسه مضطرًا لمواجهة منظمة متطرفة تمتلك قوى مشابهة وتهدد مستقبل البشر والمتحوّلين على حد سواء.",
+  "filters": [
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 201.65,
+      "id": 1,
+      "original_description": "ضرب رأس طفل بسلاح",
+      "start": 200.63
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 300.82,
+      "id": 2,
+      "original_description": "رجل يقبل امرأة",
+      "start": 275.9
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 279.82,
+      "id": 3,
+      "original_description": "stupid",
+      "start": 279.03
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 442.26,
+      "id": 4,
+      "original_description": "god",
+      "start": 441.2
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 662.569,
+      "id": 5,
+      "original_description": "ضرب شخص في الحلبة",
+      "start": 656.029
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 676.15,
+      "id": 6,
+      "original_description": "ضربة على الوجه",
+      "start": 672.976
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 696.905,
+      "id": 7,
+      "original_description": "شخص يشرب السجائر",
+      "start": 692.248
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 731.98,
+      "id": 8,
+      "original_description": "beer",
+      "start": 730.99
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 763.051,
+      "id": 9,
+      "original_description": "شخص يشرب السيغار",
+      "start": 738.94
+    },
+    {
+      "action_type": "partial_blur",
+      "category": "substance abuse",
+      "end": 774.393,
+      "id": 10,
+      "original_description": "شخص يشرب السيغار",
+      "start": 773.161,
+      "blur_region": {
+        "x": 0.384,
+        "y": 0.448,
+        "width": 0.205,
+        "height": 0.328
+      }
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 891.084,
+      "id": 11,
+      "original_description": "شخص يشرب السيغار",
+      "start": 886.914
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 923.41,
+      "id": 12,
+      "original_description": "hell",
+      "start": 922.39
+    },
+    {
+      "action_type": "skip",
+      "category": "substance abuse",
+      "end": 987.527,
+      "id": 13,
+      "original_description": "شخص يشرب السيغار",
+      "start": 983.976
+    },
+    {
+      "action_type": "partial_blur",
+      "category": "violence",
+      "end": 1147.834,
+      "id": 14,
+      "original_description": "جرح في رأس شخص",
+      "start": 1140.918,
+      "blur_region": {
+        "x": 0.251,
+        "y": 0.231,
+        "width": 0.183,
+        "height": 0.166
+      }
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 1362.829,
+      "id": 15,
+      "original_description": "حقن ذراع شخص",
+      "start": 1360.722
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1852.19,
+      "id": 16,
+      "original_description": "damn",
+      "start": 1851.31
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 1880.34,
+      "id": 17,
+      "original_description": "hell",
+      "start": 1879.1
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1888.647,
+      "id": 18,
+      "original_description": "فتاة فضائية جسمها عاري",
+      "start": 1885.96
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1909.156,
+      "id": 19,
+      "original_description": "فتاة فضائية جسمها عاري",
+      "start": 1892.152
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 1953.982,
+      "id": 20,
+      "original_description": "شخص يقول تعليق ايحائي",
+      "start": 1948.184
+    },
+    {
+      "action_type": "partial_blur",
+      "category": "nudity",
+      "end": 2019.993,
+      "id": 21,
+      "original_description": "فتاة فضائية جسمها عاري",
+      "start": 2017.093,
+      "blur_region": {
+        "x": 0.524,
+        "y": 0.475,
+        "width": 0.17,
+        "height": 0.395
+      }
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 2038.709,
+      "id": 22,
+      "original_description": "متحول يأكل عصفور",
+      "start": 2034.429
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2081.43,
+      "id": 23,
+      "original_description": "god",
+      "start": 2080.53
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 2544.25,
+      "id": 24,
+      "original_description": "hell",
+      "start": 2543.45
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3267.89,
+      "id": 25,
+      "original_description": "hell",
+      "start": 3266.76
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 3528.42,
+      "id": 26,
+      "original_description": "hell",
+      "start": 3527.39
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4032.476,
+      "id": 27,
+      "original_description": "امرأة جسمها عاري",
+      "start": 4026.568
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4337.26,
+      "id": 28,
+      "original_description": "شخص يقوم بعمل اشارة جنسية",
+      "start": 4334.341
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4363.68,
+      "id": 29,
+      "original_description": "damn",
+      "start": 4362.48
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4491.621,
+      "id": 30,
+      "original_description": "ركلة وجه",
+      "start": 4490.585
+    },
+    {
+      "action_type": "skip",
+      "category": "violence",
+      "end": 4518.272,
+      "id": 31,
+      "original_description": "شخص يتم ضربه في مكان حساس",
+      "start": 4503.807
+    },
+    {
+      "action_type": "skip",
+      "category": "nudity",
+      "end": 4665.85,
+      "id": 32,
+      "original_description": "امرأة جسمها عاري",
+      "start": 4659.314
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4675.21,
+      "id": 33,
+      "original_description": "dick",
+      "start": 4674.09
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 4842.75,
+      "id": 34,
+      "original_description": "shit",
+      "start": 4841.7
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5088.24,
+      "id": 35,
+      "original_description": "damn",
+      "start": 5087.35
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5500.32,
+      "id": 36,
+      "original_description": "bitch",
+      "start": 5499.25
+    },
+    {
+      "action_type": "mute",
+      "category": "language",
+      "end": 5609.04,
+      "id": 37,
+      "original_description": "foolish",
+      "start": 5607.82
+    }
+  ],
+  "genre": "مغامرة, حركة, خيال علمي",
+  "pg": "+13",
+  "platforms": {
+    "disney": {
+      "id": "e9f59c82-de76-4a18-a849-192532ff9b2d",
+      "url": "https://www.disneyplus.com/en-gb/browse/entity-e9f59c82-de76-4a18-a849-192532ff9b2d"
+    }
+  },
+  "poster_url": "https://image.tmdb.org/t/p/w342/yB6Tui7DU82jRwusjgG00kdV0pM.jpg",
+  "title": "X-Men",
+  "type": "movie",
+  "year": 2000
+}
