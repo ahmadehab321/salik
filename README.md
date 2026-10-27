@@ -3,7 +3,7 @@
 # Salik • سالك
 
 **Watch movies and series with your family, with peace of mind.**
-**اتفرج على الأفلام والمسلسلات مع عائلتك وانت مطمن.**
+**شاهد مع عائلتك وانت مطمئن.**
 
 Free & open-source · Chrome · Android · Android TV
 
