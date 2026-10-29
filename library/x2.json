@@ -1,15 +1,15 @@
 {
-  "addedAt": 1793215099705,
+  "addedAt": 1793292488304,
   "category": "Hollywood",
   "description": "تتسلل كائنات متحولة للبيت اﻷبيض ليلًا في محاولة لاغتيال الرئيس، فتبدأ الحكومة في إتخاذ تدابيرها في الدفاع ومكافحة الهجوم، بالتزامن مع تلك اﻷحداث تحاول (ميجان) اكتشاف ماضيه من خلال عالم يدعى (ويليام سترايكر)، الذي يكتشف سر (إكس) وغموضه.",
   "filters": [
     {
       "action_type": "skip",
       "category": "violence",
-      "end": 284.067,
+      "end": 284.07,
       "id": 1,
       "original_description": "ركلات على الوجه",
-      "start": 272.764
+      "start": 272.76
     },
     {
       "action_type": "mute",
@@ -38,10 +38,10 @@
     {
       "action_type": "skip",
       "category": "nudity",
-      "end": 589.072,
+      "end": 589.07,
       "id": 5,
       "original_description": "شخص يتحرش بامرأة",
-      "start": 584.069
+      "start": 584.07
     },
     {
       "action_type": "skip",
@@ -49,7 +49,7 @@
       "end": 596.26,
       "id": 6,
       "original_description": "شخص يشرب السجائر",
-      "start": 593.405
+      "start": 593.41
     },
     {
       "action_type": "skip",
@@ -57,7 +57,7 @@
       "end": 610.24,
       "id": 7,
       "original_description": "شخص يشرب السجائر",
-      "start": 602.157
+      "start": 602.16
     },
     {
       "action_type": "skip",
@@ -297,10 +297,10 @@
       "original_description": "امرأة جسمها عاري",
       "start": 4210.42,
       "blur_region": {
-        "x": 0.5,
-        "y": 0.5,
-        "width": 0.1,
-        "height": 0.1
+        "x": 0.133,
+        "y": 0.126,
+        "width": 0.336,
+        "height": 0.749
       }
     },
     {
@@ -309,12 +309,12 @@
       "end": 4262.66,
       "id": 37,
       "original_description": "امرأة جسمها عاري",
-      "start": 4258.32,
+      "start": 425732,
       "blur_region": {
-        "x": 0.211,
-        "y": 0.21,
-        "width": 0.289,
-        "height": 0.67
+        "x": 0.152,
+        "y": 0.132,
+        "width": 0.318,
+        "height": 0.744
       }
     },
     {
